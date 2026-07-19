@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# tech-library.686f6c61.dev
