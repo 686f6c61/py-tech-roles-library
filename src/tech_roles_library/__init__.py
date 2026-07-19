@@ -40,7 +40,7 @@ from .models import (
 if TYPE_CHECKING:
     from collections.abc import Iterator
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 __all__ = [
     "SUPPORTED_LANGUAGES",

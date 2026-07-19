@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [1.0.1] - 2026-07-19
+
+### Changed
+
+- License changed from MIT to PolyForm Noncommercial 1.0.0: free for personal, educational, research and nonprofit use; commercial use requires a separate license. Version 1.0.0 (published under MIT) has been yanked on PyPI.
+- Added the demo site (https://tech-library.686f6c61.dev) and a Google Colab usage notebook.
+
 ## [1.0.0] - 2026-07-19
 
 ### Added

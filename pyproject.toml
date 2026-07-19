@@ -1,12 +1,12 @@
 [project]
 name = "tech-roles-library"
-version = "1.0.0"
-description = "Tech roles and competencies library: 89 technical roles with 9 career levels each, detailed competencies and career progression paths, with complete bilingual support (EN/ES)."
+version = "1.0.1"
+description = "Tech roles and competencies library: 99 technical roles with 9 career levels each, detailed competencies and career progression paths, with complete bilingual support (EN/ES)."
 readme = "README.md"
 authors = [
     { name = "686f6c61", email = "github@00b.tech" }
 ]
-license = "MIT"
+license = "PolyForm-Noncommercial-1.0.0"
 license-files = ["LICENSE"]
 requires-python = ">=3.11"
 dependencies = []
@@ -58,6 +58,7 @@ test = ["pytest", "pytest-cov"]
 [tool.ruff]
 line-length = 100
 target-version = "py311"
+extend-exclude = ["notebooks"]
 
 [tool.ruff.lint]
 select = ["ALL"]

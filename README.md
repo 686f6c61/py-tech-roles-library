@@ -2,8 +2,11 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/tech-roles-library.svg)](https://pypi.org/project/tech-roles-library/)
 [![CI](https://github.com/686f6c61/py-tech-roles-library/actions/workflows/ci.yml/badge.svg)](https://github.com/686f6c61/py-tech-roles-library/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![Python](https://img.shields.io/pypi/pyversions/tech-roles-library.svg)](https://pypi.org/project/tech-roles-library/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/686f6c61/py-tech-roles-library/blob/main/notebooks/tech_roles_library_demo.ipynb)
+
+**Demo and usage guide**: [tech-library.686f6c61.dev](https://tech-library.686f6c61.dev/)
 
 A comprehensive library of **99 technical roles** with **9 career levels** each (891 role-level definitions), including detailed competencies, career progression paths and role comparisons, with full bilingual support (English/Spanish).
 
@@ -305,4 +308,6 @@ make build   # uv build
 
 ## License
 
-MIT — [686f6c61](https://github.com/686f6c61)
+[PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/) — free for personal, educational, research and nonprofit use. Commercial use requires a separate license: contact [686f6c61](https://github.com/686f6c61).
+
+Note: version 1.0.0 was briefly published under MIT and has been yanked; from 1.0.1 onwards the package is PolyForm Noncommercial.
