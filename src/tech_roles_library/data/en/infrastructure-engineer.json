@@ -1,0 +1,259 @@
+{
+  "role": "Infrastructure Engineer",
+  "category": "Infrastructure",
+  "levels": {
+    "IE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of operating systems and networks",
+        "Elementary knowledge of servers and hardware",
+        "Ability for basic troubleshooting",
+        "Basic understanding of network protocols",
+        "Ability to document infrastructure",
+        "Elementary knowledge of virtualization",
+        "Basic understanding of backup and recovery",
+        "Ability to use basic monitoring tools"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of cloud computing",
+        "Familiarity with scripting",
+        "Elementary understanding of security"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can execute basic maintenance tasks",
+        "Needs 6-12 months of mentoring"
+      ]
+    },
+    "IE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to manage servers and storage",
+        "Ability to configure networks and VLANs",
+        "Practical knowledge of virtualization",
+        "Understanding of basic high availability",
+        "Ability to implement monitoring",
+        "Ability for basic capacity planning",
+        "Knowledge of disaster recovery",
+        "Understanding of security hardening"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of containerization",
+        "Ability for basic automation",
+        "Understanding of ITIL"
+      ],
+      "indicators": [
+        "Manages infrastructure with moderate supervision",
+        "Resolves level 1-2 incidents",
+        "Maintains basic SLAs"
+      ]
+    },
+    "IE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of datacenter architectures",
+        "Ability to design enterprise networks",
+        "Ability to implement clustering and HA",
+        "Deep knowledge of storage systems",
+        "Automation capability with IaC",
+        "Solid understanding of performance tuning",
+        "Ability for vendor management",
+        "Knowledge of compliance and auditing"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of hybrid cloud",
+        "Ability for SDN",
+        "Understanding of DevOps"
+      ],
+      "indicators": [
+        "Designs infrastructure solutions",
+        "Leads migration projects",
+        "Optimizes infrastructure costs"
+      ]
+    },
+    "IE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise infrastructure",
+        "Mastery of cloud and on-premise integration",
+        "Ability to design DR strategies",
+        "Deep knowledge of advanced networking",
+        "Ability to lead transformations",
+        "Mastery of automation and orchestration",
+        "Ability for capacity forecasting",
+        "Knowledge of green IT"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of edge computing",
+        "Ability for ML infrastructure",
+        "Understanding of IoT infrastructure"
+      ],
+      "indicators": [
+        "Defines infrastructure strategy",
+        "Leads infrastructure teams",
+        "Mentors junior engineers"
+      ]
+    },
+    "IE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in global distributed architectures",
+        "Ability to design datacenters",
+        "Mastery of multi-cloud strategies",
+        "Ability for digital transformation",
+        "Deep knowledge of TCO optimization",
+        "Ability to manage large budgets",
+        "Expertise in vendor negotiations",
+        "Mastery of infrastructure innovation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of quantum readiness",
+        "Ability for sustainability",
+        "Understanding of 5G infrastructure"
+      ],
+      "indicators": [
+        "Architects corporate infrastructure",
+        "Leads strategic initiatives",
+        "Defines infrastructure roadmap"
+      ]
+    },
+    "IE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define enterprise infrastructure strategy",
+        "Expertise in mega-scale infrastructure",
+        "Mastery of global infrastructure",
+        "Ability for M&A infrastructure",
+        "Deep knowledge of emerging tech",
+        "Ability to lead centers of excellence",
+        "Expertise in strategic partnerships",
+        "Mastery of infrastructure economics"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of space infrastructure",
+        "Ability for infrastructure R&D",
+        "Understanding of infrastructure ventures"
+      ],
+      "indicators": [
+        "Defines infrastructure vision",
+        "Leads infrastructure organizations",
+        "Influences industry"
+      ]
+    },
+    "IE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in infrastructure transformation",
+        "Ability to manage global infrastructure",
+        "Expertise in infrastructure innovation",
+        "Mastery of strategic partnerships",
+        "Ability to define infrastructure governance",
+        "Deep knowledge of risk management",
+        "Expertise in global cost optimization",
+        "Ability to lead digital transformation"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence standards",
+        "Ability to create infrastructure startups",
+        "Knowledge of infrastructure investments"
+      ],
+      "indicators": [
+        "Defines corporate infrastructure strategy",
+        "Represents company in industry",
+        "Thought leader in infrastructure"
+      ]
+    },
+    "IE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of future infrastructure",
+        "Ability to transform companies",
+        "Expertise in infrastructure as competitive advantage",
+        "Mastery of massive budgets",
+        "Ability to build organizations",
+        "Deep knowledge of board reporting",
+        "Expertise in ecosystem building",
+        "Ability to define infrastructure culture"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence policies",
+        "Ability for infrastructure M&A",
+        "Knowledge of IPO readiness"
+      ],
+      "indicators": [
+        "Defines executive infrastructure strategy",
+        "Responsible for all infrastructure",
+        "Recognized industry leader"
+      ]
+    },
+    "IE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in infrastructure",
+        "Ability to align infrastructure with business",
+        "Expertise in enterprise transformation",
+        "Mastery of executive governance",
+        "Ability to build advantages through infrastructure",
+        "Deep knowledge of shareholder value",
+        "Expertise in investor relations",
+        "Ability to define technological future",
+        "Mastery of infrastructure technology modernization"
+      ],
+      "complementaryCompetencies": [
+        "Ability to create ecosystems",
+        "Ability to influence industry",
+        "Knowledge of strategic exits"
+      ],
+      "indicators": [
+        "Maximum responsible for infrastructure",
+        "Defines corporate technological future",
+        "Global leader in infrastructure"
+      ]
+    }
+  }
+}

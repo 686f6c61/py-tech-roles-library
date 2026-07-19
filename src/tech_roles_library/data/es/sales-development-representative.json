@@ -1,0 +1,258 @@
+{
+  "role": "Representante de Desarrollo de Ventas",
+  "category": "Ventas",
+  "levels": {
+    "SDR-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de prospección empresarial tecnológica",
+        "Comprensión elemental de cualificación de prospectos",
+        "Habilidad para llamadas en frío básicas",
+        "Conocimiento básico de contacto por correo electrónico",
+        "Capacidad de usar CRM simple",
+        "Comprensión de perfiles de compradores tecnológicos",
+        "Documentación de interacciones básicas",
+        "Conocimiento elemental de productos de SaaS"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de prospección",
+        "Conocimiento básico de ventas profesionales en redes",
+        "Comprensión de métricas de desarrollo de ventas"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Realiza contacto con guiones",
+        "Está aprendiendo ventas empresariales tecnológicas"
+      ]
+    },
+    "SDR-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de cualificación mediante metodologías de ventas",
+        "Implementación de secuencias de contacto",
+        "Conocimiento práctico de personalización a escala",
+        "Habilidad para llamadas de descubrimiento",
+        "Comprensión de puntos críticos técnicos",
+        "Capacidad de agendar reuniones cualificadas",
+        "Conocimiento de gestión de objeciones",
+        "Habilidad para generación de cartera de ventas"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de territorio asignado",
+        "Conocimiento de investigación de cuentas",
+        "Comprensión del ciclo de compra tecnológico"
+      ],
+      "indicators": [
+        "Genera cartera con supervisión",
+        "Cualifica prospectos independientemente",
+        "Colabora con ejecutivos de cuentas"
+      ]
+    },
+    "SDR-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de estrategias de prospección saliente",
+        "Implementación de prospección basada en cuentas",
+        "Dominio de venta social",
+        "Capacidad de cualificación técnica",
+        "Habilidad para prospección empresarial",
+        "Conocimiento profundo de posicionamiento competitivo",
+        "Implementación de contacto multicanal",
+        "Gestión de cuentas nominales"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de datos de intención de compra",
+        "Habilidad para prospección en eventos",
+        "Comprensión de canal de socios"
+      ],
+      "indicators": [
+        "Lidera generación de cartera",
+        "Define estrategias de prospección",
+        "Mentoriza representantes junior"
+      ]
+    },
+    "SDR-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de procesos de desarrollo de ventas",
+        "Diseño de manuales de prospección",
+        "Implementación de puntuación predictiva de prospectos",
+        "Dominio de penetración de cuentas empresariales",
+        "Capacidad de prospección estratégica",
+        "Conocimiento profundo de psicología del comprador",
+        "Habilidad para contacto con ejecutivos",
+        "Liderazgo en capacitación de desarrollo de ventas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en especialización vertical",
+        "Conocimiento de datos tecnográficos",
+        "Gestión de pila tecnológica de desarrollo de ventas"
+      ],
+      "indicators": [
+        "Define estrategia de equipo de desarrollo de ventas",
+        "Lidera iniciativas de cartera",
+        "Es alto rendimiento consistente"
+      ]
+    },
+    "SDR-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de equipos de desarrollo de ventas",
+        "Diseño de organizaciones de prospección",
+        "Gestión de generación de cartera a escala",
+        "Definición de métricas y compensación de desarrollo de ventas",
+        "Capacidad de planificación de territorios",
+        "Implementación de operaciones de desarrollo de ventas",
+        "Dominio de alineación entre desarrollo y ejecución de ventas",
+        "Impulso de la excelencia en prospección saliente"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en equipos globales de desarrollo de ventas",
+        "Conocimiento de gestión de desarrollo de ventas subcontratado",
+        "Gestión de capacitación de desarrollo de ventas"
+      ],
+      "indicators": [
+        "Gestiona múltiples equipos de desarrollo de ventas",
+        "Define visión de generación de cartera",
+        "Representa desarrollo de ventas ante ventas"
+      ]
+    },
+    "SDR-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de desarrollo de ventas organizacional",
+        "Estrategia de generación de cartera empresarial",
+        "Gestión de presupuestos de prospección grandes",
+        "Definición de estrategia de mercado saliente",
+        "Liderazgo en transformación de desarrollo de ventas",
+        "Implementación de prospección potenciada por inteligencia artificial",
+        "Innovación en métodos de contacto",
+        "Gestión de operaciones globales de desarrollo de ventas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en desarrollo de ventas para cuentas empresariales",
+        "Conocimiento de desarrollo de canales",
+        "Liderazgo en comunidades de desarrollo de ventas"
+      ],
+      "indicators": [
+        "Dirige departamento de desarrollo de ventas (20+ personas)",
+        "Participa en estrategia de ventas",
+        "Define inversiones en prospección"
+      ]
+    },
+    "SDR-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en generación de cartera",
+        "Diseño de estrategias globales de desarrollo de ventas",
+        "Transformación del inicio del embudo de ventas",
+        "Gestión de desarrollo de ventas a escala de alto crecimiento",
+        "Creación de ventajas mediante prospección",
+        "Definición de futuro de desarrollo de ventas",
+        "Comunicación de la estrategia de cartera a la dirección ejecutiva",
+        "Influencia en industria de ventas"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de desarrollo de ventas en hipercrecimiento",
+        "Experiencia en desarrollo de ventas para grandes empresas",
+        "Liderazgo en consejos de desarrollo de ventas"
+      ],
+      "indicators": [
+        "Depende de director de ingresos o vicepresidente de ventas",
+        "Gestiona organización de desarrollo de ventas (50+ personas)",
+        "Define estrategia de cartera corporativa"
+      ]
+    },
+    "SDR-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de generación de demanda",
+        "Liderazgo en revolución de prospección",
+        "Definición del modelo de prospección saliente de la organización",
+        "Gestión de generación de cartera a gran escala",
+        "Innovación en métodos de contacto y prospección",
+        "Definición de prospección autónoma",
+        "Adopción de prospección basada en datos",
+        "Influencia en economía de ventas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como vicepresidente de desarrollo de ventas en empresas emergentes",
+        "Asesoría en empresas emergentes de tecnología de ventas",
+        "Liderazgo de pensamiento en prospección"
+      ],
+      "indicators": [
+        "Es parte del liderazgo de ventas",
+        "Define futuro de generación de cartera",
+        "Es líder reconocido en desarrollo de ventas"
+      ]
+    },
+    "SDR-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de prospección",
+        "Transformación de ventas mediante innovación en desarrollo de ventas",
+        "Definición de la estrategia de prospección de la organización",
+        "Definición de prospección basada en intención de compra",
+        "Innovación en venta humano-inteligencia artificial",
+        "Impulso de la venta basada en valor",
+        "Arquitectura de generación de cartera escalable",
+        "Influencia en evolución de ventas"
+      ],
+      "complementaryCompetencies": [
+        "Trayectoria en la creación de metodologías de prospección",
+        "Reconocimiento como referente en desarrollo de ventas",
+        "Influencia en educación de ventas global"
+      ],
+      "indicators": [
+        "Lidera la función de generación de cartera de la empresa",
+        "Define futuro de prospección empresarial",
+        "Es autoridad mundial en desarrollo de ventas"
+      ]
+    }
+  }
+}

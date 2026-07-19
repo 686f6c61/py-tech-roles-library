@@ -1,0 +1,259 @@
+{
+  "role": "Arquitecto de Software",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "SA-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de patrones arquitecturales comunes (MVC, layered, client-server)",
+        "Conocimiento elemental de diagramas UML y documentación técnica",
+        "Habilidad para identificar componentes y sus relaciones básicas",
+        "Comprensión básica de requisitos no funcionales",
+        "Capacidad de participar en sesiones de diseño con supervisión",
+        "Conocimiento elemental de trade-offs arquitecturales",
+        "Comprensión básica de principios de diseño (SOLID, DRY, KISS)",
+        "Habilidad para documentar decisiones simples de diseño"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de computación en la nube",
+        "Familiaridad con herramientas de modelado",
+        "Comprensión elemental de patrones de integración"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en decisiones arquitecturales",
+        "Puede documentar arquitecturas existentes",
+        "Necesita 1-2 años de experiencia previa en desarrollo"
+      ]
+    },
+    "SA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas para aplicaciones medianas",
+        "Habilidad para evaluar y seleccionar tecnologías apropiadas",
+        "Conocimiento práctico de patrones de diseño empresariales",
+        "Comprensión de arquitecturas de microservicios y monolíticas",
+        "Capacidad de definir interfaces y contratos entre sistemas",
+        "Habilidad para realizar pruebas de concepto arquitecturales",
+        "Conocimiento de principios de escalabilidad y rendimiento",
+        "Comprensión de seguridad arquitectural básica"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas dirigidas por eventos",
+        "Habilidad para estimación de costes técnicos",
+        "Comprensión de desarrollo y operaciones e integración continua"
+      ],
+      "indicators": [
+        "Diseña arquitecturas con supervisión moderada",
+        "Participa activamente en decisiones técnicas",
+        "Puede liderar diseño de componentes específicos"
+      ]
+    },
+    "SA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de múltiples estilos arquitecturales y su aplicación",
+        "Capacidad de diseñar sistemas distribuidos resilientes",
+        "Habilidad para definir estrategias de migración y modernización",
+        "Conocimiento profundo de patrones de integración empresarial",
+        "Capacidad de realizar revisiones y evaluaciones de arquitectura",
+        "Comprensión sólida de diseño dirigido por dominio",
+        "Habilidad para equilibrar requisitos técnicos y de negocio",
+        "Conocimiento de arquitecturas multiinquilino y SaaS"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas sin servidor",
+        "Habilidad para diseñar conductos de datos",
+        "Comprensión de arquitecturas de internet de las cosas"
+      ],
+      "indicators": [
+        "Diseña arquitecturas de extremo a extremo independientemente",
+        "Lidera decisiones arquitecturales del equipo",
+        "Mentoriza a desarrolladores en aspectos arquitecturales"
+      ]
+    },
+    "SA-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de definir arquitecturas empresariales complejas",
+        "Dominio de arquitecturas nativas de la nube e híbridas",
+        "Habilidad para diseñar sistemas críticos para la misión",
+        "Conocimiento profundo de patrones de integración empresarial",
+        "Capacidad de definir gobernanza arquitectural",
+        "Experiencia en arquitecturas de alta disponibilidad y recuperación ante desastres",
+        "Dominio de estrategias de descomposición de monolitos",
+        "Capacidad de liderar comités de revisión de arquitectura"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas para aprendizaje automático e inteligencia artificial",
+        "Habilidad para diseñar soluciones de cadena de bloques",
+        "Comprensión de preparación para computación cuántica"
+      ],
+      "indicators": [
+        "Define arquitectura para líneas de producto completas",
+        "Lidera transformaciones arquitecturales",
+        "Influencia estándares arquitecturales organizacionales"
+      ]
+    },
+    "SA-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en arquitecturas para ecosistemas digitales",
+        "Capacidad de diseñar plataformas tecnológicas empresariales",
+        "Dominio de arquitecturas federadas y de malla",
+        "Habilidad para definir arquitecturas de referencia corporativas",
+        "Conocimiento profundo de arquitecturas de confianza cero",
+        "Capacidad de liderar centros de excelencia arquitectural",
+        "Experiencia en arquitecturas para transformación digital",
+        "Dominio de radar tecnológico y evaluación de tendencias"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas para metaverso",
+        "Habilidad para diseñar arquitecturas en el borde",
+        "Comprensión de arquitectura informática ecológica"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones multi-producto y multi-región",
+        "Define principios arquitecturales corporativos",
+        "Reconocido como líder de pensamiento en arquitectura"
+      ]
+    },
+    "SA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir estrategia arquitectural empresarial",
+        "Experiencia en arquitecturas para fusiones y adquisiciones",
+        "Dominio de arquitecturas para industrias reguladas",
+        "Habilidad para diseñar arquitecturas críticas para el negocio",
+        "Conocimiento profundo de economía arquitectural y coste total de propiedad",
+        "Capacidad de influenciar hojas de ruta tecnológicas corporativas",
+        "Experiencia en arquitecturas para escala global",
+        "Dominio de laboratorios de innovación e investigación y desarrollo arquitectural"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar arquitecturas innovadoras",
+        "Habilidad para consejos asesores técnicos",
+        "Conocimiento de arquitecturas disruptivas"
+      ],
+      "indicators": [
+        "Define visión arquitectural multianual",
+        "Representa la empresa en foros de arquitectura",
+        "Mentor de arquitectos senior"
+      ]
+    },
+    "SA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en definición de arquitecturas líderes de la industria",
+        "Capacidad de diseñar arquitecturas para empresas unicornio",
+        "Experiencia en arquitecturas para transformación de industrias",
+        "Dominio de arquitecturas adaptativas y evolutivas",
+        "Capacidad de definir metodologías arquitecturales",
+        "Conocimiento profundo de impacto arquitectural en pérdidas y ganancias",
+        "Experiencia en arquitecturas para sostenibilidad",
+        "Capacidad de liderar comunidades arquitecturales globales"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar estándares internacionales",
+        "Habilidad para crear marcos de trabajo arquitecturales",
+        "Conocimiento de arquitecturas futuristas"
+      ],
+      "indicators": [
+        "Define arquitecturas que impactan la industria",
+        "Ponente principal en conferencias globales",
+        "Autor de libros y artículos sobre arquitectura"
+      ]
+    },
+    "SA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de arquitectura empresarial global",
+        "Capacidad de alinear arquitectura con estrategia corporativa",
+        "Experiencia en gobernanza arquitectural ejecutiva",
+        "Dominio de portfolios arquitecturales complejos",
+        "Capacidad de construir organizaciones de arquitectura",
+        "Conocimiento profundo de riesgo arquitectural empresarial",
+        "Experiencia en ecosistemas y alianzas arquitecturales",
+        "Capacidad de definir cultura arquitectural organizacional"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar regulaciones técnicas",
+        "Habilidad para fusiones y adquisiciones arquitecturales",
+        "Conocimiento de arquitecturas geopolíticas"
+      ],
+      "indicators": [
+        "Responsable de toda la arquitectura corporativa",
+        "Depende directamente de alta dirección",
+        "Influye en arquitecturas de industria"
+      ]
+    },
+    "SA-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en arquitectura y tecnología",
+        "Capacidad de transformar empresas mediante arquitectura",
+        "Experiencia en arquitectura como ventaja competitiva",
+        "Dominio de presupuestos arquitecturales estratégicos",
+        "Capacidad de definir visión tecnológica disruptiva",
+        "Conocimiento profundo de arquitectura y valor de mercado",
+        "Experiencia en arquitecturas para salida a bolsa y ventas",
+        "Capacidad de liderar transformación arquitectural global",
+        "Dominio de arquitectura y estrategia de negocio"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de crear empresas basadas en arquitectura",
+        "Habilidad para inversión en arquitectura tecnológica",
+        "Conocimiento de arquitecturas para nuevos mercados"
+      ],
+      "indicators": [
+        "Define y ejecuta visión arquitectural empresarial",
+        "Responsable del valor arquitectural corporativo",
+        "Líder reconocido en arquitectura empresarial global"
+      ]
+    }
+  }
+}

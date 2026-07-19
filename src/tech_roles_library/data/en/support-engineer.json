@@ -1,0 +1,258 @@
+{
+  "role": "Support Engineer",
+  "category": "Support",
+  "levels": {
+    "SUP-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Ability to record a ticket with clear reproduction steps and environment details",
+        "Basic reading of application logs to locate an error message",
+        "Understanding of ticket priority and severity classification",
+        "Familiarity with searching a knowledge base for known solutions",
+        "Ability to ask the customer the questions needed to narrow a problem",
+        "Basic knowledge of how an HTTP request and response work",
+        "Understanding of when a ticket must be escalated rather than resolved",
+        "Documentation of the steps taken to resolve a ticket"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with a ticketing tool such as Zendesk or Jira Service Management",
+        "Basic notions of SQL to run a supplied read query",
+        "Understanding of the product's main features from a user's point of view"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Resolves routine tickets from the knowledge base",
+        "Is learning the product and the support process"
+      ]
+    },
+    "SUP-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Reproduction of a reported issue in a test environment from customer input",
+        "Reading of logs and stack traces to identify the failing component",
+        "Resolution of common API and integration errors such as auth and rate limits",
+        "Management of a ticket queue against response and resolution SLAs",
+        "Escalation to engineering with a clear, reproducible problem report",
+        "Writing of knowledge base articles for issues seen more than once",
+        "Use of the product's admin tools to inspect a customer's configuration",
+        "Correlation of a customer report with recent releases or incidents"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of reading API responses and status codes for diagnosis",
+        "Understanding of basic network troubleshooting such as DNS and TLS errors",
+        "Familiarity with querying a database to verify customer data"
+      ],
+      "indicators": [
+        "Reproduces and resolves common issues independently",
+        "Meets SLA targets on an assigned queue",
+        "Escalates with reproducible reports"
+      ]
+    },
+    "SUP-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diagnosis of intermittent issues by correlating logs, traces and metrics",
+        "Resolution of complex API and integration problems across multiple systems",
+        "Isolation of a root cause to a specific service, config or data condition",
+        "Ownership of high-severity tickets under tight SLA pressure",
+        "Handling of escalations as the bridge between customer and engineering",
+        "Maintenance of the knowledge base so repeat issues resolve faster",
+        "Reproduction of edge cases that only appear with specific customer data",
+        "Guidance of junior engineers on diagnostic technique"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of reading distributed traces across services",
+        "Understanding of webhook and event-driven integration failures",
+        "Familiarity with scripting to automate a repetitive diagnostic step"
+      ],
+      "indicators": [
+        "Owns complex and high-severity tickets",
+        "Diagnoses root cause across systems",
+        "Mentors junior support engineers"
+      ]
+    },
+    "SUP-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Leadership of the technical resolution of major customer-facing incidents",
+        "Root-cause analysis that identifies recurring failure patterns across tickets",
+        "Automation of a repetitive diagnostic or remediation task to save queue time",
+        "Design of escalation paths and on-call handoffs with engineering teams",
+        "Building of self-service tooling that lets customers resolve common issues",
+        "Ownership of the knowledge base structure and its coverage of top issues",
+        "Diagnosis of performance and integration problems in customer environments",
+        "Feedback of systemic problems into product and engineering backlogs"
+      ],
+      "complementaryCompetencies": [
+        "Experience building internal diagnostic tools for the support team",
+        "Knowledge of observability tooling for tracing customer requests",
+        "Understanding of SLA and SLO design for a support function"
+      ],
+      "indicators": [
+        "Leads resolution of major incidents",
+        "Automates repetitive diagnostic work",
+        "Feeds systemic issues back to product"
+      ]
+    },
+    "SUP-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leadership of a support engineering team across a product area",
+        "Definition of the escalation and incident process between support and engineering",
+        "Design of self-service and deflection strategy to reduce ticket volume",
+        "Analysis of ticket data to find the systemic causes behind support load",
+        "Ownership of SLA and SLO targets and the staffing to meet them",
+        "Building of the tooling that gives the team visibility into customer state",
+        "Direction of root-cause reviews that turn incidents into product fixes",
+        "Development of support engineers through diagnostic and product training"
+      ],
+      "complementaryCompetencies": [
+        "Experience defining support metrics beyond ticket count and CSAT",
+        "Knowledge of building a diagnostic platform for the support organization",
+        "Understanding of how release quality drives support volume"
+      ],
+      "indicators": [
+        "Leads a support engineering team",
+        "Owns SLA and SLO targets for an area",
+        "Drives incidents into product fixes"
+      ]
+    },
+    "SUP-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of the support engineering function across a business area",
+        "Definition of the self-service and automation strategy that bends the cost curve",
+        "Ownership of the systemic root-cause program that reduces recurring tickets",
+        "Design of the tooling and data platform that powers support at scale",
+        "Definition of the SLA and SLO framework and how it maps to customer tiers",
+        "Alignment of support priorities with product and engineering roadmaps",
+        "Establishment of the escalation model across support and engineering on-call",
+        "Development of support engineering leaders and diagnostic specialists"
+      ],
+      "complementaryCompetencies": [
+        "Experience shaping the support tooling and automation investment",
+        "Knowledge of support economics and cost-to-serve analysis",
+        "Understanding of how support insight informs product reliability work"
+      ],
+      "indicators": [
+        "Directs support engineering for an area",
+        "Owns the automation and self-service strategy",
+        "Aligns support with product roadmaps"
+      ]
+    },
+    "SUP-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership of support engineering across the organization",
+        "Definition of the strategy that shifts resolution from tickets to self-service",
+        "Ownership of the systemic reliability program driven by support insight",
+        "Design of the support data and tooling architecture at company scale",
+        "Definition of the SLA and SLO commitments the company makes to customers",
+        "Alignment of the support function with product, engineering and reliability",
+        "Communication of support-driven reliability priorities to executive leadership",
+        "Development of the leadership bench for the support engineering discipline"
+      ],
+      "complementaryCompetencies": [
+        "Experience representing the voice of the customer to executive leadership",
+        "Knowledge of cost-to-serve modeling at organizational scale",
+        "Understanding of how support scales without linear headcount growth"
+      ],
+      "indicators": [
+        "Reports to CEO or CTO on support",
+        "Owns support strategy across the company",
+        "Drives reliability from support insight"
+      ]
+    },
+    "SUP-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definition of the company thesis on how support scales through engineering",
+        "Architecture of the self-service and automation strategy as a structural cost lever",
+        "Ownership of the systemic root-cause discipline that shapes product reliability",
+        "Design of the support data platform as the company's early-warning system",
+        "Definition of the SLA and SLO doctrine that governs customer commitments",
+        "Alignment of support-driven insight with product and reliability strategy",
+        "Establishment of support engineering as a recognized engineering discipline",
+        "Direction of how the function turns customer pain into systemic improvement"
+      ],
+      "complementaryCompetencies": [
+        "Advisory on support engineering strategy across the industry",
+        "Influence on how the company measures and funds customer reliability",
+        "Track record of scaling support through automation, not headcount"
+      ],
+      "indicators": [
+        "Shapes the enterprise support engineering thesis",
+        "Owns the support-to-reliability strategy",
+        "Is a recognized authority in support engineering"
+      ]
+    },
+    "SUP-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Ownership of the enterprise strategy for support engineering and its evolution",
+        "Definition of self-service and automation as the basis of a scalable support model",
+        "Direction of the systemic reliability program that support insight feeds",
+        "Stewardship of the support data platform as a company-level reliability signal",
+        "Setting of the SLA and SLO commitments that define the customer relationship",
+        "Alignment of support strategy with product, engineering and business goals",
+        "Establishment of support engineering as a durable competitive capability",
+        "Definition of how the organization turns customer experience into product quality"
+      ],
+      "complementaryCompetencies": [
+        "Recognition as a leader in support engineering across the industry",
+        "Influence on support and reliability practices beyond the company",
+        "Track record of building support organizations that scale sublinearly"
+      ],
+      "indicators": [
+        "Leads support engineering for the whole enterprise",
+        "Defines the company's support and reliability strategy",
+        "Is a reference authority in support engineering"
+      ]
+    }
+  }
+}

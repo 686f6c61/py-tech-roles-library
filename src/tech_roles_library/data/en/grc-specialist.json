@@ -1,0 +1,258 @@
+{
+  "role": "GRC Specialist",
+  "category": "Security",
+  "levels": {
+    "GRC-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of governance, risk and compliance concepts",
+        "Familiarity with ISO 27001 structure and Annex A controls",
+        "Ability to gather evidence for audits under supervision",
+        "Elementary knowledge of the GDPR and personal data principles",
+        "Support in maintaining the risk register",
+        "Ability to document policies and procedures from templates",
+        "Understanding of the difference between policy, standard and control",
+        "Awareness of security awareness training programmes"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with SOC 2 trust service criteria",
+        "Basic knowledge of spreadsheet-based control tracking",
+        "Understanding of the confidentiality, integrity and availability triad"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Assists in collecting audit evidence",
+        "Is learning GRC fundamentals"
+      ]
+    },
+    "GRC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to perform qualitative risk assessments with guidance",
+        "Mapping of controls to ISO 27001 Annex A and SOC 2 criteria",
+        "Collection and validation of evidence for internal audits",
+        "Drafting of security policies aligned with a control framework",
+        "Support in GDPR records of processing activities",
+        "Maintenance of the risk register and treatment plans",
+        "Coordination of security awareness campaigns",
+        "Tracking of remediation actions to closure"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with the ENS (Esquema Nacional de Seguridad) control set",
+        "Knowledge of GRC tooling such as Vanta or Drata",
+        "Understanding of third-party questionnaires"
+      ],
+      "indicators": [
+        "Works with regular supervision",
+        "Owns evidence collection for a control area",
+        "Contributes to risk assessments"
+      ]
+    },
+    "GRC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Execution of risk assessments using a defined methodology",
+        "Ownership of a control domain within ISO 27001 or SOC 2",
+        "Preparation and coordination of internal audits",
+        "Definition of risk treatment plans with control owners",
+        "Support in GDPR data protection impact assessments",
+        "Management of the vendor risk assessment process",
+        "Design and delivery of role-based awareness training",
+        "Reporting of control status and open findings to managers"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of NIS2 obligations for essential entities",
+        "Familiarity with control automation and continuous monitoring",
+        "Understanding of business continuity and disaster recovery plans"
+      ],
+      "indicators": [
+        "Works with occasional supervision",
+        "Owns a control domain end-to-end",
+        "Mentors trainees on evidence and controls"
+      ]
+    },
+    "GRC-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Autonomous ownership of an ISO 27001 or SOC 2 certification cycle",
+        "Design of a risk assessment and treatment methodology",
+        "Leadership of third-party audits as the main point of contact",
+        "Definition of the control framework mapped across ISO 27001, SOC 2 and ENS",
+        "Ownership of the vendor risk management programme",
+        "Advising teams on GDPR and data protection by design obligations",
+        "Definition of risk appetite and tolerance thresholds with management",
+        "Design of the security awareness and phishing simulation programme"
+      ],
+      "complementaryCompetencies": [
+        "Experience mapping NIS2 and DORA obligations to existing controls",
+        "Knowledge of control automation platforms and evidence pipelines",
+        "Ability to translate technical findings into business risk"
+      ],
+      "indicators": [
+        "Works autonomously",
+        "Runs a certification cycle end-to-end",
+        "Is a reference for risk and compliance practices"
+      ]
+    },
+    "GRC-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Ownership of a multi-framework compliance programme (ISO 27001, SOC 2, ENS)",
+        "Definition of the enterprise risk management methodology and taxonomy",
+        "Management of the internal audit plan across control domains",
+        "Design of the regulatory compliance mapping for GDPR, NIS2 and DORA",
+        "Leadership of the third-party and supply chain risk programme",
+        "Definition of risk metrics and key risk indicators for management",
+        "Preparation of risk reporting for the risk committee",
+        "Guidance of control owners on effective control design"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of EU AI Act obligations for high-risk systems",
+        "Experience with GRC platforms and control automation at scale",
+        "Knowledge of certification maintenance and surveillance audits"
+      ],
+      "indicators": [
+        "Is fully autonomous and expert",
+        "Owns a multi-framework compliance programme",
+        "Leads risk methodology across teams"
+      ]
+    },
+    "GRC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Leadership of the governance, risk and compliance function",
+        "Definition of the enterprise risk management framework and governance model",
+        "Ownership of the compliance roadmap across ISO 27001, SOC 2, NIS2 and DORA",
+        "Management of the internal audit programme and third-party audit relationships",
+        "Definition of risk appetite and reporting to the risk committee",
+        "Alignment of compliance obligations with business objectives",
+        "Governance of the third-party and supply chain risk programme",
+        "Building a risk-aware culture across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience preparing for board-level risk discussions",
+        "Knowledge of EU AI Act governance and conformity assessments",
+        "Management of the GRC budget and tooling strategy"
+      ],
+      "indicators": [
+        "Leads the GRC function across the organization",
+        "Defines the risk and compliance vision",
+        "Influences enterprise-wide governance practices"
+      ]
+    },
+    "GRC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Strategic direction of the enterprise GRC programme",
+        "Definition of the integrated risk and compliance operating model",
+        "Leadership of regulatory readiness for NIS2, DORA and the EU AI Act",
+        "Governance of enterprise risk appetite and tolerance across business lines",
+        "Management of the relationship with regulators and external auditors",
+        "Innovation in risk quantification and compliance automation",
+        "Advising executive leadership on regulatory and risk exposure",
+        "Definition of the multi-year compliance and certification roadmap"
+      ],
+      "complementaryCompetencies": [
+        "Experience influencing sector regulation and standards bodies",
+        "Knowledge of risk investment prioritization and cost of compliance",
+        "Leadership of cross-functional risk and resilience programmes"
+      ],
+      "indicators": [
+        "Directs the GRC programme at organizational scale",
+        "Participates in enterprise risk strategy",
+        "Is a recognized authority in governance and compliance"
+      ]
+    },
+    "GRC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for enterprise governance, risk and compliance",
+        "Leadership of risk and compliance transformation at scale",
+        "Definition of the organization's long-term risk governance model",
+        "Positioning of compliance and certifications as a competitive advantage",
+        "Management of regulatory risk across complex and international operations",
+        "Advancement of risk quantification and integrated assurance practices",
+        "Influence on enterprise policy for privacy, resilience and AI governance",
+        "Embedding of a risk-aware culture across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience as a risk and compliance leader in scale-ups",
+        "Advisory on governance frameworks and regulatory strategy",
+        "Thought leadership in governance, risk and compliance"
+      ],
+      "indicators": [
+        "Sets the direction of GRC across the organization",
+        "Defines risk and compliance strategy at the highest level",
+        "Is a recognized industry leader"
+      ]
+    },
+    "GRC-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership as chief risk or compliance officer",
+        "Definition of the enterprise risk appetite and compliance posture",
+        "Executive ownership of regulatory exposure and assurance",
+        "Alignment of governance and compliance with corporate strategy and the board",
+        "Transformation of the organization's risk and compliance culture",
+        "Innovation in enterprise risk governance and regulatory response",
+        "Influence on regulation and industry standards for privacy and resilience",
+        "Accountability for the organization's compliance and certification posture"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming risk and compliance in large corporations",
+        "Recognition as a governance leader at board level",
+        "Influence on regulatory and standards development"
+      ],
+      "indicators": [
+        "Operates at chief risk or compliance officer level",
+        "Defines the future of enterprise risk and compliance",
+        "Is a world authority in governance and compliance"
+      ]
+    }
+  }
+}

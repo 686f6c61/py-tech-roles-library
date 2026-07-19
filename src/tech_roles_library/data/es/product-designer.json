@@ -1,0 +1,258 @@
+{
+  "role": "Diseñador de Producto",
+  "category": "Diseño",
+  "levels": {
+    "PD-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de fundamentos de diseño y jerarquía visual",
+        "Comprensión elemental del proceso de diseño de producto",
+        "Habilidad para construir pantallas simples en una herramienta de diseño",
+        "Conocimiento básico de tipografía, color y espaciado",
+        "Capacidad de seguir un sistema de diseño existente",
+        "Comprensión de la diferencia entre experiencia e interfaz de usuario",
+        "Documentación de decisiones de diseño con acompañamiento",
+        "Conocimiento elemental de diseño centrado en el usuario"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas como Figma",
+        "Conocimiento básico de conceptos de desarrollo frontal",
+        "Comprensión de nociones básicas de accesibilidad"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Apoya a diseñadores senior en tareas simples",
+        "Está aprendiendo diseño de producto"
+      ]
+    },
+    "PD-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar pantallas completas a partir de un encargo",
+        "Aplicación consistente de componentes del sistema de diseño",
+        "Conocimiento práctico de técnicas de prototipado",
+        "Habilidad para traducir requisitos en esquemas de página",
+        "Comprensión de patrones de interacción",
+        "Capacidad de iterar diseños a partir de comentarios",
+        "Conocimiento de nociones básicas de diseño adaptable",
+        "Habilidad para colaborar con producto e ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Análisis de heurísticas básicas de usabilidad",
+        "Conocimiento de prácticas de entrega de diseño a desarrollo",
+        "Comprensión de flujos de usuario"
+      ],
+      "indicators": [
+        "Diseña funcionalidades con supervisión",
+        "Produce esquemas y maquetas de forma independiente",
+        "Colabora efectivamente con el equipo de producto"
+      ]
+    },
+    "PD-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de flujos de producto de extremo a extremo",
+        "Contribución al sistema de diseño con componentes nuevos",
+        "Dominio del prototipado interactivo",
+        "Capacidad de realizar revisiones básicas de usabilidad",
+        "Habilidad para equilibrar necesidades del usuario y objetivos de negocio",
+        "Conocimiento en profundidad de diseño visual y de interacción",
+        "Aplicación de estándares de accesibilidad en los diseños",
+        "Responsabilidad sobre funcionalidades de complejidad media"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de fichas de diseño",
+        "Habilidad para conducir críticas de diseño",
+        "Comprensión de las restricciones de implementación frontal"
+      ],
+      "indicators": [
+        "Asume funcionalidades de extremo a extremo",
+        "Contribuye al sistema de diseño",
+        "Presenta su trabajo de diseño con confianza"
+      ]
+    },
+    "PD-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Diseño de experiencias de producto complejas de forma autónoma",
+        "Definición de patrones de diseño para el producto",
+        "Dominio de la arquitectura de sistemas de diseño",
+        "Capacidad de liderar el diseño de un área de producto",
+        "Habilidad para alinear el diseño con la estrategia de producto",
+        "Conocimiento profundo de diseño de interacción y de movimiento",
+        "Facilitación de talleres de diseño",
+        "Responsabilidad de extremo a extremo sobre iniciativas de producto relevantes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en colaboración multifuncional",
+        "Conocimiento de decisiones de diseño basadas en datos",
+        "Gestión de deuda de diseño"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma en problemas complejos",
+        "Marca la dirección de diseño de un área de producto",
+        "Mentoriza a diseñadores junior"
+      ]
+    },
+    "PD-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño de estrategia de producto a través de la experiencia",
+        "Evolución del sistema de diseño a escala",
+        "Dominio del oficio de diseño de producto de extremo a extremo",
+        "Capacidad de definir la visión de diseño de los productos",
+        "Habilidad para influir en la hoja de ruta de producto mediante el diseño",
+        "Experiencia profunda en usabilidad y accesibilidad",
+        "Liderazgo de iniciativas de diseño entre equipos",
+        "Establecimiento de estándares de calidad de diseño"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en operaciones de diseño",
+        "Conocimiento de diseño de servicios",
+        "Gestión de relaciones complejas con partes interesadas"
+      ],
+      "indicators": [
+        "Es un experto reconocido en diseño de producto",
+        "Define la visión de diseño de múltiples funcionalidades",
+        "Eleva el oficio del equipo de diseño"
+      ]
+    },
+    "PD-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo del diseño en una línea de producto",
+        "Definición de principios y cultura de diseño",
+        "Gestión del sistema de diseño como activo estratégico",
+        "Capacidad de impulsar la estrategia de diseño a nivel de producto",
+        "Habilidad para dar forma a la visión de producto junto a la dirección",
+        "Conocimiento profundo del impacto del diseño en los resultados de negocio",
+        "Mentoría y crecimiento de equipos de diseño",
+        "Impulso de las prácticas de pensamiento de diseño en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en el escalado de prácticas de diseño",
+        "Conocimiento de contratación y formación de equipos de diseño",
+        "Liderazgo en la consistencia de diseño entre productos"
+      ],
+      "indicators": [
+        "Lidera el diseño de una línea de producto",
+        "Influye en la estrategia de producto mediante el diseño",
+        "Hace crecer y mentoriza a diseñadores senior"
+      ]
+    },
+    "PD-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Influencia ejecutiva en la estrategia de diseño de producto",
+        "Definición de la visión de diseño entre múltiples productos",
+        "Transformación de la experiencia de producto a escala",
+        "Gestión del diseño a nivel de organización",
+        "Creación de marcos de diseño para la compañía",
+        "Alineación del diseño con la estrategia de negocio a largo plazo",
+        "Liderazgo de diseño en la mesa de dirección",
+        "Influencia en la disciplina de diseño de producto de forma externa"
+      ],
+      "complementaryCompetencies": [
+        "Gestión del diseño en organizaciones complejas",
+        "Experiencia en diseño para productos de escala empresarial",
+        "Liderazgo en comunidades de diseño"
+      ],
+      "indicators": [
+        "Marca la dirección de diseño entre productos",
+        "Colabora con la dirección de producto e ingeniería",
+        "Representa al diseño a nivel ejecutivo"
+      ]
+    },
+    "PD-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del diseño como motor central del negocio",
+        "Liderazgo en la transformación del diseño de producto",
+        "Creación de ecosistemas de diseño en la organización",
+        "Gestión de la visión de diseño a escala de compañía",
+        "Introducción de nuevos enfoques en la experiencia de producto",
+        "Definición de las prácticas y estándares de diseño a largo plazo de la organización",
+        "Defensa del papel del diseño en las decisiones de producto en toda la organización",
+        "Influencia en el futuro del diseño de producto"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como diseñador principal en compañías de referencia",
+        "Asesoramiento en empresas emergentes orientadas al diseño",
+        "Liderazgo de pensamiento en diseño de producto"
+      ],
+      "indicators": [
+        "Da forma a la estrategia de diseño a nivel de compañía",
+        "Define la visión de diseño de la organización",
+        "Es una autoridad reconocida en diseño de producto"
+      ]
+    },
+    "PD-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario como vicepresidente de diseño",
+        "Transformación de la organización a través del diseño",
+        "Creación de una cultura de compañía orientada al diseño",
+        "Definición de la estrategia de diseño a nivel ejecutivo",
+        "Innovación en la intersección del diseño y el negocio",
+        "Defensa de los estándares de calidad de diseño en todos los equipos de producto",
+        "Arquitecto de la visión de diseño de la organización",
+        "Influencia en la evolución del diseño de producto"
+      ],
+      "complementaryCompetencies": [
+        "Creador de prácticas de diseño que marcan la industria",
+        "Reconocimiento como líder de diseño en el sector",
+        "Influencia en la educación de diseño global"
+      ],
+      "indicators": [
+        "Es vicepresidente de diseño o equivalente",
+        "Define la visión de diseño de la compañía",
+        "Es una autoridad mundial en diseño de producto"
+      ]
+    }
+  }
+}

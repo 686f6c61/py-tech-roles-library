@@ -1,0 +1,249 @@
+{
+  "role": "Ingeniero de IA",
+  "category": "IA/ML",
+  "levels": {
+    "AIE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de cómo invocar un LLM alojado mediante una API de inferencia y leer su respuesta",
+        "Nociones elementales del formato de prompts y de los mensajes de sistema en un modelo de chat",
+        "Capaz de integrar una única llamada al modelo en un endpoint de aplicación con supervisión",
+        "Comprensión básica de la generación aumentada por recuperación como obtención de contexto antes del prompt",
+        "Capaz de cargar documentos en un almacén vectorial siguiendo un ejemplo dado",
+        "Nociones elementales de la medición de latencia y consumo de tokens de una llamada",
+        "Comprensión básica de la salida estructurada, como respuestas en JSON del modelo"
+      ],
+      "complementaryCompetencies": [
+        "Soltura con Python y las API REST",
+        "Familiaridad con las variables de entorno y el manejo de claves de API",
+        "Noción elemental de las incrustaciones como representaciones numéricas del texto"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede completar tareas simples de integración con guía detallada",
+        "Necesita 3-6 meses para ser productivo"
+      ]
+    },
+    "AIE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capaz de construir un pipeline RAG básico que recupera fragmentos y los inserta en el prompt",
+        "Comprensión de las estrategias de fragmentación y de los modelos de incrustación para indexar documentos",
+        "Capaz de integrar una API de inferencia en un servicio con manejo de errores y reintentos",
+        "Uso práctico de plantillas de prompts y de ejemplos few-shot para una tarea",
+        "Capaz de forzar salida estructurada con validación de esquemas de las respuestas del modelo",
+        "Comprensión de los límites de tokens y del presupuesto de la ventana de contexto de una petición",
+        "Familiaridad con el cacheo de respuestas del modelo para reducir coste y latencia"
+      ],
+      "complementaryCompetencies": [
+        "Soltura con bases de datos vectoriales como pgvector o un índice gestionado",
+        "Familiaridad con el envío de respuestas en streaming al cliente",
+        "Práctica básica de las pruebas unitarias de prompts y de código de integración"
+      ],
+      "indicators": [
+        "Desarrolla funcionalidades de IA aplicada con supervisión",
+        "Resuelve problemas de complejidad media en la integración de inferencia",
+        "Participa activamente en revisiones de código y prompts"
+      ]
+    },
+    "AIE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Solvencia en la construcción de RAG en producción con reordenación y filtrado por metadatos",
+        "Capaz de diseñar conjuntos de evaluación fuera de línea que puntúan la relevancia y la fundamentación de las respuestas",
+        "Capaz de detectar y mitigar alucinaciones mediante comprobaciones de citas y de fundamentación",
+        "Buen manejo de la ingeniería de prompts, incluida la descomposición de tareas y las restricciones de salida",
+        "Capaz de instrumentar las llamadas al modelo con trazado de prompts, tokens y latencia",
+        "Comprensión de los compromisos de selección de modelos entre calidad, coste y velocidad",
+        "Capaz de implementar lógica de reserva entre proveedores cuando falla una llamada al modelo"
+      ],
+      "complementaryCompetencies": [
+        "Consciente de los riesgos de inyección de prompts en contextos de recuperación y de sus mitigaciones básicas",
+        "Capaz de construir búsqueda híbrida que combina recuperación por palabras clave y vectorial",
+        "Práctica básica de la invocación de funciones para conectar modelos con la lógica de aplicación"
+      ],
+      "indicators": [
+        "Completa funcionalidades complejas de IA aplicada con mínima supervisión",
+        "Identifica y resuelve fallos en los pipelines de recuperación e inferencia",
+        "Contribuye activamente al diseño técnico de funcionalidades de IA"
+      ]
+    },
+    "AIE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capaz de arquitectar funcionalidades de IA de principio a fin integrando recuperación, inferencia y lógica de negocio",
+        "Solvencia en el desarrollo guiado por evaluación con puntuación automática de regresiones de calidad",
+        "Capaz de diseñar flujos de trabajo de varios pasos que encadenan recuperación, herramientas y generación",
+        "Buen manejo de la optimización de coste y latencia mediante cacheo, agrupación y enrutamiento de modelos",
+        "Capaz de construir monitorización de calidad en línea que detecta desviaciones en las salidas del modelo en producción",
+        "Solvencia con las arquitecturas de recuperación, incluidas la optimización de fragmentos y la actualización de incrustaciones",
+        "Capaz de ejecutar pruebas A/B que comparan prompts, modelos y estrategias de recuperación en producción"
+      ],
+      "complementaryCompetencies": [
+        "Consciente del fine-tuning y de cuándo supera al prompting en una tarea",
+        "Capaz de diseñar mecanismos de protección que filtran respuestas inseguras o fuera de tema",
+        "Comprensión de la privacidad de datos al enviar datos de usuario a proveedores de modelos"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de funcionalidades de IA críticas del producto",
+        "Mentoriza eficazmente a ingenieros junior",
+        "Toma decisiones arquitecturales informadas sobre la integración de IA"
+      ]
+    },
+    "AIE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experto en el diseño de plataformas de aplicaciones LLM de nivel de producción que sirven tráfico real",
+        "Capaz de arquitectar servicio de inferencia escalable con balanceo de carga entre proveedores de modelos",
+        "Solvencia con pipelines de evaluación que combinan bancos de pruebas fuera de línea y señales de calidad en línea",
+        "Capaz de diseñar sistemas de recuperación que se mantienen actualizados y escalan a grandes corpus",
+        "Buen manejo del control del coste por petición a escala mediante enrutamiento y modelos cuantizados",
+        "Capaz de construir observabilidad que captura prompts, recuperación, salidas y retroalimentación del usuario",
+        "Experto en la mitigación de alucinaciones e inyección de prompts en sistemas de producción"
+      ],
+      "complementaryCompetencies": [
+        "Consciente del fine-tuning y del entrenamiento de adaptadores para la especialización de dominio",
+        "Capaz de diseñar bancos de pruebas de evaluación para tareas específicas del producto",
+        "Comprensión de las cuestiones de cumplimiento al procesar datos de usuario con modelos"
+      ],
+      "indicators": [
+        "Diseña arquitecturas de IA para productos completos",
+        "Define los estándares técnicos del equipo para el desarrollo de IA aplicada",
+        "Lidera iniciativas entre equipos sobre infraestructura de IA"
+      ]
+    },
+    "AIE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capaz de arquitectar plataformas de IA empresariales que ofrecen funcionalidades basadas en modelos a muchos equipos",
+        "Experto en la gobernanza del uso de modelos, incluidos los controles de coste y las políticas de acceso",
+        "Solvencia con la infraestructura de evaluación y la monitorización continua de calidad entre productos",
+        "Capaz de diseñar sistemas resilientes a las caídas de proveedores de modelos y a los cambios de versión",
+        "Buen manejo de las amenazas de seguridad específicas de las aplicaciones LLM, como la fuga de datos y la inyección",
+        "Capaz de liderar migraciones que adoptan capacidades de IA en productos existentes a gran escala",
+        "Experto en ingeniería de fiabilidad para funcionalidades probabilísticas basadas en modelos"
+      ],
+      "complementaryCompetencies": [
+        "Consciente del despliegue de modelos de pesos abiertos autoalojados como alternativa a las API",
+        "Capaz de diseñar infraestructura compartida de recuperación y evaluación para la organización",
+        "Comprensión de la negociación con proveedores y de la economía de las licencias de modelos"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones de IA para múltiples equipos",
+        "Influye en las decisiones técnicas organizacionales sobre IA aplicada",
+        "Representa a la empresa técnicamente en el ámbito de la IA aplicada"
+      ]
+    },
+    "AIE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Aporta liderazgo técnico en la adopción de productos basados en modelos a escala empresarial",
+        "Capaz de diseñar arquitecturas de aplicaciones de IA para grandes carteras de producto",
+        "Experto en estrategias para controlar la calidad y el coste de las funcionalidades de IA a escala organizacional",
+        "Buen manejo de arquitecturas de aplicación agnósticas al proveedor y al modelo",
+        "Capaz de definir hojas de ruta de varios años para capacidades de IA aplicada",
+        "Comprensión profunda del coste total de propiedad de los sistemas basados en LLM",
+        "Experto en la construcción y el escalamiento de equipos de ingeniería de IA aplicada"
+      ],
+      "complementaryCompetencies": [
+        "Capaz de evaluar modelos emergentes y herramientas de inferencia para su adopción",
+        "Capaz de representar la ingeniería de IA aplicada ante socios técnicos",
+        "Consciente de las tendencias del sector en optimización de inferencia y recuperación"
+      ],
+      "indicators": [
+        "Define la estrategia técnica organizacional para la IA aplicada",
+        "Reconocido como autoridad técnica en sistemas de IA aplicada",
+        "Ponente en conferencias del sector"
+      ]
+    },
+    "AIE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Fija la visión estratégica de cómo evolucionan los productos basados en modelos dentro de la organización",
+        "Capaz de liderar cambios importantes en la forma en que la empresa construye y publica funcionalidades de IA",
+        "Experto en diligencia debida técnica para productos y adquisiciones impulsados por IA",
+        "Impulsa el cambio organizacional hacia el desarrollo de producto asistido por IA",
+        "Capaz de construir y liderar organizaciones de ingeniería de IA aplicada",
+        "Comprensión profunda del impacto de negocio de las decisiones sobre calidad, coste y fiabilidad de los modelos",
+        "Experto en la relación con partes interesadas ejecutivas en torno al riesgo de los productos de IA"
+      ],
+      "complementaryCompetencies": [
+        "Capaz de influir en la práctica del sector sobre ingeniería de IA aplicada",
+        "Capaz de orientar las decisiones de inversión en herramientas e infraestructura de IA",
+        "Consciente del panorama de proveedores y empresas emergentes de IA aplicada"
+      ],
+      "indicators": [
+        "Impacta en la dirección técnica de la IA aplicada en el sector",
+        "Asesora a la alta dirección sobre la estrategia de productos de IA",
+        "Mentoriza a líderes técnicos senior"
+      ]
+    },
+    "AIE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Aporta liderazgo ejecutivo de la IA aplicada en toda la organización de producto",
+        "Capaz de alinear la estrategia de productos de IA con la estrategia de negocio global",
+        "Experto en la gestión de grandes presupuestos para el uso de modelos y la infraestructura de IA",
+        "Domina la comunicación con partes interesadas y con la junta directiva sobre iniciativas de productos de IA",
+        "Capaz de liderar la transformación de productos impulsada por IA en varias unidades de negocio",
+        "Comprensión profunda de la gestión de riesgos de los sistemas basados en modelos de cara al cliente",
+        "Experto en la construcción de ventajas competitivas mediante productos de IA aplicada"
+      ],
+      "complementaryCompetencies": [
+        "Capaz de dar forma a la política organizacional sobre el uso responsable de la IA en producto",
+        "Capaz de establecer alianzas con proveedores de modelos y de plataformas",
+        "Consciente de la economía de las líneas de producto de IA"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión tecnológica de los productos de IA aplicada",
+        "Responsable de las pérdidas y ganancias de los productos impulsados por IA",
+        "Voz pública de la empresa en IA aplicada"
+      ]
+    }
+  }
+}

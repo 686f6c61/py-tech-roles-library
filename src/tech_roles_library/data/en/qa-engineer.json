@@ -1,0 +1,249 @@
+{
+  "role": "QA Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "QA-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of the software lifecycle and where testing fits",
+        "Elementary knowledge of test case design and test scenarios",
+        "Ability to execute manual test scripts and record results",
+        "Basic understanding of defect reporting and severity levels",
+        "Familiarity with a defect tracking tool for logging issues",
+        "Elementary understanding of test environments (dev, staging, production)",
+        "Ability to run guided exploratory sessions on simple features"
+      ],
+      "complementaryCompetencies": [
+        "Basic familiarity with web browsers and their developer tools",
+        "Familiarity with agile ceremonies and their purpose",
+        "Elementary understanding of databases for checking data"
+      ],
+      "indicators": [
+        "Requires close supervision on testing tasks",
+        "Executes documented test cases with guidance",
+        "Learning to distinguish severity from priority"
+      ]
+    },
+    "QA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to write clear, detailed test cases from acceptance criteria",
+        "Execution of full functional test passes across a feature",
+        "Practical understanding of regression testing and when to run it",
+        "Ability to reproduce, isolate and document defects precisely",
+        "Familiarity with test suites maintained by automation engineers",
+        "Ability to validate data using simple SQL queries",
+        "Participation in refinement to spot untestable requirements"
+      ],
+      "complementaryCompetencies": [
+        "Basic understanding of cross-browser and cross-device checks",
+        "Familiarity with usability heuristics",
+        "Elementary understanding of accessibility checks"
+      ],
+      "indicators": [
+        "Plans and runs tests for a feature with moderate supervision",
+        "Reports defects developers can act on without back-and-forth",
+        "Collaborates with developers to confirm fixes"
+      ]
+    },
+    "QA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of risk-based test plans for a feature or component",
+        "Structured exploratory and session-based testing with charters",
+        "Ability to run root cause analysis on recurring defects",
+        "Definition of entry and exit criteria for test cycles",
+        "Coordination of defect triage with developers and product",
+        "Ability to interpret results from automated suites owned by the automation team",
+        "Estimation of testing effort for planned work"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with test management tools and traceability",
+        "Understanding of compatibility and localization checks",
+        "Elementary understanding of accessibility standards (WCAG)"
+      ],
+      "indicators": [
+        "Owns the test approach for a feature end to end",
+        "Surfaces quality risks proactively during planning",
+        "Contributes improvements to the team's QA process"
+      ]
+    },
+    "QA-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Definition of the test strategy for a product or major workstream",
+        "Prioritization of testing by risk, impact and change frequency",
+        "Facilitation of shift-left practices so defects surface earlier",
+        "Coordination of user acceptance testing with business stakeholders",
+        "Design of a defect management workflow with clear severities and SLAs",
+        "Definition of quality metrics such as escape rate and coverage of critical paths",
+        "Guidance of exploratory testing across a team"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of performance and security test needs to brief specialists",
+        "Familiarity with test data management for realistic scenarios",
+        "Understanding of accessibility acceptance criteria"
+      ],
+      "indicators": [
+        "Leads the quality approach for a medium-sized product",
+        "Sets testing standards the team follows",
+        "Mentors junior QA on test design and defect analysis"
+      ]
+    },
+    "QA-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Ownership of the quality strategy across several teams or a product line",
+        "Design of quality gates integrated into the delivery pipeline",
+        "Definition of a quality metrics program that informs release decisions",
+        "Facilitation of blameless defect retrospectives and prevention",
+        "Coordination of user acceptance testing and beta programs at product scale",
+        "Ability to balance testing depth against release timelines with evidence",
+        "Establishment of test data and environment management practices"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of observability signals to catch quality issues in production",
+        "Familiarity with compliance testing requirements for the domain",
+        "Understanding of when to invest in automation versus manual coverage"
+      ],
+      "indicators": [
+        "Designs the QA strategy for a complete product autonomously",
+        "Leads quality improvement initiatives with measurable outcomes",
+        "Defines the quality metrics leadership relies on"
+      ]
+    },
+    "QA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Definition of the quality strategy across a product portfolio",
+        "Establishment of risk-based testing as an organizational practice",
+        "Design of release readiness criteria and go/no-go processes",
+        "Integration of production quality signals back into test planning",
+        "Definition of quality objectives and their supporting metrics",
+        "Alignment of quality practices with regulatory and compliance needs",
+        "Leadership of quality process improvement across teams"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of cost and coverage trade-offs across the portfolio",
+        "Familiarity with the testing needs of new product areas",
+        "Understanding of sustainable, maintainable quality practices"
+      ],
+      "indicators": [
+        "Shapes quality across multiple products",
+        "Leads quality process change across the organization",
+        "Defines the long-term quality direction with leadership"
+      ]
+    },
+    "QA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership of the quality culture across the engineering organization",
+        "Definition of quality standards and their governance",
+        "Establishment of quality engineering practices beyond pure testing",
+        "Use of predictive quality analytics to focus testing effort",
+        "Design of defect-prevention programs rather than detection alone",
+        "Alignment of the quality function with customer outcomes",
+        "Definition of quality practices that scale with the organization"
+      ],
+      "complementaryCompetencies": [
+        "Contribution to internal quality standards and playbooks",
+        "Understanding of testing practices adopted across teams",
+        "Understanding of how quality investment maps to business value"
+      ],
+      "indicators": [
+        "Sets the quality philosophy for the organization",
+        "Builds and leads quality communities of practice",
+        "Recognized internally as the authority on quality"
+      ]
+    },
+    "QA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definition of a multi-year quality strategy for the organization",
+        "Positioning of quality as a driver of customer trust and retention",
+        "Establishment of a QA center of excellence and its operating model",
+        "Definition of quality governance across business units",
+        "Evaluation of quality risk in acquisitions and integrations",
+        "Justification of quality investment through measurable return",
+        "Guidance of tooling and vendor decisions for the quality function"
+      ],
+      "complementaryCompetencies": [
+        "Definition of quality methodologies reused across the company",
+        "Understanding of the testing vendor and tooling landscape",
+        "Understanding of quality benchmarking against the industry"
+      ],
+      "indicators": [
+        "Owns the multi-year quality strategy",
+        "Represents the company on quality in external forums",
+        "Influences quality direction beyond the organization"
+      ]
+    },
+    "QA-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive ownership of quality and its alignment with business goals",
+        "Definition of the enterprise quality vision and operating model",
+        "Accountability for quality outcomes and the metrics that track them",
+        "Leadership of quality organizations across regions and products",
+        "Management of the quality function's budget and return",
+        "Positioning of quality as a differentiator in the market",
+        "Definition of the risk posture that quality practices enforce"
+      ],
+      "complementaryCompetencies": [
+        "Influence on quality practices across the wider industry",
+        "Understanding of quality's role in customer and partner relationships",
+        "Understanding of long-term investment in the quality function"
+      ],
+      "indicators": [
+        "Defines and executes the enterprise quality vision",
+        "Accountable for quality outcomes at the company level",
+        "Recognized leader in software quality"
+      ]
+    }
+  }
+}

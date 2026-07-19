@@ -1,0 +1,258 @@
+{
+  "role": "DevSecOps Engineer",
+  "category": "Security",
+  "levels": {
+    "DSO-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of CI/CD pipelines",
+        "Elementary knowledge of version control and Git workflows",
+        "Ability to run security scans with supervision",
+        "Basic knowledge of SAST, DAST and SCA concepts",
+        "Understanding of container fundamentals (Docker)",
+        "Ability to read and interpret pipeline logs",
+        "Documentation of security findings in pipelines",
+        "Awareness of secrets management basics"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with common CI tools (GitHub Actions, GitLab CI)",
+        "Basic scripting in Bash or Python",
+        "Elementary understanding of the OWASP Top 10"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Executes predefined security checks",
+        "Is learning DevSecOps fundamentals"
+      ]
+    },
+    "DSO-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to integrate SAST and SCA scanners into pipelines",
+        "Configuration of basic security gates in CI/CD",
+        "Practical knowledge of container image scanning",
+        "Ability to triage vulnerability scan results",
+        "Understanding of dependency and supply chain risks",
+        "Implementation of basic secrets scanning",
+        "Ability to automate simple security tasks",
+        "Knowledge of secure pipeline configuration"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with infrastructure as code (Terraform)",
+        "Basic knowledge of policy as code concepts",
+        "Understanding of Kubernetes fundamentals"
+      ],
+      "indicators": [
+        "Works with regular supervision",
+        "Integrates security tools into existing pipelines",
+        "Contributes to remediation of findings"
+      ]
+    },
+    "DSO-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of security gates with defined thresholds",
+        "Integration of DAST into deployment pipelines",
+        "Ability to harden container images and base layers",
+        "Implementation of policy as code with OPA or similar",
+        "Configuration of secrets management platforms (Vault)",
+        "Ability to analyze and prioritize vulnerabilities by risk",
+        "Knowledge of supply chain security (SBOM generation)",
+        "Ability to guide developers on remediation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cloud security posture management",
+        "Ability to write reusable pipeline templates",
+        "Understanding of compliance requirements"
+      ],
+      "indicators": [
+        "Works with occasional supervision",
+        "Owns security integration for a pipeline",
+        "Mentors trainees on tooling"
+      ]
+    },
+    "DSO-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Autonomous design of secure CI/CD architectures",
+        "Implementation of end-to-end supply chain security",
+        "Mastery of container and Kubernetes security controls",
+        "Design of policy as code frameworks across teams",
+        "Automation of vulnerability management workflows",
+        "Ability to implement signed artifacts and provenance",
+        "Integration of security into GitOps workflows",
+        "Ability to define security requirements for pipelines"
+      ],
+      "complementaryCompetencies": [
+        "Experience with cloud native security tooling",
+        "Knowledge of threat modeling for pipelines",
+        "Implementation of security metrics and dashboards"
+      ],
+      "indicators": [
+        "Works autonomously",
+        "Designs secure delivery pipelines",
+        "Is a reference for CI/CD security"
+      ]
+    },
+    "DSO-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expert design of DevSecOps platforms at scale",
+        "Definition of shift-left security strategy",
+        "Mastery of supply chain security frameworks (SLSA)",
+        "Leadership in secure software delivery lifecycle",
+        "Design of self-service security tooling for developers",
+        "Optimization of security gates for developer velocity",
+        "Implementation of runtime security in Kubernetes",
+        "Ability to reduce false positives across scanners"
+      ],
+      "complementaryCompetencies": [
+        "Experience in compliance automation (SOC2, ISO27001)",
+        "Knowledge of zero trust in delivery pipelines",
+        "Mentorship of DevSecOps engineers"
+      ],
+      "indicators": [
+        "Is fully autonomous and expert",
+        "Defines DevSecOps practices for the org",
+        "Leads security automation initiatives"
+      ]
+    },
+    "DSO-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Technical leadership of the DevSecOps function",
+        "Design of enterprise-wide secure delivery strategy",
+        "Definition of security standards for engineering",
+        "Leadership of platform security teams",
+        "Governance of supply chain risk across the organization",
+        "Implementation of security guardrails at scale",
+        "Ability to align DevSecOps with business risk appetite",
+        "Promotion of security culture across engineering teams"
+      ],
+      "complementaryCompetencies": [
+        "Experience in vendor and tooling evaluation",
+        "Knowledge of regulatory compliance frameworks",
+        "Management of security tooling budgets"
+      ],
+      "indicators": [
+        "Leads DevSecOps across multiple teams",
+        "Defines secure delivery vision",
+        "Influences engineering-wide practices"
+      ]
+    },
+    "DSO-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Strategic direction of DevSecOps programs",
+        "Definition of secure software delivery at scale",
+        "Leadership of organizational security transformation",
+        "Design of security governance for engineering",
+        "Management of supply chain security at enterprise level",
+        "Innovation in security automation technologies",
+        "Ability to represent security to senior leadership",
+        "Definition of security engineering roadmap"
+      ],
+      "complementaryCompetencies": [
+        "Experience influencing industry standards",
+        "Knowledge of security investment prioritization",
+        "Leadership in cross-functional security programs"
+      ],
+      "indicators": [
+        "Directs DevSecOps at organizational scale",
+        "Participates in security strategy",
+        "Is a recognized authority in DevSecOps"
+      ]
+    },
+    "DSO-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for secure software delivery",
+        "Leadership in enterprise security transformation",
+        "Definition of the organization's long-term DevSecOps practices and standards",
+        "Creation of competitive advantage through secure delivery",
+        "Management of security across complex ecosystems",
+        "Advancement of software supply chain security controls and tooling",
+        "Influence on engineering security policy",
+        "Adoption of secure by design principles across engineering"
+      ],
+      "complementaryCompetencies": [
+        "Experience as security engineering leader in scale-ups",
+        "Advisory in DevSecOps tooling startups",
+        "Thought leadership in secure delivery"
+      ],
+      "indicators": [
+        "Sets technical direction across the organization",
+        "Defines DevSecOps strategy at the highest level",
+        "Is a recognized industry leader"
+      ]
+    },
+    "DSO-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in secure software delivery",
+        "Transformation of engineering security culture",
+        "Definition of security-first delivery organizations",
+        "Executive strategy for DevSecOps at enterprise scale",
+        "Innovation in security governance and automation",
+        "Influence on industry supply chain standards",
+        "Architect of secure engineering ecosystems",
+        "Alignment of security with corporate strategy"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming security in large corporations",
+        "Recognition as a security engineering leader",
+        "Influence on secure delivery standards"
+      ],
+      "indicators": [
+        "Operates at VP or CTO level",
+        "Defines the future of secure delivery",
+        "Is a world authority in DevSecOps"
+      ]
+    }
+  }
+}

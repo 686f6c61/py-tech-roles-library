@@ -1,0 +1,259 @@
+{
+  "role": "Ingeniero de Plataforma",
+  "category": "Infraestructura",
+  "levels": {
+    "PLE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de conceptos de ingeniería de plataforma",
+        "Conocimiento elemental de experiencia del desarrollador",
+        "Habilidad para usar herramientas básicas de plataforma",
+        "Comprensión básica de plataformas de autoservicio",
+        "Capacidad de documentar funcionalidades de plataforma",
+        "Conocimiento elemental de diseño de interfaces de programación",
+        "Comprensión básica de automatización de plataforma",
+        "Habilidad para soporte básico de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de operaciones de desarrollo",
+        "Familiaridad con plataformas en la nube",
+        "Comprensión elemental de contenedores"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede mantener componentes de plataforma",
+        "Necesita 6-12 meses de mentoría"
+      ]
+    },
+    "PLE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de desarrollar servicios básicos de plataforma",
+        "Habilidad para implementar funcionalidades de autoservicio",
+        "Conocimiento práctico de interfaces de programación de plataforma",
+        "Comprensión de plataformas internas para desarrolladores",
+        "Capacidad de implementar automatización básica",
+        "Habilidad para monitorización de plataforma",
+        "Conocimiento de documentación de plataforma",
+        "Comprensión de seguridad básica de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de operaciones mediante Git",
+        "Habilidad para portales de desarrollo",
+        "Comprensión de métricas de plataforma"
+      ],
+      "indicators": [
+        "Desarrolla funcionalidades de plataforma con supervisión",
+        "Mejora experiencia básica del desarrollador",
+        "Apoya efectivamente a usuarios de plataforma"
+      ]
+    },
+    "PLE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de patrones de arquitectura de plataforma",
+        "Capacidad de diseñar flujos de trabajo para desarrolladores",
+        "Habilidad para implementar orquestación de plataforma",
+        "Conocimiento profundo de catálogos de servicios",
+        "Capacidad de implementar observabilidad de plataforma",
+        "Comprensión sólida de rutas óptimas de desarrollo",
+        "Habilidad para pruebas de plataforma",
+        "Conocimiento de gobernanza de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de economía de plataforma",
+        "Habilidad para migración de plataforma",
+        "Comprensión de cumplimiento normativo de plataforma"
+      ],
+      "indicators": [
+        "Diseña servicios completos de plataforma",
+        "Lidera iniciativas pequeñas de plataforma",
+        "Define estándares básicos de plataforma"
+      ]
+    },
+    "PLE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas internas",
+        "Dominio de plataforma como producto",
+        "Habilidad para implementar ecosistemas de plataforma",
+        "Conocimiento profundo de productividad del desarrollador",
+        "Capacidad de implementar automatización de plataforma",
+        "Dominio de fiabilidad de plataforma",
+        "Habilidad para estrategias de adopción de plataforma",
+        "Conocimiento de economía de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de inteligencia artificial en plataforma",
+        "Habilidad para analítica de plataforma",
+        "Comprensión de sostenibilidad de plataforma"
+      ],
+      "indicators": [
+        "Define estrategia de plataforma para equipos",
+        "Lidera transformación de plataforma",
+        "Mentoriza ingenieros de plataforma"
+      ]
+    },
+    "PLE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en ingeniería de plataforma empresarial",
+        "Capacidad de diseñar modelos operativos de plataforma",
+        "Dominio de cadenas de valor de plataforma",
+        "Habilidad para marcos de gobernanza de plataforma",
+        "Conocimiento profundo de modelos de madurez de plataforma",
+        "Capacidad de implementar mercados de plataforma",
+        "Experiencia en estandarización de plataforma",
+        "Dominio de innovación en plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de iniciativas empresariales de plataforma",
+        "Habilidad para consultoría de plataforma",
+        "Comprensión de fusiones y adquisiciones de plataforma"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de plataformas empresariales",
+        "Lidera comunidades de plataforma",
+        "Define hoja de ruta corporativa de plataforma"
+      ]
+    },
+    "PLE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir estrategia empresarial de plataforma",
+        "Experiencia en transformación de plataforma",
+        "Dominio de modelos de negocio de plataforma",
+        "Habilidad para construcción de ecosistema de plataforma",
+        "Conocimiento profundo de economía de plataforma",
+        "Capacidad de liderar organizaciones de plataforma",
+        "Experiencia en alianzas de plataforma",
+        "Dominio de gestión de riesgos de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de regulaciones de plataforma",
+        "Habilidad para laboratorios de innovación de plataforma",
+        "Comprensión de inversiones en plataforma"
+      ],
+      "indicators": [
+        "Define visión plurianual de plataforma",
+        "Lidera organizaciones grandes de plataforma",
+        "Influencia industria de plataforma"
+      ]
+    },
+    "PLE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en innovación global de plataforma",
+        "Capacidad de ventajas competitivas de plataforma",
+        "Experiencia en estrategias de escalado de plataforma",
+        "Dominio de democratización de plataforma",
+        "Capacidad de definir filosofía de plataforma",
+        "Conocimiento profundo de futuros de plataforma",
+        "Experiencia en liderazgo de pensamiento de plataforma",
+        "Capacidad de liderar investigación de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones de plataforma",
+        "Habilidad para impulsar la adopción de la plataforma interna en los equipos",
+        "Conocimiento de iniciativas empresariales de plataforma"
+      ],
+      "indicators": [
+        "Define filosofía corporativa de plataforma",
+        "Ponente principal en conferencias de plataforma",
+        "Líder de pensamiento en ingeniería de plataforma"
+      ]
+    },
+    "PLE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del futuro de plataformas",
+        "Capacidad de transformar empresas mediante plataformas",
+        "Experiencia en estrategia ejecutiva de plataforma",
+        "Dominio de economía corporativa de plataforma",
+        "Capacidad de definir excelencia en plataforma",
+        "Conocimiento profundo de gobernanza de plataforma",
+        "Experiencia en estrategias de ecosistema de plataforma",
+        "Capacidad de liderar estándares globales de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar industria de plataforma",
+        "Habilidad para iniciativas empresariales de plataforma",
+        "Conocimiento de salidas a bolsa de plataforma"
+      ],
+      "indicators": [
+        "Define la estrategia de plataforma de toda la organización",
+        "Influye en ingeniería de plataforma global",
+        "Asesor ejecutivo de plataforma"
+      ]
+    },
+    "PLE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia de plataforma",
+        "Capacidad de plataformas como negocio central",
+        "Experiencia en transformación total de plataforma",
+        "Dominio de estrategias de inversión en plataforma",
+        "Capacidad de construir imperios de plataforma",
+        "Conocimiento profundo de creación de valor de plataforma",
+        "Experiencia en alianzas globales de plataforma",
+        "Capacidad de definir cultura de plataforma",
+        "Dominio de modelos de negocio de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influencia en políticas de plataforma",
+        "Habilidad para dominio de ecosistema de plataforma",
+        "Conocimiento de monopolios de plataforma"
+      ],
+      "indicators": [
+        "Define y ejecuta visión empresarial de plataforma",
+        "Responsable de toda la estrategia de plataforma",
+        "Líder reconocido en economía global de plataforma"
+      ]
+    }
+  }
+}

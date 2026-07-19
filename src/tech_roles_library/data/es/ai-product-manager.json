@@ -1,0 +1,258 @@
+{
+  "role": "Gestor de Producto de IA",
+  "category": "Producto",
+  "levels": {
+    "AIPM-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión de la diferencia entre software determinista y comportamiento probabilista de un modelo",
+        "Lectura básica de informes de evals para juzgar la calidad de las salidas del modelo",
+        "Habilidad para escribir prompts claros y documentar las respuestas esperadas del modelo",
+        "Familiaridad con el concepto de alucinación y su impacto en el producto",
+        "Conocimiento básico de tokens y de cómo determinan el coste de inferencia",
+        "Capacidad de recopilar y etiquetar ejemplos de salidas buenas y malas del modelo",
+        "Comprensión del bucle de retroalimentación del usuario como fuente de datos",
+        "Documentación de casos de fallo del modelo para el equipo de ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con entornos de prueba de LLM y herramientas de prompts",
+        "Nociones básicas de privacidad de datos en funcionalidades de IA",
+        "Comprensión de las puntuaciones de confianza en las respuestas del modelo"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Apoya en la curación de conjuntos de evals",
+        "Está aprendiendo en qué se diferencia un producto de IA del software tradicional"
+      ]
+    },
+    "AIPM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Definición de conjuntos de evals que reflejan los criterios reales de aceptación del producto",
+        "Priorización de funcionalidades de IA sopesando precisión frente a coste de inferencia",
+        "Diseño de experiencias de reserva para cuando el modelo duda o se equivoca",
+        "Análisis de bucles de retroalimentación para detectar regresiones de calidad en producción",
+        "Habilidad para especificar guardarraíles y requisitos de filtrado de contenido",
+        "Comprensión de las concesiones de latencia y coste entre tamaños de modelo",
+        "Redacción de requisitos que tienen en cuenta las salidas no deterministas",
+        "Colaboración con equipos de datos en el etiquetado y la calidad de los conjuntos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la generación aumentada por recuperación como patrón de producto",
+        "Comprensión de las pruebas A/B con salidas probabilistas",
+        "Familiaridad con el versionado de prompts y su control de cambios"
+      ],
+      "indicators": [
+        "Es responsable de una única funcionalidad de IA con supervisión",
+        "Lee paneles de evals para fundamentar decisiones",
+        "Coordina el trabajo de etiquetado con los equipos de datos"
+      ]
+    },
+    "AIPM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de marcos de evals que condicionan las publicaciones a umbrales de calidad del modelo",
+        "Definición de patrones de experiencia de usuario que comunican incertidumbre y generan confianza",
+        "Gestión del coste de inferencia por funcionalidad como palanca de negocio",
+        "Responsabilidad sobre el bucle de datos y retroalimentación que mejora un modelo con el tiempo",
+        "Especificación de revisión humana en el bucle para salidas de modelo de alto riesgo",
+        "Elaboración de hojas de ruta de IA bajo incertidumbre de investigación y resultados abiertos",
+        "Definición de criterios de aceptación basados en evals offline y online",
+        "Equilibrio entre la capacidad del modelo y las restricciones de seguridad y abuso"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento del ajuste fino frente al uso de prompts como decisiones de producto",
+        "Comprensión de la búsqueda basada en embeddings y sus métricas de calidad",
+        "Familiaridad con la clasificación de riesgo de IA según el Reglamento de IA de la UE"
+      ],
+      "indicators": [
+        "Es responsable de una superficie de producto de IA de principio a fin",
+        "Define umbrales de evals que bloquean o aprueban publicaciones",
+        "Mentoriza a gestores junior en el pensamiento de producto probabilista"
+      ]
+    },
+    "AIPM-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Estrategia para una cartera de funcionalidades de IA que comparten una infraestructura común de evals",
+        "Definición del modelo de confianza y transparencia en toda la superficie del producto",
+        "Gestión de la economía unitaria de la inferencia a escala como motor de negocio",
+        "Diseño de volantes de datos donde el uso mejora de forma medible la calidad del modelo",
+        "Liderazgo de las decisiones de construir o comprar sobre modelos fundacionales y proveedores",
+        "Gobernanza del riesgo y las obligaciones de cumplimiento de IA según el Reglamento de IA de la UE",
+        "Definición de listones de calidad que separan una demostración de un producto de IA publicable",
+        "Alineación multifuncional de investigación, ingeniería y diseño en torno a resultados"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con el enrutado entre varios modelos y estrategias de optimización de coste",
+        "Conocimiento de red-teaming y evaluación adversaria de funcionalidades de IA",
+        "Comprensión de los contratos con proveedores de modelos y la planificación de límites de tasa"
+      ],
+      "indicators": [
+        "Define la estrategia de un grupo de funcionalidades de IA",
+        "Es responsable del presupuesto de coste de inferencia de un área de producto",
+        "Representa el riesgo del producto de IA ante las partes interesadas de cumplimiento"
+      ]
+    },
+    "AIPM-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de un equipo de gestores de producto de IA en varias superficies apoyadas en modelos",
+        "Definición de los estándares de evaluación de la organización como disciplina de calidad",
+        "Gestión de la concesión entre la inversión en modelos y el margen de inferencia",
+        "Diseño de la estrategia de datos que alimenta la mejora continua del modelo",
+        "Definición de políticas de seguridad y abuso de IA alineadas con los objetivos de producto",
+        "Responsabilidad sobre la postura de cumplimiento de IA, incluidas las obligaciones del Reglamento de IA de la UE",
+        "Fijación de hojas de ruta de investigación que planifican capacidades de modelo inciertas",
+        "Establecimiento de la confianza como un resultado de producto medible, no un eslogan"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia escalando funcionalidades de IA desde el prototipo hasta la fiabilidad en producción",
+        "Conocimiento de técnicas que preservan la privacidad de los datos de entrenamiento",
+        "Comprensión de la observabilidad del modelo y la detección de deriva en producción"
+      ],
+      "indicators": [
+        "Gestiona a varios gestores de producto de IA",
+        "Define los estándares de evaluación y seguridad de la organización",
+        "Es responsable del modelo de margen de un conjunto de productos de IA"
+      ]
+    },
+    "AIPM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de la estrategia de producto de IA en toda la cartera de la organización apoyada en modelos",
+        "Definición de cómo la empresa se diferencia mediante datos y evals propios",
+        "Gobernanza de la economía de inferencia como palanca sobre los márgenes a nivel de empresa",
+        "Liderazgo de la estrategia de riesgo y regulación de IA en distintas jurisdicciones",
+        "Definición del equilibrio entre la autonomía del modelo y la supervisión humana a escala",
+        "Fijación del estándar de qué significan calidad y confianza en los productos de IA",
+        "Alineación de las apuestas de investigación con las hojas de ruta comerciales bajo gran incertidumbre",
+        "Construcción de la infraestructura de datos y retroalimentación como ventaja duradera"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia navegando la regulación de IA con equipos jurídicos y de políticas",
+        "Conocimiento de la economía de los modelos fundacionales y la negociación con proveedores",
+        "Liderazgo en prácticas de IA responsable y rendición de cuentas externa"
+      ],
+      "indicators": [
+        "Dirige el producto de IA de una unidad de negocio",
+        "Fija la postura de la organización sobre riesgo y calidad de IA",
+        "Da forma a la estrategia de proveedores y datos a nivel de empresa"
+      ]
+    },
+    "AIPM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la estrategia de producto de IA en toda la empresa",
+        "Definición de la ventaja de datos y evals que sustenta la posición competitiva",
+        "Gobernanza de la economía de inferencia como motor central de las finanzas de la empresa",
+        "Fijación de la postura corporativa sobre seguridad, autonomía y supervisión humana de la IA",
+        "Liderazgo de la estrategia regulatoria de IA, incluida la conformidad con el Reglamento de IA de la UE",
+        "Definición de cómo se financia la incertidumbre de investigación y se escalona en las hojas de ruta",
+        "Comunicación de la estrategia de producto de IA y sus riesgos a la dirección ejecutiva",
+        "Establecimiento de la confianza y la fiabilidad como diferenciadores frente a la competencia"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia representando la estrategia de producto de IA ante reguladores y consejos",
+        "Conocimiento de marcos de responsabilidad y rendición de cuentas de IA",
+        "Liderazgo en iniciativas intersectoriales de IA responsable"
+      ],
+      "indicators": [
+        "Depende del director ejecutivo",
+        "Es responsable de la estrategia de producto de IA en toda la empresa",
+        "Define la posición corporativa sobre riesgo y cumplimiento de IA"
+      ]
+    },
+    "AIPM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición de la tesis a largo plazo de la empresa sobre dónde la capacidad del modelo crea valor",
+        "Arquitectura de la estrategia de evals y datos como ventaja central del producto",
+        "Encuadre de la economía de inferencia como determinante estructural del modelo de negocio",
+        "Fijación de la doctrina corporativa sobre seguridad, autonomía y rendición de cuentas de la IA",
+        "Liderazgo de la postura regulatoria a medida que la ley de IA evoluciona en los mercados",
+        "Definición de cómo invertir bajo incertidumbre de investigación en varios horizontes",
+        "Establecimiento de la confianza en los productos de IA como ventaja competitiva duradera",
+        "Configuración del modelo operativo que convierte la investigación de modelos en productos publicados"
+      ],
+      "complementaryCompetencies": [
+        "Asesoramiento sobre estrategia de producto de IA a la dirección de todo el sector",
+        "Influencia en los estándares de IA responsable más allá de la empresa",
+        "Trayectoria convirtiendo capacidad de investigación en productos comerciales"
+      ],
+      "indicators": [
+        "Forma parte del equipo ejecutivo en materia de producto de IA",
+        "Define la tesis de producto de IA a largo plazo de la empresa",
+        "Es una autoridad reconocida en estrategia de producto de IA"
+      ]
+    },
+    "AIPM-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre la visión corporativa de cómo los productos de IA crean valor duradero",
+        "Definición de la estrategia de datos y evaluación como ventaja central de la organización",
+        "Custodia de la economía de inferencia como determinante del modelo financiero de la empresa",
+        "Fijación de la postura fundacional de la organización sobre seguridad y supervisión humana de la IA",
+        "Liderazgo de la postura regulatoria y de rendición de cuentas de la empresa en materia de IA",
+        "Dirección de la inversión a largo horizonte bajo incertidumbre fundamental de investigación",
+        "Establecimiento de la confianza y la fiabilidad como base de la franquicia de producto de IA",
+        "Definición del modelo operativo que conecta investigación, producto y seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Reconocimiento como referente en estrategia de producto de IA en el sector",
+        "Influencia en las políticas públicas y los estándares de productos de IA",
+        "Trayectoria construyendo organizaciones de producto de IA a escala"
+      ],
+      "indicators": [
+        "Lidera la organización de producto de IA de la empresa",
+        "Define la dirección de IA a largo plazo de la empresa",
+        "Es autoridad de referencia en gestión de producto de IA"
+      ]
+    }
+  }
+}

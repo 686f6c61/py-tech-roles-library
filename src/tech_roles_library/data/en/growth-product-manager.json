@@ -1,0 +1,249 @@
+{
+  "role": "Growth Product Manager",
+  "category": "Product",
+  "levels": {
+    "GPM-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic notions of the AARRR funnel (acquisition, activation, retention, revenue, referral)",
+        "Reads product analytics and reports funnel conversion rates",
+        "Documents experiment hypotheses and results",
+        "Runs a simple A/B test with guidance",
+        "Notions of activation and retention metrics",
+        "Builds basic cohort views to see retention over time",
+        "Understands the concept of a North Star metric"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with analytics tools (Amplitude, Mixpanel, GA)",
+        "Basic SQL to pull event data",
+        "Notions of referral and viral mechanics"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Executes simple experiments",
+        "Needs 6-12 months of mentoring in growth"
+      ]
+    },
+    "GPM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Designs growth experiments with clear hypotheses and metrics",
+        "Runs A/B tests and interprets statistical significance",
+        "Analyzes funnel drop-off and proposes activation improvements",
+        "Builds cohort analysis to measure retention and engagement",
+        "Instruments events and defines conversion metrics",
+        "Tests referral and onboarding flows",
+        "Prioritizes experiments by expected impact and effort"
+      ],
+      "complementaryCompetencies": [
+        "Hands-on with an experimentation tool",
+        "SQL for funnel and cohort analysis",
+        "Notions of product-led growth"
+      ],
+      "indicators": [
+        "Executes growth initiatives with supervision",
+        "Analyzes metrics and optimizes funnels",
+        "Runs valid A/B tests"
+      ]
+    },
+    "GPM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Designs growth strategies for a stage of the AARRR funnel",
+        "Builds and instruments growth loops (referral, content, viral)",
+        "Runs rigorous A/B and multivariate experiments with clean readouts",
+        "Improves activation and retention with cohort-based analysis",
+        "Defines and tracks the North Star metric and its input metrics",
+        "Designs monetization and pricing experiments",
+        "Works cross-functionally with engineering, design and data"
+      ],
+      "complementaryCompetencies": [
+        "Product-led growth motions and self-serve onboarding",
+        "Experiment design and statistical rigor",
+        "Notions of market and channel expansion"
+      ],
+      "indicators": [
+        "Leads growth initiatives for a funnel stage",
+        "Designs complex experiments",
+        "Mentors junior growth product managers"
+      ]
+    },
+    "GPM-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Owns the growth strategy for acquisition, activation or retention",
+        "Designs the product-led growth motion end to end",
+        "Builds a portfolio of growth loops and compounding mechanics",
+        "Defines the North Star metric and the growth model",
+        "Runs a rigorous experimentation program with guardrail metrics",
+        "Leads monetization, pricing and packaging experiments",
+        "Drives a data-informed growth culture across squads"
+      ],
+      "complementaryCompetencies": [
+        "Network effects and viral growth mechanics",
+        "Growth infrastructure and experimentation platforms",
+        "International and market expansion"
+      ],
+      "indicators": [
+        "Defines growth strategy for the product",
+        "Leads a growth team",
+        "Is a product-led growth reference"
+      ]
+    },
+    "GPM-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leads growth across multiple funnel stages and squads",
+        "Defines the growth model, North Star and input metrics",
+        "Runs the experimentation program with statistical rigor and guardrails",
+        "Scales activation, retention and monetization initiatives",
+        "Builds and maintains growth loops and referral engines",
+        "Establishes growth operations and experiment velocity",
+        "Aligns growth strategy with product and business goals"
+      ],
+      "complementaryCompetencies": [
+        "Hypergrowth and scaling playbooks",
+        "Growth economics: LTV, CAC and payback",
+        "Growth budget and resource management"
+      ],
+      "indicators": [
+        "Manages a growth team",
+        "Defines the growth vision",
+        "Represents growth to executives"
+      ]
+    },
+    "GPM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Directs the growth strategy for a product line",
+        "Manages growth programs and the experimentation portfolio",
+        "Defines the product-led growth architecture and loops",
+        "Leads activation, retention and monetization at scale",
+        "Governs the North Star metric and growth accountability",
+        "Manages international expansion and channel strategy",
+        "Leads and mentors a group of growth product managers"
+      ],
+      "complementaryCompetencies": [
+        "Growth in mergers and new-market entry",
+        "Pricing and monetization strategy",
+        "Leadership in growth communities"
+      ],
+      "indicators": [
+        "Directs a growth function",
+        "Sets growth investment priorities",
+        "Contributes to the product strategy"
+      ]
+    },
+    "GPM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Sets the multi-year growth strategy for the company",
+        "Establishes the product-led growth operating model",
+        "Standardizes the experimentation program and metric framework",
+        "Governs the North Star metric and growth model enterprise-wide",
+        "Leads activation, retention and monetization strategy across products",
+        "Defines expansion and channel strategy for new markets",
+        "Advises executives on growth, pricing and unit economics"
+      ],
+      "complementaryCompetencies": [
+        "Influence on growth practices and standards",
+        "Growth for scaling and expansion-stage companies",
+        "Mentors principal growth product managers"
+      ],
+      "indicators": [
+        "Sets corporate growth direction",
+        "Reports to the CPO or CEO on growth",
+        "Recognized internal authority on growth"
+      ]
+    },
+    "GPM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Owns the enterprise growth vision across products",
+        "Aligns growth strategy with business and revenue goals",
+        "Defines reference growth models and playbooks adopted company-wide",
+        "Leads growth strategy for new products and expansion",
+        "Establishes experimentation, metric and guardrail standards at scale",
+        "Sets monetization, pricing and unit-economics frameworks",
+        "Sponsors growth communities and enablement"
+      ],
+      "complementaryCompetencies": [
+        "Shapes external growth and partnership relationships",
+        "Advises leadership on growth and monetization strategy",
+        "Thought leadership in product-led growth"
+      ],
+      "indicators": [
+        "Sits on the product leadership committee",
+        "Defines enterprise growth strategy",
+        "Recognized leader in growth"
+      ]
+    },
+    "GPM-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Sets and executes the enterprise growth vision",
+        "Aligns growth with corporate strategy and revenue goals",
+        "Owns the growth model, North Star and unit economics across the company",
+        "Builds and leads the growth organization",
+        "Defines the product-led growth operating model and loops",
+        "Establishes activation, retention and monetization strategy at scale",
+        "Governs experimentation, metrics and growth accountability"
+      ],
+      "complementaryCompetencies": [
+        "Influences growth practices in the industry",
+        "Steers strategic growth and channel partnerships",
+        "Sponsors growth talent and succession"
+      ],
+      "indicators": [
+        "Accountable for enterprise growth strategy",
+        "Executes the long-term growth vision",
+        "Recognized leader in growth"
+      ]
+    }
+  }
+}

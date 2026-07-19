@@ -1,0 +1,258 @@
+{
+  "role": "Game Developer",
+  "category": "Software Engineering",
+  "levels": {
+    "GD-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of game loops and mechanics",
+        "Elementary understanding of game physics",
+        "Ability for simple gameplay scripting",
+        "Basic knowledge of 2D/3D graphics",
+        "Ability to use basic game engines",
+        "Understanding of input handling",
+        "Elementary knowledge of game states",
+        "Ability for basic game debugging"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with assets and sprites",
+        "Basic knowledge of level design",
+        "Elementary understanding of game AI"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Implements simple mechanics with guidance",
+        "Is learning game development"
+      ]
+    },
+    "GD-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement complete gameplay systems",
+        "Development of character controllers",
+        "Practical knowledge of collision detection",
+        "Ability for game UI/UX",
+        "Implementation of save/load systems",
+        "Understanding of pathfinding algorithms",
+        "Ability for audio integration",
+        "Knowledge of particle systems"
+      ],
+      "complementaryCompetencies": [
+        "Basic mobile development",
+        "Knowledge of simple shader programming",
+        "Ability for local multiplayer"
+      ],
+      "indicators": [
+        "Develops game features with supervision",
+        "Implements standard mechanics",
+        "Optimizes basic performance"
+      ]
+    },
+    "GD-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of complex game architectures",
+        "Implementation of advanced AI behaviors",
+        "Mastery of graphics programming",
+        "Ability for multiplayer networking",
+        "Ability for procedural generation",
+        "Deep knowledge of optimization techniques",
+        "Implementation of monetization systems",
+        "Design of custom tools and editors"
+      ],
+      "complementaryCompetencies": [
+        "Development of VR/AR games",
+        "Knowledge of backend services for games",
+        "Ability for cross-platform development"
+      ],
+      "indicators": [
+        "Designs complete game systems",
+        "Leads development of complex features",
+        "Mentors in best practices"
+      ]
+    },
+    "GD-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of proprietary game engines",
+        "Design of MMO infrastructure",
+        "Implementation of advanced rendering techniques",
+        "Mastery of real-time optimization",
+        "Ability for leading technical direction",
+        "Deep knowledge of platform-specific optimization",
+        "Ability for live-ops architecture",
+        "Leadership in technical game design"
+      ],
+      "complementaryCompetencies": [
+        "Experience in console development",
+        "Knowledge of cloud gaming",
+        "Implementation of anti-cheat systems"
+      ],
+      "indicators": [
+        "Defines technical architecture of AAA projects",
+        "Leads technical game teams",
+        "Is a reference in game technology"
+      ]
+    },
+    "GD-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in game production",
+        "Design of complete development pipelines",
+        "Management of multidisciplinary teams",
+        "Definition of technical roadmaps",
+        "Ability for R&D in new technologies",
+        "Implementation of agile methodologies for games",
+        "Mastery of post-launch strategies",
+        "Adoption of new engine and tooling technologies across teams"
+      ],
+      "complementaryCompetencies": [
+        "Experience in game porting",
+        "Knowledge of blockchain gaming",
+        "Management of external development"
+      ],
+      "indicators": [
+        "Manages multiple development teams",
+        "Defines studio technical vision",
+        "Represents technology to publishers"
+      ]
+    },
+    "GD-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Technical direction of game studios",
+        "Multi-project technology strategy",
+        "Management of large technical budgets",
+        "Definition of studio tech stack",
+        "Leadership in next-gen development",
+        "Management of technology partnerships",
+        "Innovation in game development processes",
+        "Definition of quality standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience in game franchises",
+        "Knowledge of esports infrastructure",
+        "Leadership in game industry initiatives"
+      ],
+      "indicators": [
+        "Directs technical department (20+ people)",
+        "Participates in strategic studio decisions",
+        "Defines technology for multiple titles"
+      ]
+    },
+    "GD-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in game technology",
+        "Design of multi-studio technology strategies",
+        "Transformation of production processes",
+        "Management of industry-scale innovation",
+        "Creation of proprietary technology",
+        "Definition of game development future",
+        "Presentation of technical strategy to investors and boards",
+        "Influence on industry direction"
+      ],
+      "complementaryCompetencies": [
+        "Management of game technology licensing",
+        "Experience in metaverse development",
+        "Leadership in technology consortiums"
+      ],
+      "indicators": [
+        "Reports to CEO/Board",
+        "Manages technical organizations (50+ people)",
+        "Defines corporate technology strategy"
+      ]
+    },
+    "GD-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of gaming future",
+        "Leadership in digital entertainment transformation",
+        "Definition of new gameplay and production models",
+        "Management of massive technology portfolios",
+        "Advancement of interactive experience technologies",
+        "Definition of industry standards",
+        "Assessment and adoption of new gaming platforms",
+        "Influence on global gaming policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CTO in AAA publishers",
+        "Advisory in multiple game studios",
+        "Creation of commercial game engines"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines publisher technology strategy",
+        "Is thought leader in game technology"
+      ]
+    },
+    "GD-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in the future of interactive entertainment",
+        "Transformation of how humanity plays",
+        "Creation of new media of expression",
+        "Definition of massive virtual realities",
+        "Innovation in human-game symbiosis",
+        "Positioning of games as a cultural medium",
+        "Architect of metaverses and virtual worlds",
+        "Influence on digital leisure evolution"
+      ],
+      "complementaryCompetencies": [
+        "Creator of revolutionary game genres",
+        "Recognition as industry legend",
+        "Influence on generations of developers"
+      ],
+      "indicators": [
+        "Is a recognized authority in game technology and creative direction",
+        "Defines future of digital entertainment",
+        "Is icon of gaming industry"
+      ]
+    }
+  }
+}

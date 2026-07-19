@@ -1,0 +1,266 @@
+{
+  "role": "Analytics Engineer",
+  "category": "Data",
+  "levels": {
+    "ANE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of SQL and relational databases",
+        "Elementary knowledge of data modeling concepts",
+        "Ability to write simple SELECT queries with joins",
+        "Basic understanding of the ETL and ELT approach",
+        "Familiarity with version control using Git",
+        "Elementary knowledge of data quality and validation",
+        "Basic understanding of analytical use cases",
+        "Ability to read and interpret existing data models"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of a BI tool (Looker, Tableau, Power BI)",
+        "Familiarity with spreadsheets and pivot tables",
+        "Elementary understanding of descriptive statistics"
+      ],
+      "indicators": [
+        "Requires constant supervision in modeling tasks",
+        "Can run and modify existing SQL transformations",
+        "Needs 3-6 months of mentoring in analytics engineering"
+      ]
+    },
+    "ANE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to build data models with dbt or similar tools",
+        "Practical knowledge of dimensional modeling (star schema)",
+        "Ability to write intermediate SQL with CTEs and window functions",
+        "Understanding of staging, intermediate and mart layers",
+        "Ability to implement basic data tests and assertions",
+        "Knowledge of source freshness and data documentation",
+        "Understanding of incremental models and materializations",
+        "Ability to collaborate with analysts on requirements",
+        "Basic knowledge of code review for SQL transformations"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with cloud data warehouses (BigQuery, Snowflake)",
+        "Ability to build simple dashboards",
+        "Understanding of basic orchestration schedules"
+      ],
+      "indicators": [
+        "Can build modular transformations with supervision",
+        "Resolves common data quality issues in models",
+        "Maintains existing dbt projects effectively"
+      ]
+    },
+    "ANE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of layered modeling architecture and naming conventions",
+        "Ability to design reusable and DRY transformations with macros",
+        "Ability to optimize SQL performance and warehouse costs",
+        "Deep knowledge of testing strategies (unit, generic, custom)",
+        "Ability to implement slowly changing dimensions",
+        "Solid understanding of data lineage and impact analysis",
+        "Ability to design metrics and reusable business logic",
+        "Knowledge of CI/CD for analytics code",
+        "Ability to document models for self-service consumption"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of semantic layer concepts",
+        "Ability to work with event and behavioral data",
+        "Understanding of reverse ETL workflows"
+      ],
+      "indicators": [
+        "Designs end-to-end analytical data models",
+        "Significantly optimizes existing transformations",
+        "Contributes to modeling standards and conventions"
+      ]
+    },
+    "ANE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design scalable analytics data architectures",
+        "Mastery of the semantic layer and metrics definitions",
+        "Ability to establish testing and quality frameworks",
+        "Deep knowledge of modularity and dependency management",
+        "Ability to implement automated CI/CD pipelines for analytics",
+        "Mastery of cost optimization in cloud data warehouses",
+        "Ability to design self-service data products",
+        "Knowledge of data contracts between producers and consumers",
+        "Ability to implement analytics observability and monitoring"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of streaming and near real-time analytics",
+        "Ability to integrate machine learning features",
+        "Understanding of data governance for analytics"
+      ],
+      "indicators": [
+        "Leads complex analytics engineering projects",
+        "Defines modeling and testing standards",
+        "Mentors junior analytics engineers"
+      ]
+    },
+    "ANE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise semantic and metrics layers",
+        "Ability to design analytics platforms for the whole organization",
+        "Mastery of large-scale modeling and multi-project architectures",
+        "Ability to implement enterprise data quality frameworks",
+        "Deep knowledge of warehouse performance tuning",
+        "Ability to define data contracts and SLAs for analytics",
+        "Expertise in analytics DataOps and automation",
+        "Mastery of governance and access control for analytical data",
+        "Ability to design certified and trusted data products"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of feature stores for analytics and ML",
+        "Ability to enable experimentation and A/B testing analytics",
+        "Understanding of privacy-preserving analytics"
+      ],
+      "indicators": [
+        "Architects enterprise analytics solutions",
+        "Leads analytics platform migrations",
+        "Defines the technical analytics roadmap"
+      ]
+    },
+    "ANE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect global analytics ecosystems",
+        "Expertise in the metrics layer as a single source of truth",
+        "Mastery of data products and analytics as a service",
+        "Ability to implement complete analytics observability",
+        "Deep knowledge of FinOps for analytical workloads",
+        "Ability to design architectures for organization-wide self-service",
+        "Expertise in data mesh applied to analytics domains",
+        "Mastery of trust, certification and data quality programs",
+        "Ability to lead analytics engineering teams"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AI-assisted analytics and semantic search",
+        "Ability to drive analytics adoption across domains",
+        "Understanding of sustainable and efficient data practices"
+      ],
+      "indicators": [
+        "Architects analytics platforms for multiple domains",
+        "Leads organizational analytics maturity transformation",
+        "Defines long-term analytics strategy"
+      ]
+    },
+    "ANE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in enterprise analytics democratization",
+        "Ability to design federated analytics governance models",
+        "Expertise in self-service analytics platforms at scale",
+        "Mastery of enterprise metrics and knowledge frameworks",
+        "Ability to implement data mesh at global scale",
+        "Deep knowledge of analytics regulatory compliance",
+        "Expertise in analytics value measurement and ROI",
+        "Ability to define analytics engineering practices across the company",
+        "Mastery of innovation in analytics tooling and methods"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence analytics industry standards",
+        "Ability to build internal analytics platforms as products",
+        "Knowledge of emerging analytics ecosystem trends"
+      ],
+      "indicators": [
+        "Defines corporate analytics engineering strategy",
+        "Leads external analytics engineering communities",
+        "Recognized thought leader in analytics engineering"
+      ]
+    },
+    "ANE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of analytics",
+        "Ability to transform companies into metrics-driven organizations",
+        "Expertise in analytics strategy for M&A and integrations",
+        "Mastery of building analytics centers of excellence",
+        "Ability to define enterprise analytics governance",
+        "Deep knowledge of analytics economics and ROI",
+        "Expertise in strategic analytics partnerships and tooling decisions",
+        "Ability to lead open source analytics projects",
+        "Mastery of trustworthy and responsible analytics practices"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape analytics engineering methodologies",
+        "Ability to advise on analytics platform investments",
+        "Knowledge of investment in analytics technology"
+      ],
+      "indicators": [
+        "Defines analytics architecture for conglomerates",
+        "Influences the direction of the analytics discipline",
+        "Principal speaker at global conferences"
+      ]
+    },
+    "ANE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in analytics and data strategy",
+        "Ability to turn analytics into a business differentiator",
+        "Expertise in analytics-driven digital transformation",
+        "Mastery of multi-million dollar analytics budgets",
+        "Ability to build global analytics organizations",
+        "Deep knowledge of analytics governance and compliance",
+        "Expertise in analytics partnerships and ecosystems",
+        "Ability to define a metrics-driven organizational culture",
+        "Mastery of innovation and R&D in analytics"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence analytics regulation and standards",
+        "Ability to create analytics ecosystems",
+        "Knowledge of analytics investment strategies"
+      ],
+      "indicators": [
+        "Defines and executes the enterprise analytics vision",
+        "Responsible for corporate analytics strategy",
+        "Recognized leader in the global analytics industry"
+      ]
+    }
+  }
+}

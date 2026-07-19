@@ -1,0 +1,249 @@
+{
+  "role": "Especialista en Visualización de Datos",
+  "category": "Datos",
+  "levels": {
+    "DVS-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Tipos de gráfico básicos y cuándo usarlos (barras, líneas, dispersión)",
+        "Nociones de codificación visual: posición, longitud y color",
+        "Construcción de gráficos simples a partir de un conjunto de datos preparado",
+        "Aplicación de color y etiquetado para la legibilidad",
+        "Uso de plantillas de cuadros de mando en una herramienta de BI",
+        "Nociones de tinta de datos y reducción del desorden visual",
+        "Documentación de la métrica y la fuente que hay detrás de un gráfico"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con una herramienta de BI (Tableau, Power BI, Looker)",
+        "Gráficos básicos en hojas de cálculo",
+        "Sensibilidad a la accesibilidad y el contraste"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Construye visualizaciones simples",
+        "Necesita entre 6 y 12 meses de mentoría"
+      ]
+    },
+    "DVS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Elección del gráfico adecuado según la pregunta y el tipo de dato",
+        "Construcción de cuadros de mando interactivos con filtros y desgloses",
+        "Preparación y modelado de datos para la visualización",
+        "Aplicación de principios de la gramática de gráficos (codificaciones, escalas)",
+        "Diseño accesible: paletas seguras para daltonismo y etiquetas claras",
+        "Optimización de la disposición del cuadro de mando para la legibilidad",
+        "Documentación de definiciones y mantenimiento de una métrica coherente"
+      ],
+      "complementaryCompetencies": [
+        "Nociones de una biblioteca de gráficos (D3, Vega-Lite)",
+        "SQL básico para la preparación de datos",
+        "Diseño de cuadros de mando adaptables y móviles"
+      ],
+      "indicators": [
+        "Construye cuadros de mando con supervisión",
+        "Aplica buenas prácticas de visualización",
+        "Mantiene cuadros de mando corporativos"
+      ]
+    },
+    "DVS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de la gramática de gráficos y los principios de percepción visual",
+        "Diseño de cuadros de mando que responden a preguntas de negocio concretas",
+        "Aplicación de narrativa con datos para guiar al lector hacia el hallazgo",
+        "Construcción de visualizaciones personalizadas más allá de los gráficos por defecto",
+        "Optimización del rendimiento del cuadro de mando (consultas, extractos, caché)",
+        "Garantía de accesibilidad y estándares visuales coherentes",
+        "Diseño de visualizaciones geoespaciales y de series temporales"
+      ],
+      "complementaryCompetencies": [
+        "Programación creativa con una biblioteca de gráficos (D3, Vega)",
+        "Periodismo de datos y técnicas narrativas",
+        "Nociones de capa semántica para métricas coherentes"
+      ],
+      "indicators": [
+        "Diseña sistemas de visualización para un equipo",
+        "Lidera proyectos de visualización",
+        "Tutoriza a especialistas junior"
+      ]
+    },
+    "DVS-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia de visualización y el sistema de diseño de un dominio",
+        "Estandarización de patrones de gráfico, paletas y pautas de accesibilidad",
+        "Arquitectura de cuadros de mando de autoservicio y métricas certificadas",
+        "Optimización del rendimiento en cuadros de mando y conjuntos de datos grandes",
+        "Liderazgo de la narrativa con datos para audiencias ejecutivas y operativas",
+        "Gestión de la capa semántica para métricas coherentes y reutilizables",
+        "Reducción de la carga cognitiva mediante la disposición y el diseño de interacción"
+      ],
+      "complementaryCompetencies": [
+        "Gobierno de BI y certificación de contenido",
+        "Tokens de diseño y componentes de visualización reutilizables",
+        "Nociones de analítica embebida"
+      ],
+      "indicators": [
+        "Define los estándares de visualización de la organización",
+        "Lidera un equipo de visualización o BI",
+        "Tutoriza a especialistas"
+      ]
+    },
+    "DVS-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de la plataforma de visualización empresarial y el sistema de diseño",
+        "Impulso de la adopción de analítica de autoservicio entre equipos",
+        "Gobierno de las definiciones de métricas y los cuadros de mando certificados",
+        "Fijación de estándares de accesibilidad y rendimiento a escala",
+        "Establecimiento de prácticas y plantillas de narrativa con datos",
+        "Definición de patrones de interacción para la exploración humano-datos",
+        "Dirección de programas de capacitación y adopción de visualización"
+      ],
+      "complementaryCompetencies": [
+        "Analítica embebida y de marca blanca",
+        "Investigación de visualización y pruebas de usabilidad",
+        "Alianzas con equipos de producto y diseño"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de la plataforma de visualización",
+        "Define la hoja de ruta de visualización",
+        "Lidera una organización de visualización"
+      ]
+    },
+    "DVS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de la estrategia de visualización de una unidad de negocio",
+        "Gestión del sistema de diseño y la plataforma de autoservicio a escala",
+        "Definición del gobierno de métricas, certificación y accesibilidad",
+        "Liderazgo de los estándares de narrativa para la toma de decisiones ejecutiva",
+        "Fijación de estándares de rendimiento y fiabilidad de los cuadros de mando",
+        "Impulso de las métricas de adopción y la madurez del autoservicio",
+        "Liderazgo y mentoría de un grupo de especialistas de visualización"
+      ],
+      "complementaryCompetencies": [
+        "Analítica embebida y experiencias de datos en producto",
+        "Programas transversales de alfabetización de datos",
+        "Prácticas sostenibles y eficientes de cuadros de mando"
+      ],
+      "indicators": [
+        "Dirige una función de visualización",
+        "Fija la estrategia de visualización a largo plazo",
+        "Resuelve compromisos de diseño entre equipos"
+      ]
+    },
+    "DVS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia plurianual de visualización de la empresa",
+        "Establecimiento del sistema de diseño empresarial y el modelo de autoservicio",
+        "Estandarización de la certificación de métricas, la accesibilidad y el rendimiento",
+        "Gobierno de la narrativa con datos y los estándares de apoyo a la decisión",
+        "Definición de la estrategia de herramientas y plataforma de visualización",
+        "Impulso de la alfabetización de datos y la adopción del autoservicio en toda la empresa",
+        "Asesoría a la dirección sobre presentación de datos y toma de decisiones"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en los estándares y prácticas de visualización",
+        "Estrategia de analítica de producto y visualización embebida",
+        "Mentoría de especialistas principales"
+      ],
+      "indicators": [
+        "Fija la dirección corporativa de visualización",
+        "Arbitra decisiones de diseño de alto impacto",
+        "Autoridad interna reconocida en visualización de datos"
+      ]
+    },
+    "DVS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Responsable de la visión de visualización empresarial en todos los dominios",
+        "Alineación de la estrategia de visualización con la toma de decisiones del negocio",
+        "Definición de sistemas de diseño de referencia adoptados en toda la empresa",
+        "Liderazgo de la estrategia de visualización en integraciones y nuevos productos",
+        "Establecimiento de estándares de accesibilidad, rendimiento y certificación",
+        "Fijación de marcos de autoservicio y alfabetización de datos",
+        "Patrocinio de gremios de visualización y comunidades de capacitación"
+      ],
+      "complementaryCompetencies": [
+        "Configuración de relaciones externas de herramientas y diseño",
+        "Asesoría a la dirección sobre estrategia de presentación de datos",
+        "Liderazgo de pensamiento en visualización de datos"
+      ],
+      "indicators": [
+        "Define la visualización entre unidades de negocio",
+        "Influye en la dirección de la disciplina",
+        "Autoridad principal en visualización de datos"
+      ]
+    },
+    "DVS-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Definición y ejecución de la visión de visualización de datos empresarial",
+        "Alineación de la visualización con la estrategia de toma de decisiones corporativa",
+        "Responsabilidad del sistema de diseño y la estrategia de autoservicio de la empresa",
+        "Construcción y liderazgo de la organización de visualización",
+        "Definición de estándares de accesibilidad, rendimiento y certificación a escala global",
+        "Establecimiento de programas de narrativa con datos y alfabetización a gran escala",
+        "Gobierno de la estrategia de herramientas y plataforma de visualización"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en las prácticas de visualización del sector",
+        "Dirección de alianzas estratégicas de herramientas y diseño",
+        "Impulso del talento y la sucesión en visualización"
+      ],
+      "indicators": [
+        "Responsable de la estrategia de visualización empresarial",
+        "Ejecuta la visión de visualización a largo plazo",
+        "Líder reconocido en visualización de datos"
+      ]
+    }
+  }
+}

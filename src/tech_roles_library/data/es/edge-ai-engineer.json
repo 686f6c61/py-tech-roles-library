@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Edge AI",
+  "category": "IA/ML",
+  "levels": {
+    "EDGE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de la ejecución de una red neuronal en un dispositivo en lugar de en la nube",
+        "Capacidad de convertir un modelo entrenado al formato TFLite siguiendo una guía",
+        "Conocimiento elemental de medición del tamaño del modelo y del tiempo de inferencia en un dispositivo",
+        "Habilidad para ejecutar un modelo cuantizado en una placa de desarrollo bajo supervisión",
+        "Comprensión básica de por qué los dispositivos del borde tienen memoria y cómputo limitados",
+        "Capacidad de cargar y ejecutar un modelo ONNX con un motor de ejecución en un dispositivo de destino",
+        "Conocimiento elemental de lectura de perfiles de latencia y memoria",
+        "Comprensión básica de la diferencia entre entrenamiento e inferencia en el dispositivo"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de Python y de nociones de C",
+        "Familiaridad con microcontroladores u ordenadores de placa única",
+        "Comprensión elemental de los formatos de fichero de modelo"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede ejecutar scripts de conversión existentes con guía detallada",
+        "Necesita 3-6 meses para ser productivo"
+      ]
+    },
+    "EDGE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de aplicar cuantización INT8 posterior al entrenamiento y comprobar la pérdida de precisión",
+        "Conocimiento práctico de conversión de modelos a TFLite, ONNX o CoreML",
+        "Capacidad de medir latencia, memoria y energía en un dispositivo de destino",
+        "Comprensión del soporte de operadores y del repliegue cuando una capa no está soportada",
+        "Capacidad de ejecutar modelos en aceleradores NPU o DSP mediante los motores de ejecución del fabricante",
+        "Conocimiento de pruebas de precisión en el dispositivo frente a un conjunto de datos de referencia",
+        "Capacidad de reducir el tamaño del modelo con pruning básico con guía",
+        "Comprensión de la aritmética de punto fijo frente a la de punto flotante en los dispositivos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de marcos TinyML para microcontroladores",
+        "Familiaridad con cadenas de compilación cruzada",
+        "Comprensión básica de las hojas de datos de hardware de los aceleradores"
+      ],
+      "indicators": [
+        "Puede desplegar modelos simples en dispositivos de forma independiente",
+        "Resuelve problemas de complejidad media en conversión y cuantización",
+        "Participa activamente en revisiones de código"
+      ]
+    },
+    "EDGE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Capacidad de aplicar entrenamiento consciente de la cuantización para recuperar precisión tras INT8",
+        "Capacidad de combinar pruning y distilación para ajustarse a presupuestos de memoria estrictos",
+        "Conocimiento profundo de las rutas de despliegue de TFLite, ONNX Runtime y CoreML",
+        "Capacidad de perfilar y optimizar modelos frente a objetivos de latencia y energía",
+        "Comprensión del mapeo de operadores sobre aceleradores NPU y DSP",
+        "Capacidad de construir modelos TinyML que caben en kilobytes de memoria",
+        "Conocimiento de la validación del comportamiento en el dispositivo entre variantes de hardware",
+        "Capacidad de instrumentar dispositivos para recoger medidas de latencia y consumo"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de mecanismos de actualización por aire para el despliegue de modelos",
+        "Habilidad para escribir preprocesado eficiente para dispositivos restringidos",
+        "Comprensión básica de las restricciones térmicas y de batería"
+      ],
+      "indicators": [
+        "Completa despliegues complejos en el borde con supervisión mínima",
+        "Identifica y resuelve fallos en cuantización y en mapeo de aceleradores",
+        "Contribuye activamente al diseño técnico de sistemas del borde"
+      ]
+    },
+    "EDGE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas de inferencia en el borde que cumplen presupuestos estrictos de latencia y consumo",
+        "Dominio de las estrategias de cuantización, incluidas QAT, precisión mixta y escalas por canal",
+        "Habilidad para construir flujos de pruning y distilación para la compresión de modelos",
+        "Conocimiento profundo de los aceleradores NPU, DSP y GPU y de su soporte de operadores",
+        "Capacidad de diseñar flujos de actualización por aire para el despliegue de modelos entre dispositivos",
+        "Dominio del despliegue TinyML en microcontroladores con memoria de kilobytes",
+        "Capacidad de construir evaluación comparativa automática sobre una flota de dispositivos de destino",
+        "Conocimiento de la monitorización en el dispositivo de la deriva de precisión y de la regresión de rendimiento"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la búsqueda de arquitectura neuronal consciente del hardware para objetivos del borde",
+        "Habilidad para diseñar rutas de repliegue entre la ejecución en acelerador y en CPU",
+        "Comprensión del arranque seguro y de las actualizaciones de modelo firmadas"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de componentes críticos del borde",
+        "Mentoriza eficazmente a ingenieros junior",
+        "Toma decisiones arquitecturales informadas sobre el despliegue en el borde"
+      ]
+    },
+    "EDGE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en el diseño de plataformas de IA en el borde de producción entre dispositivos heterogéneos",
+        "Capacidad de arquitectar una entrega de modelos por aire escalable a grandes flotas de dispositivos",
+        "Dominio de flujos de compresión que combinan cuantización, pruning y distilación",
+        "Conocimiento profundo de las cadenas de herramientas de aceleradores y de la optimización específica del fabricante",
+        "Capacidad de diseñar despliegues por fases con monitorización y reversión para modelos del borde",
+        "Experiencia en la optimización del equilibrio entre precisión, latencia y energía en el dispositivo",
+        "Capacidad de construir observabilidad de flota para latencia, consumo y deriva de precisión",
+        "Dominio de la validación entre variantes de hardware y versiones de firmware"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento del aprendizaje federado y de la personalización en el dispositivo",
+        "Habilidad para diseñar bancos de evaluación del borde desde cero",
+        "Comprensión de las restricciones de certificación y seguridad de los dispositivos empotrados"
+      ],
+      "indicators": [
+        "Diseña arquitecturas del borde para productos completos",
+        "Define los estándares técnicos del equipo para el despliegue en el borde",
+        "Lidera iniciativas entre equipos sobre infraestructura del borde"
+      ]
+    },
+    "EDGE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas de IA en el borde empresariales que dan servicio a muchas familias de dispositivos",
+        "Experiencia en marcos de gobernanza para las actualizaciones de modelos entre flotas de dispositivos",
+        "Dominio de la monitorización de toda la flota y de la validación continua de rendimiento",
+        "Capacidad de liderar la selección de hardware y las alianzas de aceleradores para el borde",
+        "Conocimiento profundo de amenazas de seguridad específicas de los modelos y actualizaciones en el dispositivo",
+        "Capacidad de liderar migraciones de la inferencia en la nube al despliegue en el borde",
+        "Experiencia en la gobernanza de coste y consumo en grandes flotas de dispositivos",
+        "Dominio de la ingeniería de fiabilidad para dispositivos con conectividad intermitente"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de aceleradores del borde emergentes y de ecosistemas TinyML",
+        "Habilidad para diseñar cadenas de herramientas reutilizables de compresión y despliegue",
+        "Comprensión de las restricciones regulatorias de los dispositivos empotrados conectados"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones del borde para múltiples equipos",
+        "Influye en las decisiones técnicas organizacionales sobre IA en el borde",
+        "Representa a la empresa técnicamente en el ámbito de la IA en el borde"
+      ]
+    },
+    "EDGE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la adopción de IA en el borde en toda la organización",
+        "Capacidad de diseñar arquitecturas del borde resistentes al cambio de hardware y de proveedor",
+        "Experiencia en estrategias para desplegar modelos con seguridad en millones de dispositivos",
+        "Dominio de abstracciones agnósticas al hardware entre aceleradores y motores de ejecución",
+        "Capacidad de definir hojas de ruta de varios años para capacidades de IA en el borde",
+        "Conocimiento profundo de la economía y del coste total del despliegue en el borde a escala",
+        "Experiencia en la construcción y el escalamiento de equipos de ingeniería de IA en el borde",
+        "Capacidad de fijar estándares para actualizaciones de modelo por aire seguras en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Habilidad para evaluar técnicamente proveedores de hardware y aceleradores del borde",
+        "Conocimiento de las tendencias de investigación en compresión de modelos e inferencia eficiente",
+        "Capacidad de dar forma a la política interna sobre datos del dispositivo y procesamiento en el dispositivo"
+      ],
+      "indicators": [
+        "Define la estrategia técnica organizacional para la IA en el borde",
+        "Reconocido como autoridad en IA en el borde aplicada",
+        "Ponente en conferencias del sector sobre IA en el borde y empotrada"
+      ]
+    },
+    "EDGE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Capacidad de fijar la dirección técnica a largo plazo de la IA en el borde en la organización",
+        "Experiencia en alinear la inversión en IA en el borde con las prioridades de producto y de hardware",
+        "Dominio de la diligencia debida técnica para productos del borde y adquisiciones de hardware",
+        "Capacidad de anticipar cambios en los aceleradores y adaptar la estrategia de despliegue",
+        "Conocimiento profundo del panorama de riesgo y seguridad de la IA en el dispositivo",
+        "Capacidad de construir y liderar organizaciones de ingeniería de IA en el borde",
+        "Experiencia en la definición de prácticas seguras de actualización y reversión a escala de flota",
+        "Capacidad de guiar el equilibrio entre inferencia en la nube, en el borde e híbrida"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de informar los estándares del sector sobre la seguridad de los modelos en el dispositivo",
+        "Conocimiento del panorama de proveedores de silicio y aceleradores del borde",
+        "Capacidad de asesorar a la dirección sobre el riesgo y la oportunidad de la IA en el borde"
+      ],
+      "indicators": [
+        "Da forma a la dirección técnica de la IA en el borde en la organización",
+        "Asesora a la alta dirección sobre la estrategia y el riesgo de la IA en el borde",
+        "Mentoriza a líderes técnicos senior en IA en el borde"
+      ]
+    },
+    "EDGE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Capacidad de definir la visión técnica y la postura de seguridad de la IA en el borde de la organización",
+        "Experiencia en alinear la estrategia de IA en el borde con la dirección de producto y las hojas de ruta de hardware",
+        "Dominio de la gobernanza de la inversión en silicio del borde, herramientas y operación de flotas",
+        "Capacidad de dirigir el abastecimiento de aceleradores y dispositivos entre proveedores",
+        "Conocimiento profundo de la gestión del riesgo de seguridad y fiabilidad de la IA en el dispositivo a escala",
+        "Capacidad de construir la capacidad organizacional para la IA en el borde entre familias de dispositivos",
+        "Experiencia en fijar estándares para actualizaciones de modelo seguras y auditables",
+        "Capacidad de sostener la ventaja competitiva mediante una IA eficiente en el dispositivo"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en los estándares de seguridad y actualización de la IA en el dispositivo",
+        "Conocimiento del ecosistema de hardware, herramientas y talento del borde",
+        "Capacidad de representar a la organización en materia de fiabilidad de la IA en el borde"
+      ],
+      "indicators": [
+        "Fija y ejecuta la visión técnica de la IA en el borde",
+        "Responsable de la fiabilidad y la seguridad de la IA en el borde en los productos",
+        "Voz técnica pública de la organización en IA en el borde"
+      ]
+    }
+  }
+}

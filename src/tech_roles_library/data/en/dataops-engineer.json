@@ -1,0 +1,258 @@
+{
+  "role": "DataOps Engineer",
+  "category": "Data",
+  "levels": {
+    "DOE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of data pipelines and batch versus streaming",
+        "Running and monitoring Airflow DAGs under supervision",
+        "Elementary CI/CD for data jobs with Git and pull requests",
+        "Reading pipeline logs to spot failed tasks",
+        "Writing simple data-quality checks on tables",
+        "Deploying pipeline changes to a staging environment",
+        "Documenting pipeline steps and schedules",
+        "Basic SQL for inspecting source and target tables"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with Airflow or a similar orchestrator",
+        "Git branching and code review",
+        "Elementary use of containers for job execution"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Executes simple pipeline deployments",
+        "Is learning data-pipeline operations"
+      ]
+    },
+    "DOE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Building CI/CD pipelines for data jobs and transformations",
+        "Automated data tests with dbt tests or Great Expectations",
+        "Authoring and scheduling DAGs in Airflow or Dagster",
+        "Monitoring and alerting on pipeline freshness and failures",
+        "Infrastructure as code for data resources with Terraform",
+        "Automating deployments across dev, staging and production",
+        "Managing pipeline code and configuration in version control",
+        "Diagnosing and re-running failed pipeline tasks"
+      ],
+      "complementaryCompetencies": [
+        "Running data workloads on Kubernetes",
+        "Scripting glue logic in Python or Bash",
+        "Familiarity with cloud data warehouses (Snowflake, BigQuery)"
+      ],
+      "indicators": [
+        "Implements pipelines with occasional supervision",
+        "Automates deployments and backfills",
+        "Maintains monitoring and alerting"
+      ]
+    },
+    "DOE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Designing the DataOps architecture for a team's pipelines",
+        "Advanced CI/CD with environment promotion and rollbacks",
+        "Mastering orchestration with Airflow, Dagster or Prefect",
+        "Data observability: freshness, volume, schema and lineage",
+        "Reusable infrastructure modules for data platforms",
+        "Data-testing strategy across unit, integration and contracts",
+        "Self-service templates for analysts to ship pipelines",
+        "On-call incident response for data-pipeline outages"
+      ],
+      "complementaryCompetencies": [
+        "Data mesh operating patterns and domain ownership",
+        "Cost optimisation of warehouse and compute usage",
+        "Applying SRE principles to data systems"
+      ],
+      "indicators": [
+        "Leads DataOps projects for a domain",
+        "Designs pipeline automation and standards",
+        "Mentors engineers and analysts on DataOps"
+      ]
+    },
+    "DOE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecting the DataOps platform for multiple teams",
+        "Designing enterprise pipeline standards and golden paths",
+        "GitOps-driven deployment of data infrastructure",
+        "Running DataOps across multiple clouds and warehouses",
+        "Platform engineering for data: self-service and templates",
+        "Reliability engineering for data with SLOs on freshness",
+        "Governing data contracts and schema evolution",
+        "Leading automation of ingestion, transformation and delivery"
+      ],
+      "complementaryCompetencies": [
+        "Experience with lakehouse platforms (Databricks, Iceberg)",
+        "Cost governance and FinOps for data workloads",
+        "Policy as code for data access and quality"
+      ],
+      "indicators": [
+        "Defines the DataOps strategy",
+        "Leads a data-platform team",
+        "Is a reference for data reliability"
+      ]
+    },
+    "DOE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leading the technical design of the data platform end to end",
+        "Standardising orchestration, testing and deployment across teams",
+        "Defining data SLAs, SLOs and an error-budget policy",
+        "Building data observability and lineage platforms",
+        "GitOps and automation across many pipelines and domains",
+        "Capacity and cost optimisation of the data platform",
+        "Establishing incident response and postmortems for data",
+        "Setting engineering standards for pipeline development"
+      ],
+      "complementaryCompetencies": [
+        "Data reliability engineering at scale",
+        "Modelling platform economics and chargeback",
+        "Managing the DataOps tooling budget"
+      ],
+      "indicators": [
+        "Leads a DataOps team",
+        "Defines the automation and reliability vision",
+        "Represents DataOps to data and engineering stakeholders"
+      ]
+    },
+    "DOE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Owning the multi-year DataOps strategy across the organisation",
+        "Governing pipeline reliability programs and data SLAs",
+        "Defining the data-platform architecture and standards",
+        "Leading migrations to modern orchestration and lakehouse stacks",
+        "Managing global data-pipeline operations and on-call",
+        "Setting data-quality, lineage and observability baselines",
+        "Driving automation innovation across ingestion and delivery",
+        "Aligning DataOps investment with analytics and product needs"
+      ],
+      "complementaryCompetencies": [
+        "Integrating data platforms after mergers and acquisitions",
+        "Planning DataOps tooling investment",
+        "Leading in the data engineering community"
+      ],
+      "indicators": [
+        "Directs the DataOps function",
+        "Participates in data and platform strategy",
+        "Decides data-platform investments"
+      ]
+    },
+    "DOE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Setting the enterprise DataOps and data-reliability strategy",
+        "Standardising pipeline practices across business units",
+        "Designing multi-cloud data-platform architecture",
+        "Leading organisation-wide data-automation transformation",
+        "Building the cost and capacity model for data platforms",
+        "Establishing data governance, quality and reliability at scale",
+        "Guiding the data-platform product direction",
+        "Growing and structuring DataOps and platform teams"
+      ],
+      "complementaryCompetencies": [
+        "Managing multi-team DataOps budgets",
+        "Experience in data-intensive organisations",
+        "Representing the company in data-platform forums"
+      ],
+      "indicators": [
+        "Reports to the CDO or CTO",
+        "Leads an organisation of 25 or more engineers",
+        "Owns the enterprise DataOps strategy"
+      ]
+    },
+    "DOE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Defining the long-term direction for data-platform operations",
+        "Leading company-wide data-reliability and automation architecture",
+        "Turning DataOps into a durable operational advantage",
+        "Governing data-quality and lineage standards across domains",
+        "Driving adoption of emerging orchestration and observability patterns",
+        "Setting reliability, cost and governance strategy for data systems",
+        "Advising executives on data-platform build-versus-buy",
+        "Shaping the DataOps engineering culture and career ladder"
+      ],
+      "complementaryCompetencies": [
+        "Deep experience operating data platforms at scale",
+        "Advising data-platform startups",
+        "Recognised technical authority in DataOps"
+      ],
+      "indicators": [
+        "Sits on the technical leadership group",
+        "Sets the DataOps strategy",
+        "Is a recognised leader in data operations"
+      ]
+    },
+    "DOE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Owning data-platform and operations strategy at the executive level",
+        "Aligning DataOps with business and analytics strategy",
+        "Directing investment in data reliability and automation",
+        "Setting quality, reliability and cost objectives for data systems",
+        "Leading organisation-wide data-operations transformation",
+        "Governing data-platform risk, compliance and vendor strategy",
+        "Building competitive advantage through reliable data delivery",
+        "Shaping how the organisation builds and operates data pipelines"
+      ],
+      "complementaryCompetencies": [
+        "Managing large data-platform budgets",
+        "Steering enterprise data-tooling partnerships",
+        "Influencing the direction of data-operations practice"
+      ],
+      "indicators": [
+        "Owns data-operations strategy for the company",
+        "Is accountable for data reliability and cost",
+        "Represents the company on data-platform technology"
+      ]
+    }
+  }
+}

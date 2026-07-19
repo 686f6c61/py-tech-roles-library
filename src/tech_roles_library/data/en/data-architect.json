@@ -1,0 +1,249 @@
+{
+  "role": "Data Architect",
+  "category": "Data",
+  "levels": {
+    "DAR-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic relational modeling: entities, relationships and normalization to 3NF",
+        "Reads and interprets entity-relationship diagrams",
+        "Documents tables, columns and data types in a data dictionary",
+        "Distinguishes OLTP transactional workloads from OLAP analytical ones",
+        "Basic notions of star schema and fact and dimension tables",
+        "Uses diagramming tools to draft simple models",
+        "Elementary notions of a data catalog and metadata"
+      ],
+      "complementaryCompetencies": [
+        "Basic SQL to explore existing schemas",
+        "Familiarity with cloud storage concepts (object storage, buckets)",
+        "Awareness of data governance and privacy basics"
+      ],
+      "indicators": [
+        "Requires constant supervision on modeling tasks",
+        "Assists senior architects in documenting existing models",
+        "Needs 6-12 months of mentoring in data architecture"
+      ]
+    },
+    "DAR-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Designs normalized relational models for a bounded domain",
+        "Builds star and snowflake schemas for reporting",
+        "Documents source-to-target mappings for basic integrations",
+        "Applies naming conventions and modeling standards",
+        "Captures table-level lineage in the catalog",
+        "Handles slowly changing dimensions type 1 and type 2",
+        "Notions of data lake zone layout (raw, curated)"
+      ],
+      "complementaryCompetencies": [
+        "SQL tuning fundamentals: indexes and query plans",
+        "Familiarity with a cloud data warehouse (BigQuery, Snowflake, Redshift)",
+        "Notions of API-based ingestion"
+      ],
+      "indicators": [
+        "Designs simple schemas with supervision",
+        "Maintains model documentation and diagrams",
+        "Implements dimensional models under review"
+      ]
+    },
+    "DAR-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Designs Kimball dimensional models for several business processes",
+        "Applies conformed dimensions and a bus matrix across data marts",
+        "Introduces Data Vault (hubs, links, satellites) for the raw vault",
+        "Designs lakehouse zone layouts and table formats (Delta, Iceberg)",
+        "Defines column-level lineage and metadata capture in the catalog",
+        "Evaluates partitioning and clustering strategies for performance",
+        "Documents data contracts between producers and consumers"
+      ],
+      "complementaryCompetencies": [
+        "Notions of streaming ingestion (Kafka, CDC)",
+        "Familiarity with orchestration (Airflow, dbt)",
+        "Awareness of GDPR classification for sensitive attributes"
+      ],
+      "indicators": [
+        "Designs end-to-end models for a domain with light review",
+        "Contributes to modeling standards and conventions",
+        "Leads small-scope architecture tasks"
+      ]
+    },
+    "DAR-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Owns the data architecture for a business domain end to end",
+        "Chooses between Kimball dimensional modeling and Data Vault by use case",
+        "Designs lakehouse architectures with medallion layers and open table formats",
+        "Defines data contracts, schemas and versioning between teams",
+        "Establishes catalog, lineage and metadata management practices",
+        "Models cost and performance trade-offs (storage, compute, TCO)",
+        "Guides buy versus build decisions for ingestion and storage tooling"
+      ],
+      "complementaryCompetencies": [
+        "Real-time and streaming architecture patterns",
+        "Feature store design for ML consumption",
+        "GDPR-compliant modeling: pseudonymization and retention"
+      ],
+      "indicators": [
+        "Leads architecture for a domain and mentors junior architects",
+        "Defines modeling standards adopted by several teams",
+        "Reviews and approves designs from other engineers"
+      ]
+    },
+    "DAR-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Designs enterprise data platforms spanning multiple domains",
+        "Introduces data mesh principles: domain ownership and data products",
+        "Standardizes Data Vault and dimensional patterns across the warehouse",
+        "Defines the semantic and metrics layer as a shared contract",
+        "Governs catalog, lineage and data contracts at platform scale",
+        "Leads buy and build and multi-cloud decisions with documented TCO analysis",
+        "Establishes disaster recovery and data retention architecture"
+      ],
+      "complementaryCompetencies": [
+        "Data virtualization and federation patterns",
+        "Privacy-preserving architectures for regulated data",
+        "Platform observability and data reliability engineering"
+      ],
+      "indicators": [
+        "Architects platforms consumed by multiple teams",
+        "Defines the technical data architecture roadmap",
+        "Leads platform migrations and modernizations"
+      ]
+    },
+    "DAR-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Architects the data platform for a business unit or product line",
+        "Establishes federated governance and data-product standards across domains",
+        "Designs the semantic layer and metrics store as the source of truth",
+        "Defines lineage, contracts and catalog strategy at organization scale",
+        "Leads FinOps for data: cost allocation, TCO and efficiency programs",
+        "Sets architecture for petabyte-scale storage and cross-region replication",
+        "Leads and mentors a group of data architects"
+      ],
+      "complementaryCompetencies": [
+        "Interoperability standards across heterogeneous platforms",
+        "Data sharing and marketplace architecture",
+        "Sustainable and efficient data platform practices"
+      ],
+      "indicators": [
+        "Architects platforms for multiple products or domains",
+        "Sets long-term architecture strategy for the organization",
+        "Resolves cross-team architecture trade-offs"
+      ]
+    },
+    "DAR-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Defines the multi-year data architecture strategy for the company",
+        "Establishes the operating model for data mesh and domain ownership",
+        "Standardizes the enterprise semantic layer, catalog and contracts",
+        "Governs buy and build, vendor and multi-cloud strategy with TCO discipline",
+        "Sets data governance, privacy and residency architecture across regions",
+        "Balances modernization roadmaps against technical debt and cost",
+        "Represents data architecture in cross-functional executive planning"
+      ],
+      "complementaryCompetencies": [
+        "Influences internal architecture standards and reference models",
+        "Guides M&A data integration architecture",
+        "Mentors principal and staff architects"
+      ],
+      "indicators": [
+        "Sets corporate data architecture direction",
+        "Arbitrates the highest-impact architecture decisions",
+        "Recognized internal authority on data architecture"
+      ]
+    },
+    "DAR-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Owns the enterprise data architecture vision across all domains",
+        "Aligns platform strategy with business and product strategy",
+        "Defines reference architectures adopted company-wide",
+        "Leads data strategy for mergers, acquisitions and integrations",
+        "Establishes governance, contracts and lineage standards at enterprise scale",
+        "Sets TCO, FinOps and buy versus build frameworks for data investment",
+        "Sponsors data centers of excellence and architecture guilds"
+      ],
+      "complementaryCompetencies": [
+        "Shapes external technology and vendor relationships",
+        "Contributes to open standards and reference models",
+        "Advises executives on data platform investment"
+      ],
+      "indicators": [
+        "Defines data architecture across business units",
+        "Influences the direction of the architecture discipline",
+        "Principal technical authority for data platforms"
+      ]
+    },
+    "DAR-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Sets and executes the enterprise data platform vision and strategy",
+        "Aligns data architecture with corporate strategy and P&L",
+        "Owns multi-year data platform investment and TCO across the company",
+        "Builds and leads the data architecture organization",
+        "Governs data privacy, residency and compliance architecture globally",
+        "Defines the operating model for domains, contracts and data products",
+        "Establishes vendor, multi-cloud and partnership architecture strategy"
+      ],
+      "complementaryCompetencies": [
+        "Influences industry data architecture practices and standards",
+        "Steers strategic technology partnerships",
+        "Sponsors architecture talent and succession"
+      ],
+      "indicators": [
+        "Accountable for enterprise data platform strategy",
+        "Executes the long-term data architecture vision",
+        "Recognized leader in data architecture"
+      ]
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "role": "Ingeniero de Automatización de Pruebas",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "TAE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de la automatización de pruebas y de su lugar en la entrega",
+        "Nociones elementales de un lenguaje de scripting para el código de prueba",
+        "Capaz de ejecutar suites automatizadas existentes y leer sus informes",
+        "Comprensión básica de la localización de elementos de interfaz mediante selectores",
+        "Capaz de escribir una comprobación automatizada sencilla con guía",
+        "Familiaridad con el control de versiones para el código de prueba",
+        "Comprensión básica de por qué las pruebas automatizadas se vuelven inestables"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con un servicio de integración continua que dispara las pruebas",
+        "Nociones elementales de las API REST",
+        "Familiaridad básica con las herramientas de desarrollo del navegador para inspeccionar elementos"
+      ],
+      "indicators": [
+        "Necesita supervisión estrecha en las tareas de automatización",
+        "Ejecuta e informa sobre las suites automatizadas existentes",
+        "Aprende los fundamentos de escribir código de prueba"
+      ]
+    },
+    "TAE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capaz de escribir comprobaciones automatizadas de interfaz para flujos sencillos",
+        "Implementación del patrón de objetos de página para estructurar el código de prueba",
+        "Uso práctico de un marco de automatización y sus aserciones",
+        "Mantenimiento y reparación de pruebas automatizadas existentes",
+        "Implementación de pruebas guiadas por datos con entradas externas",
+        "Capaz de integrar las pruebas en una etapa de la cadena de integración continua",
+        "Comprobaciones automatizadas básicas de API sobre puntos de acceso documentados"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con las pruebas de diseño adaptable",
+        "Comprensión de la preparación y limpieza de pruebas para su aislamiento",
+        "Comprensión básica de informes y capturas de pantalla ante fallos"
+      ],
+      "indicators": [
+        "Escribe y mantiene pruebas automatizadas con supervisión",
+        "Mantiene las suites existentes en verde y diagnostica fallos sencillos",
+        "Aplica el patrón de objetos de página de forma consistente"
+      ]
+    },
+    "TAE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de una estructura de marco de automatización mantenible",
+        "Implementación de estrategias de selectores robustos, resistentes a los cambios de interfaz",
+        "Diagnóstico y eliminación de pruebas inestables mediante esperas y aislamiento",
+        "Implementación de escenarios de extremo a extremo a través de varias pantallas",
+        "Uso de simulaciones y sustitutos para aislar el sistema bajo prueba",
+        "Pruebas automatizadas de API, incluidos casos negativos y límite",
+        "Integración de las suites en la cadena con informes de fallo útiles"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con la automatización en móvil nativo",
+        "Comprensión del patrón screenplay como alternativa a los objetos de página",
+        "Comprensión básica de las herramientas de regresión visual"
+      ],
+      "indicators": [
+        "Diseña una estructura de marco que otros pueden extender",
+        "Reduce la inestabilidad de las suites con resultados medibles",
+        "Orienta a perfiles junior en la escritura de código de prueba fiable"
+      ]
+    },
+    "TAE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de un marco de automatización para un producto en las capas de interfaz y API",
+        "Diseño de la pirámide de pruebas equilibrando unitarias, de integración y de extremo a extremo",
+        "Implementación de ejecución en paralelo y entre navegadores para reducir el tiempo de ejecución",
+        "Implementación de pruebas de contrato entre servicios",
+        "Diseño de estrategias de aprovisionamiento y limpieza de datos de prueba",
+        "Definición de objetivos de fiabilidad de las suites y presupuestos de inestabilidad",
+        "Integración de la automatización en la cadena de integración y despliegue con puertas e informes"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión del scripting de pruebas de rendimiento para apoyar a especialistas",
+        "Familiaridad con las comprobaciones automatizadas de accesibilidad",
+        "Comprensión de los entornos de prueba en contenedores"
+      ],
+      "indicators": [
+        "Es responsable de la arquitectura de automatización de un producto",
+        "Establece los patrones y estándares de automatización del equipo",
+        "Lidera la adopción de las pruebas de contrato y la ejecución en paralelo"
+      ]
+    },
+    "TAE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre el marco y las herramientas de automatización de varios equipos",
+        "Diseño de suites escalables y de bajo mantenimiento con alta señal",
+        "Estrategia de resiliencia de selectores y reducción de la inestabilidad a escala",
+        "Arquitectura de la gestión de datos de prueba entre entornos",
+        "Optimización del tiempo de ejecución de la cadena mediante fragmentación y caché",
+        "Definición de objetivos de cobertura ligados al riesgo y no a cifras brutas",
+        "Establecimiento de las pruebas de contrato entre los límites de los servicios"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de cuándo un escenario corresponde a automatización frente a prueba manual",
+        "Familiaridad con entornos efímeros para el aislamiento de las pruebas",
+        "Comprensión de la observabilidad de las propias suites de prueba"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de automatización de una línea de producto de forma autónoma",
+        "Impulsa la fiabilidad y la velocidad de las suites con mejoras medibles",
+        "Establece los estándares de ingeniería de automatización que otros adoptan"
+      ]
+    },
+    "TAE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Definición de la arquitectura de automatización en una cartera de productos",
+        "Establecimiento de estándares de marco y herramientas compartidos entre equipos",
+        "Diseño de plataformas de automatización que los equipos consumen como herramienta interna",
+        "Estrategia de mantenibilidad de las suites a medida que crecen productos y equipos",
+        "Definición de estándares de ejecución y fiabilidad de la cadena",
+        "Guía en la elección de herramientas con independencia de cualquier proveedor",
+        "Liderazgo de la práctica de ingeniería de automatización entre equipos"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de los equilibrios entre coste y tiempo de ejecución a escala de cartera",
+        "Familiaridad con las necesidades de automatización de nuevas áreas de producto",
+        "Comprensión de las prácticas de código de prueba mantenible y duradero"
+      ],
+      "indicators": [
+        "Da forma a la arquitectura de automatización de varios productos",
+        "Lidera la práctica de ingeniería de automatización en la organización",
+        "Define la dirección de las herramientas de automatización a largo plazo"
+      ]
+    },
+    "TAE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo de la ingeniería de automatización en la organización",
+        "Definición de los estándares de marco y plataforma sobre los que construyen los equipos",
+        "Establecimiento de herramientas de automatización compartidas como producto interno",
+        "Estrategia de fiabilidad y velocidad de ejecución de las pruebas a escala organizativa",
+        "Definición de las prácticas de pruebas de contrato e integración entre servicios",
+        "Guía de la inversión en herramientas y de las decisiones de construir o comprar",
+        "Definición de prácticas de automatización que escalan con la plantilla"
+      ],
+      "complementaryCompetencies": [
+        "Contribución a marcos de automatización internos reutilizados entre equipos",
+        "Comprensión de las herramientas de automatización de código abierto y sus equilibrios",
+        "Comprensión de cómo el esfuerzo de automatización se traduce en velocidad de entrega"
+      ],
+      "indicators": [
+        "Establece la dirección de la ingeniería de automatización de la organización",
+        "Construye y lidera comunidades de práctica de automatización",
+        "Reconocido internamente como referente en automatización de pruebas"
+      ]
+    },
+    "TAE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición de una estrategia plurianual de ingeniería de automatización",
+        "Posicionamiento de las herramientas de automatización como palanca de velocidad de entrega",
+        "Establecimiento de un equipo de plataforma de automatización y su modelo operativo",
+        "Definición del gobierno de los marcos entre unidades de negocio",
+        "Justificación de la inversión en automatización mediante mejoras de tiempo de ciclo y fiabilidad",
+        "Guía del panorama de herramientas y proveedores de automatización",
+        "Liderazgo de la innovación en los enfoques de automatización"
+      ],
+      "complementaryCompetencies": [
+        "Definición de marcos de automatización reutilizados en toda la empresa",
+        "Comprensión del mercado de herramientas de automatización",
+        "Comprensión de la comparación de la automatización frente al sector"
+      ],
+      "indicators": [
+        "Es responsable de la estrategia plurianual de ingeniería de automatización",
+        "Representa a la empresa en automatización de pruebas en foros externos",
+        "Influye en la práctica de la automatización más allá de la organización"
+      ]
+    },
+    "TAE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Responsabilidad ejecutiva sobre la ingeniería de automatización como capacidad de entrega",
+        "Definición de la visión de la plataforma de automatización de la empresa",
+        "Rendición de cuentas por la fiabilidad de la automatización y su efecto en la velocidad",
+        "Liderazgo de organizaciones de plataforma de automatización entre productos",
+        "Gestión del presupuesto de la plataforma de automatización y su retorno",
+        "Posicionamiento de las herramientas de automatización como ventaja de ingeniería",
+        "Definición de los estándares que mantienen las suites fiables a escala"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en la práctica de la automatización del sector en su conjunto",
+        "Comprensión del papel de la automatización en la productividad de ingeniería",
+        "Comprensión de la inversión a largo plazo en plataformas de automatización"
+      ],
+      "indicators": [
+        "Define y ejecuta la estrategia de automatización de la empresa",
+        "Responsable de la capacidad de automatización a nivel de compañía",
+        "Reconocido como líder en ingeniería de automatización de pruebas"
+      ]
+    }
+  }
+}

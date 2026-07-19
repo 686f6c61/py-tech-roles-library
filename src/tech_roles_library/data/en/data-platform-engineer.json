@@ -1,0 +1,249 @@
+{
+  "role": "Data Platform Engineer",
+  "category": "Data",
+  "levels": {
+    "DPE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of what a data platform provides to data teams",
+        "Elementary knowledge of the infrastructure behind data storage and compute",
+        "Ability to provision a platform resource under guidance",
+        "Basic understanding of self-service tooling for data users",
+        "Ability to follow runbooks for platform operations",
+        "Elementary understanding of access control for data resources",
+        "Documentation of platform components and how teams use them"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with cloud storage and compute services",
+        "Basic familiarity with infrastructure-as-code concepts",
+        "Elementary understanding of how data teams consume the platform"
+      ],
+      "indicators": [
+        "Requires close supervision on platform tasks",
+        "Executes documented provisioning procedures",
+        "Learning how the data platform is built and operated"
+      ]
+    },
+    "DPE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to provision platform resources through infrastructure-as-code",
+        "Implementation of self-service templates for common data needs",
+        "Practical understanding of access control and tenancy on the platform",
+        "Ability to operate and monitor platform components",
+        "Implementation of onboarding for a data team onto the platform",
+        "Ability to expose a platform capability through internal tooling",
+        "Support of data teams consuming compute and storage"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with container orchestration for platform services",
+        "Understanding of cost visibility for platform resources",
+        "Basic understanding of platform reliability and alerting"
+      ],
+      "indicators": [
+        "Provisions and operates platform resources with supervision",
+        "Maintains self-service templates data teams rely on",
+        "Resolves routine platform requests"
+      ]
+    },
+    "DPE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of self-service capabilities that data teams provision themselves",
+        "Implementation of multi-tenant isolation and access controls",
+        "Building of internal tooling and APIs over platform primitives",
+        "Definition of golden paths for common data workloads",
+        "Implementation of cost visibility and quota management per tenant",
+        "Ability to instrument the platform for reliability and usage metrics",
+        "Support of platform users through documentation and interfaces"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with policy-as-code for platform guardrails",
+        "Understanding of platform observability and service levels",
+        "Understanding of how data engineers build on the platform"
+      ],
+      "indicators": [
+        "Designs self-service platform capabilities",
+        "Builds internal tooling data teams adopt",
+        "Improves platform reliability and cost visibility"
+      ]
+    },
+    "DPE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of a self-service data platform as an internal product",
+        "Design of multi-tenant isolation, quotas and fair resource sharing",
+        "Building of internal APIs and tooling that abstract infrastructure",
+        "Definition of golden paths that make the safe path the easy path",
+        "Implementation of platform provisioning and lifecycle automation",
+        "Design of cost allocation and chargeback across tenants",
+        "Definition of platform reliability targets and service levels"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of the data engineering workflows the platform serves",
+        "Familiarity with governance and access policy enforcement on the platform",
+        "Understanding of capacity planning for shared infrastructure"
+      ],
+      "indicators": [
+        "Owns the architecture of a self-service data platform",
+        "Sets platform standards and golden paths teams follow",
+        "Leads work on multi-tenancy and cost management"
+      ]
+    },
+    "DPE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Ownership of the data platform as a product across the organization",
+        "Design of self-service provisioning that scales to many data teams",
+        "Definition of platform APIs and tooling as stable internal contracts",
+        "Establishment of multi-tenancy, isolation and fair-use guarantees",
+        "Design of cost management and FinOps practices for the platform",
+        "Definition of platform reliability, service levels and on-call practices",
+        "Prioritization of platform work against the needs of data teams"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of the boundary between platform and data engineering work",
+        "Familiarity with governance and compliance the platform enforces",
+        "Understanding of platform observability and capacity planning"
+      ],
+      "indicators": [
+        "Designs the data platform as a product autonomously",
+        "Runs the platform with clear service levels and cost control",
+        "Defines the multi-year platform roadmap"
+      ]
+    },
+    "DPE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Definition of the data platform strategy across the organization",
+        "Architecture of self-service infrastructure for many autonomous teams",
+        "Establishment of golden paths and paved roads as the default",
+        "Definition of the platform's internal API and tooling standards",
+        "Design of cost allocation, quotas and FinOps at platform scale",
+        "Definition of reliability and service-level standards for the platform",
+        "Treatment of the platform as a product with users, roadmap and support"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of the trade-off between flexibility and standardization",
+        "Familiarity with the platform needs of new data domains",
+        "Understanding of governance the platform must enforce for compliance"
+      ],
+      "indicators": [
+        "Shapes the data platform strategy across the organization",
+        "Leads adoption of paved roads by data teams",
+        "Defines the long-term platform direction"
+      ]
+    },
+    "DPE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership of the data platform function across the organization",
+        "Definition of platform standards and their governance",
+        "Establishment of the platform as an internal product with clear ownership",
+        "Strategy for platform reliability and self-service at organizational scale",
+        "Definition of cost transparency and efficiency across tenants",
+        "Alignment of the platform with the needs of data engineering and analytics teams",
+        "Definition of platform practices that scale with the organization"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of platform investment trade-offs across the organization",
+        "Contribution to internal platform reference architectures",
+        "Understanding of emerging data platform practices"
+      ],
+      "indicators": [
+        "Sets the data platform strategy for the organization",
+        "Recognized internally as the authority on the data platform",
+        "Advises leadership on platform investment decisions"
+      ]
+    },
+    "DPE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definition of a multi-year data platform strategy",
+        "Positioning of the platform as leverage for data team productivity",
+        "Establishment of the platform organization and its operating model",
+        "Definition of platform governance across business units",
+        "Justification of platform investment through efficiency and reliability gains",
+        "Guidance of build-versus-buy decisions for platform capabilities",
+        "Leadership of innovation in self-service data infrastructure"
+      ],
+      "complementaryCompetencies": [
+        "Definition of platform patterns reused across the company",
+        "Understanding of the data infrastructure tooling landscape",
+        "Understanding of platform benchmarking against the industry"
+      ],
+      "indicators": [
+        "Owns the multi-year data platform strategy",
+        "Represents the company on data platforms in external forums",
+        "Influences platform practice beyond the organization"
+      ]
+    },
+    "DPE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive ownership of the data platform as a business capability",
+        "Definition of the enterprise data platform vision and operating model",
+        "Accountability for platform reliability, cost efficiency and adoption",
+        "Leadership of data platform organizations across products and regions",
+        "Management of the platform budget and its return",
+        "Positioning of self-service infrastructure as an engineering advantage",
+        "Definition of the standards that keep the platform reliable at scale"
+      ],
+      "complementaryCompetencies": [
+        "Influence on data platform practice across the wider industry",
+        "Understanding of the platform's role in data team productivity",
+        "Understanding of long-term investment in data infrastructure"
+      ],
+      "indicators": [
+        "Defines and executes the enterprise data platform vision",
+        "Accountable for the data platform capability at the company level",
+        "Recognized leader in data platform engineering"
+      ]
+    }
+  }
+}

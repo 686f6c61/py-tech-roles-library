@@ -1,0 +1,259 @@
+{
+  "role": "Gestor de Ingeniería",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "EM-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de gestión de equipos técnicos",
+        "Conocimiento elemental de metodologías de desarrollo",
+        "Habilidad para facilitar ceremonias ágiles básicas",
+        "Comprensión básica de métricas de ingeniería",
+        "Capacidad de documentar procesos y decisiones",
+        "Conocimiento elemental de gestión de proyectos",
+        "Comprensión básica de gestión de personas",
+        "Habilidad para comunicación técnica y no técnica"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de presupuestos",
+        "Familiaridad con herramientas de gestión",
+        "Comprensión elemental de contratación"
+      ],
+      "indicators": [
+        "Requiere supervisión en decisiones de gestión",
+        "Puede liderar equipos pequeños con apoyo",
+        "Necesita 2-3 años experiencia técnica previa"
+      ]
+    },
+    "EM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de gestionar equipos de 5-10 ingenieros",
+        "Habilidad para conducir reuniones individuales efectivas",
+        "Conocimiento práctico de desarrollo de carrera",
+        "Comprensión de gestión de rendimiento",
+        "Capacidad de priorizar hoja de ruta técnica",
+        "Habilidad para resolver conflictos básicos",
+        "Conocimiento de contratación e incorporación",
+        "Comprensión de gestión de partes interesadas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de planificación de compensación",
+        "Habilidad para gestión de presupuesto básico",
+        "Comprensión de gestión de proveedores"
+      ],
+      "indicators": [
+        "Gestiona un equipo con autonomía moderada",
+        "Mejora métricas del equipo consistentemente",
+        "Retiene talento efectivamente"
+      ]
+    },
+    "EM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de gestión de múltiples equipos",
+        "Capacidad de planificación estratégica y objetivos clave",
+        "Habilidad para construir cultura de equipo",
+        "Conocimiento profundo de asesoramiento y mentoría",
+        "Capacidad de gestionar reorganizaciones",
+        "Comprensión sólida de gestión de deuda técnica",
+        "Habilidad para colaboración interfuncional",
+        "Conocimiento de gestión de crisis"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de gestión de productos",
+        "Habilidad para construcción de alianzas",
+        "Comprensión de métricas de negocio"
+      ],
+      "indicators": [
+        "Gestiona 2-3 equipos efectivamente",
+        "Define procesos de ingeniería",
+        "Influencia cultura organizacional"
+      ]
+    },
+    "EM-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de liderar organizaciones de 20-30 personas",
+        "Dominio de gestión estratégica de talento",
+        "Habilidad para definir estrategia de ingeniería",
+        "Conocimiento profundo de diseño organizacional",
+        "Capacidad de gestionar presupuestos significativos",
+        "Dominio de gestión del cambio",
+        "Habilidad para comunicación ejecutiva",
+        "Conocimiento de escalado de organizaciones de ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de integración por fusiones y adquisiciones",
+        "Habilidad para relaciones con inversores",
+        "Comprensión de informes a junta directiva"
+      ],
+      "indicators": [
+        "Lidera múltiples equipos complejos",
+        "Define estrategia de ingeniería departamental",
+        "Desarrolla otros gerentes"
+      ]
+    },
+    "EM-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en liderazgo de 30-50+ ingenieros",
+        "Capacidad de definir visión técnica organizacional",
+        "Dominio de gestión de cartera",
+        "Habilidad para liderazgo de transformación",
+        "Conocimiento profundo de economía de ingeniería",
+        "Capacidad de gestionar equipos distribuidos",
+        "Experiencia en gestión de proveedores y alianzas",
+        "Dominio de gestión de innovación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de estrategia corporativa",
+        "Habilidad para presentaciones públicas",
+        "Comprensión de análisis de industria"
+      ],
+      "indicators": [
+        "Lidera departamentos completos",
+        "Impacta pérdidas y ganancias significativamente",
+        "Representa la empresa externamente"
+      ]
+    },
+    "EM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de liderar organizaciones de 50-100 personas",
+        "Experiencia en programas de excelencia en ingeniería",
+        "Dominio de estrategia de adquisición de talento",
+        "Habilidad para gestión de equipos globales",
+        "Conocimiento profundo de cumplimiento normativo",
+        "Capacidad de definir cultura de ingeniería",
+        "Experiencia en alianzas estratégicas",
+        "Dominio de transformación organizacional"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de construcción de empresas",
+        "Habilidad para liderazgo de pensamiento",
+        "Comprensión de construcción de ecosistemas"
+      ],
+      "indicators": [
+        "Define cultura de ingeniería corporativa",
+        "Lidera iniciativas transformacionales",
+        "Influencia industria"
+      ]
+    },
+    "EM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo de organizaciones de 100-200+ personas",
+        "Capacidad de alinear ingeniería con estrategia de negocio",
+        "Experiencia en construcción de marcas de ingeniería",
+        "Dominio de dinámicas de equipo ejecutivo",
+        "Capacidad de gestionar organizaciones multisitio",
+        "Conocimiento profundo de análisis competitivo",
+        "Experiencia en construcción de ecosistema de talento",
+        "Capacidad de definir visión tecnológica"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de gestión de junta directiva",
+        "Habilidad para recaudación de fondos",
+        "Conocimiento de estrategias de salida"
+      ],
+      "indicators": [
+        "Responsable de toda la ingeniería",
+        "Miembro del equipo ejecutivo",
+        "Define estrategia tecnológica"
+      ]
+    },
+    "EM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de ingeniería global",
+        "Capacidad de liderar 200-500+ ingenieros",
+        "Experiencia en desarrollo corporativo",
+        "Dominio de gestión de inversores",
+        "Capacidad de liderazgo en fusiones y adquisiciones",
+        "Conocimiento profundo de configuración de industria",
+        "Experiencia en construcción de ecosistemas tecnológicos",
+        "Capacidad de definir cultura empresarial"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar políticas",
+        "Habilidad para crear empresas derivadas",
+        "Conocimiento de capital privado"
+      ],
+      "indicators": [
+        "Define estrategia corporativa técnica",
+        "Lidera transformaciones empresariales",
+        "Reconocido líder de industria"
+      ]
+    },
+    "EM-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de nivel C",
+        "Capacidad de definir visión tecnológica disruptiva",
+        "Experiencia en transformación digital empresarial",
+        "Dominio de gobernanza de junta directiva",
+        "Capacidad de construir ventajas competitivas",
+        "Conocimiento profundo de gestión de riesgos",
+        "Experiencia en orquestación de ecosistemas",
+        "Capacidad de liderar innovación corporativa",
+        "Dominio de creación de valor para accionistas"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar industria",
+        "Habilidad para crear unicornios",
+        "Conocimiento de liderazgo en oferta pública inicial"
+      ],
+      "indicators": [
+        "Máximo responsable de tecnología",
+        "Define futuro de la empresa",
+        "Líder reconocido globalmente"
+      ]
+    }
+  }
+}

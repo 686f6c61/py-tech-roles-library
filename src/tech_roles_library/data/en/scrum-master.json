@@ -1,0 +1,258 @@
+{
+  "role": "Scrum Master",
+  "category": "Product",
+  "levels": {
+    "SM-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Understanding of the purpose of each Scrum event",
+        "Ability to take notes and track action items during ceremonies",
+        "Basic knowledge of how to keep a task board up to date",
+        "Familiarity with the difference between velocity and capacity",
+        "Ability to recognize an impediment when a team member raises one",
+        "Understanding of the roles of product owner, developers and Scrum Master",
+        "Basic notions of timeboxing and why events have fixed durations",
+        "Documentation of retrospective outcomes and follow-up items"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with a work-tracking tool such as Jira",
+        "Basic knowledge of burndown charts",
+        "Understanding of the definition of done"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Supports the facilitation of ceremonies",
+        "Is learning the fundamentals of Scrum"
+      ]
+    },
+    "SM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Facilitation of daily standups keeping them within the timebox",
+        "Tracking of impediments to resolution and escalation when blocked",
+        "Preparation and facilitation of sprint planning with the product owner",
+        "Reading of burndown and velocity trends to spot delivery risk",
+        "Support of backlog refinement so items are ready for planning",
+        "Facilitation of retrospectives that produce concrete action items",
+        "Protection of the team from mid-sprint scope changes",
+        "Reinforcement of the definition of done as a quality gate"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cycle time as a complement to velocity",
+        "Understanding of work-in-progress limits",
+        "Familiarity with story splitting techniques"
+      ],
+      "indicators": [
+        "Facilitates events for a single team with support",
+        "Removes routine impediments independently",
+        "Tracks flow metrics for the team"
+      ]
+    },
+    "SM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Facilitation of the full Scrum event cycle for a team without support",
+        "Systematic removal of impediments, including cross-team dependencies",
+        "Use of cycle time and work-in-progress limits to improve flow",
+        "Coaching of the team on self-organization and healthy conflict",
+        "Diagnosis of retrospective anti-patterns and facilitation of real improvement",
+        "Reading of team health signals beyond velocity numbers",
+        "Coaching of the product owner on backlog readiness and sizing",
+        "Facilitation of estimation without letting velocity become a target"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of facilitation techniques for divergent and convergent thinking",
+        "Understanding of dependency mapping across teams",
+        "Familiarity with team maturity models"
+      ],
+      "indicators": [
+        "Owns the process for a team end to end",
+        "Improves flow metrics measurably over sprints",
+        "Coaches the team toward self-organization"
+      ]
+    },
+    "SM-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Coaching of a mature team toward sustained self-organization",
+        "Resolution of systemic impediments that recur across multiple sprints",
+        "Facilitation of dependency management between two or three interfacing teams",
+        "Use of flow metrics to expose bottlenecks and rebalance work-in-progress",
+        "Facilitation of difficult conversations and team conflict resolution",
+        "Coaching of the product owner on prioritization and stakeholder alignment",
+        "Design of retrospectives that drive measurable change over time",
+        "Protection of team health and sustainable pace under delivery pressure"
+      ],
+      "complementaryCompetencies": [
+        "Experience facilitating cross-team planning sessions",
+        "Knowledge of Kanban as a complement to Scrum",
+        "Understanding of psychological safety as a team performance factor"
+      ],
+      "indicators": [
+        "Coaches a high-performing team",
+        "Resolves systemic impediments across sprints",
+        "Facilitates dependencies with neighboring teams"
+      ]
+    },
+    "SM-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Coaching of multiple teams while keeping each team's autonomy intact",
+        "Facilitation of scaled planning across a group of interdependent teams",
+        "Critical application of a scaling framework such as Nexus or LeSS where it fits",
+        "Design of a flow-metrics dashboard that surfaces delivery risk early",
+        "Mentoring of junior Scrum Masters on facilitation and impediment removal",
+        "Resolution of impediments that require negotiation with other departments",
+        "Establishment of communities of practice around agile ways of working",
+        "Facilitation of team-of-teams retrospectives that improve the whole flow"
+      ],
+      "complementaryCompetencies": [
+        "Experience with dependency management at the program level",
+        "Knowledge of the trade-offs between Nexus, LeSS and SAFe",
+        "Understanding of change resistance at team level"
+      ],
+      "indicators": [
+        "Coaches several teams at once",
+        "Mentors junior Scrum Masters",
+        "Facilitates scaled events across teams"
+      ]
+    },
+    "SM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Leadership of the Scrum Master discipline across a business area",
+        "Design of the flow-metrics model used to steer delivery across teams",
+        "Critical evaluation of when to scale with a framework and when not to",
+        "Coaching of team leads and engineering managers on agile leadership",
+        "Removal of organizational impediments rooted in structure or policy",
+        "Facilitation of alignment between product and engineering at program level",
+        "Definition of hiring and growth paths for Scrum Masters",
+        "Establishment of sustainable pace as a norm across multiple teams"
+      ],
+      "complementaryCompetencies": [
+        "Experience redesigning team topologies to reduce dependencies",
+        "Knowledge of value stream mapping across a delivery organization",
+        "Understanding of incentive structures that undermine agility"
+      ],
+      "indicators": [
+        "Leads the Scrum Master practice for an area",
+        "Removes organizational impediments beyond team level",
+        "Coaches engineering and team leads"
+      ]
+    },
+    "SM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Direction of agile ways of working across a large delivery organization",
+        "Definition of the metrics that leadership uses to judge delivery health",
+        "Critical stewardship of scaling frameworks against real organizational needs",
+        "Coaching of senior leaders on the behaviors that enable team autonomy",
+        "Removal of impediments embedded in budgeting and governance processes",
+        "Facilitation of large-scale planning across many interdependent teams",
+        "Establishment of the growth and certification path for the discipline",
+        "Alignment of delivery cadence with strategic planning at company level"
+      ],
+      "complementaryCompetencies": [
+        "Experience shaping quarterly planning across a program of teams",
+        "Knowledge of organizational design for flow efficiency",
+        "Understanding of how governance affects delivery cadence"
+      ],
+      "indicators": [
+        "Directs agile delivery across an organization",
+        "Advises senior leadership on delivery health",
+        "Owns the growth path for the discipline"
+      ]
+    },
+    "SM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definition of how agile delivery is measured and steered across the enterprise",
+        "Framing of team autonomy and flow efficiency as strategic operating choices",
+        "Critical position on scaling frameworks that resists cargo-cult adoption",
+        "Coaching of executives on the structural changes that unblock delivery",
+        "Removal of impediments rooted in the company's operating and funding model",
+        "Definition of the enterprise standard for healthy, sustainable delivery",
+        "Establishment of the Scrum Master discipline as a recognized career track",
+        "Alignment of delivery systems with the company's strategic cadence"
+      ],
+      "complementaryCompetencies": [
+        "Advisory on agile operating models across the organization",
+        "Influence on how the company funds and governs delivery",
+        "Track record of improving flow at organizational scale"
+      ],
+      "indicators": [
+        "Shapes enterprise delivery ways of working",
+        "Advises executives on delivery and flow",
+        "Is a recognized authority on agile delivery"
+      ]
+    },
+    "SM-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Ownership of the enterprise operating model for agile delivery",
+        "Definition of the delivery-health metrics that govern the organization",
+        "Setting of the company's principled stance on scaling and team autonomy",
+        "Coaching of the executive team on the leadership behaviors that enable flow",
+        "Removal of the deepest structural impediments to delivery at company level",
+        "Establishment of sustainable delivery as an enduring organizational norm",
+        "Direction of the discipline's role and growth across the whole company",
+        "Alignment of the delivery system with long-term business strategy"
+      ],
+      "complementaryCompetencies": [
+        "Recognition as a leader in agile delivery across the industry",
+        "Influence on delivery practices beyond the company",
+        "Track record of leading large agile transformations to lasting effect"
+      ],
+      "indicators": [
+        "Leads agile delivery for the whole enterprise",
+        "Defines the organization's delivery operating model",
+        "Is a reference authority in agile delivery"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Conversational AI Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "CAI-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic grasp of how conversational assistants interpret user messages",
+        "Elementary command of intents, entities and slots in dialogue",
+        "Ability to build simple conversation flows with guidance",
+        "Basic practice with natural language understanding for intent detection",
+        "Ability to author bot responses and prompts for common cases",
+        "Elementary practice testing a bot against sample conversations",
+        "Basic grasp of deploying a bot to a messaging channel",
+        "Ability to document conversation designs and flows"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with platforms such as Dialogflow and Rasa",
+        "Basic natural language processing concepts",
+        "Elementary sense of voice interfaces"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Builds simple conversation flows",
+        "Is learning conversational AI"
+      ]
+    },
+    "CAI-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to design multi-turn conversations that track user goals",
+        "Ability to manage dialogue state and context across turns",
+        "Practical command of natural language understanding and generation",
+        "Ability to define dialogue policies and fallback handling",
+        "Practice connecting a bot to backend services and APIs",
+        "Ability to measure containment, drop-off and other conversation metrics",
+        "Practice handling ambiguous or out-of-scope user inputs",
+        "Ability to improve intent models from real conversation logs"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with voice assistants and speech interfaces",
+        "Ability to build multilingual conversation flows",
+        "Sense of sentiment and tone in user messages"
+      ],
+      "indicators": [
+        "Develops conversational assistants with supervision",
+        "Implements multi-turn conversations",
+        "Improves bot performance from analytics"
+      ]
+    },
+    "CAI-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Command of dialogue design for complex, goal-driven conversations",
+        "Ability to build advanced natural language understanding with entities and context",
+        "Ability to design robust state management for long conversations",
+        "Ability to personalize responses based on user context and history",
+        "Solid command of conversation design principles and repair strategies",
+        "Ability to run A/B tests and evaluate conversation quality",
+        "Ability to integrate voice through speech recognition and synthesis",
+        "Practice designing graceful handoff from bot to human agent"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with integrating large language models into dialogue",
+        "Ability to handle sentiment-aware and empathetic responses",
+        "Sense of accessibility in conversational interfaces"
+      ],
+      "indicators": [
+        "Leads conversational AI projects",
+        "Designs dialogue architectures",
+        "Mentors others on conversation design"
+      ]
+    },
+    "CAI-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to architect conversational platforms across multiple channels",
+        "Command of integrating large language models with tools and retrieval",
+        "Ability to design omnichannel experiences with consistent context",
+        "Solid command of natural language understanding and generation at scale",
+        "Ability to build evaluation for conversation quality and task success",
+        "Ability to design reliable escalation and human handoff flows",
+        "Practice scaling conversational systems to high traffic",
+        "Ability to mentor engineers on conversational design and evaluation"
+      ],
+      "complementaryCompetencies": [
+        "Experience with voice platforms and speech pipelines",
+        "Familiarity with guardrails against unsafe or off-brand responses",
+        "Ability to personalize at scale while respecting privacy"
+      ],
+      "indicators": [
+        "Leads development of conversational platforms",
+        "Mentors teams on conversational AI",
+        "Makes architectural decisions on dialogue systems"
+      ]
+    },
+    "CAI-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in designing conversational platforms shared across products",
+        "Ability to establish evaluation frameworks for conversation quality",
+        "Command of orchestrating language-model assistants with tools",
+        "Ability to define dialogue design standards and reusable components",
+        "Solid command of scaling assistants across channels and languages",
+        "Ability to design governance for what assistants can say and do",
+        "Expertise in optimizing cost and latency of conversational systems",
+        "Ability to build human handoff and agent-assist at scale"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with voice-first and multimodal conversational design",
+        "Ability to design analytics that surface conversation failures",
+        "Sense of compliance for automated customer interactions"
+      ],
+      "indicators": [
+        "Designs conversational architectures for complete products",
+        "Defines team standards for dialogue systems",
+        "Leads cross-team conversational initiatives"
+      ]
+    },
+    "CAI-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise conversational platforms serving many teams",
+        "Expertise in governance for what automated assistants are allowed to do",
+        "Command of quality monitoring and continuous evaluation of conversations",
+        "Ability to design assistants that meet reliability and safety targets",
+        "Solid command of security and privacy risks in conversational systems",
+        "Ability to lead adoption of conversational automation across the business",
+        "Expertise in managing the cost of language-model assistants at scale",
+        "Ability to set standards for human handoff and escalation"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with emerging assistant and agent capabilities",
+        "Ability to design shared understanding and dialogue services",
+        "Sense of accessibility and inclusive conversation design"
+      ],
+      "indicators": [
+        "Architects conversational solutions for multiple teams",
+        "Influences organizational decisions on conversational AI",
+        "Represents the company technically in conversational AI"
+      ]
+    },
+    "CAI-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership of conversational AI strategy across an organization",
+        "Ability to design assistant architectures independent of any single model",
+        "Expertise in model-agnostic and vendor-agnostic conversational platforms",
+        "Ability to define multi-year roadmaps for conversational capabilities",
+        "Solid command of the total cost and economics of assistants at scale",
+        "Expertise in building and scaling conversational engineering teams",
+        "Ability to set evaluation and safety standards adopted across the organization",
+        "Ability to guide build-versus-buy decisions for conversational technology"
+      ],
+      "complementaryCompetencies": [
+        "Ability to evaluate conversational AI vendors and tooling",
+        "Familiarity with research trends in dialogue and language models",
+        "Ability to represent conversational work at industry events"
+      ],
+      "indicators": [
+        "Defines organizational strategy for conversational AI",
+        "Recognized as a technical authority in conversational systems",
+        "Speaks at industry events on conversational AI"
+      ]
+    },
+    "CAI-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic direction for how the organization builds conversational systems",
+        "Ability to align conversational investments with product and business goals",
+        "Expertise in technical due diligence for conversational products",
+        "Ability to set the engineering bar for assistant quality and safety",
+        "Solid command of trade-offs between in-house and third-party assistants",
+        "Ability to build and lead conversational engineering organizations",
+        "Expertise in translating advances in language models into assistants",
+        "Ability to advise leadership on risk and opportunity in conversational AI"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape data strategy for training and evaluating assistants",
+        "Familiarity with regulatory considerations for automated interactions",
+        "Ability to mentor senior engineers and technical leads"
+      ],
+      "indicators": [
+        "Shapes the technical direction of conversational AI in the company",
+        "Advises leadership on conversational technology decisions",
+        "Mentors senior technical leaders"
+      ]
+    },
+    "CAI-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership of conversational AI strategy",
+        "Ability to align conversational capabilities with company strategy",
+        "Expertise in planning and managing budgets for assistant programs",
+        "Ability to set organizational policy for responsible assistants",
+        "Solid command of risk management for automated customer interactions",
+        "Ability to build competitive advantage through conversational experiences",
+        "Expertise in partnering with model and platform providers",
+        "Ability to lead the organization through shifts in conversational technology"
+      ],
+      "complementaryCompetencies": [
+        "Ability to represent the company on conversational technology matters",
+        "Familiarity with the vendor and research landscape for assistants",
+        "Ability to shape hiring and organization for conversational teams"
+      ],
+      "indicators": [
+        "Defines and executes the conversational technology vision",
+        "Accountable for the outcomes of conversational investments",
+        "Represents the company externally on conversational AI"
+      ]
+    }
+  }
+}

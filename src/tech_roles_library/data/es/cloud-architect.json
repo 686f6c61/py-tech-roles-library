@@ -1,0 +1,258 @@
+{
+  "role": "Arquitecto de Nube",
+  "category": "Infraestructura",
+  "levels": {
+    "CA-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Capacidad de leer diagramas de arquitectura de nube e identificar los límites entre cuentas",
+        "Conocimiento elemental de los pilares del Well-Architected (fiabilidad, seguridad, coste, rendimiento, excelencia operativa)",
+        "Capacidad de documentar decisiones de arquitectura de referencia usando plantillas",
+        "Comprensión básica de la organización de cuentas y suscripciones",
+        "Capacidad de elaborar un inventario de aplicaciones para una evaluación de migración",
+        "Conocimiento elemental de las calculadoras de precios para estimaciones de coste",
+        "Comprensión básica del modelo de responsabilidad compartida",
+        "Capacidad de comparar catálogos de servicios de proveedores frente a requisitos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de diagramas de arquitectura (draw.io, Lucidchart)",
+        "Conocimiento básico de la consola de un hiperescalar (AWS, Azure, GCP)",
+        "Comprensión elemental de topologías de VPC y subredes"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ayuda a documentar arquitecturas existentes",
+        "Necesita 6-12 meses de mentoría en arquitectura"
+      ]
+    },
+    "CA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de esbozar arquitecturas de referencia para cargas comunes (web de tres capas, procesamiento por lotes)",
+        "Capacidad de definir la estructura de cuentas de una zona de aterrizaje con barreras de control",
+        "Conocimiento práctico de los cuestionarios de revisión Well-Architected",
+        "Comprensión de topologías de red radial a nivel de diseño",
+        "Capacidad de elaborar estimaciones de TCO comparando local frente a nube",
+        "Conocimiento de herramientas de evaluación de migración (Migration Evaluator, Azure Migrate)",
+        "Comprensión de las 7R como estrategias de migración",
+        "Capacidad de documentar políticas de barreras de control (etiquetado, restricciones de región)"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de infraestructura como código como mecanismo de entrega de la arquitectura",
+        "Familiaridad con estrategias de asignación de costes y etiquetado",
+        "Comprensión de conceptos de federación de identidades"
+      ],
+      "indicators": [
+        "Diseña arquitecturas de referencia con supervisión",
+        "Contribuye al diseño de zonas de aterrizaje",
+        "Documenta políticas de gobierno"
+      ]
+    },
+    "CA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio del diseño de zonas de aterrizaje multicuenta con unidades organizativas",
+        "Capacidad de diseñar barreras de control mediante políticas de control de servicios y políticas como código",
+        "Capacidad de conducir revisiones Well-Architected y producir planes de remediación",
+        "Conocimiento profundo del diseño de conectividad híbrida (Direct Connect, ExpressRoute, VPN)",
+        "Capacidad de modelar el coste entre cuentas con diseño de showback y chargeback",
+        "Comprensión de la planificación de oleadas de migración y el mapeo de dependencias",
+        "Capacidad de seleccionar servicios gestionados según los compromisos de arquitectura",
+        "Conocimiento de marcos de cumplimiento mapeados a controles de arquitectura (CIS benchmarks)"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento del diseño de topologías de recuperación ante desastres (pilot light, warm standby)",
+        "Capacidad de diseñar zonas de aterrizaje con aprovisionamiento automático de cuentas",
+        "Comprensión de requisitos de residencia y soberanía de los datos"
+      ],
+      "indicators": [
+        "Diseña arquitecturas multicuenta de forma autónoma",
+        "Lidera revisiones Well-Architected",
+        "Define planes de oleadas de migración"
+      ]
+    },
+    "CA-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas de referencia multinube con criterios de ubicación de cargas",
+        "Dominio de marcos de gobierno con barreras de control y excepciones para toda la organización",
+        "Capacidad de arquitectar zonas de aterrizaje para sectores regulados (financiero, sanitario)",
+        "Conocimiento profundo del modelado de TCO incluyendo capacidad reservada y descuentos por compromiso",
+        "Capacidad de definir patrones de fábrica de migración para carteras grandes",
+        "Dominio de patrones de arquitectura híbrida (desbordamiento, gravedad de datos, borde)",
+        "Capacidad de diseñar la arquitectura de identidad y acceso entre cuentas",
+        "Conocimiento del análisis de compromisos Well-Architected entre pilares"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de prácticas FinOps a nivel de diseño de arquitectura",
+        "Capacidad de diseñar arquitecturas de nube soberanas y aisladas",
+        "Comprensión de la arquitectura sostenible y consciente del carbono"
+      ],
+      "indicators": [
+        "Define estándares de arquitectura de nube para productos",
+        "Lidera la estrategia de migración de carteras",
+        "Mentoriza a arquitectos de nube"
+      ]
+    },
+    "CA-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en marcos de zonas de aterrizaje empresariales para múltiples unidades de negocio",
+        "Capacidad de definir modelos operativos de gobierno multinube",
+        "Dominio de la optimización de coste de arquitectura a escala de cartera",
+        "Capacidad de establecer un comité de revisión de arquitectura con registros de decisiones",
+        "Conocimiento profundo de la estrategia de programas de migración de cientos de aplicaciones",
+        "Capacidad de diseñar arquitecturas de referencia adoptadas como planos organizativos",
+        "Experiencia en el mapeo de cumplimiento normativo entre jurisdicciones",
+        "Dominio de la arquitectura híbrida y de borde para cargas sensibles a la latencia"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de las entradas para negociar compromisos con proveedores (acuerdos empresariales)",
+        "Capacidad de diseñar planos de nube específicos por sector",
+        "Comprensión de estrategias de salida y portabilidad de la nube"
+      ],
+      "indicators": [
+        "Arquitecta zonas de aterrizaje para la empresa",
+        "Lidera la estrategia de migración de toda la cartera",
+        "Define estándares de arquitectura organizativos"
+      ]
+    },
+    "CA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir la estrategia de arquitectura de nube empresarial entre unidades de negocio",
+        "Experiencia en marcos de barreras de control que equilibran autonomía y control",
+        "Dominio de la estrategia de TCO y compromisos a escala empresarial",
+        "Capacidad de fijar la dirección multinube e híbrida con política de ubicación de cargas",
+        "Conocimiento profundo de la arquitectura de cumplimiento para múltiples regímenes normativos",
+        "Capacidad de liderar la arquitectura de programas de salida de centros de datos a gran escala",
+        "Experiencia en gobierno de arquitectura y gestión de excepciones",
+        "Dominio de la propiedad de la cartera de arquitecturas de referencia"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de economía de la nube para decisiones de compromiso de capacidad",
+        "Capacidad de definir la estrategia de zonas de aterrizaje para adquisiciones",
+        "Comprensión de la arquitectura de resiliencia y continuidad de negocio"
+      ],
+      "indicators": [
+        "Define la hoja de ruta de arquitectura de nube de varios años",
+        "Lidera la arquitectura en toda la organización",
+        "Asesora a la dirección sobre estrategia de nube"
+      ]
+    },
+    "CA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en arquitectura de transformación de nube empresarial",
+        "Capacidad de definir principios de arquitectura agnóstica a la nube para toda la empresa",
+        "Experiencia en estrategia de arquitectura de salida de centros de datos y migración masiva",
+        "Dominio de la arquitectura de gobierno y cumplimiento para operaciones globales",
+        "Capacidad de definir la estrategia de arquitectura y coste de varios años",
+        "Conocimiento profundo de economía de la nube y gestión de la cartera de compromisos",
+        "Experiencia en el establecimiento de prácticas y estándares de arquitectura de nube",
+        "Capacidad de influir en las hojas de ruta de los proveedores mediante requisitos de arquitectura"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de definir la arquitectura para entornos regulados y soberanos",
+        "Capacidad de establecer el gobierno de revisión de arquitectura a escala",
+        "Conocimiento de estrategia de proveedores y entradas para negociación"
+      ],
+      "indicators": [
+        "Define la estrategia de arquitectura de nube empresarial",
+        "Reconocido como autoridad en arquitectura de nube",
+        "Asesor en transformación a gran escala"
+      ]
+    },
+    "CA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la evolución de la arquitectura de nube empresarial",
+        "Capacidad de liderar la estrategia de arquitectura para la transformación de toda la empresa",
+        "Experiencia en diligencia debida de arquitectura para fusiones y adquisiciones",
+        "Dominio de modelos operativos de gobierno en una organización global",
+        "Capacidad de definir la dirección de la cartera de arquitecturas de referencia",
+        "Conocimiento profundo de la estrategia de coste y compromisos de nube a escala",
+        "Experiencia en alinear las decisiones de arquitectura con los resultados de negocio",
+        "Capacidad de establecer estándares de arquitectura de nube adoptados en toda la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de moldear las alianzas con proveedores de nube mediante requisitos de arquitectura",
+        "Capacidad de definir la arquitectura para la preparación ante cambios normativos",
+        "Conocimiento de la racionalización de la cartera tecnológica"
+      ],
+      "indicators": [
+        "Define la dirección de arquitectura de nube para toda la empresa",
+        "Asesora a la alta dirección sobre estrategia e inversión en nube",
+        "Mentoriza a arquitectos principales"
+      ]
+    },
+    "CA-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia de arquitectura de nube",
+        "Capacidad de alinear la arquitectura de nube con la estrategia de negocio empresarial",
+        "Experiencia en el gobierno de carteras de compromisos de nube multimillonarias",
+        "Dominio de la transformación digital dirigida por la arquitectura",
+        "Capacidad de definir el modelo operativo y el gobierno de nube a nivel empresarial",
+        "Conocimiento profundo de la estrategia de riesgo, resiliencia y cumplimiento en la nube",
+        "Experiencia en la construcción de organizaciones de arquitectura de nube",
+        "Capacidad de impulsar la estrategia de migración y modernización en toda la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de moldear la estrategia empresarial de proveedores y compromisos",
+        "Capacidad de influir en los estándares de arquitectura de nube del sector",
+        "Conocimiento del gobierno de la inversión tecnológica"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de arquitectura de nube empresarial",
+        "Responsable de la estrategia de inversión en nube",
+        "Representa a la empresa en asuntos de arquitectura de nube"
+      ]
+    }
+  }
+}

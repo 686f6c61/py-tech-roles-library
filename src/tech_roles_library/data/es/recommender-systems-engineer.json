@@ -1,0 +1,255 @@
+{
+  "role": "Ingeniero de Sistemas de Recomendación",
+  "category": "IA/ML",
+  "levels": {
+    "RSE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión de la diferencia entre filtrado colaborativo y recomendación basada en contenido",
+        "Carga y exploración de matrices de interacción usuario-ítem con pandas",
+        "Implementación supervisada de recomendadores por popularidad y por similitud de coseno",
+        "Cálculo de precisión, exhaustividad y cobertura sobre un conjunto de prueba reservado",
+        "Preparación de datos de valoraciones con división temporal entre entrenamiento y prueba",
+        "Uso de bibliotecas como scikit-learn y Surprise para modelos de referencia",
+        "Documentación de experimentos de recomendación en cuadernos reproducibles"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con SQL para extraer eventos de interacción de una base de datos",
+        "Nociones de álgebra lineal aplicada a vectores de usuario e ítem",
+        "Uso de Git para versionar cuadernos y guiones de experimentación"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Completa tareas guiadas de preprocesamiento y evaluación de modelos de referencia",
+        "Necesita entre 3 y 6 meses para ser productivo"
+      ]
+    },
+    "RSE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Implementación de filtrado colaborativo basado en usuarios y basado en ítems con vecinos más próximos",
+        "Construcción de modelos de factorización matricial con descenso de gradiente estocástico",
+        "Gestión del arranque en frío de usuarios e ítems nuevos mediante señales de contenido",
+        "Aplicación de regularización y validación cruzada para controlar el sobreajuste",
+        "Cálculo de similitudes con coseno, correlación de Pearson y distancia euclídea",
+        "Preprocesamiento de datos implícitos: ponderación de clics, vistas y tiempo de permanencia",
+        "Escritura de pruebas unitarias para las funciones de puntuación y recuperación"
+      ],
+      "complementaryCompetencies": [
+        "Recomendadores híbridos que combinan contenido e interacción",
+        "Uso de matrices dispersas de SciPy para representar interacciones a gran escala",
+        "Familiaridad con la construcción de un servicio de recomendación por lotes"
+      ],
+      "indicators": [
+        "Desarrolla modelos de recomendación completos con supervisión ocasional",
+        "Resuelve incidencias de complejidad media en las tuberías de datos",
+        "Participa de forma activa en revisiones de código y de experimentos"
+      ]
+    },
+    "RSE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de sistemas de recomendación de principio a fin, desde la ingesta hasta el servicio",
+        "Implementación de factorización matricial avanzada con SVD, ALS y NMF",
+        "Construcción de recomendadores neuronales como embeddings de doble torre y modelos secuenciales",
+        "Optimización de hiperparámetros mediante búsqueda bayesiana y seguimiento de experimentos",
+        "Evaluación con métricas de ordenación como NDCG, MAP y MRR",
+        "Servicio de recomendaciones en tiempo real con recuperación por vecinos aproximados (FAISS, HNSW)",
+        "Instrumentación del registro de impresiones y clics para conjuntos de entrenamiento futuros"
+      ],
+      "complementaryCompetencies": [
+        "Redes recurrentes y transformadores para recomendación secuencial",
+        "Implementación de bandidos multibrazo para equilibrar exploración y explotación",
+        "Mentoría técnica a personas en niveles de iniciación"
+      ],
+      "indicators": [
+        "Completa funcionalidades complejas de recomendación con supervisión mínima",
+        "Identifica y corrige fallos en las tuberías de entrenamiento y de servicio",
+        "Contribuye de forma activa al diseño técnico de los sistemas de recomendación"
+      ]
+    },
+    "RSE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de recomendadores en dos etapas: generación de candidatos y reordenación",
+        "Diseño de modelos de doble torre para recuperación a escala de millones de ítems",
+        "Implementación de modelos de learning to rank con pérdidas por pares y por listas",
+        "Diseño y análisis de experimentos A/B con pruebas de significación estadística",
+        "Optimización multiobjetivo que equilibra relevancia, diversidad y novedad",
+        "Mitigación del sesgo de popularidad y de las burbujas de filtro en el catálogo",
+        "Definición de características en tiempo real y gestión de un almacén de características",
+        "Reducción de la latencia de inferencia y del coste de servir recomendaciones"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en entrenamiento distribuido de modelos de recomendación",
+        "Uso de modelos de lenguaje para enriquecer representaciones de ítems",
+        "Diseño de explicaciones de las recomendaciones para las personas usuarias"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de componentes críticos de recomendación",
+        "Mentoriza a ingenieros junior y revisa sus diseños",
+        "Toma decisiones de arquitectura fundamentadas sobre modelos y servicio"
+      ]
+    },
+    "RSE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño de una plataforma de personalización de nivel de producción para varias superficies",
+        "Desarrollo dirigido por evaluación con métricas offline y online correlacionadas",
+        "Diseño de sistemas de exploración con bandidos contextuales en producción",
+        "Arquitectura de reentrenamiento continuo y detección de deriva en las distribuciones",
+        "Optimización conjunta de relevancia, ingresos y satisfacción a largo plazo",
+        "Definición de estándares de instrumentación y de calidad de los datos de interacción",
+        "Gobernanza de datos de usuarios conforme al RGPD y a la minimización de datos",
+        "Diagnóstico de bucles de retroalimentación entre el modelo y el comportamiento observado"
+      ],
+      "complementaryCompetencies": [
+        "Diseño de bancos de pruebas de evaluación de recomendadores desde cero",
+        "Sistemas de recomendación respetuosos con la privacidad",
+        "Definición de acuerdos de nivel de servicio para latencia y disponibilidad"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de recomendación de productos completos",
+        "Define los estándares técnicos del equipo de personalización",
+        "Lidera iniciativas de recomendación que cruzan varios equipos"
+      ]
+    },
+    "RSE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Arquitectura de una plataforma de personalización empresarial al servicio de varios equipos",
+        "Definición de marcos de experimentación y de vigilancia continua de la calidad",
+        "Liderazgo técnico en la unificación de señales de recomendación entre productos",
+        "Diseño de estrategias de exploración que preservan la diversidad del catálogo a largo plazo",
+        "Gobernanza de la equidad entre proveedores de contenido y grupos de usuarios",
+        "Ingeniería de fiabilidad para sistemas de recomendación de baja latencia y alta disponibilidad",
+        "Dirección de migraciones de sistemas heredados hacia recuperación neuronal",
+        "Gobierno del coste de infraestructura de entrenamiento e inferencia a escala"
+      ],
+      "complementaryCompetencies": [
+        "Evaluación técnica de proveedores y bibliotecas de recomendación",
+        "Estándares emergentes de interoperabilidad de características",
+        "Representación técnica de la empresa en la comunidad de sistemas de recomendación"
+      ],
+      "indicators": [
+        "Diseña soluciones de recomendación para varios equipos a la vez",
+        "Influye en las decisiones técnicas de la organización sobre personalización",
+        "Es referente técnico de la empresa en sistemas de recomendación"
+      ]
+    },
+    "RSE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la dirección técnica de la personalización en toda la organización",
+        "Diseño de arquitecturas de recomendación independientes del modelo y del proveedor",
+        "Elaboración de hojas de ruta plurianuales para las capacidades de recomendación",
+        "Estrategias para escalar de forma segura la personalización a nuevos mercados y productos",
+        "Definición de la economía y el coste total de propiedad de la plataforma de recomendación",
+        "Dirección de la relación entre relevancia algorítmica y objetivos de negocio a largo plazo",
+        "Formación y crecimiento de equipos de ingeniería de recomendación",
+        "Anticipación del impacto en el producto de nuevas técnicas de recuperación y ordenación"
+      ],
+      "complementaryCompetencies": [
+        "Evaluación técnica de empresas emergentes y herramientas de recomendación",
+        "Publicación de resultados o patentes sobre técnicas de recomendación",
+        "Seguimiento de tendencias de investigación en recuperación y ordenación"
+      ],
+      "indicators": [
+        "Define la estrategia técnica de personalización de la organización",
+        "Es reconocido como referente en sistemas de recomendación",
+        "Interviene como ponente en conferencias del sector"
+      ]
+    },
+    "RSE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la evolución de la personalización y el descubrimiento de contenido",
+        "Definición del papel de los sistemas de recomendación en la estrategia de producto de la empresa",
+        "Diligencia técnica de productos y adquisiciones basados en recomendación",
+        "Diseño de la arquitectura de personalización que sostiene varias líneas de negocio",
+        "Dirección de la respuesta técnica a la regulación de privacidad y a la transparencia algorítmica",
+        "Definición de los principios de recomendación responsable frente al sesgo y la manipulación",
+        "Construcción y liderazgo de organizaciones de ingeniería de recomendación",
+        "Análisis del impacto de negocio de las decisiones de relevancia y exploración"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en las políticas del sector sobre personalización y transparencia",
+        "Creación de líneas de producto derivadas de la investigación en recomendación",
+        "Asesoría técnica a la dirección sobre inversión en personalización"
+      ],
+      "indicators": [
+        "Influye en la dirección técnica del ámbito de la recomendación",
+        "Asesora a la dirección ejecutiva sobre estrategia de personalización",
+        "Es mentor de líderes técnicos senior"
+      ]
+    },
+    "RSE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la estrategia de personalización y descubrimiento de la empresa",
+        "Alineación de la estrategia de recomendación con la estrategia de negocio",
+        "Dirección de la inversión en plataformas de personalización y en talento especializado",
+        "Definición de la postura de la empresa ante la regulación de sistemas de recomendación",
+        "Gestión de la relación entre personalización, confianza de las personas usuarias e ingresos",
+        "Dirección de la ventaja competitiva construida sobre la calidad de la recomendación",
+        "Gobernanza del riesgo reputacional y regulatorio de la personalización a gran escala",
+        "Impulso de la transformación del producto mediante el descubrimiento personalizado"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en la regulación y en los estándares de personalización",
+        "Dirección de alianzas estratégicas en torno a datos y recomendación",
+        "Representación pública de la empresa en materia de personalización responsable"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de personalización de la empresa",
+        "Responde por los resultados de negocio de la personalización",
+        "Es la cara visible de la empresa en sistemas de recomendación"
+      ]
+    }
+  }
+}

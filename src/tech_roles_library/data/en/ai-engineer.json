@@ -1,0 +1,249 @@
+{
+  "role": "AI Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "AIE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of calling a hosted LLM through an inference API and reading its response",
+        "Elementary grasp of prompt formatting and system messages for a chat model",
+        "Able to integrate a single model call into an application endpoint with supervision",
+        "Basic understanding of retrieval-augmented generation as fetching context before a prompt",
+        "Able to load documents into a vector store following a provided example",
+        "Elementary notions of measuring response latency and token usage of a call",
+        "Basic understanding of structured output such as JSON responses from a model"
+      ],
+      "complementaryCompetencies": [
+        "Comfortable with Python and REST APIs",
+        "Familiar with environment variables and API key handling",
+        "Elementary notion of embeddings as numeric representations of text"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can complete simple integration tasks with detailed guidance",
+        "Needs 3-6 months to become productive"
+      ]
+    },
+    "AIE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Able to build a basic RAG pipeline that retrieves chunks and injects them into a prompt",
+        "Grasp of chunking strategies and embedding models for indexing documents",
+        "Able to integrate an inference API into a service with error handling and retries",
+        "Practical use of prompt templates and few-shot examples for a task",
+        "Able to enforce structured output with schema validation of model responses",
+        "Grasp of token limits and context-window budgeting for a request",
+        "Familiar with caching model responses to reduce cost and latency"
+      ],
+      "complementaryCompetencies": [
+        "Comfortable with vector databases such as pgvector or a managed index",
+        "Familiar with streaming responses to the client",
+        "Basic practice of unit testing prompts and integration code"
+      ],
+      "indicators": [
+        "Develops applied AI features with supervision",
+        "Resolves medium-complexity issues in inference integration",
+        "Actively participates in code and prompt reviews"
+      ]
+    },
+    "AIE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Proficient at building production RAG with reranking and metadata filtering",
+        "Able to design offline evaluation sets that score answer relevance and grounding",
+        "Able to detect and mitigate hallucinations through citation and grounding checks",
+        "Solid command of prompt engineering including task decomposition and output constraints",
+        "Able to instrument model calls with tracing of prompts, tokens and latency",
+        "Grasp of model-selection trade-offs across quality, cost and speed",
+        "Able to implement fallback logic across providers when a model call fails"
+      ],
+      "complementaryCompetencies": [
+        "Aware of prompt-injection risks in retrieval contexts and their basic mitigations",
+        "Able to build hybrid search combining keyword and vector retrieval",
+        "Basic practice of function calling to connect models to application logic"
+      ],
+      "indicators": [
+        "Completes complex applied AI features with minimal supervision",
+        "Identifies and resolves failures in retrieval and inference pipelines",
+        "Actively contributes to the technical design of AI features"
+      ]
+    },
+    "AIE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Able to architect end-to-end AI features integrating retrieval, inference and business logic",
+        "Proficient at evaluation-driven development with automated scoring of quality regressions",
+        "Able to design multi-step LLM workflows that chain retrieval, tools and generation",
+        "Solid command of optimizing cost and latency through caching, batching and model routing",
+        "Able to build online quality monitoring that flags drift in production model outputs",
+        "Proficient with retrieval architectures including chunk optimization and embedding refresh",
+        "Able to run A/B tests comparing prompts, models and retrieval strategies in production"
+      ],
+      "complementaryCompetencies": [
+        "Aware of fine-tuning and when it beats prompting for a task",
+        "Able to design guardrails that filter unsafe or off-topic model responses",
+        "Grasp of data privacy when sending user data to model providers"
+      ],
+      "indicators": [
+        "Leads development of critical AI product features",
+        "Effectively mentors junior engineers",
+        "Makes informed architectural decisions on AI integration"
+      ]
+    },
+    "AIE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expert at designing production-grade LLM application platforms serving live traffic",
+        "Able to architect scalable inference serving with load balancing across model providers",
+        "Proficient with evaluation pipelines combining offline benchmarks and online quality signals",
+        "Able to design retrieval systems that stay fresh and scale to large corpora",
+        "Solid command of controlling cost per request at scale through routing and quantized models",
+        "Able to build observability that captures prompts, retrieval, outputs and user feedback",
+        "Expert at mitigating hallucination and prompt injection in production systems"
+      ],
+      "complementaryCompetencies": [
+        "Aware of fine-tuning and adapter training for domain specialization",
+        "Able to design evaluation benchmarks for specific product tasks",
+        "Grasp of compliance concerns when processing user data through models"
+      ],
+      "indicators": [
+        "Designs AI architectures for complete products",
+        "Defines team technical standards for applied AI development",
+        "Leads cross-team initiatives on AI infrastructure"
+      ]
+    },
+    "AIE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Able to architect enterprise AI platforms that serve model-powered features to many teams",
+        "Expert at governance for model usage including cost controls and access policies",
+        "Proficient with evaluation infrastructure and continuous quality monitoring across products",
+        "Able to design systems resilient to model-provider outages and version changes",
+        "Solid command of security threats specific to LLM applications such as data leakage and injection",
+        "Able to lead migrations that adopt AI capabilities across existing products at scale",
+        "Expert at reliability engineering for probabilistic model-driven features"
+      ],
+      "complementaryCompetencies": [
+        "Aware of self-hosted open-weight model deployment as an alternative to APIs",
+        "Able to design shared retrieval and evaluation infrastructure for the organization",
+        "Grasp of vendor negotiation and model-licensing economics"
+      ],
+      "indicators": [
+        "Architects AI solutions for multiple teams",
+        "Influences organizational technical decisions on applied AI",
+        "Represents the company technically in the applied AI domain"
+      ]
+    },
+    "AIE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Provides technical leadership for enterprise-wide adoption of model-powered products",
+        "Able to design AI application architectures for large product portfolios",
+        "Expert at strategies for controlling quality and cost of AI features at organizational scale",
+        "Solid command of vendor-agnostic and model-agnostic application architectures",
+        "Able to define multi-year roadmaps for applied AI capabilities",
+        "Deep grasp of the total cost of ownership of LLM-based systems",
+        "Expert at building and scaling applied AI engineering teams"
+      ],
+      "complementaryCompetencies": [
+        "Able to evaluate emerging models and inference tooling for adoption",
+        "Able to represent applied AI engineering with technical partners",
+        "Aware of industry trends in inference optimization and retrieval"
+      ],
+      "indicators": [
+        "Defines organizational technical strategy for applied AI",
+        "Recognized as a technical authority in applied AI systems",
+        "Speaks at industry conferences"
+      ]
+    },
+    "AIE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Sets the strategic vision for how model-powered products evolve within the organization",
+        "Able to lead major shifts in how the company builds and ships AI features",
+        "Expert at technical due diligence for AI-driven products and acquisitions",
+        "Drives organizational change toward AI-augmented product development",
+        "Able to build and lead applied AI engineering organizations",
+        "Deep grasp of the business impact of model quality, cost and reliability decisions",
+        "Expert at executive stakeholder relations around AI product risk"
+      ],
+      "complementaryCompetencies": [
+        "Able to influence industry practice on applied AI engineering",
+        "Able to guide investment decisions in AI tooling and infrastructure",
+        "Aware of the applied AI vendor and startup landscape"
+      ],
+      "indicators": [
+        "Impacts the technical direction of applied AI in the industry",
+        "Advises senior leadership on AI product strategy",
+        "Mentors senior technical leaders"
+      ]
+    },
+    "AIE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Provides executive leadership for applied AI across the product organization",
+        "Able to align AI product strategy with overall business strategy",
+        "Expert at managing large budgets for model usage and AI infrastructure",
+        "Commands stakeholder and board communication on AI product initiatives",
+        "Able to lead AI-driven product transformation across business units",
+        "Deep grasp of risk management for customer-facing model-powered systems",
+        "Expert at building competitive advantage through applied AI products"
+      ],
+      "complementaryCompetencies": [
+        "Able to shape organizational policy on responsible AI product use",
+        "Able to build partnerships with model providers and platform vendors",
+        "Aware of the economics of AI product lines"
+      ],
+      "indicators": [
+        "Defines and executes the applied AI product technology vision",
+        "Accountable for the profit and loss of AI-powered products",
+        "Serves as the public voice of the company in applied AI"
+      ]
+    }
+  }
+}

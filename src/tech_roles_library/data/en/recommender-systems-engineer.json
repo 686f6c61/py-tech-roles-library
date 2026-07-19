@@ -1,0 +1,255 @@
+{
+  "role": "Recommender Systems Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "RSE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Understanding of the difference between collaborative filtering and content-based recommendation",
+        "Ability to load and explore user-item interaction matrices with pandas",
+        "Supervised implementation of popularity and cosine-similarity recommenders",
+        "Computation of precision, recall and coverage on a held-out test set",
+        "Preparation of ratings data with a temporal train-test split",
+        "Use of libraries such as scikit-learn and Surprise for baseline models",
+        "Documentation of recommendation experiments in reproducible notebooks"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with SQL to extract interaction events from a database",
+        "Notions of linear algebra applied to user and item vectors",
+        "Use of Git to version notebooks and experimentation scripts"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Completes guided preprocessing and baseline evaluation tasks",
+        "Needs 3-6 months to become productive"
+      ]
+    },
+    "RSE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Implementation of user-based and item-based collaborative filtering with nearest neighbors",
+        "Building matrix factorization models with stochastic gradient descent",
+        "Handling cold start for new users and items through content signals",
+        "Applying regularization and cross-validation to control overfitting",
+        "Computing similarities with cosine, Pearson correlation and Euclidean distance",
+        "Preprocessing implicit feedback: weighting clicks, views and dwell time",
+        "Writing unit tests for scoring and retrieval functions"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of hybrid recommenders combining content and interaction",
+        "Use of SciPy sparse matrices to represent large-scale interactions",
+        "Familiarity with building a batch recommendation service"
+      ],
+      "indicators": [
+        "Builds complete recommendation models with occasional supervision",
+        "Resolves medium-complexity issues in data pipelines",
+        "Actively participates in code and experiment reviews"
+      ]
+    },
+    "RSE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of end-to-end recommender systems from ingestion to serving",
+        "Implementation of advanced matrix factorization with SVD, ALS and NMF",
+        "Building neural recommenders such as two-tower embeddings and sequential models",
+        "Hyperparameter optimization through Bayesian search with experiment tracking",
+        "Evaluation with ranking metrics such as NDCG, MAP and MRR",
+        "Serving real-time recommendations with approximate nearest neighbor retrieval (FAISS, HNSW)",
+        "Instrumentation of impression and click logging for future training sets"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of recurrent networks and transformers for sequential recommendation",
+        "Implementation of multi-armed bandits to balance exploration and exploitation",
+        "Technical mentoring of entry-level engineers"
+      ],
+      "indicators": [
+        "Completes complex recommendation features with minimal supervision",
+        "Identifies and fixes failures in training and serving pipelines",
+        "Actively contributes to the technical design of recommender systems"
+      ]
+    },
+    "RSE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of two-stage recommenders: candidate generation and reranking",
+        "Design of two-tower models for retrieval across millions of items",
+        "Implementation of learning-to-rank models with pairwise and listwise losses",
+        "Design and analysis of A/B tests with statistical significance testing",
+        "Multi-objective optimization balancing relevance, diversity and novelty",
+        "Mitigation of popularity bias and filter bubbles across the catalog",
+        "Definition of real-time features and management of a feature store",
+        "Reduction of inference latency and serving cost of recommendations"
+      ],
+      "complementaryCompetencies": [
+        "Experience with distributed training of recommendation models",
+        "Use of language models to enrich item representations",
+        "Design of recommendation explanations for end users"
+      ],
+      "indicators": [
+        "Leads development of critical recommendation components",
+        "Mentors junior engineers and reviews their designs",
+        "Makes informed architectural decisions on models and serving"
+      ]
+    },
+    "RSE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Design of a production-grade personalization platform serving multiple surfaces",
+        "Evaluation-driven development with correlated offline and online metrics",
+        "Design of exploration systems with contextual bandits in production",
+        "Architecture of continuous retraining and distribution drift detection",
+        "Joint optimization of relevance, revenue and long-term satisfaction",
+        "Definition of instrumentation standards and interaction data quality",
+        "Governance of user data compliant with GDPR and data minimization",
+        "Diagnosis of feedback loops between the model and observed behavior"
+      ],
+      "complementaryCompetencies": [
+        "Design of recommender evaluation benchmarks from scratch",
+        "Knowledge of privacy-aware recommender systems",
+        "Definition of service-level agreements for latency and availability"
+      ],
+      "indicators": [
+        "Designs the recommendation architecture of complete products",
+        "Defines the technical standards of the personalization team",
+        "Leads recommendation initiatives spanning multiple teams"
+      ]
+    },
+    "RSE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Architecture of an enterprise personalization platform serving multiple teams",
+        "Definition of experimentation frameworks and continuous quality monitoring",
+        "Technical leadership in unifying recommendation signals across products",
+        "Design of exploration strategies that preserve long-term catalog diversity",
+        "Governance of fairness between content providers and user groups",
+        "Reliability engineering for low-latency, high-availability recommender systems",
+        "Direction of migrations from legacy systems toward neural retrieval",
+        "Governance of training and inference infrastructure cost at scale"
+      ],
+      "complementaryCompetencies": [
+        "Technical evaluation of recommendation vendors and libraries",
+        "Knowledge of emerging feature interoperability standards",
+        "Technical representation of the company in the recommender systems community"
+      ],
+      "indicators": [
+        "Designs recommendation solutions for multiple teams at once",
+        "Influences organizational technical decisions on personalization",
+        "Is the company's technical reference in recommender systems"
+      ]
+    },
+    "RSE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definition of the technical direction of personalization across the organization",
+        "Design of model-agnostic and vendor-agnostic recommendation architectures",
+        "Development of multi-year roadmaps for recommendation capabilities",
+        "Strategies to safely scale personalization to new markets and products",
+        "Definition of the economics and total cost of ownership of the recommendation platform",
+        "Direction of the balance between algorithmic relevance and long-term business goals",
+        "Building and growing recommendation engineering teams",
+        "Anticipation of the product impact of new retrieval and ranking techniques"
+      ],
+      "complementaryCompetencies": [
+        "Technical evaluation of recommendation startups and tools",
+        "Publication of results or patents on recommendation techniques",
+        "Knowledge of research trends in retrieval and ranking"
+      ],
+      "indicators": [
+        "Defines the organization's technical personalization strategy",
+        "Is recognized as a reference in recommender systems",
+        "Speaks at industry conferences"
+      ]
+    },
+    "RSE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the evolution of personalization and content discovery",
+        "Definition of the role of recommender systems in the company's product strategy",
+        "Technical due diligence of recommendation-driven products and acquisitions",
+        "Design of the personalization architecture that supports multiple business lines",
+        "Direction of the technical response to privacy regulation and algorithmic transparency",
+        "Definition of responsible recommendation principles against bias and manipulation",
+        "Building and leading recommendation engineering organizations",
+        "Analysis of the business impact of relevance and exploration decisions"
+      ],
+      "complementaryCompetencies": [
+        "Influence on industry policy for personalization and transparency",
+        "Creation of product lines derived from recommendation research",
+        "Technical advisory to leadership on personalization investment"
+      ],
+      "indicators": [
+        "Influences the technical direction of the recommendation field",
+        "Advises executive leadership on personalization strategy",
+        "Mentors senior technical leaders"
+      ]
+    },
+    "RSE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership of the company's personalization and discovery strategy",
+        "Alignment of recommendation strategy with business strategy",
+        "Direction of investment in personalization platforms and specialized talent",
+        "Definition of the company's stance on recommender systems regulation",
+        "Management of the balance between personalization, user trust and revenue",
+        "Direction of competitive advantage built on recommendation quality",
+        "Governance of the reputational and regulatory risk of large-scale personalization",
+        "Driving product transformation through personalized discovery"
+      ],
+      "complementaryCompetencies": [
+        "Influence on regulation and standards for personalization",
+        "Direction of strategic partnerships around data and recommendation",
+        "Public representation of the company on responsible personalization"
+      ],
+      "indicators": [
+        "Defines and executes the company's personalization vision",
+        "Is accountable for the business results of personalization",
+        "Is the public face of the company in recommender systems"
+      ]
+    }
+  }
+}

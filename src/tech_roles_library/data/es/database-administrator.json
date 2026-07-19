@@ -1,0 +1,259 @@
+{
+  "role": "Administrador de Bases de Datos",
+  "category": "Infraestructura",
+  "levels": {
+    "DBA-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de sistemas de bases de datos",
+        "Conocimiento elemental de consultas estructuradas",
+        "Habilidad para copias de seguridad y restauraciones básicas",
+        "Comprensión básica de usuarios y permisos",
+        "Capacidad de monitorización básico de bases de datos",
+        "Conocimiento elemental de índices",
+        "Comprensión básica de integridad de datos",
+        "Habilidad para documentar configuraciones"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de programación de scripts",
+        "Familiaridad con herramientas de administración",
+        "Comprensión elemental de sistemas operativos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede ejecutar tareas administrativas rutinarias",
+        "Necesita 6-12 meses de mentoría"
+      ]
+    },
+    "DBA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de administrar bases de datos operacionalmente",
+        "Habilidad para optimización de consultas básica",
+        "Conocimiento práctico de replicación y agrupación",
+        "Comprensión de planes de mantenimiento",
+        "Capacidad de resolución de problemas básica",
+        "Habilidad para planificación de capacidad simple",
+        "Conocimiento de seguridad de bases de datos",
+        "Comprensión de monitorización de rendimiento"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de bases de datos no relacionales",
+        "Habilidad para automatización básica",
+        "Comprensión de bases de datos en la nube"
+      ],
+      "indicators": [
+        "Administra bases de datos con supervisión moderada",
+        "Resuelve problemas operacionales comunes",
+        "Mantiene acuerdos de nivel de servicio básicos"
+      ]
+    },
+    "DBA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de ajuste y optimización avanzada",
+        "Capacidad de diseñar estrategias de alta disponibilidad y recuperación",
+        "Habilidad para implementar fragmentación",
+        "Conocimiento profundo de componentes internos de bases de datos",
+        "Capacidad de implementar seguridad avanzada",
+        "Comprensión sólida de modelado de datos",
+        "Habilidad para migración y actualizaciones",
+        "Conocimiento de cumplimiento normativo de bases de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de múltiples sistemas de gestión de bases de datos",
+        "Habilidad para automatización de bases de datos",
+        "Comprensión de almacenamiento de datos"
+      ],
+      "indicators": [
+        "Gestiona bases de datos críticas independientemente",
+        "Optimiza rendimiento significativamente",
+        "Lidera proyectos de bases de datos medianos"
+      ]
+    },
+    "DBA-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar soluciones de bases de datos empresariales",
+        "Dominio de bases de datos distribuidas",
+        "Habilidad para implementar replicación multi-maestro",
+        "Conocimiento profundo de optimización de almacenamiento",
+        "Capacidad de planificación de recuperación ante desastres",
+        "Dominio de seguridad empresarial de bases de datos",
+        "Habilidad para pronóstico de capacidad",
+        "Conocimiento de consolidación de bases de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de bases de datos en memoria",
+        "Habilidad para plataformas de grandes volúmenes de datos",
+        "Comprensión de contenedores de bases de datos"
+      ],
+      "indicators": [
+        "Define estrategia de bases de datos para aplicaciones",
+        "Lidera migraciones de bases de datos complejas",
+        "Mentora administradores junior"
+      ]
+    },
+    "DBA-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en arquitecturas de bases de datos híbridas",
+        "Capacidad de diseñar plataformas de datos",
+        "Dominio de automatización completa de bases de datos",
+        "Habilidad para implementar bases de datos como servicio",
+        "Conocimiento profundo de cumplimiento normativo",
+        "Capacidad de implementar gobernanza de datos",
+        "Experiencia en migraciones entre plataformas",
+        "Dominio de economía de bases de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de bases de datos de cadena de bloques",
+        "Habilidad para bases de datos de aprendizaje automático",
+        "Comprensión de bases de datos en el borde"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones de bases de datos corporativas",
+        "Lidera transformación de bases de datos",
+        "Define estándares empresariales de bases de datos"
+      ]
+    },
+    "DBA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir estrategia empresarial de bases de datos",
+        "Experiencia en ingeniería de plataformas de bases de datos",
+        "Dominio de modernización de bases de datos",
+        "Habilidad para centro de excelencia de bases de datos",
+        "Conocimiento profundo de estrategia de datos",
+        "Capacidad de liderar equipos de bases de datos",
+        "Experiencia en gestión de proveedores",
+        "Dominio de gestión de riesgos de bases de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de innovación en bases de datos",
+        "Habilidad para consultoría de bases de datos",
+        "Comprensión de monetización de datos"
+      ],
+      "indicators": [
+        "Define hoja de ruta de bases de datos plurianual",
+        "Lidera organizaciones de bases de datos",
+        "Influencia industria de bases de datos"
+      ]
+    },
+    "DBA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en innovación global de bases de datos",
+        "Capacidad de transformación empresarial de bases de datos",
+        "Experiencia en estrategias de plataformas de datos",
+        "Dominio de construcción de ecosistema de bases de datos",
+        "Capacidad de definir filosofía de bases de datos",
+        "Conocimiento profundo de bases de datos del futuro",
+        "Experiencia en liderazgo de pensamiento en bases de datos",
+        "Capacidad de liderar investigación en bases de datos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones en bases de datos",
+        "Habilidad para empresas de bases de datos",
+        "Conocimiento de inversiones en bases de datos"
+      ],
+      "indicators": [
+        "Define filosofía de bases de datos corporativa",
+        "Ponente en conferencias globales de bases de datos",
+        "Líder de pensamiento en bases de datos"
+      ]
+    },
+    "DBA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del futuro de bases de datos",
+        "Capacidad de transformar empresas mediante plataformas de datos",
+        "Experiencia en estrategia ejecutiva de bases de datos",
+        "Dominio de economía de datos corporativa",
+        "Capacidad de definir excelencia en bases de datos",
+        "Conocimiento profundo de gobernanza de datos global",
+        "Experiencia en alianzas de bases de datos",
+        "Capacidad de liderar estándares de bases de datos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar industria de bases de datos",
+        "Habilidad para fusiones y adquisiciones de bases de datos",
+        "Conocimiento de salidas a bolsa de bases de datos"
+      ],
+      "indicators": [
+        "Define la estrategia de bases de datos de toda la organización",
+        "Influye en proveedores de bases de datos",
+        "Asesor ejecutivo de bases de datos"
+      ]
+    },
+    "DBA-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en plataformas de datos",
+        "Capacidad de datos como activo empresarial",
+        "Experiencia en transformación total de datos",
+        "Dominio de estrategias de inversión en datos",
+        "Capacidad de construir organizaciones de datos",
+        "Conocimiento profundo de creación de valor mediante datos",
+        "Experiencia en alianzas globales de datos",
+        "Capacidad de definir cultura de datos",
+        "Dominio de modelos de negocio basados en datos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influencia en políticas de datos",
+        "Habilidad para creación de ecosistema de datos",
+        "Conocimiento de salidas empresariales basadas en datos"
+      ],
+      "indicators": [
+        "Define y ejecuta visión de datos empresarial",
+        "Responsable de toda la estrategia de datos",
+        "Líder reconocido en gestión de datos global"
+      ]
+    }
+  }
+}

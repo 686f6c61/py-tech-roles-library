@@ -1,0 +1,249 @@
+{
+  "role": "Especialista en Gobernanza de Datos",
+  "category": "Datos",
+  "levels": {
+    "DGS-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Nociones básicas de políticas y estándares de gobernanza de datos",
+        "Documentación de activos de datos y sus responsables en un catálogo",
+        "Aplicación de una clasificación simple de datos (público, interno, confidencial)",
+        "Registro de la documentación de linaje de los flujos conocidos",
+        "Nociones de datos personales y principios del RGPD",
+        "Registro de metadatos y términos del glosario de negocio",
+        "Comprensión del papel del custodio de datos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con una herramienta de catálogo de datos (Collibra, Alation)",
+        "Prácticas básicas de documentación y hojas de cálculo",
+        "Sensibilidad a la privacidad de datos y el consentimiento"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Documenta activos básicos y términos del glosario",
+        "Necesita entre 6 y 12 meses de mentoría en gobernanza"
+      ]
+    },
+    "DGS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Aplicación coherente de clasificación y etiquetas de sensibilidad",
+        "Mantenimiento del glosario de negocio y los metadatos en el catálogo",
+        "Apoyo a los custodios de datos en la aplicación de políticas de un dominio",
+        "Documentación de linaje y propiedad de los elementos de datos críticos",
+        "Seguimiento de incidencias de calidad frente a reglas acordadas",
+        "Tratamiento conforme al RGPD de datos personales y categorías especiales",
+        "Preparación de informes de gobernanza y verificación de cumplimiento de políticas"
+      ],
+      "complementaryCompetencies": [
+        "Manejo práctico de una herramienta de catálogo (Collibra, Alation, DataHub)",
+        "Nociones de control de acceso y permisos por rol",
+        "Familiaridad con requisitos regulatorios (RGPD, normativa sectorial)"
+      ],
+      "indicators": [
+        "Aplica políticas con supervisión",
+        "Mantiene actualizados el catálogo y el glosario",
+        "Contribuye a los informes de cumplimiento"
+      ]
+    },
+    "DGS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de políticas de gobernanza y flujos de custodia para un dominio",
+        "Definición de esquemas de clasificación y niveles de sensibilidad",
+        "Ejecución de reglas de calidad con SLA sobre conjuntos de datos críticos",
+        "Coordinación de custodios de datos y resolución de vacíos de propiedad",
+        "Gestión del catálogo, el glosario y el linaje como activo gobernado",
+        "Implementación de controles RGPD: retención, minimización y derechos del interesado",
+        "Informe de métricas de gobernanza y adopción a las partes interesadas"
+      ],
+      "complementaryCompetencies": [
+        "Nociones de gobernanza federada en un data mesh",
+        "Gestión del cambio para el despliegue de políticas",
+        "Familiaridad con contratos de datos"
+      ],
+      "indicators": [
+        "Lidera iniciativas de gobernanza de un dominio",
+        "Diseña políticas y procesos de custodia",
+        "Tutoriza a custodios junior"
+      ]
+    },
+    "DGS-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura del programa de gobernanza en varios dominios",
+        "Definición del marco de políticas y del modelo de custodia empresarial",
+        "Establecimiento de estándares de clasificación, sensibilidad y acceso",
+        "Fijación de SLA de calidad de datos y su seguimiento como compromisos de servicio",
+        "Dirección de comités de gobierno y foros de decisión",
+        "Liderazgo del cumplimiento del RGPD y de múltiples regulaciones",
+        "Seguimiento de métricas de adopción e impulso del uso del catálogo"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en cumplimiento multijurisdiccional",
+        "Ética de datos y uso responsable",
+        "Gobierno de productos y contratos de datos"
+      ],
+      "indicators": [
+        "Define la estrategia de gobernanza de la organización",
+        "Preside foros de custodia y calidad",
+        "Es referente de gobernanza en la empresa"
+      ]
+    },
+    "DGS-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de la gobernanza entre dominios con un modelo operativo federado",
+        "Definición de estándares, roles y responsabilidades de gobernanza",
+        "Fijación de políticas de clasificación, retención y acceso a escala de plataforma",
+        "Gobierno de la calidad de datos como SLA con propiedad clara",
+        "Dirección del consejo de gobernanza y gestión del riesgo de datos",
+        "Alineación del RGPD, la soberanía y la normativa sectorial en un único marco",
+        "Medición de la adopción, la cobertura de custodia y el cumplimiento de políticas"
+      ],
+      "complementaryCompetencies": [
+        "Gobernanza federada en data mesh",
+        "Contratos de datos y acuerdos de interoperabilidad",
+        "Selección y despliegue de herramientas de gobernanza"
+      ],
+      "indicators": [
+        "Gestiona un equipo de gobernanza",
+        "Define la visión y los estándares de gobernanza",
+        "Representa la gobernanza ante las partes interesadas"
+      ]
+    },
+    "DGS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de la estrategia de gobernanza de una unidad de negocio",
+        "Gestión de programas de gobernanza y custodia a escala",
+        "Definición de la arquitectura de gobernanza: catálogo, linaje y motor de políticas",
+        "Liderazgo del cumplimiento global entre regiones y regulaciones",
+        "Establecimiento de SLA de calidad de datos y prácticas de gestión de riesgo",
+        "Gobierno de políticas de ética de datos y uso responsable",
+        "Informe de indicadores de gobernanza y adopción a la dirección"
+      ],
+      "complementaryCompetencies": [
+        "Estrategia regulatoria entre jurisdicciones",
+        "Gobernanza en fusiones e integraciones",
+        "Liderazgo en comunidades de gobernanza de datos"
+      ],
+      "indicators": [
+        "Dirige una función de gobernanza",
+        "Fija las prioridades de inversión en gobernanza",
+        "Contribuye a la estrategia de datos de la empresa"
+      ]
+    },
+    "DGS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia plurianual de gobernanza de la empresa",
+        "Establecimiento del modelo operativo de gobernanza federada y sus comités",
+        "Estandarización de la clasificación, la retención y el acceso en toda la empresa",
+        "Gobierno de los SLA de calidad, el linaje y la custodia a escala empresarial",
+        "Alineación del RGPD, la soberanía y la normativa sectorial en un único programa",
+        "Definición de indicadores de gobernanza, objetivos de adopción y apetito de riesgo",
+        "Asesoría a la dirección en riesgo de datos, privacidad y cumplimiento"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en estándares de gobernanza y modelos de referencia",
+        "Gobernanza para industrias reguladas",
+        "Liderazgo en consorcios del sector"
+      ],
+      "indicators": [
+        "Fija la estrategia corporativa de gobernanza",
+        "Depende del director de datos sobre gobernanza y riesgo",
+        "Autoridad interna reconocida en gobernanza"
+      ]
+    },
+    "DGS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Responsable de la visión de gobernanza empresarial en todos los dominios",
+        "Alineación de la gobernanza con la estrategia de negocio y la gestión de riesgo",
+        "Definición de modelos de gobernanza de referencia adoptados en toda la empresa",
+        "Liderazgo de la gobernanza en fusiones, adquisiciones e integraciones",
+        "Establecimiento de estándares de custodia, SLA de calidad y clasificación a escala",
+        "Fijación de marcos de privacidad, ética y uso responsable de datos",
+        "Patrocinio de comités de gobierno y comunidades de custodia"
+      ],
+      "complementaryCompetencies": [
+        "Configuración de relaciones regulatorias y de estándares externos",
+        "Asesoría al consejo sobre riesgo de datos y privacidad",
+        "Liderazgo de pensamiento en gobernanza de datos"
+      ],
+      "indicators": [
+        "Forma parte del comité de liderazgo de datos",
+        "Define la estrategia de gobernanza empresarial",
+        "Líder reconocido en gobernanza"
+      ]
+    },
+    "DGS-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Definición y ejecución de la visión de gobernanza de datos empresarial",
+        "Alineación de la gobernanza con la estrategia corporativa y la postura regulatoria",
+        "Responsabilidad de los marcos de privacidad, ética y cumplimiento de la empresa",
+        "Construcción y liderazgo de la organización de gobernanza",
+        "Definición del modelo operativo de gobernanza federada y sus comités",
+        "Establecimiento de SLA de calidad y responsabilidad de custodia a escala global",
+        "Gobierno del riesgo de datos, la soberanía y el uso responsable a gran escala"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en la regulación y los estándares del sector",
+        "Dirección de alianzas estratégicas de cumplimiento",
+        "Impulso del talento y la sucesión en gobernanza"
+      ],
+      "indicators": [
+        "Responsable de la gobernanza de datos empresarial",
+        "Ejecuta la visión de gobernanza a largo plazo",
+        "Líder reconocido en gobernanza de datos"
+      ]
+    }
+  }
+}

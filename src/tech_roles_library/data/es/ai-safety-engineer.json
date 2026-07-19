@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Seguridad en IA",
+  "category": "IA/ML",
+  "levels": {
+    "AISAFE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de qué puede salir mal cuando se despliegan modelos de lenguaje, desde salidas dañinas hasta el uso indebido",
+        "Conocimiento elemental de la alineación como el ajuste del comportamiento del modelo a la intención humana",
+        "Capacidad de identificar respuestas claramente inseguras en las salidas del modelo bajo supervisión",
+        "Conocimiento básico de cómo se manifiesta el sesgo en las respuestas del modelo",
+        "Capacidad de ejecutar casos de prueba de seguridad predefinidos contra un modelo",
+        "Comprensión de la equidad y de por qué importan los daños de representación",
+        "Documentación de problemas de seguridad con pasos de reproducción claros",
+        "Conocimiento elemental de los principios y las guías de IA responsable"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con arneses de evaluación de modelos y conjuntos de referencia",
+        "Conocimiento básico de instrucciones adversarias e intentos sencillos de jailbreak",
+        "Comprensión elemental de la interpretabilidad como inspección del porqué de una respuesta"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Identifica problemas claramente inseguros en las salidas del modelo",
+        "Está construyendo competencias fundamentales de seguridad en IA"
+      ]
+    },
+    "AISAFE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de evaluar un modelo con una rúbrica de seguridad que cubre contenido dañino y no permitido",
+        "Implementación de detección de sesgos en distintos segmentos demográficos de las instrucciones",
+        "Conocimiento práctico de la robustez adversaria y de cómo las instrucciones rompen las salvaguardas",
+        "Capacidad de hacer red teaming a un modelo de lenguaje para sacar a la luz jailbreaks y comportamientos inseguros",
+        "Comprensión de las referencias de seguridad y de qué mide cada una",
+        "Capacidad de proponer mitigaciones como el endurecimiento de instrucciones y el filtrado de salidas",
+        "Conocimiento de técnicas de alineación como el ajuste por instrucciones y la retroalimentación de preferencias a nivel conceptual",
+        "Capacidad de redactar informes claros de evaluación de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de métodos de interpretabilidad para inspeccionar el interior del modelo",
+        "Capacidad de construir arneses pequeños para pruebas de seguridad repetibles",
+        "Comprensión de las regulaciones de IA emergentes y sus requisitos"
+      ],
+      "indicators": [
+        "Evalúa la seguridad del modelo con supervisión",
+        "Implementa y prueba mitigaciones",
+        "Documenta riesgos con evidencia reproducible"
+      ]
+    },
+    "AISAFE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de conjuntos de evaluación de seguridad que cubren un modelo de amenazas definido",
+        "Implementación de estrategias de alineación práctica como el ajuste del comportamiento de rechazo y las instrucciones de sistema",
+        "Dominio de las pruebas adversarias, incluida la búsqueda sistemática de jailbreaks",
+        "Capacidad de medir y mitigar el sesgo en las salidas del modelo",
+        "Capacidad de construir monitorización de seguridad para modelos en producción",
+        "Conocimiento profundo de los modos de fallo de la IA, desde la alucinación hasta la inyección de instrucciones",
+        "Implementación de barreras que restringen las entradas y salidas del modelo",
+        "Capacidad de comunicar los hallazgos de seguridad a las partes interesadas de ingeniería y producto"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de interpretabilidad aplicada para explicar comportamientos concretos del modelo",
+        "Capacidad de contribuir a la investigación en seguridad y reproducir resultados publicados",
+        "Comprensión de las metodologías de red teaming para modelos de frontera"
+      ],
+      "indicators": [
+        "Lidera las evaluaciones de seguridad de un modelo o función",
+        "Diseña sistemas de barreras y mitigación",
+        "Mentoriza a otros en la práctica de seguridad en IA"
+      ]
+    },
+    "AISAFE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de un programa de seguridad en IA que abarca evaluación, red teaming y monitorización",
+        "Diseño de estrategias de alineación práctica validadas con resultados medibles",
+        "Implementación de evaluación de seguridad a escala en muchos modelos y versiones",
+        "Dominio del red teaming avanzado, incluida la generación adversaria automatizada",
+        "Capacidad de definir puertas de despliegue y criterios de publicación responsable",
+        "Conocimiento profundo de los riesgos propios de los sistemas autónomos y de alta capacidad",
+        "Capacidad de dirigir investigación aplicada de seguridad que orienta las decisiones de producto",
+        "Liderazgo de las prácticas de IA responsable en varios equipos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia contribuyendo a investigación publicada de seguridad o alineación",
+        "Conocimiento de los estándares y marcos de evaluación de seguridad del campo",
+        "Implementación de una cultura de seguridad en los equipos de ingeniería"
+      ],
+      "indicators": [
+        "Define la estrategia de seguridad en IA de un área de producto",
+        "Lidera la investigación aplicada de seguridad y el red teaming",
+        "Es referente técnico en seguridad en IA"
+      ]
+    },
+    "AISAFE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de una práctica de seguridad en IA que cubre evaluación, alineación y despliegue",
+        "Diseño de infraestructura de evaluación de seguridad reutilizada entre modelos y equipos",
+        "Gestión de un equipo de seguridad con investigadores y especialistas en red teaming",
+        "Definición de estándares de seguridad y políticas de despliegue responsable",
+        "Capacidad de dirigir evaluaciones estructuradas de riesgo para nuevas capacidades del modelo",
+        "Implementación de una gobernanza de seguridad que controla las publicaciones de alto riesgo",
+        "Dominio de la investigación en alineación y de cómo aplicarla en sistemas de producción",
+        "Comunicación de la postura de seguridad y el riesgo residual a responsables senior"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia dando forma a la política interna de seguridad",
+        "Conocimiento de los marcos de gobernanza de IA y las expectativas regulatorias",
+        "Gestión del presupuesto de evaluación e instrumental de seguridad"
+      ],
+      "indicators": [
+        "Gestiona un equipo de seguridad en IA",
+        "Define la visión de la seguridad en IA",
+        "Representa la seguridad ante la dirección ejecutiva"
+      ]
+    },
+    "AISAFE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de la estrategia de seguridad en IA en toda la organización",
+        "Gestión de programas de seguridad a escala en varios modelos y productos",
+        "Definición de la arquitectura de evaluación de seguridad y red teaming",
+        "Liderazgo de los esfuerzos por elevar el listón de seguridad en toda la ingeniería",
+        "Gestión de incidentes de seguridad relacionados con el comportamiento del modelo en producción",
+        "Implementación de estándares de despliegue responsable en toda la organización",
+        "Innovación en la metodología de evaluación de seguridad y alineación",
+        "Gestión del cumplimiento de la regulación emergente de seguridad en IA"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia participando en debates de regulación y política de IA",
+        "Conocimiento de dónde invertir entre evaluación, investigación e instrumental",
+        "Liderazgo dentro de la comunidad de seguridad en IA"
+      ],
+      "indicators": [
+        "Dirige la función de seguridad en IA",
+        "Participa en la estrategia ejecutiva",
+        "Decide dónde se invierte en seguridad en IA"
+      ]
+    },
+    "AISAFE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la seguridad en IA en una organización grande",
+        "Diseño de una estrategia global de seguridad en varios productos y jurisdicciones",
+        "Transformación de cómo la organización evalúa y controla la publicación de modelos",
+        "Gestión de la seguridad en IA en una organización de ingeniería grande y distribuida",
+        "Creación de una cultura consciente de la seguridad y del despliegue responsable",
+        "Definición de la hoja de ruta plurianual de las capacidades de seguridad en IA",
+        "Comunicación del riesgo de IA y de la postura de seguridad a la junta directiva",
+        "Influencia en cómo el sector aborda la seguridad en IA"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos considerables de seguridad en IA",
+        "Experiencia colaborando con organismos de gobernanza y política de IA",
+        "Liderazgo dentro de la comunidad de IA responsable más amplia"
+      ],
+      "indicators": [
+        "Depende de un directivo técnico o de seguridad",
+        "Dirige una organización grande de seguridad en IA",
+        "Define la estrategia de seguridad en IA de la empresa"
+      ]
+    },
+    "AISAFE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de cómo la organización mantiene seguros modelos cada vez más capaces",
+        "Liderazgo de la IA responsable como disciplina transversal",
+        "Creación de una ventaja en seguridad mediante evaluación y alineación rigurosas",
+        "Gestión del ecosistema de evaluaciones, equipos de red teaming y socios externos",
+        "Innovación en alineación e interpretabilidad que hace avanzar el campo",
+        "Definición de las prácticas de seguridad para los sistemas más capaces que construye la organización",
+        "Impulso del despliegue responsable en la dirección",
+        "Influencia en la política interna de IA fundamentada en evidencia de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia dando forma a la seguridad en IA en organizaciones tecnológicas de referencia",
+        "Relaciones de asesoría con investigadores e instituciones de seguridad",
+        "Autoridad técnica reconocida en seguridad en IA"
+      ],
+      "indicators": [
+        "Forma parte del equipo de liderazgo técnico",
+        "Marca el rumbo de la seguridad en IA en toda la empresa",
+        "Es líder reconocido en el campo de la seguridad en IA"
+      ]
+    },
+    "AISAFE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario de la seguridad en IA como capacidad esencial de la organización",
+        "Transformación de cómo la empresa evalúa, alinea y despliega modelos de forma responsable",
+        "Definición de un enfoque responsable por defecto para construir sistemas de IA",
+        "Establecimiento de la evaluación rigurosa de seguridad como condición previa a la publicación",
+        "Innovación en alineación y evaluación de seguridad que da forma a la práctica del sector",
+        "Defensa de la IA responsable como motor de confianza duradera",
+        "Arquitectura del programa global de seguridad en IA de la organización",
+        "Influencia en los estándares y la regulación de seguridad en IA más allá de la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando la seguridad en IA a escala empresarial",
+        "Reconocimiento como figura destacada de la seguridad en IA",
+        "Influencia en la política y los estándares de seguridad en IA"
+      ],
+      "indicators": [
+        "Lidera la seguridad en IA a nivel ejecutivo",
+        "Marca el rumbo a largo plazo de la disciplina",
+        "Es considerado una autoridad en seguridad en IA"
+      ]
+    }
+  }
+}

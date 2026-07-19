@@ -1,0 +1,255 @@
+{
+  "role": "Especialista en Ética y Gobernanza de IA",
+  "category": "IA/ML",
+  "levels": {
+    "AIEGS-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión de los principios de equidad, transparencia y rendición de cuentas en IA",
+        "Familiaridad con las categorías de riesgo del Reglamento Europeo de IA",
+        "Recopilación de documentación de modelos y de conjuntos de datos con supervisión",
+        "Cálculo asistido de métricas de equidad como la paridad demográfica",
+        "Lectura e interpretación de fichas de modelo (model cards) y de conjuntos de datos (datasheets)",
+        "Elaboración de fichas de registro para un inventario de sistemas de IA",
+        "Documentación de las incidencias éticas detectadas durante las revisiones"
+      ],
+      "complementaryCompetencies": [
+        "Nociones de estadística aplicada a la medición de sesgos",
+        "Familiaridad con hojas de cálculo y herramientas de documentación estructurada",
+        "Nociones del Reglamento General de Protección de Datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Completa tareas guiadas de documentación y de medición de sesgos",
+        "Necesita entre 3 y 6 meses para ser productivo"
+      ]
+    },
+    "AIEGS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Medición de sesgos con métricas de grupo como igualdad de oportunidades y odds igualados",
+        "Redacción de fichas de modelo y de conjuntos de datos siguiendo plantillas establecidas",
+        "Aplicación de herramientas de explicabilidad como SHAP y LIME sobre modelos existentes",
+        "Elaboración de evaluaciones preliminares de impacto algorítmico",
+        "Comprobación del cumplimiento frente a listas de verificación regulatorias",
+        "Análisis de la representatividad de los datos de entrenamiento por subgrupos",
+        "Documentación de la trazabilidad de las decisiones de un sistema de IA"
+      ],
+      "complementaryCompetencies": [
+        "Marco de gestión de riesgos de IA del NIST",
+        "Familiaridad con bibliotecas de equidad como Fairlearn o AIF360",
+        "Roles del Reglamento Europeo de IA: proveedor y responsable del despliegue"
+      ],
+      "indicators": [
+        "Desarrolla evaluaciones de sesgo y documentación con supervisión ocasional",
+        "Resuelve cuestiones de complejidad media en auditorías de modelos",
+        "Participa de forma activa en revisiones de sistemas y de documentación"
+      ]
+    },
+    "AIEGS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de auditorías de sesgo de principio a fin sobre modelos en producción",
+        "Selección de métricas de equidad adecuadas al contexto y a los grupos protegidos",
+        "Aplicación de técnicas de mitigación de sesgo antes, durante y después del entrenamiento",
+        "Elaboración de evaluaciones de impacto algorítmico conformes al Reglamento Europeo de IA",
+        "Análisis de explicabilidad global y local para justificar las decisiones del modelo",
+        "Definición de umbrales de aceptación y de criterios de bloqueo de un sistema",
+        "Documentación completa del ciclo de vida del modelo para la trazabilidad regulatoria"
+      ],
+      "complementaryCompetencies": [
+        "Técnicas de privacidad como anonimización y privacidad diferencial",
+        "Familiaridad con la evaluación de modelos de lenguaje frente a toxicidad y sesgo",
+        "Mentoría a personas en niveles de iniciación"
+      ],
+      "indicators": [
+        "Completa auditorías complejas de equidad con supervisión mínima",
+        "Identifica riesgos éticos y propone mitigaciones concretas",
+        "Contribuye de forma activa al diseño de los procesos de gobernanza"
+      ]
+    },
+    "AIEGS-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Diseño de marcos de gobernanza de modelos que cubren todo el ciclo de vida",
+        "Definición de los procesos de un comité de revisión ética de sistemas de IA",
+        "Implantación del cumplimiento del Reglamento Europeo de IA para sistemas de alto riesgo",
+        "Diseño de canales de vigilancia continua de la equidad y de la deriva de los modelos",
+        "Integración de puertas de gobernanza en el ciclo de desarrollo de modelos",
+        "Definición de estándares de documentación de modelos y de conjuntos de datos",
+        "Coordinación de auditorías de sesgo entre equipos de ciencia de datos y de producto",
+        "Traducción de requisitos regulatorios en controles técnicos verificables"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en la aplicación del marco de gestión de riesgos de IA del NIST",
+        "Gobernanza de datos y linaje de conjuntos de datos",
+        "Familiaridad con auditorías de sistemas de terceros y de proveedores"
+      ],
+      "indicators": [
+        "Lidera el diseño de procesos de gobernanza críticos",
+        "Mentoriza a especialistas junior y revisa sus auditorías",
+        "Toma decisiones fundamentadas sobre controles y mitigaciones"
+      ]
+    },
+    "AIEGS-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño de un programa de gobernanza de IA para toda una unidad de negocio",
+        "Definición del marco de gestión de riesgos de IA alineado con el estándar del NIST",
+        "Establecimiento de un comité de revisión con criterios de aprobación y de escalado",
+        "Definición de métricas de equidad y de transparencia como estándares de la organización",
+        "Diseño de auditorías independientes y de procesos de revisión externa",
+        "Gobernanza del ciclo de vida de datos conforme al RGPD y a la minimización",
+        "Definición de la respuesta ante incidentes éticos y daños algorítmicos",
+        "Integración de la evaluación de impacto en las decisiones de despliegue"
+      ],
+      "complementaryCompetencies": [
+        "Comparación de marcos regulatorios internacionales de IA",
+        "Diseño de formación en IA responsable para equipos técnicos y de producto",
+        "Definición de acuerdos de transparencia con las personas usuarias afectadas"
+      ],
+      "indicators": [
+        "Diseña el marco de gobernanza de IA de productos completos",
+        "Define los estándares de equidad y transparencia del equipo",
+        "Lidera iniciativas de gobernanza que cruzan varios equipos"
+      ]
+    },
+    "AIEGS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección del programa de gobernanza de IA al servicio de varios equipos",
+        "Definición de marcos de rendición de cuentas para el despliegue responsable de IA",
+        "Liderazgo técnico en la vigilancia continua de la equidad y del cumplimiento",
+        "Diseño de la estrategia de conformidad con el Reglamento Europeo de IA en toda la cartera",
+        "Gobernanza del riesgo de modelos de terceros y de la cadena de suministro de IA",
+        "Dirección de las relaciones con reguladores y con auditores externos",
+        "Diseño de la infraestructura de trazabilidad y de evidencia para inspecciones",
+        "Establecimiento de la política de transparencia y de explicabilidad de la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Evaluación de herramientas de gobernanza y de auditoría de modelos",
+        "Estándares emergentes de certificación de IA",
+        "Representación de la empresa en foros de IA responsable"
+      ],
+      "indicators": [
+        "Diseña la gobernanza de IA para varios equipos a la vez",
+        "Influye en las decisiones de la organización sobre riesgo de IA",
+        "Es referente de la empresa en ética y gobernanza de IA"
+      ]
+    },
+    "AIEGS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la dirección de la gobernanza de IA en toda la organización",
+        "Diseño de marcos de gobernanza adaptables a distintos regímenes regulatorios",
+        "Elaboración de hojas de ruta plurianuales de conformidad y de IA responsable",
+        "Estrategias para escalar la gobernanza a nuevos productos y jurisdicciones",
+        "Definición del coste y del retorno de los controles de riesgo de IA",
+        "Dirección de la relación entre innovación de modelos y obligaciones regulatorias",
+        "Formación y crecimiento de equipos de ética y gobernanza de IA",
+        "Anticipación del impacto de nueva regulación en la cartera de sistemas de IA"
+      ],
+      "complementaryCompetencies": [
+        "Participación en consultas públicas sobre regulación de IA",
+        "Publicación de guías o estándares de IA responsable",
+        "Seguimiento de tendencias en auditoría algorítmica y certificación"
+      ],
+      "indicators": [
+        "Define la estrategia de gobernanza de IA de la organización",
+        "Es reconocido como referente en ética y gobernanza de IA",
+        "Interviene como ponente en conferencias del sector"
+      ]
+    },
+    "AIEGS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la evolución de la gobernanza y la regulación de la IA",
+        "Definición del papel de la IA responsable en la estrategia de la empresa",
+        "Diligencia técnica ética de productos, modelos y adquisiciones",
+        "Diseño del marco de gobernanza que sostiene varias líneas de negocio",
+        "Dirección de la respuesta corporativa a la regulación emergente de IA",
+        "Definición de los principios de IA responsable frente a daños sociales y discriminación",
+        "Construcción y liderazgo de organizaciones de ética y gobernanza de IA",
+        "Análisis del impacto de negocio y reputacional de las decisiones de gobernanza"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en las políticas públicas y en la regulación de IA",
+        "Asesoría a la dirección sobre riesgo ético y regulatorio de la IA",
+        "Colaboración con el mundo académico en IA responsable"
+      ],
+      "indicators": [
+        "Influye en la dirección de la gobernanza de IA del sector",
+        "Asesora a la dirección ejecutiva sobre riesgo de IA",
+        "Es mentor de líderes en ética y gobernanza"
+      ]
+    },
+    "AIEGS-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la estrategia de IA responsable de la empresa",
+        "Alineación de la gobernanza de IA con la estrategia de negocio y de riesgo",
+        "Dirección de la inversión en gobernanza, cumplimiento y talento especializado",
+        "Definición de la postura de la empresa ante la regulación global de IA",
+        "Gestión de la relación entre innovación, confianza pública y obligaciones legales",
+        "Rendición de cuentas ante el consejo por el riesgo ético y regulatorio de la IA",
+        "Gobernanza del riesgo reputacional y legal de los sistemas de IA a gran escala",
+        "Definición de la cultura de responsabilidad y de rendición de cuentas en IA"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en la regulación internacional y en los estándares de IA",
+        "Dirección de alianzas en torno a IA responsable y confianza",
+        "Representación pública de la empresa en materia de ética de la IA"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de IA responsable de la empresa",
+        "Responde ante el consejo por el riesgo de la IA",
+        "Es la cara visible de la empresa en ética y gobernanza de IA"
+      ]
+    }
+  }
+}

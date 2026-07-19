@@ -1,0 +1,88 @@
+[project]
+name = "tech-roles-library"
+version = "1.0.0"
+description = "Tech roles and competencies library: 89 technical roles with 9 career levels each, detailed competencies and career progression paths, with complete bilingual support (EN/ES)."
+readme = "README.md"
+authors = [
+    { name = "686f6c61", email = "github@00b.tech" }
+]
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.11"
+dependencies = []
+keywords = [
+    "tech-roles",
+    "competencies",
+    "skills",
+    "career-development",
+    "role-framework",
+    "skill-matrix",
+    "career-path",
+    "career-progression",
+    "hr-tech",
+    "talent-management",
+    "hiring",
+    "bilingual",
+    "spanish",
+    "english",
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Office/Business",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed",
+]
+
+[project.urls]
+Homepage = "https://github.com/686f6c61/py-tech-roles-library"
+Repository = "https://github.com/686f6c61/py-tech-roles-library"
+Issues = "https://github.com/686f6c61/py-tech-roles-library/issues"
+Changelog = "https://github.com/686f6c61/py-tech-roles-library/blob/main/CHANGELOG.md"
+
+[build-system]
+requires = ["uv_build>=0.11.8,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [{ include-group = "lint" }, { include-group = "test" }]
+lint = ["ruff", "ty"]
+test = ["pytest", "pytest-cov"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["ALL"]
+ignore = [
+    "D",       # docstrings: documentamos lo publico, sin exigirlo regla a regla
+    "COM812",  # incompatible con el formateador
+    "ISC001",  # incompatible con el formateador
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = ["S101", "PLR2004", "ANN", "INP001"]
+
+[tool.pytest.ini_options]
+addopts = ["--cov=tech_roles_library", "--cov-fail-under=80"]
+testpaths = ["tests"]
+
+[tool.coverage.report]
+exclude_also = ["if TYPE_CHECKING:"]
+
+[tool.ty.terminal]
+error-on-warning = true
+
+[tool.ty.environment]
+python-version = "3.11"
+
+[tool.ty.rules]
+possibly-unresolved-reference = "error"
+unused-ignore-comment = "warn"

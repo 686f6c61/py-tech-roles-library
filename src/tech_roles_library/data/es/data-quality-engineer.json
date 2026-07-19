@@ -1,0 +1,249 @@
+{
+  "role": "Ingeniero de Calidad de Datos",
+  "category": "Datos",
+  "levels": {
+    "DQE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Dimensiones básicas de calidad: completitud, exactitud, consistencia y frescura",
+        "Perfilado de un conjunto de datos para detectar nulos, duplicados y valores atípicos",
+        "Ejecución de comprobaciones de validación simples sobre una tabla",
+        "Documentación de incidencias de calidad con pasos de reproducción claros",
+        "Nociones de limpieza y estandarización de datos",
+        "Lectura de tests de datos existentes e interpretación de sus resultados",
+        "SQL básico para inspeccionar datos y contar anomalías"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con una herramienta de calidad de datos",
+        "Estadística descriptiva elemental",
+        "Sensibilidad al linaje de datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Identifica incidencias básicas de calidad",
+        "Necesita entre 6 y 12 meses de mentoría en calidad de datos"
+      ]
+    },
+    "DQE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Escritura de reglas de calidad de completitud, unicidad y rangos de valores",
+        "Implementación de tests automatizados con dbt tests o Great Expectations",
+        "Perfilado de conjuntos de datos y documentación de distribuciones esperadas",
+        "Configuración de comprobaciones de frescura y volumen en los pipelines",
+        "Detección de anomalías y emisión de alertas ante comprobaciones fallidas",
+        "Clasificación de incidentes de calidad y registro de hallazgos",
+        "Elaboración de informes y cuadros de mando de calidad de datos"
+      ],
+      "complementaryCompetencies": [
+        "Manejo práctico de Great Expectations o dbt tests",
+        "Scripts de validación (Python, SQL)",
+        "Nociones de observabilidad de datos"
+      ],
+      "indicators": [
+        "Implementa reglas de calidad con supervisión",
+        "Detecta anomalías y mantiene métricas de calidad",
+        "Mantiene las suites de tests existentes"
+      ]
+    },
+    "DQE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de suites de tests de calidad para los pipelines de un dominio",
+        "Construcción de puertas de calidad automatizadas en el pipeline (dbt tests, Great Expectations)",
+        "Perfilado de datos y definición de expectativas para conjuntos críticos",
+        "Monitorización de frescura, completitud y consistencia con alertas",
+        "Configuración de cuarentena de datos para registros que fallan la validación",
+        "Análisis de causa raíz de incidentes de calidad de datos",
+        "Informe de SLA de calidad y comunicación con las partes interesadas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con un catálogo de datos y linaje para análisis de impacto",
+        "Gestión de metadatos de las reglas de calidad",
+        "Nociones de contratos de datos"
+      ],
+      "indicators": [
+        "Lidera el trabajo de calidad de un dominio",
+        "Diseña suites de tests y monitorización",
+        "Tutoriza a ingenieros de calidad junior"
+      ]
+    },
+    "DQE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de la plataforma de calidad de datos para varios dominios",
+        "Definición del marco de calidad empresarial y del catálogo de reglas",
+        "Implementación de puertas de calidad, cuarentena y remediación a escala",
+        "Monitorización de frescura, completitud y consistencia con SLA",
+        "Introducción de detección de anomalías para señales de calidad",
+        "Liderazgo del análisis de causa raíz y la prevención de incidentes recurrentes",
+        "Impulso de una cultura de calidad y priorización por coste-beneficio"
+      ],
+      "complementaryCompetencies": [
+        "Plataformas de observabilidad de datos (Monte Carlo, Soda)",
+        "Operaciones de datos e integración continua para calidad",
+        "Comprobaciones de calidad de autoservicio para los equipos"
+      ],
+      "indicators": [
+        "Define la estrategia de calidad de la organización",
+        "Lidera un equipo de ingeniería de calidad",
+        "Es referente en calidad de datos"
+      ]
+    },
+    "DQE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de la ingeniería de calidad de datos entre dominios",
+        "Definición de estándares, reglas y propiedad de la calidad",
+        "Gobierno de SLA de calidad para frescura, completitud y consistencia",
+        "Escalado de los procesos de cuarentena, remediación y respuesta a incidentes",
+        "Configuración de observabilidad con detección de anomalías y alertas",
+        "Establecimiento de prácticas de análisis de causa raíz y prevención",
+        "Medición del retorno de la calidad y priorización de la hoja de ruta"
+      ],
+      "complementaryCompetencies": [
+        "Calidad en un modelo operativo de data mesh",
+        "Contratos de datos como garantías de calidad",
+        "Selección y despliegue de herramientas de calidad"
+      ],
+      "indicators": [
+        "Gestiona un equipo de ingeniería de calidad",
+        "Define la visión y los estándares de calidad",
+        "Representa la calidad de datos ante las partes interesadas"
+      ]
+    },
+    "DQE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de la estrategia de calidad de datos de una unidad de negocio",
+        "Gestión de programas de calidad y respuesta a incidentes a escala",
+        "Definición de la arquitectura de calidad: motor de reglas, monitorización y cuarentena",
+        "Liderazgo de SLA de calidad globales entre regiones y pipelines",
+        "Establecimiento de estándares de detección de anomalías y observabilidad",
+        "Gobierno del análisis de causa raíz, la prevención y las autopsias de incidentes",
+        "Informe de indicadores de calidad y fiabilidad a la dirección"
+      ],
+      "complementaryCompetencies": [
+        "Calidad en fusiones e integraciones de plataforma",
+        "Inversión en herramientas de calidad",
+        "Liderazgo en comunidades de fiabilidad de datos"
+      ],
+      "indicators": [
+        "Dirige una función de calidad",
+        "Fija las prioridades de inversión en calidad",
+        "Contribuye a la estrategia de datos"
+      ]
+    },
+    "DQE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia plurianual de calidad de datos de la empresa",
+        "Establecimiento del modelo operativo de calidad y los estándares de fiabilidad",
+        "Estandarización de puertas de calidad, SLA y cuarentena en toda la empresa",
+        "Gobierno de la monitorización de frescura, completitud y consistencia a escala",
+        "Definición de la detección de anomalías y la observabilidad en todos los pipelines",
+        "Institucionalización del análisis de causa raíz y la prevención de incidentes",
+        "Asesoría a la dirección sobre confianza y fiabilidad de los datos"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en estándares de fiabilidad de datos",
+        "Calidad para datos e informes regulados",
+        "Liderazgo en foros de fiabilidad del sector"
+      ],
+      "indicators": [
+        "Fija la estrategia corporativa de calidad de datos",
+        "Depende del director de datos sobre fiabilidad de datos",
+        "Autoridad interna reconocida en calidad de datos"
+      ]
+    },
+    "DQE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Responsable de la visión de calidad de datos empresarial en todos los dominios",
+        "Alineación de la calidad con la fiabilidad del negocio y el riesgo",
+        "Definición de modelos de calidad de referencia adoptados en toda la empresa",
+        "Liderazgo de la calidad en fusiones, adquisiciones e integraciones",
+        "Establecimiento de estándares de SLA, monitorización y cuarentena a escala",
+        "Fijación de marcos de detección de anomalías y observabilidad",
+        "Patrocinio de ingeniería de fiabilidad y comunidades de calidad"
+      ],
+      "complementaryCompetencies": [
+        "Configuración de relaciones con herramientas y estándares externos",
+        "Asesoría al consejo sobre fiabilidad y confianza en los datos",
+        "Liderazgo de pensamiento en calidad de datos"
+      ],
+      "indicators": [
+        "Forma parte del comité de liderazgo de datos",
+        "Define la estrategia de calidad empresarial",
+        "Líder reconocido en calidad de datos"
+      ]
+    },
+    "DQE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Definición y ejecución de la visión de calidad y fiabilidad de datos empresarial",
+        "Alineación de la calidad con la estrategia corporativa y la postura de riesgo",
+        "Responsabilidad del marco de confianza y fiabilidad de datos de la empresa",
+        "Construcción y liderazgo de la organización de ingeniería de calidad",
+        "Definición del modelo operativo de calidad, los SLA y la observabilidad",
+        "Establecimiento de prácticas de respuesta a incidentes y causa raíz a escala global",
+        "Gobierno de la cuarentena, la remediación y la prevención a gran escala"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en los estándares de fiabilidad de datos del sector",
+        "Dirección de alianzas estratégicas de herramientas",
+        "Impulso del talento y la sucesión en calidad"
+      ],
+      "indicators": [
+        "Responsable de la calidad de datos empresarial",
+        "Ejecuta la visión de fiabilidad a largo plazo",
+        "Líder reconocido en calidad de datos"
+      ]
+    }
+  }
+}

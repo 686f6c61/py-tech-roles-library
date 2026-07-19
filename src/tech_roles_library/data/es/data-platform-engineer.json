@@ -1,0 +1,249 @@
+{
+  "role": "Ingeniero de Plataforma de Datos",
+  "category": "Datos",
+  "levels": {
+    "DPE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de lo que una plataforma de datos ofrece a los equipos de datos",
+        "Nociones elementales de la infraestructura tras el almacenamiento y el cómputo de datos",
+        "Capaz de aprovisionar un recurso de la plataforma con guía",
+        "Comprensión básica de las herramientas de autoservicio para usuarios de datos",
+        "Capaz de seguir manuales de operación de la plataforma",
+        "Comprensión elemental del control de acceso a los recursos de datos",
+        "Documentación de los componentes de la plataforma y de cómo los usan los equipos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con servicios de almacenamiento y cómputo en la nube",
+        "Familiaridad básica con los conceptos de infraestructura como código",
+        "Comprensión elemental de cómo los equipos de datos consumen la plataforma"
+      ],
+      "indicators": [
+        "Necesita supervisión estrecha en las tareas de plataforma",
+        "Ejecuta procedimientos documentados de aprovisionamiento",
+        "Aprende cómo se construye y opera la plataforma de datos"
+      ]
+    },
+    "DPE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capaz de aprovisionar recursos de la plataforma mediante infraestructura como código",
+        "Implementación de plantillas de autoservicio para necesidades de datos comunes",
+        "Comprensión práctica del control de acceso y la multitenencia en la plataforma",
+        "Capaz de operar y monitorizar los componentes de la plataforma",
+        "Implementación de la incorporación de un equipo de datos a la plataforma",
+        "Capaz de exponer una capacidad de la plataforma mediante herramientas internas",
+        "Apoyo a los equipos de datos que consumen cómputo y almacenamiento"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con la orquestación de contenedores para los servicios de la plataforma",
+        "Comprensión de la visibilidad de costes de los recursos de la plataforma",
+        "Comprensión básica de la fiabilidad y las alertas de la plataforma"
+      ],
+      "indicators": [
+        "Aprovisiona y opera recursos de la plataforma con supervisión",
+        "Mantiene las plantillas de autoservicio en las que confían los equipos de datos",
+        "Resuelve solicitudes rutinarias de la plataforma"
+      ]
+    },
+    "DPE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de capacidades de autoservicio que los equipos de datos aprovisionan por sí mismos",
+        "Implementación del aislamiento multitenencia y los controles de acceso",
+        "Construcción de herramientas y API internas sobre las primitivas de la plataforma",
+        "Definición de rutas maestras para las cargas de datos comunes",
+        "Implementación de la visibilidad de costes y la gestión de cuotas por inquilino",
+        "Capaz de instrumentar la plataforma para métricas de fiabilidad y uso",
+        "Apoyo a los usuarios de la plataforma mediante documentación e interfaces"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con la política como código para las barreras de la plataforma",
+        "Comprensión de la observabilidad y los niveles de servicio de la plataforma",
+        "Comprensión de cómo los ingenieros de datos construyen sobre la plataforma"
+      ],
+      "indicators": [
+        "Diseña capacidades de autoservicio de la plataforma",
+        "Construye herramientas internas que adoptan los equipos de datos",
+        "Mejora la fiabilidad y la visibilidad de costes de la plataforma"
+      ]
+    },
+    "DPE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de una plataforma de datos de autoservicio como producto interno",
+        "Diseño del aislamiento multitenencia, las cuotas y el reparto justo de recursos",
+        "Construcción de API y herramientas internas que abstraen la infraestructura",
+        "Definición de rutas maestras que hacen que el camino seguro sea el camino fácil",
+        "Implementación de la automatización del aprovisionamiento y el ciclo de vida de la plataforma",
+        "Diseño de la imputación de costes y su reparto entre inquilinos",
+        "Definición de objetivos de fiabilidad y niveles de servicio de la plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de los flujos de ingeniería de datos a los que sirve la plataforma",
+        "Familiaridad con la aplicación de políticas de gobierno y acceso en la plataforma",
+        "Comprensión de la planificación de capacidad de la infraestructura compartida"
+      ],
+      "indicators": [
+        "Es responsable de la arquitectura de una plataforma de datos de autoservicio",
+        "Establece los estándares y las rutas maestras que siguen los equipos",
+        "Lidera el trabajo sobre multitenencia y gestión de costes"
+      ]
+    },
+    "DPE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre la plataforma de datos como producto en la organización",
+        "Diseño de un aprovisionamiento de autoservicio que escala a muchos equipos de datos",
+        "Definición de las API y herramientas de la plataforma como contratos internos estables",
+        "Establecimiento de garantías de multitenencia, aislamiento y uso justo",
+        "Diseño de la gestión de costes y las prácticas financieras de la plataforma",
+        "Definición de la fiabilidad, los niveles de servicio y las prácticas de guardia de la plataforma",
+        "Priorización del trabajo de plataforma frente a las necesidades de los equipos de datos"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de la frontera entre el trabajo de plataforma y el de ingeniería de datos",
+        "Familiaridad con el gobierno y el cumplimiento que impone la plataforma",
+        "Comprensión de la observabilidad y la planificación de capacidad de la plataforma"
+      ],
+      "indicators": [
+        "Diseña la plataforma de datos como producto de forma autónoma",
+        "Opera la plataforma con niveles de servicio claros y control de costes",
+        "Define la hoja de ruta plurianual de la plataforma"
+      ]
+    },
+    "DPE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia de plataforma de datos en la organización",
+        "Arquitectura de infraestructura de autoservicio para muchos equipos autónomos",
+        "Establecimiento de rutas maestras y caminos pavimentados como opción por defecto",
+        "Definición de los estándares de API y herramientas internas de la plataforma",
+        "Diseño de la imputación de costes, las cuotas y las prácticas financieras a escala de plataforma",
+        "Definición de estándares de fiabilidad y niveles de servicio de la plataforma",
+        "Tratamiento de la plataforma como producto con usuarios, hoja de ruta y soporte"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión del equilibrio entre flexibilidad y estandarización",
+        "Familiaridad con las necesidades de plataforma de nuevos dominios de datos",
+        "Comprensión del gobierno que la plataforma debe imponer por cumplimiento"
+      ],
+      "indicators": [
+        "Da forma a la estrategia de plataforma de datos en la organización",
+        "Lidera la adopción de los caminos pavimentados por los equipos de datos",
+        "Define la dirección de la plataforma a largo plazo"
+      ]
+    },
+    "DPE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo de la función de plataforma de datos en la organización",
+        "Definición de los estándares de la plataforma y su gobierno",
+        "Establecimiento de la plataforma como producto interno con responsabilidad clara",
+        "Estrategia de fiabilidad y autoservicio de la plataforma a escala organizativa",
+        "Definición de la transparencia de costes y la eficiencia entre inquilinos",
+        "Alineación de la plataforma con las necesidades de los equipos de ingeniería de datos y analítica",
+        "Definición de prácticas de plataforma que escalan con la organización"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de los equilibrios de inversión en plataforma en la organización",
+        "Contribución a las arquitecturas de referencia internas de plataforma",
+        "Comprensión de las prácticas emergentes de plataforma de datos"
+      ],
+      "indicators": [
+        "Establece la estrategia de plataforma de datos de la organización",
+        "Reconocido internamente como referente en la plataforma de datos",
+        "Asesora a la dirección en las decisiones de inversión en plataforma"
+      ]
+    },
+    "DPE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición de una estrategia plurianual de plataforma de datos",
+        "Posicionamiento de la plataforma como palanca de la productividad de los equipos de datos",
+        "Establecimiento de la organización de plataforma y su modelo operativo",
+        "Definición del gobierno de la plataforma entre unidades de negocio",
+        "Justificación de la inversión en la plataforma mediante mejoras de eficiencia y fiabilidad",
+        "Guía de las decisiones de construir o comprar capacidades de la plataforma",
+        "Liderazgo de la innovación en infraestructura de datos de autoservicio"
+      ],
+      "complementaryCompetencies": [
+        "Definición de patrones de plataforma reutilizados en toda la empresa",
+        "Comprensión del panorama de herramientas de infraestructura de datos",
+        "Comprensión de la comparación de la plataforma frente al sector"
+      ],
+      "indicators": [
+        "Es responsable de la estrategia plurianual de plataforma de datos",
+        "Representa a la empresa en plataformas de datos en foros externos",
+        "Influye en la práctica de plataforma más allá de la organización"
+      ]
+    },
+    "DPE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Responsabilidad ejecutiva sobre la plataforma de datos como capacidad de negocio",
+        "Definición de la visión de la plataforma de datos de la empresa y su modelo operativo",
+        "Rendición de cuentas por la fiabilidad, la eficiencia de costes y la adopción de la plataforma",
+        "Liderazgo de organizaciones de plataforma de datos entre productos y regiones",
+        "Gestión del presupuesto de la plataforma y su retorno",
+        "Posicionamiento de la infraestructura de autoservicio como ventaja de ingeniería",
+        "Definición de los estándares que mantienen la plataforma fiable a escala"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en la práctica de plataforma de datos del sector en su conjunto",
+        "Comprensión del papel de la plataforma en la productividad de los equipos de datos",
+        "Comprensión de la inversión a largo plazo en infraestructura de datos"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de la plataforma de datos de la empresa",
+        "Responsable de la capacidad de plataforma de datos a nivel de compañía",
+        "Reconocido como líder en ingeniería de plataforma de datos"
+      ]
+    }
+  }
+}

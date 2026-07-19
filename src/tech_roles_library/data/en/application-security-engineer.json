@@ -1,0 +1,258 @@
+{
+  "role": "Application Security Engineer",
+  "category": "Security",
+  "levels": {
+    "ASEC-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of application security",
+        "Elementary understanding of OWASP Top 10",
+        "Ability to execute basic security scans",
+        "Basic knowledge of common vulnerabilities (XSS, SQL Injection)",
+        "Ability to review code with supervision",
+        "Understanding of basic authentication and authorization",
+        "Documentation of security findings",
+        "Elementary knowledge of security testing"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic Burp Suite",
+        "Basic knowledge of SAST/DAST tools",
+        "Elementary understanding of secure coding"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Identifies basic vulnerabilities",
+        "Is learning application security"
+      ]
+    },
+    "ASEC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to perform code security reviews",
+        "Implementation of basic security controls",
+        "Practical knowledge of threat modeling",
+        "Ability to configure WAF rules",
+        "Understanding of basic cryptography",
+        "Ability to execute basic penetration testing",
+        "Knowledge of secure SDLC",
+        "Ability to provide remediation guidance"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of security frameworks",
+        "Ability to implement security automation",
+        "Understanding of container security"
+      ],
+      "indicators": [
+        "Performs assessments with supervision",
+        "Implements security fixes",
+        "Contributes to secure coding guidelines"
+      ]
+    },
+    "ASEC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of security controls in applications",
+        "Implementation of security testing automation",
+        "Mastery of penetration testing",
+        "Ability to perform complete threat modeling",
+        "Ability to perform security architecture review",
+        "Deep knowledge of authentication protocols",
+        "Implementation of secrets management",
+        "Ability to provide security training"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of API security",
+        "Ability to secure mobile applications",
+        "Understanding of cloud security"
+      ],
+      "indicators": [
+        "Leads security assessments",
+        "Designs secure solutions",
+        "Mentors on security practices"
+      ]
+    },
+    "ASEC-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of application security programs",
+        "Design of security testing strategy",
+        "Implementation of security champions program",
+        "Mastery of advanced exploitation techniques",
+        "Ability to design secure architecture",
+        "Deep knowledge of zero-trust models",
+        "Ability to manage bug bounty programs",
+        "Leadership in security remediation"
+      ],
+      "complementaryCompetencies": [
+        "Experience in compliance (SOC2, ISO27001)",
+        "Knowledge of DevSecOps",
+        "Implementation of security metrics"
+      ],
+      "indicators": [
+        "Defines AppSec strategy",
+        "Leads security initiatives",
+        "Is a reference in application security"
+      ]
+    },
+    "ASEC-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in application security",
+        "Design of enterprise security programs",
+        "Management of security teams",
+        "Definition of security standards",
+        "Ability to perform risk assessment",
+        "Implementation of security automation platforms",
+        "Mastery of vendor security assessment",
+        "Promotion of security culture across teams"
+      ],
+      "complementaryCompetencies": [
+        "Experience in regulatory compliance",
+        "Knowledge of security partnerships",
+        "Management of security tools budget"
+      ],
+      "indicators": [
+        "Manages AppSec team",
+        "Defines security vision",
+        "Represents security to executives"
+      ]
+    },
+    "ASEC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of corporate security strategy",
+        "Management of security programs at scale",
+        "Definition of security architecture",
+        "Leadership in security transformation",
+        "Management of major security incidents",
+        "Implementation of security governance",
+        "Innovation in security technologies",
+        "Management of security compliance"
+      ],
+      "complementaryCompetencies": [
+        "Experience in security M&A",
+        "Knowledge of security investment",
+        "Leadership in security industry"
+      ],
+      "indicators": [
+        "Directs AppSec department",
+        "Participates in executive strategy",
+        "Defines security investments"
+      ]
+    },
+    "ASEC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in application security",
+        "Design of global security strategies",
+        "Organizational transformation via security",
+        "Management of security programs across large organizations",
+        "Creation of security culture",
+        "Definition of security roadmap",
+        "Communication of security posture to executive leadership",
+        "Influence on security standards"
+      ],
+      "complementaryCompetencies": [
+        "Management of security budgets",
+        "Experience in security IPO readiness",
+        "Leadership in security consortiums"
+      ],
+      "indicators": [
+        "Reports to CISO/CTO",
+        "Manages security organization (20+ people)",
+        "Defines corporate security strategy"
+      ]
+    },
+    "ASEC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of enterprise security",
+        "Leadership in security transformation",
+        "Creation of security competitive advantage",
+        "Management of security ecosystems",
+        "Innovation in application security practices",
+        "Definition of next-generation security architecture standards",
+        "Adoption of zero-trust architecture",
+        "Influence on security policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CISO in scale-ups",
+        "Advisory in security startups",
+        "Thought leadership in AppSec"
+      ],
+      "indicators": [
+        "Is part of the executive committee",
+        "Defines security strategy",
+        "Is a recognized leader in AppSec"
+      ]
+    },
+    "ASEC-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in corporate security",
+        "Transformation of security culture",
+        "Definition of enterprise security architecture standards",
+        "Definition of security-first organizations",
+        "Innovation in security governance",
+        "Promotion of security-by-design culture",
+        "Architect of security ecosystems",
+        "Influence on security regulation"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming security in large enterprises",
+        "Recognition as a security leader",
+        "Influence on security standards"
+      ],
+      "indicators": [
+        "Leads the enterprise information security function",
+        "Defines the future of security",
+        "Is a world authority in security"
+      ]
+    }
+  }
+}

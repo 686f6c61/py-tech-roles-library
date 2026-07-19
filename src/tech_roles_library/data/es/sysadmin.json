@@ -1,0 +1,258 @@
+{
+  "role": "Administrador de Sistemas",
+  "category": "Infraestructura",
+  "levels": {
+    "SYS-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de sistemas operativos",
+        "Comprensión de línea de comandos básica",
+        "Gestión básica de usuarios y permisos",
+        "Monitorización simple de recursos del sistema",
+        "Respaldo y restauración básicos",
+        "Solución inicial de problemas comunes",
+        "Documentación de procedimientos simples",
+        "Soporte a usuarios nivel 1"
+      ],
+      "complementaryCompetencies": [
+        "Programación de scripts muy básica para automatización",
+        "Conocimiento inicial de redes",
+        "Familiaridad con sistemas de tickets"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Realiza tareas rutinarias predefinidas",
+        "Está aprendiendo fundamentos de administración"
+      ]
+    },
+    "SYS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Administración de sistemas operativos múltiples",
+        "Gestión de servicios y demonios",
+        "Configuración de políticas de seguridad básicas",
+        "Gestión de almacenamiento y particiones",
+        "Automatización con guiones simples",
+        "Monitorización proactivo de sistemas",
+        "Resolución de incidentes nivel 2",
+        "Mantenimiento preventivo de sistemas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimientos de virtualización básica",
+        "Gestión básica de bases de datos",
+        "Configuración de servicios web"
+      ],
+      "indicators": [
+        "Trabaja con supervisión moderada",
+        "Resuelve problemas conocidos independientemente",
+        "Participa en guardias de soporte"
+      ]
+    },
+    "SYS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño e implementación de arquitecturas de sistemas",
+        "Gestión avanzada de seguridad y fortificación",
+        "Automatización compleja con múltiples herramientas",
+        "Gestión de clústeres y alta disponibilidad",
+        "Optimización de rendimiento de sistemas",
+        "Recuperación ante desastres y continuidad de negocio",
+        "Gestión de configuración centralizada",
+        "Solución avanzada de problemas y análisis de causa raíz"
+      ],
+      "complementaryCompetencies": [
+        "Implementación de soluciones de contenedorización",
+        "Gestión de sistemas de monitorización empresarial",
+        "Diseño de soluciones de respaldo empresarial"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma",
+        "Diseña soluciones para problemas complejos",
+        "Mentoriza a administradores junior"
+      ]
+    },
+    "SYS-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura empresarial de sistemas",
+        "Implementación de soluciones de nube híbrida",
+        "Automatización de extremo a extremo de infraestructura",
+        "Gestión de cumplimiento normativo y auditoría",
+        "Planificación de capacidad y proyección de recursos",
+        "Gestión de incidentes críticos y crisis",
+        "Diseño de soluciones multicentro de datos",
+        "Optimización de costes de infraestructura"
+      ],
+      "complementaryCompetencies": [
+        "Integración de sistemas heterogéneos",
+        "Implementación de prácticas de desarrollo y operaciones",
+        "Gestión de seguridad avanzada"
+      ],
+      "indicators": [
+        "Lidera proyectos de infraestructura",
+        "Define estándares y mejores prácticas",
+        "Es referente técnico en el equipo"
+      ]
+    },
+    "SYS-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en administración de sistemas",
+        "Diseño de estrategias de migración y modernización",
+        "Gestión de equipos de administradores",
+        "Definición de hojas de ruta de infraestructura",
+        "Negociación con proveedores de servicios",
+        "Gestión de presupuestos de infraestructura",
+        "Implementación de marcos de trabajo de gestión de servicios",
+        "Evaluación y adopción de nuevas tecnologías operativas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación digital",
+        "Gestión de proyectos complejos entre múltiples equipos",
+        "Definición de acuerdos de nivel de servicio e indicadores clave de rendimiento"
+      ],
+      "indicators": [
+        "Gestiona equipo de 3-5 personas",
+        "Define arquitectura de sistemas a nivel departamental",
+        "Representa al equipo en decisiones técnicas"
+      ]
+    },
+    "SYS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de operaciones de tecnologías de la información",
+        "Estrategia de infraestructura a nivel organizacional",
+        "Gestión de múltiples equipos técnicos",
+        "Definición de políticas y gobierno de tecnologías de la información",
+        "Gestión de riesgos tecnológicos",
+        "Optimización de procesos de gestión de servicios",
+        "Liderazgo en proyectos de transformación",
+        "Gestión de relaciones con partes interesadas ejecutivas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en gestión de crisis empresariales",
+        "Conocimiento profundo de regulaciones y cumplimiento normativo",
+        "Visión estratégica de tecnologías emergentes"
+      ],
+      "indicators": [
+        "Dirige área de operaciones (10-20 personas)",
+        "Participa en decisiones estratégicas de TI",
+        "Define presupuestos anuales de infraestructura"
+      ]
+    },
+    "SYS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en operaciones de tecnologías de la información",
+        "Diseño de estrategias de infraestructura multianual",
+        "Gestión de operaciones a escala global",
+        "Transformación digital de operaciones",
+        "Gestión de proveedores estratégicos",
+        "Definición de estándares corporativos de tecnologías de la información",
+        "Alineación de tecnologías de la información con objetivos de negocio",
+        "Gestión de innovación en operaciones"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones tecnológicas",
+        "Gestión de externalización estratégica",
+        "Liderazgo en iniciativas de sostenibilidad"
+      ],
+      "indicators": [
+        "Depende de CTO/CIO",
+        "Gestiona múltiples departamentos (50+ personas)",
+        "Define estrategia de operaciones corporativa"
+      ]
+    },
+    "SYS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de operaciones globales",
+        "Liderazgo en transformación empresarial",
+        "Gestión de operaciones multigeográficas",
+        "Definición de estrategias de resiliencia empresarial",
+        "Innovación en modelos operativos",
+        "Gestión de alianzas tecnológicas globales",
+        "Optimización de costes a escala empresarial",
+        "Gobierno corporativo de tecnologías de la información"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia ejecutiva en grandes corporaciones",
+        "Influencia en industria de operaciones tecnológicas",
+        "Gestión de crisis a nivel corporativo"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define políticas globales de TI",
+        "Gestiona presupuestos de decenas de millones"
+      ]
+    },
+    "SYS-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en operaciones de tecnologías de la información",
+        "Definición de futuro de operaciones empresariales",
+        "Transformación radical de modelos operativos",
+        "Definición de la estrategia de operaciones de TI de toda la organización",
+        "Modernización de los modelos operativos de infraestructura",
+        "Creación de centros de excelencia operacional",
+        "Definición de estándares y prácticas operativas de la organización",
+        "Influencia en estándares de la industria"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de informática o tecnología en múltiples empresas",
+        "Reconocimiento internacional en operaciones tecnológicas",
+        "Participación en consejos y comités asesores"
+      ],
+      "indicators": [
+        "Es director de informática, operaciones o equivalente",
+        "Define el futuro tecnológico de la empresa",
+        "Es referente global en operaciones de tecnologías de la información"
+      ]
+    }
+  }
+}

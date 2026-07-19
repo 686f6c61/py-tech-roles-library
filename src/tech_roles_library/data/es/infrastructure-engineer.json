@@ -1,0 +1,259 @@
+{
+  "role": "Ingeniero de Infraestructura",
+  "category": "Infraestructura",
+  "levels": {
+    "IE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de sistemas operativos y redes",
+        "Conocimiento elemental de servidores y hardware",
+        "Habilidad para resolución de problemas básica",
+        "Comprensión básica de protocolos de red",
+        "Capacidad de documentar infraestructura",
+        "Conocimiento elemental de virtualización",
+        "Comprensión básica de respaldo y recuperación",
+        "Habilidad para usar herramientas de monitorización básicas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de computación en nube",
+        "Familiaridad con programación de scripts",
+        "Comprensión elemental de seguridad"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede ejecutar tareas de mantenimiento básicas",
+        "Necesita 6-12 meses de mentoría"
+      ]
+    },
+    "IE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de gestionar servidores y almacenamiento",
+        "Habilidad para configurar redes y VLANs",
+        "Conocimiento práctico de virtualización",
+        "Comprensión de alta disponibilidad básica",
+        "Capacidad de implementar monitorización",
+        "Habilidad para planificación de capacidad básica",
+        "Conocimiento de recuperación ante desastres",
+        "Comprensión de endurecimiento de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de contenedorización",
+        "Habilidad para automatización básica",
+        "Comprensión de gestión de servicios TI"
+      ],
+      "indicators": [
+        "Gestiona infraestructura con supervisión moderada",
+        "Resuelve incidentes nivel 1-2",
+        "Mantiene acuerdos de nivel de servicio básicos"
+      ]
+    },
+    "IE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de arquitecturas de centro de datos",
+        "Capacidad de diseñar redes empresariales",
+        "Habilidad para implementar agrupación y alta disponibilidad",
+        "Conocimiento profundo de sistemas de almacenamiento",
+        "Capacidad de automatización con infraestructura como código",
+        "Comprensión sólida de ajuste de rendimiento",
+        "Habilidad para gestión de proveedores",
+        "Conocimiento de cumplimiento y auditoría"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de nube híbrida",
+        "Habilidad para redes definidas por software",
+        "Comprensión de desarrollo y operaciones"
+      ],
+      "indicators": [
+        "Diseña soluciones de infraestructura",
+        "Lidera proyectos de migración",
+        "Optimiza costes de infraestructura"
+      ]
+    },
+    "IE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar infraestructura empresarial",
+        "Dominio de integración de nube y local",
+        "Habilidad para diseñar estrategias de recuperación ante desastres",
+        "Conocimiento profundo de redes avanzadas",
+        "Capacidad de liderar transformaciones",
+        "Dominio de automatización y orquestación",
+        "Habilidad para previsión de capacidad",
+        "Conocimiento de tecnologías verdes"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de computación en el borde",
+        "Habilidad para infraestructura de aprendizaje automático",
+        "Comprensión de infraestructura de Internet de las Cosas"
+      ],
+      "indicators": [
+        "Define estrategia de infraestructura",
+        "Lidera equipos de infraestructura",
+        "Mentoriza ingenieros junior"
+      ]
+    },
+    "IE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en arquitecturas globales distribuidas",
+        "Capacidad de diseñar centros de datos",
+        "Dominio de estrategias multinube",
+        "Habilidad para transformación digital",
+        "Conocimiento profundo de optimización de coste total de propiedad",
+        "Capacidad de gestionar presupuestos grandes",
+        "Experiencia en negociaciones con proveedores",
+        "Dominio de innovación en infraestructura"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de preparación cuántica",
+        "Habilidad para sostenibilidad",
+        "Comprensión de infraestructura de quinta generación"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de infraestructura corporativa",
+        "Lidera iniciativas estratégicas",
+        "Define hoja de ruta de infraestructura"
+      ]
+    },
+    "IE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir estrategia de infraestructura empresarial",
+        "Experiencia en infraestructura de megaescala",
+        "Dominio de infraestructura global",
+        "Habilidad para infraestructura de fusiones y adquisiciones",
+        "Conocimiento profundo de tecnologías emergentes",
+        "Capacidad de liderar centros de excelencia",
+        "Experiencia en alianzas estratégicas",
+        "Dominio de economía de infraestructura"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de infraestructura espacial",
+        "Habilidad para investigación de infraestructura",
+        "Comprensión de emprendimientos de infraestructura"
+      ],
+      "indicators": [
+        "Define visión de infraestructura",
+        "Lidera organizaciones de infraestructura",
+        "Influencia industria"
+      ]
+    },
+    "IE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en transformación de infraestructura",
+        "Capacidad de gestionar infraestructura global",
+        "Experiencia en innovación de infraestructura",
+        "Dominio de alianzas estratégicas",
+        "Capacidad de definir gobernanza de infraestructura",
+        "Conocimiento profundo de gestión de riesgos",
+        "Experiencia en optimización de costes global",
+        "Capacidad de liderar transformación digital"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar estándares",
+        "Habilidad para crear empresas emergentes de infraestructura",
+        "Conocimiento de inversiones en infraestructura"
+      ],
+      "indicators": [
+        "Define estrategia de infraestructura corporativa",
+        "Representa empresa en industria",
+        "Líder de pensamiento en infraestructura"
+      ]
+    },
+    "IE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de infraestructura futura",
+        "Capacidad de transformar empresas",
+        "Experiencia en infraestructura como ventaja competitiva",
+        "Dominio de presupuestos masivos",
+        "Capacidad de construir organizaciones",
+        "Conocimiento profundo de informes directivos",
+        "Experiencia en construcción de ecosistemas",
+        "Capacidad de definir cultura de infraestructura"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar políticas",
+        "Habilidad para fusiones y adquisiciones de infraestructura",
+        "Conocimiento de preparación para oferta pública inicial"
+      ],
+      "indicators": [
+        "Define estrategia ejecutiva de infraestructura",
+        "Responsable de toda la infraestructura",
+        "Líder de industria reconocido"
+      ]
+    },
+    "IE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en infraestructura",
+        "Capacidad de alinear infraestructura con negocio",
+        "Experiencia en transformación empresarial",
+        "Dominio de gobernanza ejecutiva",
+        "Capacidad de construir ventajas mediante infraestructura",
+        "Conocimiento profundo de valor para accionistas",
+        "Experiencia en relaciones con inversores",
+        "Capacidad de definir futuro tecnológico",
+        "Dominio de la modernización de tecnologías de infraestructura"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de crear ecosistemas",
+        "Habilidad para influenciar industria",
+        "Conocimiento de salidas estratégicas"
+      ],
+      "indicators": [
+        "Máximo responsable de infraestructura",
+        "Define futuro tecnológico empresarial",
+        "Líder global en infraestructura"
+      ]
+    }
+  }
+}

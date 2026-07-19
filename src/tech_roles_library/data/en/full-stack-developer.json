@@ -1,0 +1,266 @@
+{
+  "role": "Full-Stack Developer",
+  "category": "Software Engineering",
+  "levels": {
+    "FS-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of client-server architecture and HTTP protocol",
+        "Elementary knowledge of HTML, CSS and basic data structures",
+        "Ability to create simple forms with basic validation",
+        "Basic understanding of relational databases and simple queries",
+        "Ability to create static web pages with basic interactivity",
+        "Elementary knowledge of code versioning and teamwork",
+        "Basic understanding of complete web application flow",
+        "Ability to configure simple local development environments"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of command line",
+        "Familiarity with web development tools",
+        "Elementary understanding of basic debugging"
+      ],
+      "indicators": [
+        "Requires constant supervision on all tasks",
+        "Can complete very simple end-to-end tasks with detailed guidance",
+        "Needs 3-6 months of intensive mentoring"
+      ]
+    },
+    "FS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement complete CRUD functionalities with supervision",
+        "Ability to create basic responsive interfaces connected to APIs",
+        "Practical knowledge of basic authentication and authorization",
+        "Understanding of MVC patterns or similar architectures",
+        "Ability to work with RESTful APIs on both client and server side",
+        "Ability to handle basic state in web applications",
+        "Knowledge of data validation in frontend and backend",
+        "Understanding of basic web security (CORS, XSS, SQL Injection)",
+        "Ability to perform debugging on client and server"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of query optimization",
+        "Ability to create simple unit tests",
+        "Basic understanding of CI/CD"
+      ],
+      "indicators": [
+        "Can complete simple end-to-end features with moderate supervision",
+        "Solves basic integration problems between frontend and backend",
+        "Needs frequent code review"
+      ]
+    },
+    "FS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of complete authentication flows and session management",
+        "Ability to implement complete RESTful APIs with documentation",
+        "Ability to optimize basic performance in frontend and backend",
+        "Practical knowledge of cache in multiple layers (browser, server, DB)",
+        "Ability to handle file uploads and asynchronous processing",
+        "Solid understanding of full-stack design patterns",
+        "Ability to implement complex validation and robust error handling",
+        "Knowledge of websockets and real-time communication",
+        "Ability to work with multiple databases simultaneously"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of GraphQL and REST alternatives",
+        "Ability to implement basic PWAs",
+        "Understanding of basic microservices"
+      ],
+      "indicators": [
+        "Completes medium end-to-end features with minimal supervision",
+        "Can debug complex integration problems",
+        "Contributes actively to technical stack decisions"
+      ]
+    },
+    "FS-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design scalable full-stack architectures for medium applications",
+        "Mastery of performance optimization across all stack layers",
+        "Ability to implement messaging systems and work queues",
+        "Deep knowledge of security in complete web applications",
+        "Ability to implement SSR, CSR and hybrid rendering strategies",
+        "Mastery of complex state management in large applications",
+        "Ability to design and implement complex GraphQL APIs",
+        "Practical knowledge of containerization and basic orchestration",
+        "Ability to implement complete CI/CD pipelines"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of serverless architectures",
+        "Ability to work with cloud services",
+        "Understanding of monitoring and observability"
+      ],
+      "indicators": [
+        "Leads development of complex end-to-end features",
+        "Makes architectural decisions for medium components",
+        "Mentors junior developers in full-stack"
+      ]
+    },
+    "FS-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in microservices architectures and their complete implementation",
+        "Ability to design distributed systems with high availability",
+        "Mastery of enterprise integration patterns and legacy systems",
+        "Ability to implement complete event-driven architectures",
+        "Deep knowledge of database optimization and sharding",
+        "Ability to implement distributed cache systems and CDNs",
+        "Expertise in implementing multi-tenant applications",
+        "Mastery of safe deployment and rollback strategies",
+        "Ability to design scalable and versioned public APIs"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of blockchain and decentralized technologies",
+        "Ability to work with IoT and edge computing",
+        "Understanding of ML/AI integration in applications"
+      ],
+      "indicators": [
+        "Designs technical solutions for complex business problems",
+        "Leads migration from monolithic to distributed architectures",
+        "Defines technical standards for full-stack teams"
+      ]
+    },
+    "FS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect complete platforms from scratch",
+        "Expertise in designing resilient and fault-tolerant systems",
+        "Mastery of horizontal and vertical scalability strategies",
+        "Ability to implement complete observability and distributed tracing",
+        "Deep knowledge of compliance and regulations (GDPR, PCI-DSS)",
+        "Ability to design multi-cloud and cloud-agnostic architectures",
+        "Expertise in infrastructure cost optimization",
+        "Mastery of data and system migration patterns",
+        "Ability to implement disaster recovery and business continuity"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of quantum computing readiness",
+        "Ability to design AR/VR systems",
+        "Understanding of advanced edge computing"
+      ],
+      "indicators": [
+        "Architects solutions for complete products",
+        "Leads multidisciplinary technical teams",
+        "Defines long-term technical roadmap"
+      ]
+    },
+    "FS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership in complete digital transformations",
+        "Ability to design architectures for product ecosystems",
+        "Expertise in large-scale heterogeneous systems integration",
+        "Mastery of architectures for real-time big data processing",
+        "Ability to design internal development platforms (Platform Engineering)",
+        "Deep knowledge of consistency models in distributed systems",
+        "Expertise in API federation and schema stitching design",
+        "Ability to implement zero-trust security architectures",
+        "Mastery of global-scale resource optimization"
+      ],
+      "complementaryCompetencies": [
+        "Ability to evaluate and adopt emerging technologies",
+        "Ability to design architectures for metaverse",
+        "Knowledge of applied quantum computing"
+      ],
+      "indicators": [
+        "Defines technical architecture for multiple products",
+        "Leads technical communities and defines best practices",
+        "Influences technical decisions at organizational level"
+      ]
+    },
+    "FS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for company technological evolution",
+        "Ability to design architectures for large-scale enterprise systems",
+        "Expertise in technical due diligence and acquisition evaluation",
+        "Mastery of massive-scale legacy modernization strategies",
+        "Ability to define technical governance and reference architectures",
+        "Deep knowledge of technical P&L optimization",
+        "Expertise in building and scaling global engineering teams",
+        "Ability to design API ecosystems and marketplaces",
+        "Mastery of open source and community building strategies"
+      ],
+      "complementaryCompetencies": [
+        "Ability to represent the company at technical conferences",
+        "Ability to patent technical innovations",
+        "Knowledge of technical venture building"
+      ],
+      "indicators": [
+        "Defines multi-year technical strategy for the organization",
+        "Represents the company as thought leader",
+        "Impacts industry with technical innovations"
+      ]
+    },
+    "FS-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in technology and digital transformation",
+        "Ability to align technical strategy with business objectives",
+        "Expertise in technical M&A and post-merger integration",
+        "Mastery of multi-million dollar technology budget management",
+        "Ability to build and scale engineering organizations",
+        "Deep knowledge of compliance and technological risk management",
+        "Expertise in investor relations and board management",
+        "Ability to define engineering culture and technical values",
+        "Mastery of innovation management and strategic R&D"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence industry policies",
+        "Ability to create technology spin-offs",
+        "Knowledge of investment in technical startups"
+      ],
+      "indicators": [
+        "Defines and executes company technical vision",
+        "Responsible for complete technology P&L",
+        "Recognized as leader in technology industry"
+      ]
+    }
+  }
+}

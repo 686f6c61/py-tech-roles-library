@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Integración",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "INT-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de integración de sistemas",
+        "Comprensión elemental de APIs y servicios web",
+        "Habilidad para mapeo de datos simple",
+        "Conocimiento básico de formatos de intercambio",
+        "Capacidad de usar herramientas de extracción, transformación y carga básicas",
+        "Comprensión de middleware básico",
+        "Documentación de interfaces",
+        "Conocimiento elemental de protocolos de integración"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con REST y SOAP",
+        "Conocimiento de transformaciones JSON y XML",
+        "Comprensión de colas de mensajes básico"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Implementa integraciones simples",
+        "Está aprendiendo patrones de integración"
+      ]
+    },
+    "INT-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de desarrollar conectores y adaptadores",
+        "Implementación de transformación de datos compleja",
+        "Conocimiento práctico de buses de servicios empresariales y plataformas de integración",
+        "Habilidad para manejo de errores en integraciones",
+        "Comprensión de gestión de transacciones",
+        "Capacidad de integración en tiempo real",
+        "Conocimiento de procesamiento por lotes",
+        "Habilidad para monitorización de integración"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de orquestación de APIs",
+        "Conocimiento de transmisión de eventos",
+        "Comprensión de sincronización de datos"
+      ],
+      "indicators": [
+        "Desarrolla integraciones con supervisión",
+        "Implementa tuberías de datos",
+        "Mantiene conectores existentes"
+      ]
+    },
+    "INT-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas de integración empresariales",
+        "Implementación de patrones de integración avanzados",
+        "Dominio de integración de microservicios",
+        "Capacidad de plataformas de integración híbrida",
+        "Habilidad para gestión de datos maestros",
+        "Conocimiento profundo de gobernanza de datos",
+        "Implementación de gestión de APIs",
+        "Diseño de seguridad de integración"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de integración de cadena de bloques",
+        "Habilidad para integración de Internet de las Cosas",
+        "Comprensión de integración de nube a nube"
+      ],
+      "indicators": [
+        "Lidera proyectos de integración",
+        "Diseña soluciones empresariales",
+        "Mentoriza ingenieros de integración"
+      ]
+    },
+    "INT-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de integración",
+        "Diseño de estrategias de interoperabilidad",
+        "Implementación de integración federada",
+        "Dominio de integración semántica",
+        "Capacidad de integración a escala",
+        "Conocimiento profundo de malla de datos",
+        "Habilidad para gobernanza de integración",
+        "Liderazgo en estándares de integración"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en integración empresa a empresa",
+        "Conocimiento de estándares de industria",
+        "Implementación de integración impulsada por inteligencia artificial"
+      ],
+      "indicators": [
+        "Define estrategia de integración",
+        "Lidera equipos de integración",
+        "Es referente en interoperabilidad"
+      ]
+    },
+    "INT-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en ingeniería de integración",
+        "Diseño de programas de excelencia en integración",
+        "Gestión de equipos de integración",
+        "Definición de estrategia de integración",
+        "Capacidad de economía de integración",
+        "Implementación de fábricas de integración",
+        "Dominio de gestión de proveedores",
+        "Promoción de estándares de ingeniería de integración"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en integración de fusiones y adquisiciones",
+        "Conocimiento de integración regulatoria",
+        "Gestión de socios de integración"
+      ],
+      "indicators": [
+        "Gestiona equipos de integración",
+        "Define visión de interoperabilidad",
+        "Representa integración ante ejecutivos"
+      ]
+    },
+    "INT-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de integración organizacional",
+        "Estrategia de ecosistema conectado",
+        "Gestión de inversiones en integración",
+        "Definición de estrategia de interoperabilidad",
+        "Liderazgo en transformación de integración",
+        "Implementación de integración autónoma",
+        "Adopción de arquitecturas de integración emergentes",
+        "Gestión de integración global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en ecosistemas digitales",
+        "Conocimiento de economía de APIs",
+        "Liderazgo en consorcios de integración"
+      ],
+      "indicators": [
+        "Dirige departamento de integración (20+ personas)",
+        "Participa en arquitectura empresarial",
+        "Define inversiones en conectividad"
+      ]
+    },
+    "INT-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en excelencia de integración",
+        "Diseño de estrategias de integración globales",
+        "Transformación mediante conectividad perfecta",
+        "Gestión de integración a escala de gran empresa",
+        "Definición de modelos de referencia de interoperabilidad empresarial",
+        "Definición de futuro de sistemas conectados",
+        "Comunicación de la estrategia de integración a la dirección ejecutiva",
+        "Influencia en estándares de industria"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de integración de ecosistemas",
+        "Experiencia en economías de plataforma",
+        "Liderazgo en estándares de interoperabilidad"
+      ],
+      "indicators": [
+        "Depende de director de tecnología o información",
+        "Gestiona organización de integración (50+ personas)",
+        "Define estrategia de conectividad corporativa"
+      ]
+    },
+    "INT-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de hiperconectividad total",
+        "Liderazgo en revolución de integración",
+        "Diseño de arquitecturas de integración unificadas y de baja fricción",
+        "Gestión de plataformas de integración globales",
+        "Investigación en tecnologías emergentes de conectividad y API",
+        "Definición de estándares de integración para toda la organización",
+        "Definición de la dirección tecnológica de integración a largo plazo",
+        "Influencia en economía conectada"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de integración en gigantes",
+        "Asesoría en plataformas de integración",
+        "Liderazgo de pensamiento en interoperabilidad"
+      ],
+      "indicators": [
+        "Es parte del comité técnico",
+        "Define futuro de integración",
+        "Es líder mundial en conectividad de sistemas"
+      ]
+    },
+    "INT-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de interconexión universal",
+        "Transformación de sistemas mediante integración perfecta",
+        "Definición de arquitecturas de integración distribuida de nueva generación",
+        "Definición de realidad sin costuras",
+        "Avance de las arquitecturas de integración empresarial",
+        "Promoción de estándares abiertos de integración y malla de eventos",
+        "Arquitecto de realidad interconectada",
+        "Influencia en evolución de conectividad total"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones en integración",
+        "Reconocimiento como maestro de interoperabilidad",
+        "Influencia en futuro de sistemas unidos"
+      ],
+      "indicators": [
+        "Es una autoridad reconocida en ingeniería de integración",
+        "Define futuro de conectividad universal",
+        "Es autoridad mundial en integración"
+      ]
+    }
+  }
+}

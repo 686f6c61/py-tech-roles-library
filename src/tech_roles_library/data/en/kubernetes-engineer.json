@@ -1,0 +1,258 @@
+{
+  "role": "Kubernetes Engineer",
+  "category": "Infrastructure",
+  "levels": {
+    "K8E-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of container images and the pod lifecycle",
+        "Writing simple Deployment and Service manifests in YAML",
+        "Using kubectl to inspect pods, logs and events",
+        "Notions of namespaces, labels and selectors",
+        "Exposing applications with ClusterIP and NodePort services",
+        "Diagnosing states such as CrashLoopBackOff with supervision",
+        "Configuring applications with ConfigMaps and Secrets",
+        "Documenting manifests and deployment steps"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with Docker image builds and registries",
+        "Installing existing charts with Helm",
+        "Notions of managed clusters (EKS, GKE, AKS)"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Deploys sample applications from provided manifests",
+        "Is learning the core Kubernetes objects"
+      ]
+    },
+    "K8E-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Managing Deployments, StatefulSets and DaemonSets for real workloads",
+        "Configuring liveness, readiness and startup probes",
+        "Setting resource requests, limits and QoS classes",
+        "Persistent storage with PersistentVolumeClaims and StorageClasses",
+        "Packaging applications as Helm charts with values and templates",
+        "Configuring Ingress controllers and TLS termination",
+        "Basic RBAC with roles, role bindings and service accounts",
+        "Collecting metrics and logs with Prometheus and a logging stack"
+      ],
+      "complementaryCompetencies": [
+        "Introductory service mesh concepts (sidecars, mTLS)",
+        "Installing community operators from OperatorHub",
+        "GitOps fundamentals with Argo CD or Flux"
+      ],
+      "indicators": [
+        "Manages workloads with occasional supervision",
+        "Troubleshoots scheduling and image-pull failures",
+        "Maintains cluster add-ons and charts"
+      ]
+    },
+    "K8E-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Designing multi-tenant namespace layouts with quotas and limit ranges",
+        "Horizontal and vertical autoscaling (HPA, VPA) and cluster autoscaler",
+        "Advanced networking: CNI plugins, NetworkPolicies and DNS resolution",
+        "Hardening with Pod Security Standards, seccomp and non-root execution",
+        "Building custom controllers and CRDs with the operator pattern",
+        "Rolling upgrades and node draining without downtime",
+        "Backup and disaster recovery of cluster state and etcd",
+        "Progressive delivery with canary and blue-green deployments"
+      ],
+      "complementaryCompetencies": [
+        "Service mesh traffic management with Istio or Linkerd",
+        "Observability with distributed tracing and Grafana dashboards",
+        "Chaos experiments to validate resilience"
+      ],
+      "indicators": [
+        "Leads delivery of Kubernetes-based projects",
+        "Designs cluster and namespace architectures",
+        "Mentors peers on Kubernetes objects and patterns"
+      ]
+    },
+    "K8E-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecting internal developer platforms on top of Kubernetes",
+        "Cluster fleet management and provisioning with Cluster API",
+        "Enforcing policy as code with OPA Gatekeeper or Kyverno",
+        "Securing multi-tenancy with network segmentation and admission control",
+        "Performance tuning of the scheduler, kubelet and etcd",
+        "Designing multi-cluster topologies and federation",
+        "Cost-aware scheduling with bin-packing and spot node pools",
+        "Defining golden paths and self-service tooling for teams"
+      ],
+      "complementaryCompetencies": [
+        "Running Kubernetes at scale across multiple regions",
+        "Extending the API with aggregated APIs and webhooks",
+        "Supply-chain security with image signing and SBOMs"
+      ],
+      "indicators": [
+        "Defines the platform's Kubernetes strategy",
+        "Leads a platform or infrastructure team",
+        "Is a technical reference for Kubernetes across teams"
+      ]
+    },
+    "K8E-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leading the technical design of the container platform end to end",
+        "Standardising cluster provisioning, upgrades and add-on lifecycle",
+        "Defining SLOs for the platform and its control plane",
+        "Building self-service platforms with Backstage or custom portals",
+        "GitOps at scale across many clusters and environments",
+        "Capacity planning and cost optimisation of the fleet",
+        "Establishing multi-cluster security and identity federation",
+        "Setting engineering standards and review practices for the team"
+      ],
+      "complementaryCompetencies": [
+        "Operating managed control planes across cloud providers",
+        "Modelling platform unit costs and chargeback",
+        "Managing the platform tooling budget"
+      ],
+      "indicators": [
+        "Leads a Kubernetes platform team",
+        "Defines the platform vision and roadmap",
+        "Represents the platform to engineering stakeholders"
+      ]
+    },
+    "K8E-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Owning the multi-year container platform strategy across the organisation",
+        "Governing cluster provisioning, upgrade cadence and end-of-life policy",
+        "Designing globally distributed clusters with regional failover",
+        "Leading migrations from legacy orchestration to Kubernetes",
+        "Managing platform reliability programs and incident review",
+        "Setting fleet-wide security, compliance and policy baselines",
+        "Evaluating and adopting CNCF projects for the platform",
+        "Aligning platform investment with product engineering needs"
+      ],
+      "complementaryCompetencies": [
+        "Advising other departments on Kubernetes adoption",
+        "Tracking and contributing to the CNCF ecosystem",
+        "Shaping the platform's operating model and on-call"
+      ],
+      "indicators": [
+        "Directs the platform engineering function",
+        "Influences cloud and infrastructure strategy",
+        "Decides platform investments and vendor choices"
+      ]
+    },
+    "K8E-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Setting the organisation-wide platform and orchestration strategy",
+        "Standardising Kubernetes across business units and acquisitions",
+        "Defining multi-cloud and hybrid cluster architecture",
+        "Leading large-scale cloud-native modernisation programs",
+        "Building the cost model and capacity strategy for the fleet",
+        "Establishing platform reliability and security governance at scale",
+        "Guiding the internal developer platform product direction",
+        "Growing and structuring platform engineering teams"
+      ],
+      "complementaryCompetencies": [
+        "Managing multi-team platform budgets",
+        "Negotiating enterprise support and cloud commitments",
+        "Representing the company in cloud-native forums"
+      ],
+      "indicators": [
+        "Reports to the CTO or VP of Engineering",
+        "Leads a platform organisation of 20 or more engineers",
+        "Owns the enterprise platform strategy"
+      ]
+    },
+    "K8E-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Defining the long-term technical direction for the container platform",
+        "Leading company-wide cloud-native and orchestration architecture",
+        "Turning the platform into a durable engineering advantage",
+        "Governing standards across many clusters, teams and regions",
+        "Driving adoption of emerging orchestration and edge patterns",
+        "Setting the reliability, security and cost strategy for infrastructure",
+        "Advising executives on platform build-versus-buy decisions",
+        "Shaping the platform engineering culture and career ladder"
+      ],
+      "complementaryCompetencies": [
+        "Deep experience operating Kubernetes at large scale",
+        "Advising on cloud-native architecture beyond the company",
+        "Recognised technical authority in the field"
+      ],
+      "indicators": [
+        "Sits on the technical leadership group",
+        "Sets the platform and orchestration strategy",
+        "Is a widely recognised platform engineer"
+      ]
+    },
+    "K8E-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Owning infrastructure and platform strategy at the executive level",
+        "Aligning the container platform with business and product strategy",
+        "Directing multi-region, multi-cloud infrastructure investment",
+        "Setting reliability, security and cost objectives for all platforms",
+        "Leading organisation-wide cloud-native transformation",
+        "Governing platform risk, compliance and vendor strategy",
+        "Building competitive advantage through platform engineering",
+        "Shaping how the whole engineering organisation ships software"
+      ],
+      "complementaryCompetencies": [
+        "Managing large infrastructure and platform budgets",
+        "Steering enterprise cloud partnerships",
+        "Influencing the industry's cloud-native direction"
+      ],
+      "indicators": [
+        "Owns infrastructure and platform strategy for the company",
+        "Is accountable for the platform's cost and reliability",
+        "Represents the company on cloud-native technology"
+      ]
+    }
+  }
+}

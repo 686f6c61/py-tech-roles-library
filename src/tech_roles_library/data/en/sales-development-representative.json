@@ -1,0 +1,258 @@
+{
+  "role": "Sales Development Representative",
+  "category": "Sales",
+  "levels": {
+    "SDR-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of B2B tech prospecting",
+        "Elementary understanding of lead qualification",
+        "Ability to perform basic cold calling",
+        "Basic knowledge of email outreach",
+        "Ability to use simple CRM",
+        "Understanding of tech buyer personas",
+        "Documentation of basic interactions",
+        "Elementary knowledge of SaaS products"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with prospecting tools",
+        "Basic knowledge of LinkedIn Sales",
+        "Understanding of SDR metrics"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Performs outreach with scripts",
+        "Learning B2B tech sales"
+      ]
+    },
+    "SDR-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to perform BANT/MEDDIC qualification",
+        "Implementation of outreach sequences",
+        "Practical knowledge of personalization at scale",
+        "Ability to conduct discovery calls",
+        "Understanding of technical pain points",
+        "Ability to book qualified meetings",
+        "Knowledge of objection handling",
+        "Ability to generate pipeline"
+      ],
+      "complementaryCompetencies": [
+        "Management of assigned territory",
+        "Knowledge of account research",
+        "Understanding of tech buyer journey"
+      ],
+      "indicators": [
+        "Generates pipeline with supervision",
+        "Qualifies leads independently",
+        "Collaborates with Account Executives"
+      ]
+    },
+    "SDR-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of outbound strategies",
+        "Implementation of account-based prospecting",
+        "Mastery of social selling",
+        "Ability to perform technical qualification",
+        "Ability to perform enterprise prospecting",
+        "Deep knowledge of competitive positioning",
+        "Implementation of multi-channel outreach",
+        "Management of named accounts"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of intent data",
+        "Ability to perform event prospecting",
+        "Understanding of partner channel"
+      ],
+      "indicators": [
+        "Leads pipeline generation",
+        "Defines prospecting strategies",
+        "Mentors junior SDRs"
+      ]
+    },
+    "SDR-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of SDR processes",
+        "Design of prospecting playbooks",
+        "Implementation of predictive lead scoring",
+        "Mastery of enterprise account penetration",
+        "Ability to perform strategic prospecting",
+        "Deep knowledge of buyer psychology",
+        "Ability to perform executive outreach",
+        "Leadership in SDR enablement"
+      ],
+      "complementaryCompetencies": [
+        "Experience in vertical specialization",
+        "Knowledge of technographic data",
+        "Management of SDR technology stack"
+      ],
+      "indicators": [
+        "Defines SDR team strategy",
+        "Leads pipeline initiatives",
+        "Consistent top performer"
+      ]
+    },
+    "SDR-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leadership of SDR teams",
+        "Design of prospecting organizations",
+        "Management of pipeline generation at scale",
+        "Definition of SDR metrics and compensation",
+        "Ability to perform territory planning",
+        "Implementation of sales development ops",
+        "Mastery of SDR-AE alignment",
+        "Promotion of outbound prospecting excellence"
+      ],
+      "complementaryCompetencies": [
+        "Experience in global SDR teams",
+        "Knowledge of outsourced SDR management",
+        "Management of SDR enablement"
+      ],
+      "indicators": [
+        "Manages multiple SDR teams",
+        "Defines pipeline generation vision",
+        "Represents SDR to sales"
+      ]
+    },
+    "SDR-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of organizational sales development",
+        "Enterprise pipeline generation strategy",
+        "Management of large prospecting budgets",
+        "Definition of go-to-market outbound",
+        "Leadership in SDR transformation",
+        "Implementation of AI-powered prospecting",
+        "Innovation in outreach methods",
+        "Management of global SDR operations"
+      ],
+      "complementaryCompetencies": [
+        "Experience in SDR for enterprise accounts",
+        "Knowledge of channel development",
+        "Leadership in SDR communities"
+      ],
+      "indicators": [
+        "Directs SDR department (20+ people)",
+        "Participates in sales strategy",
+        "Defines prospecting investments"
+      ]
+    },
+    "SDR-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in pipeline generation",
+        "Design of global SDR strategies",
+        "Top-of-funnel transformation",
+        "Management of SDR at high-growth scale",
+        "Creation of advantages via prospecting",
+        "Definition of sales development future",
+        "Communication of pipeline strategy to executive leadership",
+        "Influence in sales industry"
+      ],
+      "complementaryCompetencies": [
+        "Management of SDR in hypergrowth",
+        "Experience in SDR for large enterprises",
+        "Leadership in sales development councils"
+      ],
+      "indicators": [
+        "Reports to CRO/VP Sales",
+        "Manages SDR organization (50+ people)",
+        "Defines corporate pipeline strategy"
+      ]
+    },
+    "SDR-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of demand generation",
+        "Leadership in prospecting revolution",
+        "Definition of the organization's outbound model",
+        "Management of large-scale pipeline generation",
+        "Innovation in outreach and prospecting methods",
+        "Definition of autonomous prospecting",
+        "Adoption of data-driven prospecting",
+        "Influence in sales economics"
+      ],
+      "complementaryCompetencies": [
+        "Experience as VP SDR in unicorns",
+        "Advisory in sales tech startups",
+        "Thought leadership in prospecting"
+      ],
+      "indicators": [
+        "Part of sales leadership",
+        "Defines future of pipeline generation",
+        "Recognized leader in SDR"
+      ]
+    },
+    "SDR-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in future of prospecting",
+        "Transformation of sales via SDR innovation",
+        "Definition of the organization's prospecting strategy",
+        "Definition of intent-based prospecting",
+        "Innovation in human-AI selling",
+        "Promotion of value-based selling",
+        "Architecture of scalable pipeline generation",
+        "Influence in evolution of sales"
+      ],
+      "complementaryCompetencies": [
+        "Track record of developing SDR methodologies",
+        "Recognition as a leader in sales development",
+        "Influence in global sales education"
+      ],
+      "indicators": [
+        "Leads the enterprise pipeline generation function",
+        "Defines future of B2B prospecting",
+        "World authority in sales development"
+      ]
+    }
+  }
+}

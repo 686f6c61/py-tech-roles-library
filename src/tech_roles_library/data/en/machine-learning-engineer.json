@@ -1,0 +1,258 @@
+{
+  "role": "Machine Learning Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "MLE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of ML algorithms",
+        "Elementary understanding of data pipelines",
+        "Ability to train simple models",
+        "Basic knowledge of feature engineering",
+        "Capability to use standard ML frameworks",
+        "Understanding of evaluation metrics",
+        "Experiment documentation",
+        "Elementary knowledge of deployment"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with cloud platforms",
+        "Basic Docker knowledge",
+        "Understanding of model versioning"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Implements simple pipelines",
+        "Is learning MLOps fundamentals"
+      ]
+    },
+    "MLE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to build end-to-end pipelines",
+        "Implementation of basic feature stores",
+        "Practical knowledge of model serving",
+        "Ability for A/B testing of models",
+        "Understanding of distributed training",
+        "Model monitoring capability",
+        "Knowledge of data drift detection",
+        "Ability for inference optimization"
+      ],
+      "complementaryCompetencies": [
+        "Development of APIs for models",
+        "Knowledge of orchestration tools",
+        "Understanding of edge deployment"
+      ],
+      "indicators": [
+        "Deploys models in production",
+        "Maintains existing ML pipelines",
+        "Optimizes model performance"
+      ]
+    },
+    "MLE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of scalable ML architectures",
+        "Implementation of complete MLOps platforms",
+        "Mastery of automated retraining",
+        "Real-time inference systems capability",
+        "Ability for distributed computing",
+        "Deep knowledge of model governance",
+        "Implementation of explainability tools",
+        "Design of experimentation frameworks"
+      ],
+      "complementaryCompetencies": [
+        "Implementation of federated learning",
+        "Knowledge of model compression",
+        "Ability for multi-model serving"
+      ],
+      "indicators": [
+        "Architects complex ML systems",
+        "Leads MLOps initiatives",
+        "Mentors junior ML engineers"
+      ]
+    },
+    "MLE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of enterprise ML platforms",
+        "Design of ML infrastructure at scale",
+        "Implementation of continuous integration for ML",
+        "Mastery of cost optimization for ML",
+        "Capability of leading ML platform teams",
+        "Deep knowledge of compliance in ML",
+        "Ability for ML system design",
+        "Leadership in ML standardization"
+      ],
+      "complementaryCompetencies": [
+        "Experience in AutoML platforms",
+        "Knowledge of quantum ML infrastructure",
+        "Implementation of privacy-preserving ML"
+      ],
+      "indicators": [
+        "Defines ML platform strategy",
+        "Leads ML infrastructure teams",
+        "Is principal architect of ML systems"
+      ]
+    },
+    "MLE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in ML engineering",
+        "Design of ML platform strategies",
+        "Management of ML engineering teams",
+        "Definition of ML engineering roadmaps",
+        "ML platform productization capability",
+        "Implementation of ML democratization",
+        "Mastery of ML reliability engineering",
+        "Promotion of ML engineering best practices"
+      ],
+      "complementaryCompetencies": [
+        "Experience in ML transformation",
+        "Knowledge of industry ML standards",
+        "Management of ML vendor ecosystem"
+      ],
+      "indicators": [
+        "Manages multiple ML teams",
+        "Defines ML engineering vision",
+        "Represents ML platform to executives"
+      ]
+    },
+    "MLE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of organizational ML engineering",
+        "Corporate ML platform strategy",
+        "Management of multi-million ML investments",
+        "Definition of ML as a service",
+        "Leadership in ML transformation",
+        "Implementation of next-gen ML capabilities",
+        "Innovation in ML delivery models",
+        "Management of ML partnerships"
+      ],
+      "complementaryCompetencies": [
+        "ML strategy in M&A",
+        "Experience in ML consulting",
+        "Knowledge of ML regulations"
+      ],
+      "indicators": [
+        "Directs ML department (20+ people)",
+        "Participates in AI strategy board",
+        "Defines ML investments"
+      ]
+    },
+    "MLE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in ML engineering",
+        "Design of global ML strategies",
+        "Transformation via ML platforms",
+        "Management of ML at large enterprise scale",
+        "Creation of competitive advantages via ML",
+        "Definition of the future of ML engineering",
+        "Communication of ML strategy to executive leadership",
+        "Influence in ML standards"
+      ],
+      "complementaryCompetencies": [
+        "Management of ML innovation labs",
+        "Experience in ML unicorns",
+        "Leadership in ML consortiums"
+      ],
+      "indicators": [
+        "Reports to CTO/CDO",
+        "Manages ML organizations (50+ people)",
+        "Defines corporate ML strategy"
+      ]
+    },
+    "MLE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of ML-driven enterprise",
+        "Leadership in ML industrial revolution",
+        "Design of automated ML training and deployment platforms",
+        "Management of global ML platforms",
+        "Research into emerging ML system architectures",
+        "Definition of self-evolving ML",
+        "Definition of long-term ML platform direction",
+        "Influence in ML governance"
+      ],
+      "complementaryCompetencies": [
+        "Experience as VP ML in tech giants",
+        "Advisory in ML startups",
+        "Thought leadership in ML engineering"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines global ML strategy",
+        "Is a world leader in ML engineering"
+      ]
+    },
+    "MLE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in the future of ML",
+        "Transformation of industries through ML platforms",
+        "Creation of self-learning ecosystems",
+        "Definition of enterprise ML platform strategy",
+        "Advancement of responsible and adaptive ML systems",
+        "Promotion of open ML tooling and standards",
+        "Architect of global-scale ML platforms",
+        "Influence in the evolution of machine intelligence"
+      ],
+      "complementaryCompetencies": [
+        "Definition of next-generation ML system architectures",
+        "Recognition as pioneer of ML engineering",
+        "Influence in the future of automation"
+      ],
+      "indicators": [
+        "Is a recognized authority in machine learning engineering",
+        "Defines the future of machine learning",
+        "Is supreme authority in ML engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Solutions Engineer",
+  "category": "Sales",
+  "levels": {
+    "SLE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of the product and its capabilities",
+        "Elementary understanding of the pre-sales process",
+        "Ability to prepare simple product demos with guidance",
+        "Basic knowledge of technical requirements gathering",
+        "Capability to support proof-of-concept setups",
+        "Understanding of the sales cycle basics",
+        "Documentation of customer technical needs with guidance",
+        "Elementary knowledge of solution architecture"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with CRM and demo tools",
+        "Basic knowledge of APIs and integrations",
+        "Understanding of customer communication basics"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Supports senior engineers on simple tasks",
+        "Is learning the solutions engineering role"
+      ]
+    },
+    "SLE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to deliver standard product demos",
+        "Execution of basic proofs of concept",
+        "Practical knowledge of technical discovery",
+        "Ability to answer common technical questions",
+        "Understanding of customer use cases",
+        "Capability to contribute to RFP responses",
+        "Knowledge of product integrations basics",
+        "Ability to collaborate with account executives"
+      ],
+      "complementaryCompetencies": [
+        "Analysis of basic customer requirements",
+        "Knowledge of competitive positioning",
+        "Understanding of solution documentation"
+      ],
+      "indicators": [
+        "Delivers demos with supervision",
+        "Runs proofs of concept independently",
+        "Collaborates effectively with the sales team"
+      ]
+    },
+    "SLE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Delivery of tailored technical demos",
+        "Design and execution of proofs of concept",
+        "Mastery of technical discovery techniques",
+        "Capability to handle technical objections",
+        "Ability to map customer needs to product capabilities",
+        "Knowledge of solution architecture in depth",
+        "Contribution to RFP and RFI responses",
+        "Ownership of medium-complexity opportunities"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of integration patterns",
+        "Ability to run technical workshops",
+        "Understanding of the product roadmap"
+      ],
+      "indicators": [
+        "Owns technical opportunities end-to-end",
+        "Handles technical objections independently",
+        "Presents solutions with confidence"
+      ]
+    },
+    "SLE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Delivery of complex solution demos autonomously",
+        "Design of custom proofs of concept for enterprise deals",
+        "Mastery of solution architecture across use cases",
+        "Capability to lead technical pre-sales for an account",
+        "Ability to align solutions with customer strategy",
+        "Deep knowledge of integrations and the product ecosystem",
+        "Facilitation of technical discovery workshops",
+        "End-to-end ownership of significant technical opportunities"
+      ],
+      "complementaryCompetencies": [
+        "Experience in cross-functional collaboration",
+        "Knowledge of value engineering",
+        "Management of technical relationships with customers"
+      ],
+      "indicators": [
+        "Works autonomously on complex deals",
+        "Shapes the technical solution for an account",
+        "Mentors junior solutions engineers"
+      ]
+    },
+    "SLE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Design of technical sales strategy for territories",
+        "Mastery of the end-to-end pre-sales craft",
+        "Capability to define solution vision for accounts",
+        "Ability to influence product roadmap through customer feedback",
+        "Deep expertise in solution architecture and integrations",
+        "Leadership of technical pre-sales initiatives across teams",
+        "Establishment of pre-sales best practices",
+        "Bridging of pre-sales and product teams"
+      ],
+      "complementaryCompetencies": [
+        "Experience in sales enablement",
+        "Knowledge of enterprise architecture",
+        "Management of complex stakeholder relationships"
+      ],
+      "indicators": [
+        "Is a recognized expert in solutions engineering",
+        "Defines the technical solution for strategic accounts",
+        "Elevates the craft of the pre-sales team"
+      ]
+    },
+    "SLE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Leadership of solutions engineering across a region",
+        "Definition of pre-sales principles and methodology",
+        "Management of the technical pre-sales function as a strategic asset",
+        "Capability to drive technical sales strategy at region level",
+        "Ability to shape go-to-market alongside sales leadership",
+        "Deep knowledge of solutions engineering impact on revenue",
+        "Mentoring and growth of pre-sales teams",
+        "Promotion of technical value selling across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience in scaling pre-sales practices",
+        "Knowledge of pre-sales hiring and team building",
+        "Leadership in cross-region solution consistency"
+      ],
+      "indicators": [
+        "Leads solutions engineering for a region",
+        "Influences go-to-market strategy through pre-sales",
+        "Grows and mentors senior solutions engineers"
+      ]
+    },
+    "SLE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive influence on technical sales strategy",
+        "Definition of solutions vision across regions",
+        "Transformation of the pre-sales function at scale",
+        "Management of solutions engineering at organization level",
+        "Creation of pre-sales frameworks for the company",
+        "Alignment of pre-sales with long-term business strategy",
+        "Pre-sales leadership at the leadership table",
+        "Influence on the solutions engineering discipline externally"
+      ],
+      "complementaryCompetencies": [
+        "Management of pre-sales in complex organizations",
+        "Experience in solutions for enterprise-scale customers",
+        "Leadership in solutions engineering communities"
+      ],
+      "indicators": [
+        "Sets solutions engineering direction across regions",
+        "Partners with sales and product leadership",
+        "Represents pre-sales at the executive level"
+      ]
+    },
+    "SLE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of solutions engineering as a core revenue driver",
+        "Leadership in pre-sales transformation",
+        "Creation of pre-sales ecosystems across the organization",
+        "Management of solutions vision at company scale",
+        "Introduction of new approaches to the pre-sales motion",
+        "Definition of the organization's long-term pre-sales practices and standards",
+        "Advocacy for technical value selling across sales teams",
+        "Influence on the future of solutions engineering"
+      ],
+      "complementaryCompetencies": [
+        "Experience as a principal solutions engineer in leading companies",
+        "Advisory in go-to-market strategy for startups",
+        "Thought leadership in solutions engineering"
+      ],
+      "indicators": [
+        "Shapes solutions engineering strategy at company level",
+        "Defines pre-sales vision for the organization",
+        "Is a recognized authority in solutions engineering"
+      ]
+    },
+    "SLE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership as VP of Solutions Engineering",
+        "Transformation of the organization through technical sales",
+        "Creation of a technical-value-first go-to-market culture",
+        "Definition of pre-sales strategy at the executive level",
+        "Innovation in the intersection of technology and sales",
+        "Championing solutions engineering quality standards across all regions",
+        "Architect of the organization's pre-sales vision",
+        "Influence on the evolution of solutions engineering"
+      ],
+      "complementaryCompetencies": [
+        "Creator of industry-shaping pre-sales practices",
+        "Recognition as a solutions engineering leader in the industry",
+        "Influence in global go-to-market education"
+      ],
+      "indicators": [
+        "Is VP of Solutions Engineering or equivalent",
+        "Defines the pre-sales vision of the company",
+        "Is a world authority in solutions engineering"
+      ]
+    }
+  }
+}

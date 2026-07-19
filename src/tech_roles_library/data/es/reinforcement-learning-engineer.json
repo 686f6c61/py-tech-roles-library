@@ -1,0 +1,255 @@
+{
+  "role": "Ingeniero de Aprendizaje por Refuerzo",
+  "category": "IA/ML",
+  "levels": {
+    "RLE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión de los procesos de decisión de Markov: estados, acciones, recompensas y transiciones",
+        "Implementación supervisada de algoritmos de bandidos y de iteración de valores",
+        "Uso de entornos de simulación como Gymnasium para entrenar agentes sencillos",
+        "Comprensión del equilibrio entre exploración y explotación con políticas épsilon-voraces",
+        "Cálculo de retornos acumulados y de funciones de valor por métodos de Montecarlo",
+        "Registro de curvas de recompensa y de la evolución del entrenamiento",
+        "Documentación reproducible de experimentos con semillas aleatorias fijadas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con Python y NumPy para operaciones vectoriales",
+        "Nociones de redes neuronales y de descenso de gradiente",
+        "Uso de Git para versionar configuraciones de experimentos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Completa tareas guiadas de entrenamiento en entornos sencillos",
+        "Necesita entre 3 y 6 meses para ser productivo"
+      ]
+    },
+    "RLE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Implementación de Q-learning y SARSA con tablas de valores de acción",
+        "Aplicación de métodos de diferencia temporal y de trazas de elegibilidad",
+        "Aproximación de funciones de valor con redes neuronales",
+        "Diseño de funciones de recompensa para tareas sencillas de control",
+        "Comparación de políticas mediante el retorno medio acumulado",
+        "Entrenamiento de agentes en entornos discretos y de control clásico",
+        "Escritura de pruebas para las funciones de actualización y de política"
+      ],
+      "complementaryCompetencies": [
+        "Repetición de experiencias y redes objetivo",
+        "Implementación de gradientes de política básicos como REINFORCE",
+        "Familiaridad con métodos actor-crítico"
+      ],
+      "indicators": [
+        "Desarrolla agentes de refuerzo completos con supervisión ocasional",
+        "Resuelve incidencias de complejidad media en los bucles de entrenamiento",
+        "Participa de forma activa en revisiones de código y de experimentos"
+      ]
+    },
+    "RLE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de sistemas de aprendizaje por refuerzo de principio a fin",
+        "Implementación de algoritmos profundos como DQN, A3C y PPO",
+        "Estabilización del entrenamiento con recorte de gradientes y normalización de ventajas",
+        "Optimización de hiperparámetros y análisis de sensibilidad de la política",
+        "Diseño de arquitecturas de redes de política y de valor para espacios continuos",
+        "Aplicación de gradientes de política con estimación de ventaja generalizada",
+        "Instrumentación de métricas de estabilidad y de reproducibilidad del entrenamiento"
+      ],
+      "complementaryCompetencies": [
+        "Aprendizaje por refuerzo inverso y recompensas aprendidas",
+        "Implementación de aprendizaje por imitación a partir de demostraciones",
+        "Mentoría técnica a personas en niveles de iniciación"
+      ],
+      "indicators": [
+        "Completa funcionalidades complejas de agentes con supervisión mínima",
+        "Identifica y corrige inestabilidades en los bucles de entrenamiento",
+        "Contribuye de forma activa al diseño técnico de los sistemas de agentes"
+      ]
+    },
+    "RLE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de entrenamiento por refuerzo distribuido con múltiples actores",
+        "Implementación de algoritmos fuera de política como SAC, TD3 y DDPG",
+        "Diseño de esquemas de moldeado de recompensa que evitan comportamientos degenerados",
+        "Aprendizaje por refuerzo jerárquico para tareas de horizonte largo",
+        "Diseño de experimentos de transferencia de simulación a realidad con aleatorización de dominio",
+        "Aprendizaje por refuerzo fuera de línea a partir de conjuntos de datos registrados",
+        "Reducción de la varianza y aceleración de la convergencia del entrenamiento",
+        "Definición de protocolos de evaluación con múltiples semillas y bandas de confianza"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en aprendizaje por refuerzo aplicado a robótica o control",
+        "Optimización automatizada de hiperparámetros a gran escala",
+        "Implementación de meta-aprendizaje por refuerzo"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de componentes críticos de entrenamiento",
+        "Mentoriza a ingenieros junior y revisa sus diseños",
+        "Toma decisiones de arquitectura fundamentadas sobre algoritmos y entornos"
+      ]
+    },
+    "RLE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño de plataformas de agentes autónomos de nivel de producción",
+        "Desarrollo dirigido por evaluación con simuladores fieles y métricas fuera de línea",
+        "Implementación de aprendizaje por refuerzo con retroalimentación humana (RLHF)",
+        "Diseño de restricciones de seguridad que acotan las acciones del agente",
+        "Arquitectura de reproducibilidad del entrenamiento en infraestructura compartida",
+        "Diagnóstico de inestabilidad, colapso de la política y sobreajuste al simulador",
+        "Definición de estándares de calidad y de seguridad de los agentes desplegados",
+        "Gobernanza del coste de cómputo del entrenamiento a gran escala"
+      ],
+      "complementaryCompetencies": [
+        "Diseño de bancos de pruebas de evaluación de agentes desde cero",
+        "Aprendizaje por refuerzo con restricciones y regiones seguras",
+        "Definición de acuerdos de nivel de servicio para agentes en producción"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de agentes de productos completos",
+        "Define los estándares técnicos del equipo de aprendizaje por refuerzo",
+        "Lidera iniciativas de agentes que cruzan varios equipos"
+      ]
+    },
+    "RLE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Arquitectura de una plataforma de aprendizaje por refuerzo al servicio de varios equipos",
+        "Definición de marcos de evaluación y de vigilancia continua de las políticas",
+        "Liderazgo técnico en el despliegue seguro de la toma de decisiones autónoma",
+        "Diseño de mecanismos de contención y de intervención humana en agentes de alto riesgo",
+        "Gobernanza de la seguridad y la fiabilidad de sistemas no deterministas",
+        "Dirección de migraciones de reglas heredadas hacia políticas aprendidas",
+        "Ingeniería de reproducibilidad y de trazabilidad del entrenamiento a escala",
+        "Gobierno del coste de cómputo de las flotas de entrenamiento"
+      ],
+      "complementaryCompetencies": [
+        "Evaluación técnica de simuladores y bibliotecas de aprendizaje por refuerzo",
+        "Estándares emergentes de seguridad de agentes",
+        "Representación técnica de la empresa en la comunidad de aprendizaje por refuerzo"
+      ],
+      "indicators": [
+        "Diseña soluciones de agentes para varios equipos a la vez",
+        "Influye en las decisiones técnicas de la organización sobre autonomía",
+        "Es referente técnico de la empresa en aprendizaje por refuerzo"
+      ]
+    },
+    "RLE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la dirección técnica del aprendizaje por refuerzo en toda la organización",
+        "Diseño de arquitecturas de agentes independientes del algoritmo y del simulador",
+        "Elaboración de hojas de ruta plurianuales para las capacidades de decisión autónoma",
+        "Estrategias para escalar de forma segura la autonomía a procesos críticos",
+        "Definición de la economía y el coste total de propiedad de la plataforma de entrenamiento",
+        "Dirección de la relación entre rendimiento del agente y garantías de seguridad",
+        "Formación y crecimiento de equipos de ingeniería de aprendizaje por refuerzo",
+        "Anticipación del impacto en el producto de nuevos algoritmos de decisión"
+      ],
+      "complementaryCompetencies": [
+        "Evaluación técnica de empresas emergentes y herramientas de aprendizaje por refuerzo",
+        "Publicación de resultados o patentes sobre técnicas de decisión autónoma",
+        "Seguimiento de tendencias de investigación en aprendizaje por refuerzo"
+      ],
+      "indicators": [
+        "Define la estrategia técnica de aprendizaje por refuerzo de la organización",
+        "Es reconocido como referente en sistemas de decisión autónoma",
+        "Interviene como ponente en conferencias del sector"
+      ]
+    },
+    "RLE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la evolución de la toma de decisiones autónoma",
+        "Definición del papel del aprendizaje por refuerzo en la estrategia de producto de la empresa",
+        "Diligencia técnica de productos y adquisiciones basados en agentes autónomos",
+        "Diseño de la arquitectura de decisión que sostiene varias líneas de negocio",
+        "Dirección de la respuesta técnica a la regulación de sistemas autónomos",
+        "Definición de los principios de autonomía responsable y de seguridad del agente",
+        "Construcción y liderazgo de organizaciones de ingeniería de aprendizaje por refuerzo",
+        "Análisis del impacto de negocio de las decisiones de automatización"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en las políticas del sector sobre sistemas autónomos",
+        "Creación de líneas de producto derivadas de la investigación en refuerzo",
+        "Asesoría técnica a la dirección sobre inversión en autonomía"
+      ],
+      "indicators": [
+        "Influye en la dirección técnica del ámbito de la decisión autónoma",
+        "Asesora a la dirección ejecutiva sobre estrategia de automatización",
+        "Es mentor de líderes técnicos senior"
+      ]
+    },
+    "RLE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la estrategia de decisión autónoma de la empresa",
+        "Alineación de la estrategia de aprendizaje por refuerzo con la estrategia de negocio",
+        "Dirección de la inversión en plataformas de agentes y en talento especializado",
+        "Definición de la postura de la empresa ante la regulación de sistemas autónomos",
+        "Gestión de la relación entre autonomía, seguridad y confianza",
+        "Dirección de la ventaja competitiva construida sobre agentes de decisión",
+        "Gobernanza del riesgo de los sistemas autónomos a gran escala",
+        "Impulso de la transformación del producto mediante la decisión automatizada"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en la regulación y en los estándares de sistemas autónomos",
+        "Dirección de alianzas estratégicas en torno a la decisión autónoma",
+        "Representación pública de la empresa en materia de autonomía responsable"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de decisión autónoma de la empresa",
+        "Responde por los resultados de negocio de la automatización",
+        "Es la cara visible de la empresa en aprendizaje por refuerzo"
+      ]
+    }
+  }
+}

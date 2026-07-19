@@ -1,0 +1,258 @@
+{
+  "role": "AI Product Manager",
+  "category": "Product",
+  "levels": {
+    "AIPM-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Understanding of the difference between deterministic software and probabilistic model behavior",
+        "Basic reading of eval reports to judge model output quality",
+        "Ability to write clear prompts and document expected model responses",
+        "Familiarity with the concept of hallucination and its product impact",
+        "Basic knowledge of tokens and how they drive inference cost",
+        "Ability to collect and label examples of good and bad model outputs",
+        "Understanding of the user feedback loop as a data source",
+        "Documentation of model failure cases for the engineering team"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with LLM playground and prompt testing tools",
+        "Basic notions of data privacy in AI features",
+        "Understanding of confidence scores in model responses"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Supports the curation of eval datasets",
+        "Is learning how AI products differ from traditional software"
+      ]
+    },
+    "AIPM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Definition of eval sets that reflect real product acceptance criteria",
+        "Prioritization of AI features weighing accuracy against inference cost",
+        "Design of fallback experiences for when the model is uncertain or wrong",
+        "Analysis of feedback loops to detect quality regressions in production",
+        "Ability to specify guardrails and content filtering requirements",
+        "Understanding of latency and cost trade-offs across model sizes",
+        "Writing of requirements that account for non-deterministic outputs",
+        "Collaboration with data teams on labeling and dataset quality"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of retrieval-augmented generation as a product pattern",
+        "Understanding of A/B testing with probabilistic outputs",
+        "Familiarity with prompt versioning and change control"
+      ],
+      "indicators": [
+        "Owns a single AI feature with supervision",
+        "Reads eval dashboards to inform decisions",
+        "Coordinates labeling work with data teams"
+      ]
+    },
+    "AIPM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of eval frameworks that gate releases on model quality thresholds",
+        "Definition of UX patterns that communicate uncertainty and build user trust",
+        "Management of inference cost per feature as a business lever",
+        "Ownership of the data and feedback loop that improves a model over time",
+        "Specification of human-in-the-loop review for high-risk model outputs",
+        "Roadmapping AI features under research uncertainty and open outcomes",
+        "Definition of acceptance criteria based on offline and online evals",
+        "Balancing model capability against safety and abuse constraints"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of fine-tuning versus prompting as product decisions",
+        "Understanding of embedding-based search and its quality metrics",
+        "Familiarity with AI risk classification under the EU AI Act"
+      ],
+      "indicators": [
+        "Owns an AI product surface end to end",
+        "Defines eval thresholds that block or approve releases",
+        "Mentors junior PMs on probabilistic product thinking"
+      ]
+    },
+    "AIPM-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Strategy for a portfolio of AI features sharing a common eval infrastructure",
+        "Definition of the trust and transparency model across the product surface",
+        "Management of the unit economics of inference at scale as a business driver",
+        "Design of data flywheels where usage measurably improves model quality",
+        "Leadership of build-versus-buy decisions on foundation models and providers",
+        "Governance of AI risk and compliance obligations under the EU AI Act",
+        "Definition of quality bars that separate a demo from a shippable AI product",
+        "Cross-functional alignment of research, engineering and design on outcomes"
+      ],
+      "complementaryCompetencies": [
+        "Experience with multi-model routing and cost optimization strategies",
+        "Knowledge of red-teaming and adversarial evaluation of AI features",
+        "Understanding of model provider contracts and rate-limit planning"
+      ],
+      "indicators": [
+        "Defines strategy for a group of AI features",
+        "Owns the inference cost budget for a product area",
+        "Represents AI product risk to compliance stakeholders"
+      ]
+    },
+    "AIPM-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leadership of a team of AI product managers across multiple model-backed surfaces",
+        "Definition of the organization's evaluation standards as a quality discipline",
+        "Management of the trade-off between model investment and inference margin",
+        "Design of the data strategy that feeds continuous model improvement",
+        "Definition of AI safety and abuse policies aligned with product goals",
+        "Ownership of the AI compliance posture, including EU AI Act obligations",
+        "Setting of research roadmaps that plan for uncertain model capabilities",
+        "Establishment of trust as a measurable product outcome, not a slogan"
+      ],
+      "complementaryCompetencies": [
+        "Experience scaling AI features from prototype to production reliability",
+        "Knowledge of privacy-preserving techniques for training data",
+        "Understanding of model observability and drift detection in production"
+      ],
+      "indicators": [
+        "Manages multiple AI product managers",
+        "Defines evaluation and safety standards for the organization",
+        "Owns the margin model for a suite of AI products"
+      ]
+    },
+    "AIPM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of AI product strategy across an organization's model-backed portfolio",
+        "Definition of how the company differentiates through proprietary data and evals",
+        "Governance of inference economics as a lever on company-level margins",
+        "Leadership of the AI risk and regulatory strategy across jurisdictions",
+        "Definition of the balance between model autonomy and human oversight at scale",
+        "Setting of the standard for what quality and trust mean in AI products",
+        "Alignment of research bets with commercial roadmaps under deep uncertainty",
+        "Building of the data and feedback infrastructure as a durable moat"
+      ],
+      "complementaryCompetencies": [
+        "Experience navigating AI regulation with legal and policy teams",
+        "Knowledge of foundation model economics and provider negotiation",
+        "Leadership in responsible AI practices and external accountability"
+      ],
+      "indicators": [
+        "Directs AI product across a business unit",
+        "Sets the organization's stance on AI risk and quality",
+        "Shapes provider and data strategy at company level"
+      ]
+    },
+    "AIPM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership of AI product strategy across the whole company",
+        "Definition of the data and eval advantage that underpins competitive position",
+        "Governance of inference economics as a core driver of company financials",
+        "Setting of the enterprise stance on AI safety, autonomy and human oversight",
+        "Leadership of regulatory strategy for AI, including EU AI Act conformity",
+        "Definition of how research uncertainty is funded and staged into roadmaps",
+        "Communication of AI product strategy and its risks to executive leadership",
+        "Establishment of trust and reliability as differentiators against competitors"
+      ],
+      "complementaryCompetencies": [
+        "Experience representing AI product strategy to regulators and boards",
+        "Knowledge of AI liability and accountability frameworks",
+        "Leadership in cross-industry responsible AI initiatives"
+      ],
+      "indicators": [
+        "Reports to CEO",
+        "Owns AI product strategy across the company",
+        "Defines the enterprise position on AI risk and compliance"
+      ]
+    },
+    "AIPM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definition of the company's long-term thesis on where model capability creates value",
+        "Architecture of the evaluation and data strategy as the central product moat",
+        "Framing of inference economics as a structural determinant of the business model",
+        "Setting of the enterprise doctrine on AI safety, autonomy and accountability",
+        "Leadership of the regulatory posture as AI law evolves across markets",
+        "Definition of how to invest under research uncertainty across multiple horizons",
+        "Establishment of trust in AI products as a durable competitive advantage",
+        "Shaping of the operating model that turns model research into shipped products"
+      ],
+      "complementaryCompetencies": [
+        "Advisory on AI product strategy to leadership across the industry",
+        "Influence on responsible AI standards beyond the company",
+        "Track record of turning research capability into commercial products"
+      ],
+      "indicators": [
+        "Is part of the executive team on AI product matters",
+        "Defines the company's long-term AI product thesis",
+        "Is a recognized authority in AI product strategy"
+      ]
+    },
+    "AIPM-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Ownership of the enterprise vision for how AI products create durable value",
+        "Definition of the data and evaluation strategy as the organization's core advantage",
+        "Stewardship of inference economics as a determinant of the company's financial model",
+        "Setting of the organization's foundational stance on AI safety and human oversight",
+        "Leadership of the company's regulatory and accountability posture for AI",
+        "Direction of long-horizon investment under fundamental research uncertainty",
+        "Establishment of trust and reliability as the basis of the AI product franchise",
+        "Definition of the operating model that connects research, product and safety"
+      ],
+      "complementaryCompetencies": [
+        "Recognition as a leader in AI product strategy across the industry",
+        "Influence on public policy and standards for AI products",
+        "Track record of building AI product organizations at scale"
+      ],
+      "indicators": [
+        "Leads the enterprise AI product organization",
+        "Defines the company's long-term AI direction",
+        "Is a reference authority in AI product management"
+      ]
+    }
+  }
+}

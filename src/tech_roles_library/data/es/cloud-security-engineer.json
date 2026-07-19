@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Seguridad en Nube",
+  "category": "Seguridad",
+  "levels": {
+    "CSE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de computación en la nube",
+        "Comprensión elemental de seguridad en la nube",
+        "Habilidad para configurar grupos de seguridad básicos",
+        "Conocimiento básico de gestión de identidades y accesos",
+        "Capacidad de revisar configuraciones con supervisión",
+        "Comprensión de cifrado en reposo y en tránsito",
+        "Documentación de hallazgos de seguridad",
+        "Conocimiento elemental de cumplimiento"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con consolas de AWS, Azure y GCP",
+        "Conocimiento básico de registro de auditoría en la nube",
+        "Comprensión elemental de seguridad de redes"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Implementa controles básicos",
+        "Está aprendiendo seguridad en la nube"
+      ]
+    },
+    "CSE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar controles de seguridad en la nube",
+        "Implementación de políticas de gestión de identidades y accesos",
+        "Conocimiento práctico de cumplimiento en la nube",
+        "Habilidad para monitorización de seguridad",
+        "Comprensión de seguridad de infraestructura como código",
+        "Capacidad de escaneo de vulnerabilidades",
+        "Conocimiento de seguridad de contenedores",
+        "Habilidad para respuesta básica a incidentes"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de herramientas de gestión de postura de seguridad en la nube",
+        "Habilidad para automatización de seguridad",
+        "Comprensión de multinube"
+      ],
+      "indicators": [
+        "Implementa seguridad con supervisión",
+        "Responde a alertas",
+        "Mantiene cumplimiento"
+      ]
+    },
+    "CSE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas seguras en la nube",
+        "Implementación de redes de confianza cero",
+        "Dominio de gestión de postura de seguridad en la nube",
+        "Capacidad de detección de amenazas",
+        "Habilidad para automatización de seguridad",
+        "Conocimiento profundo del modelo de responsabilidad compartida",
+        "Implementación de prevención de pérdida de datos",
+        "Capacidad de formación en seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de gestión de eventos e información de seguridad y orquestación",
+        "Habilidad para análisis forense",
+        "Comprensión de marcos de cumplimiento"
+      ],
+      "indicators": [
+        "Lidera proyectos de seguridad",
+        "Diseña soluciones de nube seguras",
+        "Mentorea en seguridad de nube"
+      ]
+    },
+    "CSE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de programas de seguridad en la nube",
+        "Diseño de estrategia de seguridad multinube",
+        "Implementación de automatización de seguridad a escala",
+        "Dominio de detección avanzada de amenazas",
+        "Capacidad de arquitectura de seguridad en la nube",
+        "Conocimiento profundo de cumplimiento regulatorio",
+        "Habilidad para gobernanza de seguridad",
+        "Liderazgo en endurecimiento de nube"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en cumplimiento en la nube (PCI-DSS, HIPAA)",
+        "Conocimiento de agente de seguridad de acceso a la nube",
+        "Implementación de orquestación de seguridad"
+      ],
+      "indicators": [
+        "Define estrategia de seguridad en la nube",
+        "Lidera transformación de seguridad",
+        "Es referente en seguridad de nube"
+      ]
+    },
+    "CSE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en seguridad de nube",
+        "Diseño de seguridad empresarial en la nube",
+        "Gestión de equipos de seguridad",
+        "Definición de estándares de seguridad en la nube",
+        "Capacidad de gestión de riesgos de seguridad",
+        "Implementación de plataformas de gestión de eventos e información de seguridad y orquestación",
+        "Dominio de economía de seguridad en la nube",
+        "Promoción de buenas prácticas de seguridad en la nube"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en migraciones a la nube",
+        "Conocimiento de colaboraciones en seguridad",
+        "Gestión de presupuesto de seguridad"
+      ],
+      "indicators": [
+        "Gestiona equipo de seguridad en la nube",
+        "Define visión de seguridad en la nube",
+        "Representa seguridad ante ejecutivos"
+      ]
+    },
+    "CSE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia de seguridad en la nube",
+        "Gestión de operaciones de seguridad a escala",
+        "Definición de arquitectura de seguridad multinube",
+        "Liderazgo en transformación de seguridad en la nube",
+        "Gestión de incidentes mayores",
+        "Implementación de gobernanza de seguridad",
+        "Innovación en seguridad de nube",
+        "Gestión de cumplimiento global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en seguridad de fusiones y adquisiciones",
+        "Conocimiento de inversión en seguridad",
+        "Liderazgo en industria de seguridad en la nube"
+      ],
+      "indicators": [
+        "Dirige departamento de seguridad en la nube",
+        "Participa en estrategia ejecutiva",
+        "Define inversiones en seguridad"
+      ]
+    },
+    "CSE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en seguridad de nube",
+        "Diseño de estrategias globales de seguridad",
+        "Transformación organizacional mediante seguridad en la nube",
+        "Gestión a escala de gran empresa",
+        "Creación de cultura de seguridad en la nube",
+        "Definición de hoja de ruta de seguridad",
+        "Comunicación de la estrategia de seguridad a la dirección ejecutiva",
+        "Influencia en estándares"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos multimillonarios de seguridad",
+        "Experiencia en salida a bolsa en la nube",
+        "Liderazgo en consorcios"
+      ],
+      "indicators": [
+        "Depende del director de seguridad de la información",
+        "Gestiona organización (25+ personas)",
+        "Define estrategia de seguridad en la nube"
+      ]
+    },
+    "CSE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de seguridad en la nube",
+        "Liderazgo en transformación de seguridad",
+        "Creación de ventaja competitiva",
+        "Gestión de ecosistemas de seguridad",
+        "Investigación en tecnologías emergentes de seguridad en la nube",
+        "Definición de arquitecturas de seguridad en la nube de nueva generación",
+        "Definición de la dirección tecnológica de seguridad en la nube a largo plazo",
+        "Influencia en políticas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de seguridad de la información en unicornios",
+        "Asesoría en empresas emergentes",
+        "Liderazgo intelectual en seguridad de nube"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia",
+        "Es líder reconocido globalmente"
+      ]
+    },
+    "CSE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en seguridad de nube",
+        "Transformación de industrias",
+        "Definición de arquitecturas de referencia de seguridad en la nube",
+        "Definición de seguridad nativa de nube",
+        "Innovación en gobernanza",
+        "Promoción de una cultura de ingeniería de seguridad desde el diseño",
+        "Arquitecto de ecosistemas",
+        "Influencia en regulación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando Fortune 100",
+        "Reconocimiento como pionero",
+        "Influencia en estándares de nube"
+      ],
+      "indicators": [
+        "Es una autoridad reconocida en seguridad en la nube",
+        "Define futuro",
+        "Es autoridad mundial"
+      ]
+    }
+  }
+}

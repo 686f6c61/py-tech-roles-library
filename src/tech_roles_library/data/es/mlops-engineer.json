@@ -1,0 +1,259 @@
+{
+  "role": "Ingeniero MLOps",
+  "category": "IA/ML",
+  "levels": {
+    "MLO-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de ciclo de vida de ML",
+        "Conocimiento elemental de versionado de modelos",
+        "Habilidad para despliegue de modelos simple",
+        "Comprensión básica de flujos de datos",
+        "Capacidad de monitorizar modelos básica",
+        "Conocimiento elemental de contenedorización para ML",
+        "Comprensión básica de reproducibilidad",
+        "Habilidad para documentar experimentos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de servicios ML en nube",
+        "Familiaridad con notebooks y Git",
+        "Comprensión elemental de integración/despliegue continuo"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede ejecutar flujos existentes",
+        "Necesita 6-12 meses de mentoría MLOps"
+      ]
+    },
+    "MLO-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar flujos ML básicos",
+        "Habilidad para automatizar entrenamiento y despliegue",
+        "Conocimiento práctico de seguimiento de experimentos",
+        "Comprensión de registro de modelos y gobierno",
+        "Capacidad de implementar monitorización básica",
+        "Habilidad para versionado de datos",
+        "Conocimiento de pruebas A/B para modelos",
+        "Comprensión de servicio de modelos básico"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de Kubernetes para ML",
+        "Habilidad para almacenes de características básicos",
+        "Comprensión de monitorización de calidad de datos"
+      ],
+      "indicators": [
+        "Implementa flujos con supervisión",
+        "Mantiene modelos en producción",
+        "Resuelve problemas de despliegue comunes"
+      ]
+    },
+    "MLO-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de orquestación de flujos ML",
+        "Capacidad de implementar entrenamiento continuo",
+        "Habilidad para detección de deriva y monitorización",
+        "Conocimiento profundo de optimización de modelos",
+        "Capacidad de implementar flujos de ingeniería de características",
+        "Comprensión sólida de entrenamiento distribuido",
+        "Habilidad para estrategias de reversión y versionado",
+        "Conocimiento de despliegue en borde"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de plataformas AutoML",
+        "Habilidad para operaciones de aprendizaje federado",
+        "Comprensión de flujos de explicabilidad"
+      ],
+      "indicators": [
+        "Diseña flujos MLOps completos",
+        "Optimiza rendimiento de inferencia",
+        "Implementa mejores prácticas MLOps"
+      ]
+    },
+    "MLO-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas MLOps",
+        "Dominio de gobierno y cumplimiento de modelos",
+        "Habilidad para implementar plataformas de características",
+        "Conocimiento profundo de servicio escalable",
+        "Capacidad de implementar monitorización avanzada",
+        "Dominio de optimización de costes para ML",
+        "Habilidad para servicio de múltiples modelos",
+        "Conocimiento de seguridad y privacidad ML"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de ML en tiempo real",
+        "Habilidad para MLOps multinube",
+        "Comprensión de ML ecológico"
+      ],
+      "indicators": [
+        "Define estrategia MLOps para productos",
+        "Lidera adopción de prácticas MLOps",
+        "Mentoriza ingenieros MLOps"
+      ]
+    },
+    "MLO-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise en plataformas MLOps empresariales",
+        "Capacidad de diseñar infraestructura ML a escala",
+        "Dominio de plataformas de experimentación avanzadas",
+        "Habilidad para implementar observabilidad ML",
+        "Conocimiento profundo de cumplimiento regulatorio ML",
+        "Capacidad de implementar automatización MLOps",
+        "Expertise en sistemas ML distribuidos",
+        "Dominio de optimización de flujos ML"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de operaciones ML cuánticas",
+        "Habilidad para despliegue neuromórfico",
+        "Comprensión de economía MLOps"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de MLOps para carteras",
+        "Lidera transformación MLOps",
+        "Define estándares MLOps corporativos"
+      ]
+    },
+    "MLO-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir estrategia MLOps empresarial",
+        "Expertise en ingeniería de plataforma ML",
+        "Dominio de ingeniería de fiabilidad ML",
+        "Habilidad para marcos de gobierno MLOps",
+        "Conocimiento profundo de economía ML",
+        "Capacidad de liderar innovación MLOps",
+        "Expertise en gestión de proveedores ML",
+        "Dominio de gestión de riesgos MLOps"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de implementación de ética de IA",
+        "Habilidad para consultoría MLOps",
+        "Comprensión de empresas ML"
+      ],
+      "indicators": [
+        "Define hoja de ruta MLOps multianual",
+        "Lidera organizaciones MLOps",
+        "Influencia industria MLOps"
+      ]
+    },
+    "MLO-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en innovación MLOps global",
+        "Capacidad de crear ventajas competitivas MLOps",
+        "Expertise en modelos de negocio MLOps",
+        "Dominio de economía de plataforma ML",
+        "Capacidad de definir filosofía MLOps",
+        "Conocimiento profundo de democratización ML",
+        "Expertise en asociaciones MLOps",
+        "Capacidad de liderar investigación MLOps"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones MLOps",
+        "Habilidad para impulsar la adopción de MLOps en los equipos",
+        "Conocimiento de inversiones MLOps"
+      ],
+      "indicators": [
+        "Define filosofía MLOps corporativa",
+        "Orador principal en conferencias MLOps",
+        "Líder de pensamiento MLOps"
+      ]
+    },
+    "MLO-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del futuro de MLOps",
+        "Capacidad de transformar empresas mediante MLOps",
+        "Expertise en estrategia MLOps ejecutiva",
+        "Dominio de economía de infraestructura ML",
+        "Capacidad de definir excelencia MLOps",
+        "Conocimiento profundo de gobierno de plataforma ML",
+        "Expertise en construcción de ecosistema MLOps",
+        "Capacidad de liderar estándares MLOps"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar regulaciones MLOps",
+        "Habilidad para empresas MLOps",
+        "Conocimiento de fusiones y adquisiciones MLOps"
+      ],
+      "indicators": [
+        "Define la estrategia de MLOps de toda la organización",
+        "Influye en plataformas MLOps globales",
+        "Asesor MLOps ejecutivo"
+      ]
+    },
+    "MLO-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en infraestructura ML",
+        "Capacidad de MLOps como diferenciador",
+        "Expertise en transformación de plataforma ML",
+        "Dominio de presupuestos de infraestructura ML",
+        "Capacidad de construir organizaciones MLOps",
+        "Conocimiento profundo de estrategia de plataforma ML",
+        "Expertise en asociaciones ejecutivas ML",
+        "Capacidad de definir cultura de plataforma ML",
+        "Dominio de entrega de valor ML"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influencia en políticas ML",
+        "Habilidad para creación de ecosistema ML",
+        "Conocimiento de salidas de plataforma ML"
+      ],
+      "indicators": [
+        "Define y ejecuta visión MLOps empresarial",
+        "Responsable de toda la infraestructura ML",
+        "Líder reconocido en MLOps global"
+      ]
+    }
+  }
+}

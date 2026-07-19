@@ -1,0 +1,266 @@
+{
+  "role": "DevOps Engineer",
+  "category": "Infrastructure",
+  "levels": {
+    "DO-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of Linux/Unix operating systems",
+        "Elementary knowledge of TCP/IP networks and basic protocols",
+        "Ability to use command line and basic scripting",
+        "Basic understanding of version control and branching",
+        "Ability to work with virtual machines and basic containers",
+        "Elementary knowledge of web servers and applications",
+        "Basic understanding of logs and simple monitoring",
+        "Ability to document processes and configurations"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of cloud computing",
+        "Familiarity with ticketing tools",
+        "Elementary understanding of ITIL and processes"
+      ],
+      "indicators": [
+        "Requires constant supervision on infrastructure tasks",
+        "Can execute documented runbooks with guidance",
+        "Needs 3-6 months of DevOps mentoring"
+      ]
+    },
+    "DO-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to administer Linux servers with common tasks",
+        "Ability to write automation scripts in Bash/Python",
+        "Practical knowledge of Docker and containerization",
+        "Understanding of basic CI/CD pipelines and their configuration",
+        "Ability to configure basic monitoring and alerts",
+        "Ability to perform backups and restorations",
+        "Knowledge of firewall configuration and basic security",
+        "Understanding of Infrastructure as Code basic concepts",
+        "Ability to troubleshoot common problems"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of databases",
+        "Ability to use configuration tools",
+        "Understanding of agile methodologies"
+      ],
+      "indicators": [
+        "Can maintain existing infrastructure with supervision",
+        "Resolves level 1 and 2 incidents",
+        "Implements changes following procedures"
+      ]
+    },
+    "DO-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of container orchestration (basic Kubernetes)",
+        "Ability to design and implement complete CI/CD pipelines",
+        "Ability to implement Infrastructure as Code with Terraform/Ansible",
+        "Deep knowledge of networking (VLANs, routing, load balancing)",
+        "Ability to implement centralized logging and aggregation",
+        "Solid understanding of security (hardening, basic compliance)",
+        "Ability to optimize system performance",
+        "Knowledge of disaster recovery and high availability",
+        "Ability to implement proactive monitoring"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of multiple public clouds",
+        "Ability to work with microservices",
+        "Understanding of basic FinOps"
+      ],
+      "indicators": [
+        "Implements new infrastructure with minimal supervision",
+        "Participates in on-call rotation and resolves incidents",
+        "Contributes to process and tool improvements"
+      ]
+    },
+    "DO-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design scalable and resilient cloud architectures",
+        "Mastery of advanced Kubernetes and service mesh",
+        "Ability to implement GitOps and continuous deployment",
+        "Deep knowledge of observability (metrics, logs, traces)",
+        "Ability to implement security scanning and compliance automation",
+        "Mastery of secrets management and vault systems",
+        "Ability to design backup and disaster recovery strategies",
+        "Knowledge of capacity planning and auto-scaling",
+        "Ability to implement basic chaos engineering"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of serverless architectures",
+        "Ability to implement ML pipelines",
+        "Understanding of edge computing"
+      ],
+      "indicators": [
+        "Leads medium infrastructure projects",
+        "Defines team standards and best practices",
+        "Mentors juniors in DevOps practices"
+      ]
+    },
+    "DO-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in multi-cloud and hybrid cloud architectures",
+        "Ability to design internal development platforms",
+        "Mastery of advanced service mesh and API gateways",
+        "Ability to implement zero-downtime deployments",
+        "Deep knowledge of compliance automation (SOC2, ISO)",
+        "Ability to implement FinOps and cost optimization",
+        "Expertise in incident management and post-mortems",
+        "Mastery of infrastructure testing and validation",
+        "Ability to design self-healing systems"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of quantum-safe cryptography",
+        "Ability to work with IoT infrastructure",
+        "Understanding of blockchain infrastructure"
+      ],
+      "indicators": [
+        "Designs enterprise infrastructure solutions",
+        "Leads response to critical incidents",
+        "Defines infrastructure technical roadmap"
+      ]
+    },
+    "DO-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise DevOps platforms",
+        "Expertise in platform engineering and developer experience",
+        "Mastery of GitOps at scale and progressive delivery",
+        "Ability to implement enterprise observability",
+        "Deep knowledge of zero-trust networking",
+        "Ability to design DR for critical global systems",
+        "Expertise in cost optimization at large scale",
+        "Mastery of compliance as code and governance",
+        "Ability to implement mature SRE practices"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of infrastructure for AI/ML",
+        "Ability to design global CDNs",
+        "Understanding of green computing"
+      ],
+      "indicators": [
+        "Architects infrastructure for critical products",
+        "Leads organizational DevOps transformation",
+        "Defines reliability engineering strategy"
+      ]
+    },
+    "DO-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in enterprise cloud transformation",
+        "Ability to design infrastructure for unicorns/scale-ups",
+        "Expertise in platform as a product mindset",
+        "Mastery of immutable infrastructure and advanced GitOps",
+        "Ability to implement AIOps and intelligent automation",
+        "Deep knowledge of edge computing and 5G infrastructure",
+        "Expertise in global traffic management and GeoDNS",
+        "Ability to design supply chain security",
+        "Mastery of infrastructure sustainability"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence cloud providers",
+        "Ability to contribute to CNCF projects",
+        "Knowledge of space infrastructure"
+      ],
+      "indicators": [
+        "Defines multi-year infrastructure strategy",
+        "Leads external DevOps communities",
+        "Speaker at international conferences"
+      ]
+    },
+    "DO-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for infrastructure evolution",
+        "Ability to design delivery platforms for large-scale organizations",
+        "Expertise in infrastructure due diligence",
+        "Mastery of legacy to cloud-native transformation",
+        "Ability to define corporate DevOps governance",
+        "Deep knowledge of strategic vendor management",
+        "Expertise in building DevOps centers of excellence",
+        "Ability to lead open source infrastructure projects",
+        "Mastery of innovation in automation and tooling"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent innovations",
+        "Ability to create DevOps startups",
+        "Knowledge of infrastructure investment"
+      ],
+      "indicators": [
+        "Defines DevOps strategy for entire organization",
+        "Recognized thought leader in DevOps",
+        "Influences industry standards"
+      ]
+    },
+    "DO-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in infrastructure and operations",
+        "Ability to align infrastructure with business strategy",
+        "Expertise in infrastructure M&A and migration",
+        "Mastery of multi-million dollar infrastructure budgets",
+        "Ability to build global DevOps organizations",
+        "Deep knowledge of technological risk management",
+        "Expertise in strategic vendor relationships",
+        "Ability to define organizational DevOps culture",
+        "Mastery of infrastructure innovation"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence cloud policies",
+        "Ability to create DevOps ecosystems",
+        "Knowledge of private equity tech"
+      ],
+      "indicators": [
+        "Defines and executes enterprise infrastructure vision",
+        "Responsible for complete operations P&L",
+        "Recognized leader in global DevOps industry"
+      ]
+    }
+  }
+}

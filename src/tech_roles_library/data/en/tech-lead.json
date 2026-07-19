@@ -1,0 +1,259 @@
+{
+  "role": "Tech Lead",
+  "category": "Software Engineering",
+  "levels": {
+    "TL-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of technical leadership and responsibilities",
+        "Elementary knowledge of technical task management",
+        "Ability to coordinate simple technical work with supervision",
+        "Basic understanding of mentoring and coaching",
+        "Capacity to facilitate basic technical meetings",
+        "Elementary knowledge of estimation and planning",
+        "Basic understanding of technical debt management",
+        "Ability to communicate simple technical decisions"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of agile methodologies",
+        "Familiarity with management tools",
+        "Elementary understanding of people management"
+      ],
+      "indicators": [
+        "Leads small teams (2-3 people) with supervision",
+        "Needs support in critical technical decisions",
+        "3-5 years of prior technical experience required"
+      ]
+    },
+    "TL-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacity to lead technical teams of 3-5 people",
+        "Ability to prioritize technical work and manage backlog",
+        "Practical knowledge of technical decision facilitation",
+        "Understanding of balance between technical debt and delivery",
+        "Capacity to perform effective code reviews",
+        "Ability to identify and resolve technical blockers",
+        "Knowledge of effective task delegation",
+        "Understanding of communication with non-technical stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Basic conflict management knowledge",
+        "Ability for basic technical recruitment",
+        "Understanding of technical budgets"
+      ],
+      "indicators": [
+        "Leads teams with moderate autonomy",
+        "Resolves team technical conflicts",
+        "Maintains stable team velocity"
+      ]
+    },
+    "TL-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of leading teams of 5-8 people",
+        "Capacity to define technical standards and best practices",
+        "Ability to balance multiple technical priorities",
+        "Deep knowledge of technical career development",
+        "Capacity to manage technical and non-technical stakeholders",
+        "Solid understanding of architecture and its impact",
+        "Ability to lead technical improvement initiatives",
+        "Knowledge of technical risk management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of budgeting and resource planning",
+        "Ability for cross-team collaboration",
+        "Understanding of vendor management"
+      ],
+      "indicators": [
+        "Leads complex teams independently",
+        "Defines team technical processes",
+        "Consistently improves team metrics"
+      ]
+    },
+    "TL-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacity to lead multiple teams or large teams (8-15)",
+        "Mastery of strategic technical planning",
+        "Ability for driving architectural decisions",
+        "Deep knowledge of team building and culture",
+        "Capacity to manage technical roadmaps",
+        "Expertise in conflict resolution and negotiation",
+        "Mastery of technical performance management",
+        "Capacity to influence without formal authority"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of organizational design",
+        "Ability to promote technical practices across teams",
+        "Understanding of business strategy"
+      ],
+      "indicators": [
+        "Successfully leads cross-team initiatives",
+        "Develops other tech leads",
+        "Impacts organizational metrics"
+      ]
+    },
+    "TL-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in distributed/remote team leadership",
+        "Capacity to define departmental technical strategy",
+        "Mastery of technical change management",
+        "Ability to build high-performing teams",
+        "Deep knowledge of scaling engineering teams",
+        "Capacity to manage complex technical crises",
+        "Expertise in technical culture transformation",
+        "Mastery of executive communication"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of technical M&A integration",
+        "Ability for technical public speaking",
+        "Understanding of industry trends"
+      ],
+      "indicators": [
+        "Leads departmental technical transformations",
+        "Recognized as organizational technical leader",
+        "Mentor to multiple tech leads"
+      ]
+    },
+    "TL-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacity to lead technical organizations (30-50 people)",
+        "Expertise in defining engineering excellence",
+        "Mastery of strategic talent development",
+        "Ability to design scalable engineering processes",
+        "Deep knowledge of engineering metrics and KPIs",
+        "Capacity to lead innovation initiatives",
+        "Expertise in building engineering brands",
+        "Mastery of strategic technical partnerships"
+      ],
+      "complementaryCompetencies": [
+        "Capacity to influence technical policy",
+        "Ability for technical thought leadership",
+        "Knowledge of venture building"
+      ],
+      "indicators": [
+        "Defines organizational technical culture",
+        "Leads major innovation initiatives",
+        "Speaker at conferences on technical leadership"
+      ]
+    },
+    "TL-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership of large technical organizations (50-100+)",
+        "Capacity for technical organizational transformation",
+        "Expertise in engineering operations excellence",
+        "Mastery of global team leadership",
+        "Capacity to define engineering philosophy",
+        "Deep knowledge of industry best practices",
+        "Expertise in technical diversity and inclusion",
+        "Capacity to lead open source initiatives"
+      ],
+      "complementaryCompetencies": [
+        "Capacity for startup advisory",
+        "Ability to write about technical leadership",
+        "Knowledge of engineering economics"
+      ],
+      "indicators": [
+        "Transforms entire technical organizations",
+        "Influences industry practices",
+        "Recognized thought leader in engineering leadership"
+      ]
+    },
+    "TL-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for organizational technical leadership",
+        "Capacity to build and scale global organizations",
+        "Expertise in engineering strategy and execution",
+        "Mastery of multi-million budget management",
+        "Capacity to define engineering governance",
+        "Deep knowledge of technical regulatory compliance",
+        "Expertise in vendor and partnership management",
+        "Capacity for executive representation"
+      ],
+      "complementaryCompetencies": [
+        "Capacity for board reporting",
+        "Ability for M&A technical due diligence",
+        "Knowledge of technical IPO readiness"
+      ],
+      "indicators": [
+        "Responsible for multiple technical departments",
+        "Defines corporate engineering strategy",
+        "Significantly impacts P&L"
+      ]
+    },
+    "TL-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership of entire technical organization",
+        "Capacity to align engineering with business strategy",
+        "Expertise in enterprise digital transformation",
+        "Mastery of complex technical portfolio management",
+        "Capacity to build technical competitive advantages",
+        "Deep knowledge of technical risk management",
+        "Expertise in technical investor relations",
+        "Capacity to define corporate technology vision",
+        "Mastery of organizational transformation"
+      ],
+      "complementaryCompetencies": [
+        "Capacity to influence industry",
+        "Ability to create technical spin-offs",
+        "Knowledge of private equity and exits"
+      ],
+      "indicators": [
+        "Defines and executes enterprise technical strategy",
+        "Responsible for entire engineering organization",
+        "Recognized leader in technology industry"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "SysAdmin",
+  "category": "Infrastructure",
+  "levels": {
+    "SYS-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of operating systems",
+        "Basic command line understanding",
+        "Basic user and permission management",
+        "Simple system resource monitoring",
+        "Basic backup and restoration",
+        "Initial troubleshooting of common problems",
+        "Documentation of simple procedures",
+        "Level 1 user support"
+      ],
+      "complementaryCompetencies": [
+        "Very basic scripting for automation",
+        "Initial networking knowledge",
+        "Familiarity with ticketing systems"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Performs predefined routine tasks",
+        "Is learning administration fundamentals"
+      ]
+    },
+    "SYS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Administration of multiple operating systems",
+        "Service and daemon management",
+        "Basic security policy configuration",
+        "Storage and partition management",
+        "Automation with simple scripts",
+        "Proactive system monitoring",
+        "Level 2 incident resolution",
+        "Preventive system maintenance"
+      ],
+      "complementaryCompetencies": [
+        "Basic virtualization knowledge",
+        "Basic database management",
+        "Web service configuration"
+      ],
+      "indicators": [
+        "Works with moderate supervision",
+        "Solves known problems independently",
+        "Participates in support rotations"
+      ]
+    },
+    "SYS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design and implementation of system architectures",
+        "Advanced security and hardening management",
+        "Complex automation with multiple tools",
+        "Cluster and high availability management",
+        "System performance optimization",
+        "Disaster recovery and business continuity",
+        "Centralized configuration management",
+        "Advanced troubleshooting and root cause analysis"
+      ],
+      "complementaryCompetencies": [
+        "Implementation of containerization solutions",
+        "Enterprise monitoring system management",
+        "Enterprise backup solution design"
+      ],
+      "indicators": [
+        "Works autonomously",
+        "Designs solutions for complex problems",
+        "Mentors junior administrators"
+      ]
+    },
+    "SYS-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Enterprise system architecture",
+        "Hybrid cloud solution implementation",
+        "End-to-end infrastructure automation",
+        "Compliance and audit management",
+        "Capacity planning and resource projection",
+        "Critical incident and crisis management",
+        "Multi-datacenter solution design",
+        "Infrastructure cost optimization"
+      ],
+      "complementaryCompetencies": [
+        "Heterogeneous system integration",
+        "DevOps practices implementation",
+        "Advanced security management"
+      ],
+      "indicators": [
+        "Leads infrastructure projects",
+        "Defines standards and best practices",
+        "Is technical reference in the team"
+      ]
+    },
+    "SYS-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in systems administration",
+        "Design of migration and modernization strategies",
+        "Administrator team management",
+        "Infrastructure roadmap definition",
+        "Negotiation with service providers",
+        "Infrastructure budget management",
+        "ITIL and management framework implementation",
+        "Assessment and adoption of new operational technologies"
+      ],
+      "complementaryCompetencies": [
+        "Digital transformation experience",
+        "Multi-team complex project management",
+        "SLA and service KPI definition"
+      ],
+      "indicators": [
+        "Manages team of 3-5 people",
+        "Defines system architecture at department level",
+        "Represents team in technical decisions"
+      ]
+    },
+    "SYS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "IT operations direction",
+        "Organizational-level infrastructure strategy",
+        "Multiple technical team management",
+        "IT policy and governance definition",
+        "Technological risk management",
+        "ITSM process optimization",
+        "Leadership in transformation projects",
+        "Executive stakeholder relationship management"
+      ],
+      "complementaryCompetencies": [
+        "Enterprise crisis management experience",
+        "Deep knowledge of regulations and compliance",
+        "Strategic vision of emerging technologies"
+      ],
+      "indicators": [
+        "Directs operations area (10-20 people)",
+        "Participates in strategic IT decisions",
+        "Defines annual infrastructure budgets"
+      ]
+    },
+    "SYS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in IT operations",
+        "Multi-year infrastructure strategy design",
+        "Global-scale operations management",
+        "Digital transformation of operations",
+        "Strategic vendor management",
+        "Corporate IT standards definition",
+        "IT alignment with business objectives",
+        "Operations innovation management"
+      ],
+      "complementaryCompetencies": [
+        "IT merger and acquisition experience",
+        "Strategic outsourcing management",
+        "Leadership in sustainability initiatives"
+      ],
+      "indicators": [
+        "Reports to CTO/CIO",
+        "Manages multiple departments (50+ people)",
+        "Defines corporate operations strategy"
+      ]
+    },
+    "SYS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for global operations",
+        "Leadership in enterprise transformation",
+        "Multi-geography operations management",
+        "Enterprise resilience strategy definition",
+        "Innovation in operating models",
+        "Global technology partnership management",
+        "Enterprise-scale cost optimization",
+        "Corporate IT governance"
+      ],
+      "complementaryCompetencies": [
+        "Executive experience in large corporations",
+        "Influence in IT operations industry",
+        "Corporate-level crisis management"
+      ],
+      "indicators": [
+        "Part of executive committee",
+        "Defines global IT policies",
+        "Manages budgets in tens of millions"
+      ]
+    },
+    "SYS-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in IT operations",
+        "Definition of future of enterprise operations",
+        "Radical transformation of operating models",
+        "Definition of enterprise-wide IT operations strategy",
+        "Modernization of infrastructure operating models",
+        "Creation of operational excellence centers",
+        "Definition of organizational operational standards and practices",
+        "Influence on industry standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CIO/CTO in multiple companies",
+        "International recognition in IT operations",
+        "Participation in boards and advisory councils"
+      ],
+      "indicators": [
+        "Is CIO/COO or equivalent",
+        "Defines company's technological future",
+        "Is global reference in IT operations"
+      ]
+    }
+  }
+}

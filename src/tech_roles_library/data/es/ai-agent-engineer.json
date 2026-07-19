@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Agentes de IA",
+  "category": "IA/ML",
+  "levels": {
+    "AAG-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de los modelos de lenguaje y de cómo generan respuestas",
+        "Conocimiento elemental de la estructura de un prompt y del seguimiento de instrucciones",
+        "Capacidad de integrar una única llamada al modelo en un script con supervisión",
+        "Comprensión básica del uso de herramientas, donde un modelo invoca una función externa",
+        "Habilidad para definir esquemas de funciones simples siguiendo ejemplos",
+        "Conocimiento elemental de lectura e interpretación de salidas y registros del modelo",
+        "Comprensión básica de qué es un agente frente a una única llamada al modelo",
+        "Habilidad para usar kits de desarrollo y entornos de pruebas para experimentar"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de Python o de un lenguaje de scripting",
+        "Familiaridad con JSON y datos estructurados",
+        "Comprensión elemental de claves de API y variables de entorno"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede completar tareas simples de creación de prompts con guía detallada",
+        "Necesita 3-6 meses para ser productivo"
+      ]
+    },
+    "AAG-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de construir un bucle de un solo agente con uso de herramientas y supervisión mínima",
+        "Comprensión del ciclo de razonamiento y acción en el que un agente planifica y ejecuta herramientas",
+        "Habilidad para diseñar definiciones de herramientas claras con entradas y salidas tipadas",
+        "Conocimiento práctico de plantillas de prompts e instrucciones de sistema",
+        "Capacidad de manejar errores de herramientas y reintentos dentro del bucle del agente",
+        "Comprensión de las ventanas de contexto y los límites de tokens",
+        "Capacidad de añadir memoria conversacional básica entre turnos",
+        "Conocimiento de pruebas unitarias de herramientas y prompts individuales"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de bases de datos vectoriales e incrustaciones",
+        "Habilidad para usar entornos de agentes y sus abstracciones",
+        "Comprensión básica de salida estructurada y validación de esquemas"
+      ],
+      "indicators": [
+        "Puede construir agentes simples de forma independiente",
+        "Resuelve problemas de complejidad media en el comportamiento del agente",
+        "Participa activamente en revisiones de código y prompts"
+      ]
+    },
+    "AAG-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio del diseño de un solo agente con orquestación robusta de herramientas",
+        "Capacidad de implementar mecanismos de protección que limitan las acciones y salidas del agente",
+        "Habilidad para diseñar y ejecutar evaluaciones básicas del éxito de las tareas del agente",
+        "Conocimiento profundo de la gestión del contexto y de técnicas de creación de prompts",
+        "Capacidad de implementar estrategias de memoria a corto y largo plazo",
+        "Comprensión de la recuperación de información para fundamentar las respuestas del agente en datos externos",
+        "Capacidad de instrumentar agentes con trazado para inspeccionar cada paso",
+        "Conocimiento del manejo de entradas ambiguas y de preguntas de aclaración"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de los riesgos de inyección de prompts y sus mitigaciones básicas",
+        "Habilidad para implementar pasos de aprobación con intervención humana",
+        "Comprensión básica de la coordinación entre múltiples agentes"
+      ],
+      "indicators": [
+        "Completa funcionalidades complejas de agentes con mínima supervisión",
+        "Identifica y resuelve fallos en los bucles de razonamiento del agente",
+        "Contribuye activamente al diseño técnico de sistemas de agentes"
+      ]
+    },
+    "AAG-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar sistemas multiagente con roles y traspasos claros",
+        "Dominio de patrones de orquestación como planificador-ejecutor y supervisor-trabajador",
+        "Habilidad para construir conjuntos de evaluación completos con puntuación automática",
+        "Conocimiento profundo de arquitecturas de memoria, incluyendo memoria episódica y semántica",
+        "Capacidad de diseñar mecanismos de protección por capas que cubren entradas, herramientas y salidas",
+        "Dominio de la generación aumentada por recuperación integrada en flujos de trabajo de agentes",
+        "Capacidad de gestionar el coste y la latencia a lo largo de ejecuciones de varios pasos",
+        "Conocimiento de recuperación ante fallos, estrategias de reserva y terminación segura"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de ajuste fino y selección de modelos para tareas de agentes",
+        "Habilidad para diseñar ecosistemas de herramientas y bibliotecas de herramientas reutilizables",
+        "Comprensión del aislamiento en entorno controlado para la ejecución de código por agentes"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de componentes críticos de agentes",
+        "Mentoriza eficazmente a ingenieros junior",
+        "Toma decisiones arquitecturales informadas sobre el diseño de agentes"
+      ]
+    },
+    "AAG-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en el diseño de plataformas de agentes autónomos de nivel de producción",
+        "Capacidad de arquitectar orquestación multiagente escalable entre servicios",
+        "Dominio del desarrollo guiado por evaluación con métricas fuera de línea y en línea",
+        "Capacidad de diseñar sistemas de memoria que persisten y escalan entre sesiones",
+        "Conocimiento profundo de pruebas adversarias y de equipo rojo aplicadas a agentes",
+        "Capacidad de construir observabilidad que capture el razonamiento, las herramientas y los resultados",
+        "Experiencia en la optimización del equilibrio entre precisión, coste y latencia a gran escala",
+        "Dominio de mecanismos de seguridad, incluyendo contención y modelos de permisos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de los conceptos de aprendizaje por refuerzo con retroalimentación humana",
+        "Habilidad para diseñar bancos de pruebas de evaluación de agentes desde cero",
+        "Comprensión de las cuestiones regulatorias y de cumplimiento para sistemas autónomos"
+      ],
+      "indicators": [
+        "Diseña arquitecturas de agentes para productos completos",
+        "Define los estándares técnicos del equipo para el desarrollo de agentes",
+        "Lidera iniciativas entre equipos sobre infraestructura de agentes"
+      ]
+    },
+    "AAG-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas de agentes empresariales que dan servicio a muchos equipos",
+        "Experiencia en marcos de gobernanza para el despliegue de agentes autónomos",
+        "Dominio de la infraestructura de evaluación y de la supervisión continua de la calidad",
+        "Capacidad de diseñar sistemas de agentes que operan con seguridad con alta autonomía",
+        "Conocimiento profundo de las amenazas de seguridad específicas de los sistemas agénticos",
+        "Capacidad de liderar migraciones hacia la automatización basada en agentes a gran escala",
+        "Experiencia en ingeniería de fiabilidad para sistemas no deterministas",
+        "Dominio de la gobernanza de costes en grandes flotas de agentes"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de estándares emergentes de interoperabilidad de agentes",
+        "Habilidad para diseñar mercados de agentes y catálogos de capacidades compartidas",
+        "Comprensión del despliegue de agentes en dispositivo y en el borde"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones de agentes para múltiples equipos",
+        "Influye en las decisiones técnicas organizacionales sobre autonomía",
+        "Representa a la empresa técnicamente en el ámbito de los agentes"
+      ]
+    },
+    "AAG-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en la transformación mediante agentes a escala empresarial",
+        "Capacidad de diseñar arquitecturas de agentes para grandes corporaciones",
+        "Experiencia en estrategias para escalar con seguridad la toma de decisiones autónoma",
+        "Dominio de arquitecturas de agentes agnósticas al proveedor y al modelo",
+        "Capacidad de definir hojas de ruta de varios años para capacidades agénticas",
+        "Conocimiento profundo de la economía y del coste total de los sistemas de agentes",
+        "Experiencia en la construcción y el escalamiento de equipos de ingeniería de agentes",
+        "Capacidad de influir en la industria con innovaciones en agentes"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones en orquestación de agentes",
+        "Habilidad para evaluar técnicamente empresas emergentes y herramientas de agentes",
+        "Conocimiento de las tendencias de investigación en sistemas autónomos"
+      ],
+      "indicators": [
+        "Define la estrategia técnica organizacional para agentes",
+        "Reconocido como líder de pensamiento en sistemas agénticos",
+        "Ponente en conferencias internacionales"
+      ]
+    },
+    "AAG-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la evolución de la tecnología de agentes autónomos",
+        "Capacidad de marcar la dirección técnica de nuevas arquitecturas agénticas y patrones de autonomía",
+        "Experiencia en diligencia debida técnica para productos impulsados por agentes",
+        "Dominio de la transformación organizacional mediante agentes autónomos",
+        "Capacidad de construir y liderar organizaciones de ingeniería de agentes",
+        "Conocimiento profundo del impacto de negocio de las decisiones sobre autonomía",
+        "Experiencia en relaciones con partes interesadas ejecutivas en torno al riesgo de la IA",
+        "Capacidad de definir una cultura de ingeniería para una autonomía responsable"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en las políticas de la industria sobre sistemas autónomos",
+        "Habilidad para crear empresas derivadas a partir de la investigación en agentes",
+        "Conocimiento de la inversión en tecnología agéntica"
+      ],
+      "indicators": [
+        "Impacta en la dirección técnica de la industria de agentes",
+        "Asesor de alta dirección ejecutiva y juntas directivas sobre autonomía",
+        "Mentor de líderes técnicos senior"
+      ]
+    },
+    "AAG-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en tecnología autónoma y agéntica",
+        "Capacidad de alinear la estrategia de agentes con la estrategia de negocio",
+        "Experiencia en gestión de presupuestos de IA multimillonarios",
+        "Dominio de las relaciones con inversores y la gestión de juntas directivas para iniciativas de IA",
+        "Capacidad de liderar fusiones, adquisiciones e integración impulsadas por la IA",
+        "Conocimiento profundo de la gestión de riesgos de los sistemas autónomos",
+        "Experiencia en la construcción de ventajas competitivas mediante la IA agéntica",
+        "Capacidad de impulsar la transformación empresarial mediante agentes autónomos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en la regulación y los estándares de la IA",
+        "Habilidad para crear ecosistemas tecnológicos en torno a los agentes",
+        "Conocimiento de capital privado y salidas en el ámbito de la IA"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión tecnológica empresarial de agentes",
+        "Responsable de las pérdidas y ganancias de la tecnología de IA",
+        "Figura pública de la empresa en la IA autónoma"
+      ]
+    }
+  }
+}

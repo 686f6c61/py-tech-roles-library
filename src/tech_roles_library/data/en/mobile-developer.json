@@ -1,0 +1,266 @@
+{
+  "role": "Mobile Developer",
+  "category": "Software Engineering",
+  "levels": {
+    "MOB-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of native vs hybrid vs web mobile development",
+        "Elementary knowledge of mobile application lifecycle",
+        "Ability to create simple interfaces with standard components",
+        "Basic understanding of layouts and navigation in mobile applications",
+        "Capability to work with emulators and physical devices",
+        "Elementary knowledge of basic permissions management",
+        "Basic understanding of local storage on devices",
+        "Ability to implement basic offline functionality"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of mobile design guidelines",
+        "Familiarity with app stores and publishing process",
+        "Elementary understanding of mobile responsive design"
+      ],
+      "indicators": [
+        "Requires constant supervision in mobile development",
+        "Can complete simple screens with detailed guidance",
+        "Needs 3-6 months of mentoring in mobile development"
+      ]
+    },
+    "MOB-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to implement complex navigation between screens",
+        "Ability to integrate REST APIs in mobile applications",
+        "Practical knowledge of state management in applications",
+        "Understanding of component and memory lifecycle",
+        "Capability to implement basic push notifications",
+        "Ability to handle different screen sizes and orientations",
+        "Knowledge of data persistence and mobile databases",
+        "Understanding of basic threading and asynchronous operations",
+        "Capability to implement authentication and token management"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of animations and transitions",
+        "Ability to use common third-party libraries",
+        "Understanding of basic mobile analytics"
+      ],
+      "indicators": [
+        "Can develop simple features with moderate supervision",
+        "Resolves common UI and navigation bugs",
+        "Needs frequent code and architecture review"
+      ]
+    },
+    "MOB-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of mobile architecture patterns (MVC, MVP, MVVM)",
+        "Capability to implement robust offline/online synchronization",
+        "Ability to optimize performance and battery consumption",
+        "Deep knowledge of memory management and leak prevention",
+        "Capability to implement native features (camera, GPS, sensors)",
+        "Solid understanding of mobile security and local encryption",
+        "Ability to implement deep linking and app indexing",
+        "Knowledge of unit and integration testing in mobile",
+        "Capability to handle app updates and data migration"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cross-platform development",
+        "Ability to implement basic AR",
+        "Understanding of mobile monetization"
+      ],
+      "indicators": [
+        "Completes medium features with minimal supervision",
+        "Can debug complex performance issues",
+        "Contributes to mobile architecture decisions"
+      ]
+    },
+    "MOB-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capability to design scalable and maintainable mobile architectures",
+        "Mastery of advanced optimization (startup time, frame rate, memory)",
+        "Ability to implement multi-level cache systems",
+        "Deep knowledge of accessibility and localization",
+        "Capability to implement complex hardware features",
+        "Mastery of continuous delivery for mobile applications",
+        "Ability to design reusable SDKs and libraries",
+        "Knowledge of modularization and feature flags",
+        "Capability to implement A/B testing and experimentation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of widgets and extensions development",
+        "Ability to work with wearables and IoT",
+        "Understanding of on-device machine learning"
+      ],
+      "indicators": [
+        "Leads complex feature development",
+        "Defines architecture for main components",
+        "Mentors junior developers in best practices"
+      ]
+    },
+    "MOB-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in multi-module architectures and mobile micro-frontends",
+        "Capability to design distributed synchronization systems",
+        "Mastery of optimization for emerging markets (lite apps)",
+        "Ability to implement DRM and content protection",
+        "Deep knowledge of CI/CD and release automation",
+        "Capability to implement E2E testing frameworks",
+        "Expertise in crash reporting and remote diagnostics",
+        "Mastery of rollout strategies and feature toggling",
+        "Capability to design plugin and extensibility systems"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of mobile game development",
+        "Ability to work with advanced augmented reality",
+        "Understanding of blockchain in mobile"
+      ],
+      "indicators": [
+        "Designs technical solutions for complete products",
+        "Leads adoption of new mobile technologies",
+        "Defines quality standards and processes"
+      ]
+    },
+    "MOB-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capability to architect enterprise app ecosystems",
+        "Expertise in monetization strategies and technical growth hacking",
+        "Mastery of technical ASO optimization and metadata",
+        "Ability to design complex offline-first architectures",
+        "Deep knowledge of mobile compliance (COPPA, GDPR)",
+        "Capability to implement enterprise and white-label SDKs",
+        "Expertise in super apps and mini-programs",
+        "Mastery of cross-platform migration strategies",
+        "Capability to implement banking-level security"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of automotive development",
+        "Ability to design mixed reality experiences",
+        "Understanding of 5G and mobile edge computing"
+      ],
+      "indicators": [
+        "Architects mobile application portfolios",
+        "Leads multidisciplinary mobile teams",
+        "Defines long-term mobile strategy"
+      ]
+    },
+    "MOB-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in enterprise mobile transformation",
+        "Capability to design B2B2C mobile platforms",
+        "Expertise in app ecosystems and mobile marketplaces",
+        "Mastery of architectures for millions of concurrent users",
+        "Capability to design proprietary development frameworks",
+        "Deep knowledge of mobile infrastructure cost optimization",
+        "Expertise in technical internationalization strategies",
+        "Capability to implement low-code mobile development platforms",
+        "Mastery of interface innovation (voice, gestures, AR)"
+      ],
+      "complementaryCompetencies": [
+        "Capability to influence industry standards",
+        "Ability to patent mobile innovations",
+        "Knowledge of custom hardware"
+      ],
+      "indicators": [
+        "Defines mobile architecture for multiple products",
+        "Leads mobile development communities",
+        "Recognized as industry expert"
+      ]
+    },
+    "MOB-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of mobile development",
+        "Capability to design architectures for global enterprises",
+        "Expertise in mobile technology due diligence",
+        "Mastery of platform engineering for mobile teams",
+        "Capability to define governance and corporate best practices",
+        "Deep knowledge of technical partnerships with OS vendors",
+        "Expertise in building internal development platforms",
+        "Capability to lead open source mobile projects",
+        "Mastery of technical acquisition and retention strategies"
+      ],
+      "complementaryCompetencies": [
+        "Capability to represent at global conferences",
+        "Ability to create mobile startups",
+        "Knowledge of mobile technology investment"
+      ],
+      "indicators": [
+        "Defines multi-year mobile strategy",
+        "Influences direction of mobile platforms",
+        "Considered thought leader in mobile"
+      ]
+    },
+    "MOB-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in corporate mobile strategy",
+        "Capability to align mobile initiatives with business objectives",
+        "Expertise in M&A of mobile companies",
+        "Mastery of mobile product portfolio management",
+        "Capability to build mobile development organizations",
+        "Deep knowledge of Apple/Google relationships",
+        "Expertise in platform vs product strategies",
+        "Capability to define mobile innovation culture",
+        "Mastery of venture building in mobile ecosystem"
+      ],
+      "complementaryCompetencies": [
+        "Capability to influence app store policies",
+        "Ability to create mobile ecosystems",
+        "Knowledge of mobile startup investment"
+      ],
+      "indicators": [
+        "Defines and executes enterprise mobile vision",
+        "Responsible for P&L of mobile products",
+        "Recognized leader in global mobile industry"
+      ]
+    }
+  }
+}

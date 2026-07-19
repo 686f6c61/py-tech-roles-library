@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Seguridad de Aplicaciones",
+  "category": "Seguridad",
+  "levels": {
+    "ASEC-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de seguridad en aplicaciones",
+        "Comprensión elemental de las 10 principales vulnerabilidades",
+        "Habilidad para ejecutar análisis de seguridad básicos",
+        "Conocimiento básico de vulnerabilidades comunes (secuencias de comandos entre sitios, inyección SQL)",
+        "Capacidad de revisar código con supervisión",
+        "Comprensión de autenticación y autorización básica",
+        "Documentación de hallazgos de seguridad",
+        "Conocimiento elemental de pruebas de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de prueba de seguridad",
+        "Conocimiento básico de herramientas de análisis estático y dinámico",
+        "Comprensión elemental de codificación segura"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Identifica vulnerabilidades básicas",
+        "Está aprendiendo seguridad de aplicaciones"
+      ]
+    },
+    "ASEC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de realizar revisiones de seguridad de código",
+        "Implementación de controles de seguridad básicos",
+        "Conocimiento práctico de modelado de amenazas",
+        "Habilidad para configurar reglas de cortafuegos de aplicaciones",
+        "Comprensión de criptografía básica",
+        "Capacidad de ejecutar pruebas de penetración básicas",
+        "Conocimiento de ciclo de desarrollo seguro",
+        "Habilidad para orientación de remediación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de marcos de seguridad",
+        "Habilidad para automatización de seguridad",
+        "Comprensión de seguridad de contenedores"
+      ],
+      "indicators": [
+        "Realiza evaluaciones con supervisión",
+        "Implementa correcciones de seguridad",
+        "Contribuye a directrices de codificación segura"
+      ]
+    },
+    "ASEC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de controles de seguridad en aplicaciones",
+        "Implementación de automatización de pruebas de seguridad",
+        "Dominio de pruebas de penetración",
+        "Capacidad de modelado completo de amenazas",
+        "Habilidad para revisión de arquitectura de seguridad",
+        "Conocimiento profundo de protocolos de autenticación",
+        "Implementación de gestión de secretos",
+        "Capacidad de formación en seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de seguridad de API",
+        "Habilidad para seguridad de aplicaciones móviles",
+        "Comprensión de seguridad en la nube"
+      ],
+      "indicators": [
+        "Lidera evaluaciones de seguridad",
+        "Diseña soluciones seguras",
+        "Mentoriza en prácticas de seguridad"
+      ]
+    },
+    "ASEC-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de programas de seguridad de aplicaciones",
+        "Diseño de estrategia de pruebas de seguridad",
+        "Implementación de programa de campeones de seguridad",
+        "Dominio de técnicas avanzadas de explotación",
+        "Capacidad de diseño de arquitectura segura",
+        "Conocimiento profundo de modelos de confianza cero",
+        "Habilidad para gestión de programas de recompensas por errores",
+        "Liderazgo en remediación de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en cumplimiento normativo",
+        "Conocimiento de desarrollo y operaciones de seguridad",
+        "Implementación de métricas de seguridad"
+      ],
+      "indicators": [
+        "Define estrategia de seguridad de aplicaciones",
+        "Lidera iniciativas de seguridad",
+        "Es referente en seguridad de aplicaciones"
+      ]
+    },
+    "ASEC-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en seguridad de aplicaciones",
+        "Diseño de programas de seguridad empresariales",
+        "Gestión de equipos de seguridad",
+        "Definición de estándares de seguridad",
+        "Capacidad de evaluación de riesgos",
+        "Implementación de plataformas de automatización de seguridad",
+        "Dominio de evaluación de seguridad de proveedores",
+        "Impulso de la cultura de seguridad entre equipos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en cumplimiento regulatorio",
+        "Conocimiento de alianzas de seguridad",
+        "Gestión de presupuesto de herramientas de seguridad"
+      ],
+      "indicators": [
+        "Gestiona equipo de seguridad de aplicaciones",
+        "Define visión de seguridad",
+        "Representa seguridad ante ejecutivos"
+      ]
+    },
+    "ASEC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia de seguridad corporativa",
+        "Gestión de programas de seguridad a escala",
+        "Definición de arquitectura de seguridad",
+        "Liderazgo en transformación de seguridad",
+        "Gestión de incidentes de seguridad mayores",
+        "Implementación de gobernanza de seguridad",
+        "Innovación en tecnologías de seguridad",
+        "Gestión de cumplimiento de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones de seguridad",
+        "Conocimiento de inversión en seguridad",
+        "Liderazgo en industria de seguridad"
+      ],
+      "indicators": [
+        "Dirige departamento de seguridad de aplicaciones",
+        "Participa en estrategia ejecutiva",
+        "Define inversiones en seguridad"
+      ]
+    },
+    "ASEC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en seguridad de aplicaciones",
+        "Diseño de estrategias de seguridad globales",
+        "Transformación organizacional mediante seguridad",
+        "Gestión de programas de seguridad en grandes organizaciones",
+        "Creación de cultura de seguridad",
+        "Definición de hoja de ruta de seguridad",
+        "Comunicación de la postura de seguridad a la dirección ejecutiva",
+        "Influencia en estándares de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos de seguridad",
+        "Experiencia en preparación para oferta pública inicial de seguridad",
+        "Liderazgo en consorcios de seguridad"
+      ],
+      "indicators": [
+        "Depende de director de seguridad o tecnología",
+        "Gestiona organización de seguridad (20+ personas)",
+        "Define estrategia de seguridad corporativa"
+      ]
+    },
+    "ASEC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de seguridad empresarial",
+        "Liderazgo en transformación de seguridad",
+        "Creación de ventaja competitiva mediante seguridad",
+        "Gestión de ecosistemas de seguridad",
+        "Innovación en prácticas de seguridad de aplicaciones",
+        "Definición de estándares de arquitectura de seguridad de nueva generación",
+        "Adopción de arquitectura de confianza cero",
+        "Influencia en políticas de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de seguridad en empresas en crecimiento",
+        "Asesoría en empresas emergentes de seguridad",
+        "Liderazgo de pensamiento en seguridad de aplicaciones"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia de seguridad",
+        "Es líder reconocido en seguridad de aplicaciones"
+      ]
+    },
+    "ASEC-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en seguridad corporativa",
+        "Transformación de cultura de seguridad",
+        "Definición de estándares de arquitectura de seguridad empresarial",
+        "Definición de organizaciones centradas en seguridad",
+        "Innovación en gobernanza de seguridad",
+        "Impulso de una cultura de seguridad desde el diseño",
+        "Arquitecto de ecosistemas de seguridad",
+        "Influencia en regulación de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando seguridad en grandes empresas",
+        "Reconocimiento como líder de seguridad",
+        "Influencia en estándares de seguridad"
+      ],
+      "indicators": [
+        "Lidera la función de seguridad de la información de la empresa",
+        "Define futuro de seguridad",
+        "Es autoridad mundial en seguridad"
+      ]
+    }
+  }
+}

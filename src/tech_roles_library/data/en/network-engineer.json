@@ -1,0 +1,258 @@
+{
+  "role": "Network Engineer",
+  "category": "Infrastructure",
+  "levels": {
+    "NE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of networking fundamentals",
+        "Elementary understanding of OSI/TCP-IP model",
+        "Ability to configure basic routers",
+        "Basic knowledge of subnetting",
+        "Connectivity troubleshooting capability",
+        "Understanding of basic VLANs",
+        "Documentation of network topologies",
+        "Elementary knowledge of network security"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with switches and routers",
+        "Knowledge of DHCP/DNS",
+        "Understanding of basic wireless"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Configures simple networks",
+        "Is learning network engineering"
+      ]
+    },
+    "NE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to design departmental networks",
+        "Implementation of routing protocols",
+        "Practical knowledge of advanced switching",
+        "Ability for VPN configuration",
+        "Understanding of QoS basics",
+        "Network monitoring capability",
+        "Knowledge of firewall rules",
+        "Ability for bandwidth management"
+      ],
+      "complementaryCompetencies": [
+        "Configuration of load balancers",
+        "Basic MPLS knowledge",
+        "Understanding of IPv6"
+      ],
+      "indicators": [
+        "Designs networks with supervision",
+        "Implements network security",
+        "Optimizes network performance"
+      ]
+    },
+    "NE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of enterprise network architectures",
+        "SD-WAN implementation",
+        "Mastery of network security",
+        "High availability design capability",
+        "Ability for datacenter networking",
+        "Deep knowledge of BGP",
+        "Implementation of network automation",
+        "Design of disaster recovery networks"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of SDN",
+        "Ability for network virtualization",
+        "Understanding of cloud networking"
+      ],
+      "indicators": [
+        "Leads network projects",
+        "Designs critical infrastructure",
+        "Mentors network engineers"
+      ]
+    },
+    "NE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Large-scale network architecture",
+        "Multi-datacenter network design",
+        "Zero-trust networking implementation",
+        "Mastery of network optimization",
+        "Global load balancing capability",
+        "Deep knowledge of CDN design",
+        "Ability for network forensics",
+        "Leadership in network innovation"
+      ],
+      "complementaryCompetencies": [
+        "Experience in ISP networks",
+        "Knowledge of submarine cables",
+        "Implementation of 5G networks"
+      ],
+      "indicators": [
+        "Defines enterprise network architecture",
+        "Leads networking teams",
+        "Is a reference in network infrastructure"
+      ]
+    },
+    "NE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in network infrastructure",
+        "Design of connectivity strategies",
+        "Management of network engineering teams",
+        "Definition of network architecture roadmaps",
+        "Network transformation capability",
+        "Implementation of intent-based networking",
+        "Mastery of network economics",
+        "Promotion of connectivity engineering standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience in carrier networks",
+        "Knowledge of network slicing",
+        "Management of peering agreements"
+      ],
+      "indicators": [
+        "Manages networking teams",
+        "Defines connectivity vision",
+        "Represents networking to executives"
+      ]
+    },
+    "NE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of organizational network engineering",
+        "Global network infrastructure strategy",
+        "Management of networking investments",
+        "Definition of connectivity strategy",
+        "Leadership in network transformation",
+        "Implementation of autonomous networks",
+        "Adoption of emerging networking architectures",
+        "Management of carrier partnerships"
+      ],
+      "complementaryCompetencies": [
+        "Experience in hyperscale networking",
+        "Knowledge of quantum networking",
+        "Leadership in networking standards"
+      ],
+      "indicators": [
+        "Directs networking department (20+ people)",
+        "Participates in infrastructure strategy",
+        "Defines connectivity investments"
+      ]
+    },
+    "NE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in network infrastructure",
+        "Design of global network strategies",
+        "Enterprise connectivity transformation",
+        "Management of large enterprise-scale networks",
+        "Definition of enterprise networking reference architectures",
+        "Definition of the future of connectivity",
+        "Communication of network strategy to executive leadership",
+        "Influence in telecommunications industry"
+      ],
+      "complementaryCompetencies": [
+        "Management of backbone networks",
+        "Experience in network providers",
+        "Leadership in internet governance"
+      ],
+      "indicators": [
+        "Reports to CTO/CIO",
+        "Manages networking organization (50+ people)",
+        "Defines corporate connectivity strategy"
+      ]
+    },
+    "NE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of global hyperconnectivity",
+        "Leadership in networking revolution",
+        "Design of highly resilient, always-on connectivity",
+        "Management of global network infrastructure",
+        "Research into quantum networking technologies",
+        "Definition of organization-wide network architecture standards",
+        "Definition of long-term connectivity technology direction",
+        "Influence in global internet policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as network architect in tier-1",
+        "Advisory in networking funds",
+        "Thought leadership in connectivity"
+      ],
+      "indicators": [
+        "Is part of infrastructure committee",
+        "Defines future of networking",
+        "Is a world leader in connectivity"
+      ]
+    },
+    "NE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in the future of universal interconnection",
+        "Transformation of global communication",
+        "Definition of next-generation low-latency network architectures",
+        "Definition of instantaneous connectivity",
+        "Innovation in biological networking",
+        "Promotion of open mesh networking standards",
+        "Architect of global-scale network backbones",
+        "Influence in communication evolution"
+      ],
+      "complementaryCompetencies": [
+        "Creator of revolutionary protocols",
+        "Recognition as father of modern networking",
+        "Influence in the future of internet"
+      ],
+      "indicators": [
+        "Is a recognized authority in network engineering",
+        "Defines future of connectivity",
+        "Is world authority in networking"
+      ]
+    }
+  }
+}

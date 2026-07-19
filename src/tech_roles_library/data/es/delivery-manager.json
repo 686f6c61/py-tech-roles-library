@@ -1,0 +1,258 @@
+{
+  "role": "Gestor de Entrega",
+  "category": "Producto",
+  "levels": {
+    "DM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de gestionar conductos de entrega",
+        "Implementación de gestión de lanzamientos",
+        "Conocimiento práctico de automatización de despliegue",
+        "Habilidad para gestión de incidentes",
+        "Comprensión de estrategias de reversión",
+        "Capacidad de monitorización de rendimiento",
+        "Conocimiento de gestión de nivel de servicio",
+        "Habilidad para seguimiento de dependencias"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de entornos",
+        "Conocimiento de contenedorización",
+        "Comprensión de infraestructura como código"
+      ],
+      "indicators": [
+        "Gestiona entrega con supervisión",
+        "Coordina múltiples lanzamientos",
+        "Mejora procesos de entrega"
+      ]
+    },
+    "DM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de estrategias de entrega completas",
+        "Implementación de despliegue continuo",
+        "Dominio de orquestación de lanzamientos",
+        "Capacidad de despliegues sin tiempo de inactividad",
+        "Habilidad para ingeniería del caos",
+        "Conocimiento profundo de observabilidad",
+        "Implementación de entrega progresiva",
+        "Gestión de dependencias complejas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de malla de servicios",
+        "Habilidad para despliegues graduales",
+        "Comprensión avanzada de indicadores de características"
+      ],
+      "indicators": [
+        "Lidera excelencia en entrega",
+        "Define estrategias de lanzamiento",
+        "Mentoriza equipos de entrega"
+      ]
+    },
+    "DM-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de entrega",
+        "Diseño de estrategias de despliegue globales",
+        "Implementación de prácticas basadas en control de versiones",
+        "Dominio de despliegues multiregionales",
+        "Capacidad de planificación de recuperación ante desastres",
+        "Conocimiento profundo de prácticas de ingeniería de fiabilidad",
+        "Habilidad para entrega optimizada en costes",
+        "Liderazgo en excelencia de automatización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en despliegues de entornos paralelos",
+        "Conocimiento de automatización de cumplimiento",
+        "Gestión de entrega multinube"
+      ],
+      "indicators": [
+        "Define estrategia de plataforma de entrega",
+        "Lidera transformación de desarrollo y operaciones",
+        "Influencia arquitectura técnica"
+      ]
+    },
+    "DM-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de excelencia en entrega",
+        "Diseño de transformación de desarrollo y operaciones",
+        "Gestión de equipos de entrega complejos",
+        "Definición de métricas e indicadores de entrega",
+        "Capacidad de ingeniería de plataformas",
+        "Implementación de entrega de autoservicio",
+        "Dominio de ingeniería de fiabilidad",
+        "Impulso de una cultura de excelencia en la entrega"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación de ingeniería de fiabilidad",
+        "Conocimiento de prácticas de gestión financiera de operaciones",
+        "Gestión de proveedores de entrega"
+      ],
+      "indicators": [
+        "Gestiona organización de entrega",
+        "Define visión de desarrollo y operaciones",
+        "Representa entrega ante ejecutivos"
+      ]
+    },
+    "DM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de entrega y desarrollo operacional",
+        "Estrategia de continuidad total",
+        "Gestión de presupuestos de transformación",
+        "Definición de excelencia en ingeniería",
+        "Liderazgo en revolución de plataformas",
+        "Implementación de entrega autónoma",
+        "Innovación en estrategias de despliegue",
+        "Gestión de entrega global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en entrega a hiperescala",
+        "Conocimiento de despliegue en el borde",
+        "Liderazgo en comunidades de desarrollo y operaciones"
+      ],
+      "indicators": [
+        "Dirige departamento de desarrollo y operaciones con más de 20 personas",
+        "Participa en estrategia tecnológica",
+        "Define inversiones en automatización"
+      ]
+    },
+    "DM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en excelencia de ingeniería",
+        "Diseño de estrategias globales de desarrollo y operaciones",
+        "Transformación de cultura de ingeniería",
+        "Gestión de entrega para plataformas de alta escala",
+        "Creación de ventajas mediante velocidad",
+        "Definición de futuro de entrega continua",
+        "Comunicación de la estrategia de desarrollo y operaciones a la dirección ejecutiva",
+        "Influencia en industria de desarrollo y operaciones"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de sistemas distribuidos a gran escala",
+        "Experiencia en operaciones sin intervención",
+        "Liderazgo en consorcios y estándares"
+      ],
+      "indicators": [
+        "Depende de director de tecnología",
+        "Gestiona excelencia en ingeniería con más de 50 personas",
+        "Define estrategia corporativa de desarrollo y operaciones"
+      ]
+    },
+    "DM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de entrega perfecta",
+        "Liderazgo en revolución mundial de desarrollo y operaciones",
+        "Definición de prácticas de despliegue de alta frecuencia",
+        "Gestión de entrega en toda la organización de ingeniería",
+        "Innovación en entrega y despliegue continuos",
+        "Definición de sistemas autocurativos",
+        "Impulso de operaciones de plataforma y autoservicio",
+        "Influencia en evolución de entrega de software"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como vicepresidente de ingeniería en empresas de alto crecimiento",
+        "Asesoría en transformación de desarrollo y operaciones",
+        "Liderazgo de pensamiento en entrega"
+      ],
+      "indicators": [
+        "Es parte del liderazgo de ingeniería",
+        "Define futuro de entrega",
+        "Es líder reconocido en desarrollo y operaciones"
+      ]
+    },
+    "DM-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de entrega de software",
+        "Transformación de cómo se entrega software",
+        "Definición del modelo de entrega de software de la organización",
+        "Definición del gobierno de despliegue totalmente automatizado",
+        "Innovación en ingeniería de fiabilidad y entrega",
+        "Impulso de prácticas de entrega de alta velocidad",
+        "Arquitectura de plataformas de entrega resilientes",
+        "Influencia en evolución de creación digital"
+      ],
+      "complementaryCompetencies": [
+        "Contribución reconocida a las prácticas de desarrollo y operaciones",
+        "Reconocimiento como revolucionario de la entrega",
+        "Influencia en futuro del desarrollo"
+      ],
+      "indicators": [
+        "Lidera la función de entrega de software de la empresa",
+        "Define futuro del despliegue",
+        "Es autoridad reconocida en desarrollo y operaciones"
+      ]
+    },
+    "DM-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de metodologías de entrega",
+        "Comprensión elemental de entrega continua",
+        "Habilidad para seguimiento de lanzamientos básico",
+        "Conocimiento básico de procesos de despliegue",
+        "Capacidad de coordinación simple",
+        "Comprensión de compuertas de calidad básicas",
+        "Documentación de notas de lanzamiento",
+        "Conocimiento elemental de desarrollo y operaciones"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de integración y entrega continua",
+        "Conocimiento básico de automatización",
+        "Comprensión de monitorización básico"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Coordina lanzamientos simples",
+        "Está aprendiendo gestión de entrega"
+      ]
+    }
+  }
+}

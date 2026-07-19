@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Compiladores",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "CPE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de teoría de compiladores",
+        "Comprensión elemental de análisis sintáctico y léxico",
+        "Habilidad para escribir gramáticas simples",
+        "Conocimiento básico de árbol de sintaxis abstracta",
+        "Capacidad de usar herramientas de análisis sintáctico",
+        "Comprensión de generación de código básica",
+        "Documentación de especificaciones de lenguaje",
+        "Conocimiento elemental de optimizaciones"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con LLVM básico",
+        "Conocimiento de expresiones regulares",
+        "Comprensión de sistemas de tipos básicos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Implementa analizadores sintácticos simples",
+        "Está aprendiendo diseño de compiladores"
+      ]
+    },
+    "CPE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar interfaces completas",
+        "Implementación de análisis semántico",
+        "Conocimiento práctico de generación de código",
+        "Habilidad para optimizaciones básicas",
+        "Comprensión de asignación de registros",
+        "Capacidad de manejo de errores avanzado",
+        "Conocimiento de representaciones intermedias",
+        "Habilidad para depuración de compiladores"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo con ANTLR/Yacc",
+        "Conocimiento de compilación justo a tiempo básico",
+        "Comprensión de enlazado y carga"
+      ],
+      "indicators": [
+        "Desarrolla componentes de compilador",
+        "Implementa optimizaciones básicas",
+        "Mantiene cadenas de herramientas"
+      ]
+    },
+    "CPE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de compiladores completos",
+        "Implementación de optimizaciones avanzadas",
+        "Dominio de análisis estático",
+        "Capacidad de vectorización",
+        "Habilidad para diseño de recolección de basura",
+        "Conocimiento profundo de inferencia de tipos",
+        "Implementación de extensiones de lenguaje",
+        "Diseño de lenguajes de dominio específico"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de síntesis de programas",
+        "Habilidad para optimización guiada por perfiles",
+        "Comprensión de compilación paralela"
+      ],
+      "indicators": [
+        "Lidera desarrollo de compiladores",
+        "Diseña nuevos lenguajes",
+        "Tutoriza ingenieros de compiladores"
+      ]
+    },
+    "CPE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de cadenas de herramientas completas",
+        "Diseño de infraestructuras de compiladores",
+        "Implementación de compilación cruzada",
+        "Dominio de optimización de programa completo",
+        "Capacidad de verificación formal",
+        "Conocimiento profundo de sistemas de ejecución",
+        "Habilidad para interoperabilidad de lenguajes",
+        "Liderazgo en diseño de lenguajes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en seguridad de compiladores",
+        "Conocimiento de compilación cuántica",
+        "Implementación de compiladores para GPU"
+      ],
+      "indicators": [
+        "Define arquitectura de compiladores",
+        "Lidera equipos de cadenas de herramientas",
+        "Es referente en implementación de lenguajes"
+      ]
+    },
+    "CPE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en tecnología de compiladores",
+        "Diseño de ecosistemas de compiladores",
+        "Gestión de equipos de desarrollo de compiladores",
+        "Definición de estrategia de cadenas de herramientas",
+        "Capacidad de economía de lenguajes",
+        "Implementación de servicios de compiladores",
+        "Dominio de experiencia del desarrollador",
+        "Promoción de la adopción de lenguajes y cadenas de herramientas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en marcos de compiladores",
+        "Conocimiento de cadenas de herramientas WebAssembly",
+        "Gestión de comunidades de lenguajes"
+      ],
+      "indicators": [
+        "Gestiona equipos de compiladores",
+        "Define visión de cadenas de herramientas empresariales",
+        "Representa compiladores ante desarrolladores"
+      ]
+    },
+    "CPE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de tecnología de compiladores organizacional",
+        "Estrategia de lenguajes y herramientas",
+        "Gestión de inversiones en cadenas de herramientas",
+        "Definición de estrategia de productividad del desarrollador",
+        "Liderazgo en evolución de lenguajes",
+        "Implementación de compilación asistida por IA",
+        "Adopción de técnicas de compilación emergentes",
+        "Gestión de ecosistemas de lenguajes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en normalización de lenguajes",
+        "Conocimiento de monetización de compiladores",
+        "Liderazgo en comités de lenguajes"
+      ],
+      "indicators": [
+        "Dirige departamento de compiladores (20+ personas)",
+        "Participa en estrategia del desarrollador",
+        "Define inversiones en herramientas"
+      ]
+    },
+    "CPE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en tecnología de compiladores",
+        "Diseño de estrategias de cadenas de herramientas globales",
+        "Transformación de desarrollo mediante compiladores",
+        "Gestión de compiladores a escala de gigante tecnológico",
+        "Definición de diseños de referencia de arquitectura de compiladores",
+        "Definición de futuro de lenguajes de programación",
+        "Comunicación de la estrategia de cadenas de herramientas a la dirección ejecutiva",
+        "Influencia en industria de lenguajes"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de ecosistemas de lenguajes",
+        "Experiencia en empresas de compiladores",
+        "Liderazgo en estándares de programación"
+      ],
+      "indicators": [
+        "Depende del Director de Tecnología",
+        "Gestiona organización de compiladores (50+ personas)",
+        "Define estrategia de herramientas para desarrolladores"
+      ]
+    },
+    "CPE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de futuro de programación",
+        "Liderazgo en revolución de compiladores",
+        "Diseño de marcos de compilación multiobjetivo extensibles",
+        "Gestión de cadenas de herramientas en equipos de ingeniería globales",
+        "Investigación en técnicas de síntesis de programas",
+        "Definición de compiladores autooptimizantes",
+        "Definición de la dirección tecnológica de compiladores a largo plazo",
+        "Influencia en evolución de lenguajes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como arquitecto en gigantes de compiladores",
+        "Asesoría en empresas emergentes de cadenas de herramientas",
+        "Liderazgo intelectual en lenguajes"
+      ],
+      "indicators": [
+        "Es parte del comité técnico",
+        "Define futuro de compilación",
+        "Es líder mundial en tecnología de compiladores"
+      ]
+    },
+    "CPE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de creación de software",
+        "Transformación de programación mediante compiladores",
+        "Definición de arquitecturas de compilación de nueva generación",
+        "Definición de programación basada en intención",
+        "Innovación en compiladores biológicos",
+        "Promoción de estándares abiertos de lenguajes y cadenas de herramientas",
+        "Arquitecto de universo compilable",
+        "Influencia en evolución de expresión computacional"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones en compilación",
+        "Reconocimiento como padre de lenguajes modernos",
+        "Influencia en futuro de programación"
+      ],
+      "indicators": [
+        "Es una autoridad reconocida en ingeniería de compiladores",
+        "Define futuro de programación",
+        "Es autoridad mundial en lenguajes y compiladores"
+      ]
+    }
+  }
+}

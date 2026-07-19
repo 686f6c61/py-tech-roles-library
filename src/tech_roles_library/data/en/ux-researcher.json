@@ -1,0 +1,258 @@
+{
+  "role": "UX Researcher",
+  "category": "Design",
+  "levels": {
+    "UXR-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of user research methods",
+        "Elementary understanding of qualitative and quantitative research",
+        "Ability to take notes during user interviews",
+        "Basic knowledge of usability testing",
+        "Capability to support research sessions",
+        "Understanding of research ethics basics",
+        "Documentation of research findings with guidance",
+        "Elementary knowledge of user-centered design"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with research tools",
+        "Basic knowledge of survey design",
+        "Understanding of data analysis basics"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Supports senior researchers on simple tasks",
+        "Is learning UX research"
+      ]
+    },
+    "UXR-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to conduct user interviews with a script",
+        "Execution of usability tests under guidance",
+        "Practical knowledge of qualitative research methods",
+        "Ability to synthesize findings into simple reports",
+        "Understanding of research recruitment basics",
+        "Capability to design basic surveys",
+        "Knowledge of note-taking and tagging techniques",
+        "Ability to collaborate with designers and product"
+      ],
+      "complementaryCompetencies": [
+        "Analysis of basic usability metrics",
+        "Knowledge of affinity mapping",
+        "Understanding of research repositories"
+      ],
+      "indicators": [
+        "Conducts research sessions with supervision",
+        "Synthesizes findings independently",
+        "Collaborates effectively with the design team"
+      ]
+    },
+    "UXR-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design and execution of end-to-end research studies",
+        "Mastery of qualitative research methods",
+        "Capability to run moderated usability tests",
+        "Ability to translate findings into actionable insights",
+        "Knowledge of quantitative research basics",
+        "Synthesis of findings into clear reports",
+        "Application of research ethics in studies",
+        "Ownership of medium-complexity research projects"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of survey analysis",
+        "Ability to present research to stakeholders",
+        "Understanding of behavioral analytics"
+      ],
+      "indicators": [
+        "Owns research studies end-to-end",
+        "Delivers actionable insights",
+        "Presents research with confidence"
+      ]
+    },
+    "UXR-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Design of complex mixed-method research autonomously",
+        "Mastery of qualitative and quantitative methods",
+        "Capability to lead research for a product area",
+        "Ability to align research with product strategy",
+        "Deep knowledge of research synthesis techniques",
+        "Facilitation of research workshops and readouts",
+        "Definition of research plans for initiatives",
+        "End-to-end ownership of significant research programs"
+      ],
+      "complementaryCompetencies": [
+        "Experience in cross-functional collaboration",
+        "Knowledge of statistical analysis",
+        "Management of research repositories at scale"
+      ],
+      "indicators": [
+        "Works autonomously on complex studies",
+        "Shapes research direction for a product area",
+        "Mentors junior researchers"
+      ]
+    },
+    "UXR-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Design of research strategy for products",
+        "Mastery of the end-to-end research craft",
+        "Capability to define research vision for products",
+        "Ability to influence product roadmap through research",
+        "Deep expertise in qualitative and quantitative methods",
+        "Leadership of research initiatives across teams",
+        "Establishment of research quality standards",
+        "Democratization of research across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience in research operations",
+        "Knowledge of advanced statistical methods",
+        "Management of complex stakeholder relationships"
+      ],
+      "indicators": [
+        "Is a recognized expert in UX research",
+        "Defines research vision for multiple products",
+        "Elevates the craft of the research team"
+      ]
+    },
+    "UXR-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Leadership of research across a product line",
+        "Definition of research principles and culture",
+        "Management of research operations as a strategic asset",
+        "Capability to drive research strategy at product level",
+        "Ability to shape product vision with research insights",
+        "Deep knowledge of research impact on business outcomes",
+        "Mentoring and growth of research teams",
+        "Promotion of research-driven decision-making across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience in scaling research practices",
+        "Knowledge of research hiring and team building",
+        "Leadership in cross-product research consistency"
+      ],
+      "indicators": [
+        "Leads research for a product line",
+        "Influences product strategy through research",
+        "Grows and mentors senior researchers"
+      ]
+    },
+    "UXR-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive influence on research strategy",
+        "Definition of research vision across multiple products",
+        "Transformation of decision-making with research at scale",
+        "Management of research at organization level",
+        "Creation of research frameworks for the company",
+        "Alignment of research with long-term business strategy",
+        "Research leadership at the leadership table",
+        "Influence on the UX research discipline externally"
+      ],
+      "complementaryCompetencies": [
+        "Management of research in complex organizations",
+        "Experience in research for enterprise-scale products",
+        "Leadership in research communities"
+      ],
+      "indicators": [
+        "Sets research direction across products",
+        "Partners with product and design leadership",
+        "Represents research at the executive level"
+      ]
+    },
+    "UXR-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of research as a core business driver",
+        "Leadership in research-led transformation",
+        "Creation of research ecosystems across the organization",
+        "Management of research vision at company scale",
+        "Introduction of new research methods and practices",
+        "Definition of the organization's long-term research practices and standards",
+        "Advocacy for insight-driven decision-making company-wide",
+        "Influence on the future of UX research"
+      ],
+      "complementaryCompetencies": [
+        "Experience as a principal researcher in leading companies",
+        "Advisory in insight-driven startups",
+        "Thought leadership in UX research"
+      ],
+      "indicators": [
+        "Shapes research strategy at company level",
+        "Defines research vision for the organization",
+        "Is a recognized authority in UX research"
+      ]
+    },
+    "UXR-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership as VP of Design",
+        "Transformation of the organization through research insights",
+        "Creation of an insight-first company culture",
+        "Definition of research strategy at the executive level",
+        "Innovation in the intersection of research and business",
+        "Championing research quality standards across all product teams",
+        "Architect of the organization's research vision",
+        "Influence on the evolution of UX research"
+      ],
+      "complementaryCompetencies": [
+        "Creator of industry-shaping research practices",
+        "Recognition as a research leader in the industry",
+        "Influence in global research education"
+      ],
+      "indicators": [
+        "Is VP of Design or equivalent",
+        "Defines the research vision of the company",
+        "Is a world authority in UX research"
+      ]
+    }
+  }
+}

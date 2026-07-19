@@ -1,0 +1,258 @@
+{
+  "role": "Desarrollador de Internet de las Cosas",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "IOT-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de sistemas embebidos y microcontroladores",
+        "Lectura de sensores y control de actuadores con supervisión",
+        "Publicación y suscripción de telemetría mediante MQTT",
+        "Uso elemental de CoAP y HTTP para dispositivos restringidos",
+        "Conexión de dispositivos a una plataforma IoT en la nube",
+        "Comprensión básica de procesamiento en el borde frente a la nube",
+        "Documentación de arquitecturas simples de dispositivo a nube",
+        "Nociones de hardware, GPIO y buses serie"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con prototipado en Arduino o Raspberry Pi",
+        "Conectividad básica por Wi-Fi y Bluetooth",
+        "Nociones de recolección de datos de sensores"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Programa dispositivos de sensor simples",
+        "Está aprendiendo desarrollo IoT"
+      ]
+    },
+    "IOT-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Desarrollo de firmware en C o C++ para microcontroladores",
+        "Construcción de puertas de enlace que conectan dispositivos con la nube",
+        "Trabajo en la pila de protocolos (MQTT, CoAP, TLS)",
+        "Procesamiento en el borde y filtrado local de telemetría",
+        "Gestión de energía y modos de bajo consumo",
+        "Fusión de sensores básica a partir de varias entradas",
+        "Seguridad del dispositivo: arranque seguro, claves y certificados",
+        "Ingesta de datos de dispositivos en servicios de nube"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo sobre un RTOS como FreeRTOS o Zephyr",
+        "Conectividad de largo alcance con LoRaWAN o NB-IoT",
+        "Nociones de almacenamiento de series temporales"
+      ],
+      "indicators": [
+        "Desarrolla soluciones IoT con supervisión",
+        "Implementa la conectividad de dispositivos y puertas de enlace",
+        "Optimiza el consumo energético"
+      ]
+    },
+    "IOT-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas IoT de extremo a extremo, del dispositivo a la nube",
+        "Analítica en el borde e inferencia en el propio dispositivo",
+        "Dominio de protocolos industriales (Modbus, OPC UA)",
+        "Redes de malla con Zigbee, Thread o BLE mesh",
+        "Actualizaciones de firmware por aire (OTA) con reversión",
+        "Aprovisionamiento de flotas y gestión de identidad de dispositivos",
+        "Mantenimiento predictivo a partir de la telemetría de sensores",
+        "Endurecimiento de la seguridad del dispositivo y las comunicaciones"
+      ],
+      "complementaryCompetencies": [
+        "Conectividad 5G y celular para IoT",
+        "Visión por ordenador en dispositivos de borde",
+        "Modelado de gemelos digitales de activos físicos"
+      ],
+      "indicators": [
+        "Lidera proyectos IoT complejos",
+        "Diseña flotas y ecosistemas de dispositivos",
+        "Mentoriza a desarrolladores IoT"
+      ]
+    },
+    "IOT-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas IoT empresariales para grandes flotas",
+        "Diseño de soluciones industriales y de infraestructura inteligente",
+        "Escalado de la gestión a cientos de miles de dispositivos",
+        "Sistemas en tiempo real con latencia determinista",
+        "Pipelines de IA en el borde y despliegue de modelos a dispositivos",
+        "Campañas OTA para toda la flota con despliegues por fases",
+        "Orquestación IoT y gestión del ciclo de vida de dispositivos",
+        "Establecimiento de estándares de seguridad y aprovisionamiento"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en IoT de automoción o vehículo conectado",
+        "Conectividad satelital y no terrestre",
+        "Procesamiento en el borde coordinado entre varios dispositivos"
+      ],
+      "indicators": [
+        "Define la estrategia IoT empresarial",
+        "Lidera equipos de ingeniería IoT",
+        "Es referente en computación en el borde"
+      ]
+    },
+    "IOT-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo del diseño técnico de la plataforma IoT",
+        "Diseño de la arquitectura global de flotas y conectividad",
+        "Gestión de equipos de ingeniería IoT",
+        "Definición de estándares de seguridad, OTA y aprovisionamiento de dispositivos",
+        "Configuración de los modelos de producto y negocio IoT",
+        "Construcción de despliegues industriales y de infraestructura inteligente",
+        "Establecimiento de observabilidad de flota y gobierno de telemetría",
+        "Definición de estándares de ingeniería para firmware y software de borde"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia dirigiendo programas de transformación IoT",
+        "Cumplimiento regulatorio y certificación IoT",
+        "Gestión de alianzas de dispositivos y conectividad"
+      ],
+      "indicators": [
+        "Lidera múltiples equipos IoT",
+        "Define la visión de la plataforma de conectividad",
+        "Representa IoT ante la dirección"
+      ]
+    },
+    "IOT-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Propiedad de la estrategia plurianual de la plataforma IoT",
+        "Dirección de la transformación de producto conectado y de flotas",
+        "Gestión de grandes inversiones en infraestructura IoT",
+        "Definición de la arquitectura de computación en el borde y conectividad",
+        "Liderazgo de operaciones de dispositivos autónomas y autogestionadas",
+        "Gobierno de la seguridad y el ciclo de vida de los dispositivos a escala",
+        "Impulso de la innovación en inteligencia en el borde",
+        "Gestión del ecosistema global de dispositivos y conectividad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en IoT de infraestructura crítica",
+        "Integración de plataformas IoT tras adquisiciones",
+        "Liderazgo de alianzas con fabricantes y operadoras"
+      ],
+      "indicators": [
+        "Dirige un departamento IoT de 20 o más personas",
+        "Participa en la estrategia de transformación digital",
+        "Decide las inversiones en conectividad"
+      ]
+    },
+    "IOT-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia corporativa de IoT y conectividad",
+        "Diseño de la arquitectura global de flotas y de borde entre productos",
+        "Liderazgo de la transformación del sector mediante dispositivos conectados",
+        "Gestión de operaciones IoT a muy gran escala",
+        "Establecimiento del gobierno de seguridad y cumplimiento de dispositivos",
+        "Definición de la hoja de ruta de computación de borde y ambiental",
+        "Influencia en la industria 4.0 y en los estándares IoT",
+        "Crecimiento y estructuración de las organizaciones de ingeniería IoT"
+      ],
+      "complementaryCompetencies": [
+        "Liderazgo de proyectos de ciudad inteligente o IoT público a gran escala",
+        "Experiencia escalando empresas IoT",
+        "Contribución a organismos globales de estándares IoT"
+      ],
+      "indicators": [
+        "Depende de la alta dirección",
+        "Lidera una organización IoT de 50 o más personas",
+        "Es dueño de la estrategia de conectividad corporativa"
+      ]
+    },
+    "IOT-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición del rumbo a largo plazo del producto conectado y del IoT",
+        "Liderazgo de la arquitectura de borde y de dispositivos de toda la empresa",
+        "Conversión de la plataforma IoT en una ventaja duradera",
+        "Gobierno de los estándares de seguridad y de flota en todo el negocio",
+        "Impulso de la adopción de tecnologías emergentes de borde y conectividad",
+        "Definición de la estrategia de fiabilidad, seguridad y coste de las flotas",
+        "Asesoramiento a la dirección sobre construir o comprar y sobre alianzas IoT",
+        "Configuración de la cultura de ingeniería IoT y embebida"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia profunda operando grandes flotas de dispositivos",
+        "Asesoría a empresas emergentes de IoT y hardware",
+        "Autoridad reconocida en sistemas conectados"
+      ],
+      "indicators": [
+        "Forma parte del grupo de liderazgo técnico",
+        "Fija la estrategia IoT global",
+        "Es un líder reconocido en dispositivos conectados"
+      ]
+    },
+    "IOT-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Propiedad de la estrategia de producto conectado e IoT a nivel ejecutivo",
+        "Alineación de la inversión en IoT con la estrategia de negocio",
+        "Dirección de la infraestructura global de flotas y de borde",
+        "Definición de objetivos de seguridad, fiabilidad y coste de las flotas",
+        "Liderazgo de la transformación conectada de toda la organización",
+        "Gobierno del riesgo, la seguridad y la estrategia regulatoria de IoT",
+        "Creación de ventaja competitiva mediante productos conectados",
+        "Definición de cómo diseña y opera la organización sus dispositivos"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de grandes presupuestos de IoT y hardware",
+        "Dirección de alianzas estratégicas de conectividad y dispositivos",
+        "Influencia en el rumbo del sector IoT"
+      ],
+      "indicators": [
+        "Es dueño de la estrategia de producto conectado de la empresa",
+        "Responde por la fiabilidad y la seguridad de la flota",
+        "Representa a la empresa en tecnología IoT"
+      ]
+    }
+  }
+}

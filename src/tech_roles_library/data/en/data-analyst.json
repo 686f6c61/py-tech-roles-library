@@ -1,0 +1,258 @@
+{
+  "role": "Data Analyst",
+  "category": "Data",
+  "levels": {
+    "DA-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of descriptive statistics",
+        "Elementary understanding of databases",
+        "Ability to write simple SQL queries",
+        "Basic knowledge of advanced Excel",
+        "Ability to create simple visualizations",
+        "Understanding of basic data cleaning",
+        "Documentation of analysis processes",
+        "Elementary knowledge of data types"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic BI tools",
+        "Knowledge of fundamental mathematics",
+        "Understanding of business metrics"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Executes predefined analyses",
+        "Is learning analysis methodologies"
+      ]
+    },
+    "DA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to perform exploratory data analysis",
+        "Implementation of interactive dashboards",
+        "Practical knowledge of statistical testing",
+        "Ability for complex data wrangling",
+        "Understanding of basic segmentation and clustering",
+        "Ability for data storytelling",
+        "Knowledge of ETL processes",
+        "Ability to identify trends"
+      ],
+      "complementaryCompetencies": [
+        "Basic time series analysis",
+        "Knowledge of A/B testing",
+        "Understanding of customer analytics"
+      ],
+      "indicators": [
+        "Performs independent analyses",
+        "Creates periodic reports",
+        "Identifies actionable insights"
+      ]
+    },
+    "DA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of complete analytical frameworks",
+        "Implementation of basic predictive models",
+        "Mastery of advanced SQL and optimization",
+        "Ability for multivariate analysis",
+        "Ability for data governance",
+        "Deep knowledge of KPIs and metrics",
+        "Implementation of automated reporting",
+        "Design of experiments and validation"
+      ],
+      "complementaryCompetencies": [
+        "Basic machine learning for analysis",
+        "Knowledge of big data tools",
+        "Ability for prescriptive analytics"
+      ],
+      "indicators": [
+        "Leads complex analytical projects",
+        "Defines analysis methodologies",
+        "Mentors junior analysts"
+      ]
+    },
+    "DA-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of enterprise analytical solutions",
+        "Design of departmental data strategies",
+        "Implementation of advanced analytics",
+        "Complete mastery of business intelligence",
+        "Ability for ROI analysis and forecasting",
+        "Deep knowledge of data quality",
+        "Ability for cross-functional analytics",
+        "Leadership in data democratization"
+      ],
+      "complementaryCompetencies": [
+        "Implementation of real-time analytics",
+        "Knowledge of data science workflows",
+        "Experience in industry-specific analytics"
+      ],
+      "indicators": [
+        "Defines departmental analytical strategy",
+        "Leads analyst teams",
+        "Is a reference in business insights"
+      ]
+    },
+    "DA-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leadership in organizational analytics",
+        "Design of data-driven culture",
+        "Management of analytics teams",
+        "Definition of analytics roadmaps",
+        "Ability for strategic planning with data",
+        "Implementation of centers of excellence",
+        "Mastery of change management via data",
+        "Promotion of data literacy across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience in analytical transformation",
+        "Knowledge of enterprise analytics platforms",
+        "Management of vendor relationships"
+      ],
+      "indicators": [
+        "Manages multiple analytics teams",
+        "Defines enterprise analytical vision",
+        "Represents analytics to C-suite"
+      ]
+    },
+    "DA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of corporate-level analytics",
+        "Competitive intelligence strategy",
+        "Management of large analytical budgets",
+        "Definition of data monetization strategies",
+        "Leadership in digital analytics transformation",
+        "Implementation of advanced analytics capabilities",
+        "Innovation in analytical methodologies",
+        "Management of analytics partnerships"
+      ],
+      "complementaryCompetencies": [
+        "Analytics in M&A and due diligence",
+        "Experience in analytics consulting",
+        "Knowledge of regulatory analytics"
+      ],
+      "indicators": [
+        "Directs analytics department (20+ people)",
+        "Participates in corporate strategy",
+        "Defines investments in analytics"
+      ]
+    },
+    "DA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in data analytics",
+        "Design of global analytical strategies",
+        "Transformation of companies through insights",
+        "Management of analytics at multinational scale",
+        "Creation of competitive advantages via analytics",
+        "Definition of the future of business intelligence",
+        "Communication of analytics strategy to executive leadership",
+        "Influence on analytics standards"
+      ],
+      "complementaryCompetencies": [
+        "Management of analytics innovation labs",
+        "Experience in data-driven ventures",
+        "Leadership in analytics communities"
+      ],
+      "indicators": [
+        "Reports to CEO/CFO",
+        "Manages analytical organizations (50+ people)",
+        "Defines corporate insights strategy"
+      ]
+    },
+    "DA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of analytics as core business",
+        "Leadership in analytical transformation of industries",
+        "Definition of analytical reference frameworks",
+        "Management of global analytics ecosystems",
+        "Adoption of advanced decision intelligence methods",
+        "Definition of augmented analytics future",
+        "Definition of long-term analytics technology direction",
+        "Influence on global data policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CAO/CDO at large enterprises",
+        "Advisory in analytics startups",
+        "Thought leadership in analytics"
+      ],
+      "indicators": [
+        "Part of the executive committee",
+        "Defines enterprise analytical strategy",
+        "Recognized leader in analytics"
+      ]
+    },
+    "DA-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in the future of decision making",
+        "Transformation of how companies understand data",
+        "Definition of next-generation analytical frameworks",
+        "Definition of cognitive analytics evolution",
+        "Innovation in human-data symbiosis",
+        "Promotion of a data-driven organizational culture",
+        "Architect of enterprise-wide analytics platforms",
+        "Influence on business intelligence evolution"
+      ],
+      "complementaryCompetencies": [
+        "Pioneer in revolutionary analytics methodologies",
+        "Recognition as analytics guru",
+        "Influence on global analytical education"
+      ],
+      "indicators": [
+        "Is a recognized authority in analytics",
+        "Defines the future of business intelligence",
+        "Is world authority in analytics"
+      ]
+    }
+  }
+}

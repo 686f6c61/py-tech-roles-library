@@ -1,0 +1,259 @@
+{
+  "role": "Engineering Manager",
+  "category": "Software Engineering",
+  "levels": {
+    "EM-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of technical team management",
+        "Elementary knowledge of development methodologies",
+        "Ability to facilitate basic agile ceremonies",
+        "Basic understanding of engineering metrics",
+        "Ability to document processes and decisions",
+        "Elementary knowledge of project management",
+        "Basic understanding of people management",
+        "Ability to communicate with technical and non-technical audiences"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of budgets",
+        "Familiarity with management tools",
+        "Elementary understanding of hiring"
+      ],
+      "indicators": [
+        "Requires supervision on management decisions",
+        "Can lead small teams with support",
+        "Needs 2-3 years prior technical experience"
+      ]
+    },
+    "EM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to manage teams of 5-10 engineers",
+        "Ability to conduct effective 1-on-1s",
+        "Practical knowledge of career development",
+        "Understanding of performance management",
+        "Ability to prioritize technical roadmap",
+        "Ability to resolve basic conflicts",
+        "Knowledge of hiring and onboarding",
+        "Understanding of stakeholder management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of compensation planning",
+        "Ability for basic budget management",
+        "Understanding of vendor management"
+      ],
+      "indicators": [
+        "Manages a team with moderate autonomy",
+        "Consistently improves team metrics",
+        "Retains talent effectively"
+      ]
+    },
+    "EM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of managing multiple teams",
+        "Ability for strategic planning and OKRs",
+        "Ability to build team culture",
+        "Deep knowledge of coaching and mentoring",
+        "Ability to manage reorganizations",
+        "Solid understanding of technical debt management",
+        "Ability for cross-functional collaboration",
+        "Knowledge of crisis management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of product management",
+        "Ability for partnership building",
+        "Understanding of business metrics"
+      ],
+      "indicators": [
+        "Manages 2-3 teams effectively",
+        "Defines engineering processes",
+        "Influences organizational culture"
+      ]
+    },
+    "EM-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to lead organizations of 20-30 people",
+        "Mastery of strategic talent management",
+        "Ability to define engineering strategy",
+        "Deep knowledge of organizational design",
+        "Ability to manage significant budgets",
+        "Mastery of change management",
+        "Ability for executive communication",
+        "Knowledge of scaling engineering orgs"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of M&A integration",
+        "Ability for investor relations",
+        "Understanding of board reporting"
+      ],
+      "indicators": [
+        "Leads multiple complex teams",
+        "Defines departmental engineering strategy",
+        "Develops other managers"
+      ]
+    },
+    "EM-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in leading 30-50+ engineers",
+        "Ability to define organizational technical vision",
+        "Mastery of portfolio management",
+        "Ability for transformation leadership",
+        "Deep knowledge of engineering economics",
+        "Ability to manage distributed teams",
+        "Expertise in vendor and partnership management",
+        "Mastery of innovation management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of corporate strategy",
+        "Ability for public speaking",
+        "Understanding of industry analysis"
+      ],
+      "indicators": [
+        "Leads complete departments",
+        "Significantly impacts P&L",
+        "Represents the company externally"
+      ]
+    },
+    "EM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to lead organizations of 50-100 people",
+        "Expertise in engineering excellence programs",
+        "Mastery of talent acquisition strategy",
+        "Ability for global team management",
+        "Deep knowledge of regulatory compliance",
+        "Ability to define engineering culture",
+        "Expertise in strategic partnerships",
+        "Mastery of organizational transformation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of venture building",
+        "Ability for thought leadership",
+        "Understanding of ecosystem building"
+      ],
+      "indicators": [
+        "Defines corporate engineering culture",
+        "Leads transformational initiatives",
+        "Influences industry"
+      ]
+    },
+    "EM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership of organizations of 100-200+ people",
+        "Ability to align engineering with business strategy",
+        "Expertise in building engineering brands",
+        "Mastery of executive team dynamics",
+        "Ability to manage multi-site organizations",
+        "Deep knowledge of competitive analysis",
+        "Expertise in talent ecosystem building",
+        "Ability to define technology vision"
+      ],
+      "complementaryCompetencies": [
+        "Ability for board management",
+        "Ability for fundraising",
+        "Knowledge of exit strategies"
+      ],
+      "indicators": [
+        "Responsible for all engineering",
+        "Member of the executive team",
+        "Defines technology strategy"
+      ]
+    },
+    "EM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of global engineering",
+        "Ability to lead 200-500+ engineers",
+        "Expertise in corporate development",
+        "Mastery of investor management",
+        "Ability for M&A leadership",
+        "Deep knowledge of industry shaping",
+        "Expertise in building tech ecosystems",
+        "Ability to define company culture"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence policies",
+        "Ability to create spin-offs",
+        "Knowledge of private equity"
+      ],
+      "indicators": [
+        "Defines corporate technical strategy",
+        "Leads enterprise transformations",
+        "Recognized industry leader"
+      ]
+    },
+    "EM-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive C-suite leadership",
+        "Ability to define disruptive technology vision",
+        "Expertise in enterprise digital transformation",
+        "Mastery of board governance",
+        "Ability to build competitive advantages",
+        "Deep knowledge of risk management",
+        "Expertise in ecosystem orchestration",
+        "Ability to lead corporate innovation",
+        "Mastery of shareholder value creation"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence industry",
+        "Ability to create unicorns",
+        "Knowledge of IPO leadership"
+      ],
+      "indicators": [
+        "Ultimate responsible for technology",
+        "Defines future of the company",
+        "Globally recognized leader"
+      ]
+    }
+  }
+}

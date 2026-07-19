@@ -1,0 +1,258 @@
+{
+  "role": "IoT Developer",
+  "category": "Software Engineering",
+  "levels": {
+    "IOT-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of embedded systems and microcontrollers",
+        "Reading sensors and driving actuators with supervision",
+        "Publishing and subscribing to telemetry over MQTT",
+        "Elementary use of CoAP and HTTP for constrained devices",
+        "Connecting devices to an IoT cloud platform",
+        "Basic understanding of edge versus cloud processing",
+        "Documenting simple device-to-cloud architectures",
+        "Elementary notions of hardware, GPIO and serial buses"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with Arduino or Raspberry Pi prototyping",
+        "Basic Wi-Fi and Bluetooth connectivity",
+        "Notions of sensor data collection"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Programs simple sensor devices",
+        "Is learning IoT development"
+      ]
+    },
+    "IOT-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Developing firmware in C or C++ for microcontrollers",
+        "Building IoT gateways that bridge devices to the cloud",
+        "Working across the protocol stack (MQTT, CoAP, TLS)",
+        "Edge processing and local filtering of telemetry",
+        "Power management and low-power sleep modes",
+        "Basic sensor fusion from multiple inputs",
+        "Device security: secure boot, keys and certificates",
+        "Ingesting device data into cloud services"
+      ],
+      "complementaryCompetencies": [
+        "Development on an RTOS such as FreeRTOS or Zephyr",
+        "Long-range connectivity with LoRaWAN or NB-IoT",
+        "Notions of time-series data storage"
+      ],
+      "indicators": [
+        "Develops IoT solutions with supervision",
+        "Implements device connectivity and gateways",
+        "Optimises power consumption"
+      ]
+    },
+    "IOT-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Designing end-to-end IoT architectures from device to cloud",
+        "Edge analytics and on-device inference",
+        "Mastering industrial protocols (Modbus, OPC UA)",
+        "Mesh networking with Zigbee, Thread or BLE mesh",
+        "Over-the-air firmware updates and rollback",
+        "Fleet provisioning and device identity management",
+        "Predictive maintenance from sensor telemetry",
+        "Hardening device and communication security"
+      ],
+      "complementaryCompetencies": [
+        "5G and cellular IoT connectivity",
+        "Computer vision on edge devices",
+        "Digital-twin modelling of physical assets"
+      ],
+      "indicators": [
+        "Leads complex IoT projects",
+        "Designs device fleets and ecosystems",
+        "Mentors IoT developers"
+      ]
+    },
+    "IOT-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecting enterprise IoT platforms for large fleets",
+        "Designing industrial and smart-infrastructure solutions",
+        "Scaling device management to hundreds of thousands of devices",
+        "Real-time systems with deterministic latency",
+        "Edge AI pipelines and model deployment to devices",
+        "Fleet-wide OTA campaigns and staged rollouts",
+        "IoT orchestration and device-lifecycle management",
+        "Establishing device security and provisioning standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience in automotive or connected-vehicle IoT",
+        "Satellite and non-terrestrial connectivity",
+        "Coordinated multi-device edge processing"
+      ],
+      "indicators": [
+        "Defines the enterprise IoT strategy",
+        "Leads IoT engineering teams",
+        "Is a reference in edge computing"
+      ]
+    },
+    "IOT-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leading the technical design of the IoT platform",
+        "Designing global device fleets and connectivity architecture",
+        "Managing IoT engineering teams",
+        "Defining device security, OTA and provisioning standards",
+        "Shaping IoT product and business models",
+        "Building smart-infrastructure and industrial deployments",
+        "Establishing fleet observability and telemetry governance",
+        "Setting engineering standards for firmware and edge software"
+      ],
+      "complementaryCompetencies": [
+        "Experience leading IoT transformation programs",
+        "IoT regulatory compliance and certification",
+        "Managing device and connectivity partnerships"
+      ],
+      "indicators": [
+        "Leads multiple IoT teams",
+        "Defines the connectivity platform vision",
+        "Represents IoT to executives"
+      ]
+    },
+    "IOT-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Owning the multi-year IoT platform strategy",
+        "Directing connected-product and fleet transformation",
+        "Managing large IoT infrastructure investments",
+        "Defining edge-computing and connectivity architecture",
+        "Leading autonomous and self-managing device operations",
+        "Governing device security and lifecycle at scale",
+        "Driving innovation in edge intelligence",
+        "Managing the global device and connectivity ecosystem"
+      ],
+      "complementaryCompetencies": [
+        "Experience with critical-infrastructure IoT",
+        "Integrating IoT platforms after acquisitions",
+        "Leading device and telecom alliances"
+      ],
+      "indicators": [
+        "Directs an IoT department of 20 or more people",
+        "Participates in digital-transformation strategy",
+        "Decides connectivity investments"
+      ]
+    },
+    "IOT-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Setting the enterprise IoT and connectivity strategy",
+        "Designing global fleet and edge architecture across products",
+        "Leading industry transformation through connected devices",
+        "Managing IoT operations at very large scale",
+        "Establishing device security and compliance governance",
+        "Defining the roadmap for edge and ambient computing",
+        "Influencing Industry 4.0 and IoT standards",
+        "Growing and structuring IoT engineering organisations"
+      ],
+      "complementaryCompetencies": [
+        "Leading smart-city or large public IoT projects",
+        "Experience scaling IoT companies",
+        "Contributing to global IoT standards bodies"
+      ],
+      "indicators": [
+        "Reports to the C-suite",
+        "Leads an IoT organisation of 50 or more people",
+        "Owns the corporate connectivity strategy"
+      ]
+    },
+    "IOT-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Defining the long-term direction for connected products and IoT",
+        "Leading company-wide edge and device architecture",
+        "Turning the IoT platform into a durable advantage",
+        "Governing device security and fleet standards across the business",
+        "Driving adoption of emerging edge and connectivity technologies",
+        "Setting reliability, security and cost strategy for device fleets",
+        "Advising executives on IoT build-versus-buy and partnerships",
+        "Shaping the IoT and embedded engineering culture"
+      ],
+      "complementaryCompetencies": [
+        "Deep experience operating large device fleets",
+        "Advising IoT and hardware startups",
+        "Recognised authority in connected systems"
+      ],
+      "indicators": [
+        "Sits on the technical leadership group",
+        "Sets the global IoT strategy",
+        "Is a recognised leader in connected devices"
+      ]
+    },
+    "IOT-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Owning connected-product and IoT strategy at the executive level",
+        "Aligning IoT investment with business strategy",
+        "Directing global device-fleet and edge infrastructure",
+        "Setting security, reliability and cost objectives for fleets",
+        "Leading organisation-wide connected transformation",
+        "Governing IoT risk, safety and regulatory strategy",
+        "Building competitive advantage through connected products",
+        "Shaping how the organisation designs and operates devices"
+      ],
+      "complementaryCompetencies": [
+        "Managing large IoT and hardware budgets",
+        "Steering strategic connectivity and device partnerships",
+        "Influencing the direction of the IoT industry"
+      ],
+      "indicators": [
+        "Owns connected-product strategy for the company",
+        "Is accountable for fleet reliability and security",
+        "Represents the company on IoT technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "role": "Platform Engineer",
+  "category": "Infrastructure",
+  "levels": {
+    "PLE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of platform engineering concepts",
+        "Elementary knowledge of developer experience",
+        "Ability to use basic platform tools",
+        "Basic understanding of self-service platforms",
+        "Capability to document platform features",
+        "Elementary knowledge of API design",
+        "Basic understanding of platform automation",
+        "Ability for basic platform support"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of DevOps",
+        "Familiarity with cloud platforms",
+        "Elementary understanding of containers"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can maintain platform components",
+        "Needs 6-12 months of mentoring"
+      ]
+    },
+    "PLE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to develop basic platform services",
+        "Ability to implement self-service features",
+        "Practical knowledge of platform APIs",
+        "Understanding of internal developer platforms",
+        "Capability to implement basic automation",
+        "Ability for platform monitoring",
+        "Knowledge of platform documentation",
+        "Understanding of basic platform security"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of GitOps",
+        "Ability for backstage/portals",
+        "Understanding of platform metrics"
+      ],
+      "indicators": [
+        "Develops platform features with supervision",
+        "Improves basic developer experience",
+        "Supports platform users effectively"
+      ]
+    },
+    "PLE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of platform architecture patterns",
+        "Ability to design developer workflows",
+        "Ability to implement platform orchestration",
+        "Deep knowledge of service catalogs",
+        "Capability to implement platform observability",
+        "Solid understanding of golden paths",
+        "Ability for platform testing",
+        "Knowledge of platform governance"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of platform economics",
+        "Ability for platform migration",
+        "Understanding of platform compliance"
+      ],
+      "indicators": [
+        "Designs complete platform services",
+        "Leads small platform initiatives",
+        "Defines basic platform standards"
+      ]
+    },
+    "PLE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to architect internal platforms",
+        "Mastery of platform as a product",
+        "Ability to implement platform ecosystems",
+        "Deep knowledge of developer productivity",
+        "Capability to implement platform automation",
+        "Mastery of platform reliability",
+        "Ability for platform adoption strategies",
+        "Knowledge of platform economics"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of platform AI/ML",
+        "Ability for platform analytics",
+        "Understanding of platform sustainability"
+      ],
+      "indicators": [
+        "Defines platform strategy for teams",
+        "Leads platform transformation",
+        "Mentors platform engineers"
+      ]
+    },
+    "PLE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise platform engineering",
+        "Ability to design platform operating models",
+        "Mastery of platform value streams",
+        "Ability for platform governance frameworks",
+        "Deep knowledge of platform maturity models",
+        "Capability to implement platform marketplaces",
+        "Expertise in platform standardization",
+        "Mastery of platform innovation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of platform ventures",
+        "Ability for platform consulting",
+        "Understanding of platform M&A"
+      ],
+      "indicators": [
+        "Architects enterprise platforms",
+        "Leads platform communities",
+        "Defines corporate platform roadmap"
+      ]
+    },
+    "PLE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define enterprise platform strategy",
+        "Expertise in platform transformation",
+        "Mastery of platform business models",
+        "Ability for platform ecosystem building",
+        "Deep knowledge of platform economics",
+        "Capability to lead platform organizations",
+        "Expertise in platform partnerships",
+        "Mastery of platform risk management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of platform regulations",
+        "Ability for platform innovation labs",
+        "Understanding of platform investments"
+      ],
+      "indicators": [
+        "Defines multi-year platform vision",
+        "Leads large platform organizations",
+        "Influences platform industry"
+      ]
+    },
+    "PLE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in global platform innovation",
+        "Platform competitive advantages capability",
+        "Expertise in platform scaling strategies",
+        "Mastery of platform democratization",
+        "Ability to define platform philosophy",
+        "Deep knowledge of platform futures",
+        "Expertise in platform thought leadership",
+        "Capability to lead platform research"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent platform innovations",
+        "Ability to drive internal platform adoption across teams",
+        "Knowledge of platform ventures"
+      ],
+      "indicators": [
+        "Defines corporate platform philosophy",
+        "Keynote speaker at platform conferences",
+        "Thought leader in platform engineering"
+      ]
+    },
+    "PLE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of the future of platforms",
+        "Capability to transform companies through platforms",
+        "Expertise in executive platform strategy",
+        "Mastery of corporate platform economics",
+        "Ability to define platform excellence",
+        "Deep knowledge of platform governance",
+        "Expertise in platform ecosystem strategies",
+        "Capability to lead global platform standards"
+      ],
+      "complementaryCompetencies": [
+        "Capability to influence platform industry",
+        "Ability for platform ventures",
+        "Knowledge of platform IPOs"
+      ],
+      "indicators": [
+        "Defines enterprise-wide platform strategy",
+        "Influences global platform engineering",
+        "Executive platform advisor"
+      ]
+    },
+    "PLE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in platform strategy",
+        "Platforms as core business capability",
+        "Expertise in total platform transformation",
+        "Mastery of platform investment strategies",
+        "Capability to build platform empires",
+        "Deep knowledge of platform value creation",
+        "Expertise in global platform partnerships",
+        "Ability to define platform culture",
+        "Mastery of platform business models"
+      ],
+      "complementaryCompetencies": [
+        "Capability of platform policy influence",
+        "Ability for platform ecosystem dominance",
+        "Knowledge of platform monopolies"
+      ],
+      "indicators": [
+        "Defines and executes enterprise platform vision",
+        "Responsible for entire platform strategy",
+        "Recognized leader in global platform economy"
+      ]
+    }
+  }
+}

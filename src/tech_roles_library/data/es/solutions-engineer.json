@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Soluciones",
+  "category": "Ventas",
+  "levels": {
+    "SLE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos del producto y sus capacidades",
+        "Comprensión elemental del proceso de preventa",
+        "Habilidad para preparar demostraciones de producto simples con acompañamiento",
+        "Conocimiento básico de recogida de requisitos técnicos",
+        "Capacidad de apoyar en la configuración de pruebas de concepto",
+        "Comprensión de nociones básicas del ciclo de ventas",
+        "Documentación de necesidades técnicas del cliente con acompañamiento",
+        "Conocimiento elemental de arquitectura de soluciones"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de gestión de clientes y demostraciones",
+        "Conocimiento básico de interfaces de programación e integraciones",
+        "Comprensión de nociones básicas de comunicación con el cliente"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Apoya a ingenieros senior en tareas simples",
+        "Está aprendiendo el rol de ingeniería de soluciones"
+      ]
+    },
+    "SLE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de realizar demostraciones de producto estándar",
+        "Ejecución de pruebas de concepto básicas",
+        "Conocimiento práctico de descubrimiento técnico",
+        "Habilidad para responder preguntas técnicas habituales",
+        "Comprensión de los casos de uso del cliente",
+        "Capacidad de contribuir a respuestas de peticiones de propuestas",
+        "Conocimiento de nociones básicas de integraciones del producto",
+        "Habilidad para colaborar con los ejecutivos de cuenta"
+      ],
+      "complementaryCompetencies": [
+        "Análisis de requisitos básicos del cliente",
+        "Conocimiento de posicionamiento competitivo",
+        "Comprensión de la documentación de soluciones"
+      ],
+      "indicators": [
+        "Realiza demostraciones con supervisión",
+        "Ejecuta pruebas de concepto de forma independiente",
+        "Colabora efectivamente con el equipo de ventas"
+      ]
+    },
+    "SLE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Realización de demostraciones técnicas adaptadas al cliente",
+        "Diseño y ejecución de pruebas de concepto",
+        "Dominio de técnicas de descubrimiento técnico",
+        "Capacidad de gestionar objeciones técnicas",
+        "Habilidad para relacionar las necesidades del cliente con las capacidades del producto",
+        "Conocimiento en profundidad de arquitectura de soluciones",
+        "Contribución a respuestas de peticiones de propuestas e información",
+        "Responsabilidad sobre oportunidades de complejidad media"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de patrones de integración",
+        "Habilidad para conducir talleres técnicos",
+        "Comprensión de la hoja de ruta del producto"
+      ],
+      "indicators": [
+        "Asume oportunidades técnicas de extremo a extremo",
+        "Gestiona objeciones técnicas de forma independiente",
+        "Presenta soluciones con confianza"
+      ]
+    },
+    "SLE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Realización de demostraciones de soluciones complejas de forma autónoma",
+        "Diseño de pruebas de concepto a medida para acuerdos empresariales",
+        "Dominio de la arquitectura de soluciones en distintos casos de uso",
+        "Capacidad de liderar la preventa técnica de una cuenta",
+        "Habilidad para alinear las soluciones con la estrategia del cliente",
+        "Conocimiento profundo de integraciones y del ecosistema del producto",
+        "Facilitación de talleres de descubrimiento técnico",
+        "Responsabilidad de extremo a extremo sobre oportunidades técnicas relevantes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en colaboración multifuncional",
+        "Conocimiento de ingeniería de valor",
+        "Gestión de relaciones técnicas con los clientes"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma en acuerdos complejos",
+        "Da forma a la solución técnica de una cuenta",
+        "Mentoriza a ingenieros de soluciones junior"
+      ]
+    },
+    "SLE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño de estrategia de ventas técnicas para territorios",
+        "Dominio del oficio de preventa de extremo a extremo",
+        "Capacidad de definir la visión de solución de las cuentas",
+        "Habilidad para influir en la hoja de ruta de producto mediante los comentarios del cliente",
+        "Experiencia profunda en arquitectura de soluciones e integraciones",
+        "Liderazgo de iniciativas de preventa técnica entre equipos",
+        "Establecimiento de buenas prácticas de preventa",
+        "Puente entre los equipos de preventa y de producto"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en habilitación de ventas",
+        "Conocimiento de arquitectura empresarial",
+        "Gestión de relaciones complejas con partes interesadas"
+      ],
+      "indicators": [
+        "Es un experto reconocido en ingeniería de soluciones",
+        "Define la solución técnica de cuentas estratégicas",
+        "Eleva el oficio del equipo de preventa"
+      ]
+    },
+    "SLE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo de la ingeniería de soluciones en una región",
+        "Definición de principios y metodología de preventa",
+        "Gestión de la función de preventa técnica como activo estratégico",
+        "Capacidad de impulsar la estrategia de ventas técnicas a nivel de región",
+        "Habilidad para dar forma a la salida al mercado junto a la dirección de ventas",
+        "Conocimiento profundo del impacto de la ingeniería de soluciones en los ingresos",
+        "Mentoría y crecimiento de equipos de preventa",
+        "Impulso de la venta basada en el valor técnico en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en el escalado de prácticas de preventa",
+        "Conocimiento de contratación y formación de equipos de preventa",
+        "Liderazgo en la consistencia de soluciones entre regiones"
+      ],
+      "indicators": [
+        "Lidera la ingeniería de soluciones de una región",
+        "Influye en la estrategia de salida al mercado mediante la preventa",
+        "Hace crecer y mentoriza a ingenieros de soluciones senior"
+      ]
+    },
+    "SLE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Influencia ejecutiva en la estrategia de ventas técnicas",
+        "Definición de la visión de soluciones entre regiones",
+        "Transformación de la función de preventa a escala",
+        "Gestión de la ingeniería de soluciones a nivel de organización",
+        "Creación de marcos de preventa para la compañía",
+        "Alineación de la preventa con la estrategia de negocio a largo plazo",
+        "Liderazgo de preventa en la mesa de dirección",
+        "Influencia en la disciplina de ingeniería de soluciones de forma externa"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de la preventa en organizaciones complejas",
+        "Experiencia en soluciones para clientes de escala empresarial",
+        "Liderazgo en comunidades de ingeniería de soluciones"
+      ],
+      "indicators": [
+        "Marca la dirección de ingeniería de soluciones entre regiones",
+        "Colabora con la dirección de ventas y producto",
+        "Representa a la preventa a nivel ejecutivo"
+      ]
+    },
+    "SLE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la ingeniería de soluciones como motor central de ingresos",
+        "Liderazgo en la transformación de la preventa",
+        "Creación de ecosistemas de preventa en la organización",
+        "Gestión de la visión de soluciones a escala de compañía",
+        "Introducción de nuevos enfoques en el modelo de preventa",
+        "Definición de las prácticas y estándares de preventa a largo plazo de la organización",
+        "Defensa de la venta basada en el valor técnico en los equipos comerciales",
+        "Influencia en el futuro de la ingeniería de soluciones"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como ingeniero de soluciones principal en compañías de referencia",
+        "Asesoramiento en estrategia de salida al mercado para empresas emergentes",
+        "Liderazgo de pensamiento en ingeniería de soluciones"
+      ],
+      "indicators": [
+        "Da forma a la estrategia de ingeniería de soluciones a nivel de compañía",
+        "Define la visión de preventa de la organización",
+        "Es una autoridad reconocida en ingeniería de soluciones"
+      ]
+    },
+    "SLE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario como vicepresidente de ingeniería de soluciones",
+        "Transformación de la organización a través de las ventas técnicas",
+        "Creación de una cultura de salida al mercado orientada al valor técnico",
+        "Definición de la estrategia de preventa a nivel ejecutivo",
+        "Innovación en la intersección de la tecnología y las ventas",
+        "Defensa de los estándares de calidad de ingeniería de soluciones en todas las regiones",
+        "Arquitecto de la visión de preventa de la organización",
+        "Influencia en la evolución de la ingeniería de soluciones"
+      ],
+      "complementaryCompetencies": [
+        "Creador de prácticas de preventa que marcan la industria",
+        "Reconocimiento como líder de ingeniería de soluciones en el sector",
+        "Influencia en la educación de salida al mercado global"
+      ],
+      "indicators": [
+        "Es vicepresidente de ingeniería de soluciones o equivalente",
+        "Define la visión de preventa de la compañía",
+        "Es una autoridad mundial en ingeniería de soluciones"
+      ]
+    }
+  }
+}

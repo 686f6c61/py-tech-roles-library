@@ -1,0 +1,258 @@
+{
+  "role": "Graphics Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "GE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of computer graphics",
+        "Elementary understanding of rendering pipeline",
+        "Ability for simple shaders",
+        "Basic knowledge of linear algebra for graphics",
+        "Ability to use basic graphics APIs",
+        "Understanding of 3D transformations",
+        "Documentation of graphics assets",
+        "Elementary knowledge of lighting"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic OpenGL/DirectX",
+        "Knowledge of textures and materials",
+        "Understanding of geometric primitives"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Implements simple visual effects",
+        "Is learning graphics programming"
+      ]
+    },
+    "GE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement complete renderers",
+        "Implementation of lighting techniques",
+        "Practical knowledge of post-processing",
+        "Ability for shader optimization",
+        "Understanding of culling and LOD",
+        "Particle systems capability",
+        "Knowledge of animation systems",
+        "Ability for graphics profiling"
+      ],
+      "complementaryCompetencies": [
+        "Development of visual effects",
+        "Knowledge of basic PBR",
+        "Understanding of deferred rendering"
+      ],
+      "indicators": [
+        "Develops graphics features with supervision",
+        "Implements rendering techniques",
+        "Optimizes visual performance"
+      ]
+    },
+    "GE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of complete graphics engines",
+        "Implementation of advanced rendering techniques",
+        "Mastery of ray tracing",
+        "Global illumination capability",
+        "Ability for physically-based rendering",
+        "Deep knowledge of GPU programming",
+        "Implementation of compute shaders",
+        "Design of effects systems"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of Vulkan/Metal",
+        "Ability for procedural generation",
+        "Understanding of volumetric rendering"
+      ],
+      "indicators": [
+        "Leads graphics development",
+        "Designs rendering pipelines",
+        "Mentors graphics programmers"
+      ]
+    },
+    "GE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of rendering engines",
+        "Design of scalable graphics pipelines",
+        "Implementation of real-time ray tracing",
+        "Mastery of GPU optimization",
+        "Multi-GPU rendering capability",
+        "Deep knowledge of graphics hardware",
+        "Ability for graphics R&D",
+        "Leadership in graphics innovation"
+      ],
+      "complementaryCompetencies": [
+        "Experience in path tracing",
+        "Knowledge of neural rendering",
+        "Implementation of VR/AR rendering"
+      ],
+      "indicators": [
+        "Defines graphics architecture",
+        "Leads rendering teams",
+        "Is a reference in computer graphics"
+      ]
+    },
+    "GE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in graphics technology",
+        "Design of graphics platforms",
+        "Management of graphics development teams",
+        "Definition of rendering strategy",
+        "Next-gen graphics capability",
+        "Implementation of photorealistic rendering",
+        "Mastery of technical art pipeline",
+        "Promotion of graphics engineering standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience in film-quality rendering",
+        "Knowledge of simulation graphics",
+        "Management of graphics middleware"
+      ],
+      "indicators": [
+        "Manages graphics teams",
+        "Defines product visual vision",
+        "Represents graphics to stakeholders"
+      ]
+    },
+    "GE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of organizational graphics technology",
+        "Visual computing strategy",
+        "Management of graphics R&D investments",
+        "Definition of visual fidelity standards",
+        "Leadership in graphics transformation",
+        "Implementation of AI-enhanced graphics",
+        "Adoption of emerging rendering architectures",
+        "Management of graphics ecosystems"
+      ],
+      "complementaryCompetencies": [
+        "Experience in graphics hardware design",
+        "Knowledge of metaverse graphics",
+        "Leadership in graphics standards"
+      ],
+      "indicators": [
+        "Directs graphics department (20+ people)",
+        "Participates in product vision",
+        "Defines investments in visual technology"
+      ]
+    },
+    "GE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in visual computing",
+        "Design of global graphics strategies",
+        "Industry transformation via graphics",
+        "Management of graphics at AAA scale",
+        "Definition of rendering reference architectures",
+        "Definition of future of computer graphics",
+        "Communication of graphics strategy to executive leadership",
+        "Influence on visual industry"
+      ],
+      "complementaryCompetencies": [
+        "Management of graphics in blockbusters",
+        "Experience in graphics unicorns",
+        "Leadership in graphics consortiums"
+      ],
+      "indicators": [
+        "Reports to CTO",
+        "Manages graphics organization (50+ people)",
+        "Defines corporate visual strategy"
+      ]
+    },
+    "GE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of visual future",
+        "Leadership in global graphics revolution",
+        "Design of high-fidelity real-time rendering pipelines",
+        "Management of graphics systems at global scale",
+        "Research into neural rendering techniques",
+        "Definition of synthetic reality",
+        "Definition of long-term graphics technology direction",
+        "Influence on perception evolution"
+      ],
+      "complementaryCompetencies": [
+        "Experience as graphics architect in giants",
+        "Advisory in graphics startups",
+        "Thought leadership in rendering"
+      ],
+      "indicators": [
+        "Is part of technical committee",
+        "Defines future of graphics",
+        "Is world leader in computer graphics"
+      ]
+    },
+    "GE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in future of visual reality",
+        "Transformation of perception via graphics",
+        "Definition of next-generation photorealistic rendering architectures",
+        "Definition of the organization's real-time graphics technology strategy",
+        "Innovation in quantum rendering",
+        "Promotion of open graphics and rendering standards",
+        "Architect of visual universes",
+        "Influence on visual experience evolution"
+      ],
+      "complementaryCompetencies": [
+        "Creator of graphics revolutions",
+        "Recognition as computer graphics pioneer",
+        "Influence on visual reality future"
+      ],
+      "indicators": [
+        "Is a recognized authority in graphics engineering",
+        "Defines future of visualization",
+        "Is world authority in computer graphics"
+      ]
+    }
+  }
+}

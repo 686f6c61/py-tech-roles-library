@@ -1,0 +1,258 @@
+{
+  "role": "Embedded Systems Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "ESE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to develop device drivers",
+        "Implementation of bootloaders",
+        "Practical knowledge of RTOS",
+        "Ability to optimize memory",
+        "Understanding of DMA and peripherals",
+        "Ability to perform low-level debugging",
+        "Knowledge of power optimization",
+        "Ability to create hardware abstraction layers"
+      ],
+      "complementaryCompetencies": [
+        "Basic BSP development",
+        "Knowledge of automotive protocols",
+        "Understanding of safety standards"
+      ],
+      "indicators": [
+        "Develops firmware with supervision",
+        "Implements hardware drivers",
+        "Optimizes embedded code"
+      ]
+    },
+    "ESE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of complex embedded architectures",
+        "Implementation of critical real-time systems",
+        "Mastery of performance optimization",
+        "Ability to perform hardware-software co-design",
+        "Ability to work with multicore systems",
+        "Deep knowledge of memory management",
+        "Implementation of secure boot",
+        "Design of fault-tolerant systems"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AUTOSAR",
+        "Ability to perform DSP programming",
+        "Understanding of functional safety"
+      ],
+      "indicators": [
+        "Leads embedded development",
+        "Designs critical systems",
+        "Mentors embedded engineers"
+      ]
+    },
+    "ESE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of embedded platforms",
+        "Design of SoC integration",
+        "Implementation of embedded hypervisors",
+        "Mastery of mixed-criticality systems",
+        "Ability to implement hardware acceleration",
+        "Deep knowledge of safety-critical design",
+        "Ability to apply formal methods",
+        "Leadership in embedded standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience in aerospace systems",
+        "Knowledge of medical device standards",
+        "Implementation of AI at edge"
+      ],
+      "indicators": [
+        "Defines enterprise embedded architecture",
+        "Leads firmware teams",
+        "Is a reference in embedded systems"
+      ]
+    },
+    "ESE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in embedded platforms",
+        "Design of embedded product lines",
+        "Management of embedded development teams",
+        "Definition of embedded strategy",
+        "Ability to analyze platform economics",
+        "Implementation of embedded DevOps",
+        "Mastery of certification processes",
+        "Promotion of edge intelligence adoption"
+      ],
+      "complementaryCompetencies": [
+        "Experience in automotive platforms",
+        "Knowledge of DO-178C/ISO26262",
+        "Management of silicon vendors"
+      ],
+      "indicators": [
+        "Manages multiple embedded teams",
+        "Defines embedded platform vision",
+        "Represents embedded to executives"
+      ]
+    },
+    "ESE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of organizational embedded systems",
+        "Embedded product strategy",
+        "Management of hardware/software investments",
+        "Definition of edge computing strategy",
+        "Leadership in embedded transformation",
+        "Implementation of autonomous systems",
+        "Innovation in ultra-low power",
+        "Management of hardware ecosystems"
+      ],
+      "complementaryCompetencies": [
+        "Experience in consumer electronics",
+        "Knowledge of hardware supply chain",
+        "Leadership in embedded consortiums"
+      ],
+      "indicators": [
+        "Directs embedded department (20+ people)",
+        "Participates in product strategy",
+        "Defines hardware investments"
+      ]
+    },
+    "ESE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in embedded technology",
+        "Design of global embedded strategies",
+        "Transformation of industries via embedded",
+        "Management of embedded programs across large organizations",
+        "Definition of edge computing architecture standards",
+        "Definition of embedded systems future",
+        "Communication of embedded strategy to executive leadership",
+        "Influence in semiconductor industry"
+      ],
+      "complementaryCompetencies": [
+        "Management of partnerships with fabs",
+        "Experience in embedded unicorns",
+        "Leadership in standards bodies"
+      ],
+      "indicators": [
+        "Reports to CTO",
+        "Manages embedded organization (50+ people)",
+        "Defines hardware/software strategy"
+      ]
+    },
+    "ESE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of ubiquitous computing",
+        "Leadership in global embedded revolution",
+        "Definition of pervasive embedded computing standards",
+        "Management of large-scale connected device fleets",
+        "Innovation in low-power embedded systems",
+        "Definition of the embedded systems roadmap",
+        "Promotion of intelligent sensing systems",
+        "Influence in semiconductor policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as VP Engineering in hardware giants",
+        "Advisory in embedded funds",
+        "Thought leadership in edge computing"
+      ],
+      "indicators": [
+        "Part of executive committee",
+        "Defines global embedded strategy",
+        "World leader in embedded systems"
+      ]
+    },
+    "ESE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in future of physical computing",
+        "Advancement of embedded intelligence across products",
+        "Definition of the organization's embedded technology vision",
+        "Definition of next-generation embedded architectures",
+        "Innovation in ultra-low-power computing",
+        "Promotion of ubiquitous computing practices",
+        "Architecture of large-scale embedded platforms",
+        "Influence in evolution of intelligent hardware"
+      ],
+      "complementaryCompetencies": [
+        "Recognized contributor to embedded systems advances",
+        "Recognition as pioneer of edge computing",
+        "Influence in future of computing"
+      ],
+      "indicators": [
+        "Leads the enterprise embedded systems function",
+        "Defines future of embedded systems",
+        "World authority in edge intelligence"
+      ]
+    },
+    "ESE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of microcontrollers",
+        "Elementary understanding of hardware architectures",
+        "Ability to program in basic C",
+        "Basic knowledge of hardware interfaces",
+        "Ability to debug with basic JTAG",
+        "Understanding of interrupts and timers",
+        "Documentation of hardware specifications",
+        "Elementary knowledge of RTOS"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic schematics",
+        "Knowledge of serial protocols",
+        "Understanding of memory and buses"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Programs simple firmware",
+        "Learning embedded systems"
+      ]
+    }
+  }
+}

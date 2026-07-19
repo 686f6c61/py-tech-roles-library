@@ -1,0 +1,266 @@
+{
+  "role": "Redactor Técnico",
+  "category": "Producto",
+  "levels": {
+    "TW-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de la escritura clara y concisa",
+        "Conocimiento elemental de tipos y formatos de documentación",
+        "Habilidad para escribir guías e instrucciones sencillas",
+        "Comprensión básica de Markdown y texto estructurado",
+        "Familiaridad con el control de versiones con Git",
+        "Conocimiento elemental de gramática y guías de estilo",
+        "Comprensión básica del concepto de público objetivo",
+        "Habilidad para editar y corregir documentación existente"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de herramientas de capturas de pantalla y diagramas",
+        "Familiaridad con una plataforma de documentación o wiki",
+        "Comprensión elemental de nociones de desarrollo de software"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en tareas de redacción",
+        "Puede actualizar y corregir documentación existente",
+        "Necesita 3-6 meses de mentoría en redacción técnica"
+      ]
+    },
+    "TW-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de escribir guías de usuario y tutoriales completos",
+        "Conocimiento práctico de documentación de API REST",
+        "Habilidad para estructurar contenido con encabezados y flujo claros",
+        "Comprensión de flujos de documentación como código y Git",
+        "Capacidad de recopilar información de personas desarrolladoras y especificaciones",
+        "Conocimiento de guías de estilo y terminología consistente",
+        "Comprensión de arquitectura de la información básica",
+        "Habilidad para crear diagramas y apoyos visuales",
+        "Capacidad de revisar solicitudes de cambio de documentación"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con generadores de sitios estáticos para documentación",
+        "Habilidad para leer código y ficheros de configuración básicos",
+        "Comprensión de consideraciones de localización"
+      ],
+      "indicators": [
+        "Puede producir conjuntos de documentación con supervisión",
+        "Resuelve problemas de claridad y consistencia comunes",
+        "Mantiene documentación existente efectivamente"
+      ]
+    },
+    "TW-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de la documentación de referencia de API y documentación para desarrolladores",
+        "Capacidad de diseñar arquitectura de la información para conjuntos de documentación",
+        "Habilidad para implementar pipelines de documentación como código con integración y despliegue continuos",
+        "Conocimiento profundo de estructura de contenido y redacción basada en temas",
+        "Capacidad de crear documentación de incorporación y conceptual",
+        "Comprensión sólida de análisis de audiencia y estrategia de contenido",
+        "Capacidad de establecer y hacer cumplir estándares de estilo y terminología",
+        "Conocimiento de pruebas de documentación y validación de enlaces",
+        "Capacidad de medir la calidad y el uso de la documentación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de OpenAPI y generación automatizada de referencias",
+        "Habilidad para trabajar con sistemas de gestión de contenidos",
+        "Comprensión de accesibilidad en la documentación"
+      ],
+      "indicators": [
+        "Es responsable de la documentación de un área de producto de extremo a extremo",
+        "Mejora significativamente la claridad y la localización de la información",
+        "Contribuye a estándares y plantillas de documentación"
+      ]
+    },
+    "TW-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas de documentación escalables",
+        "Dominio de herramientas y automatización de documentación como código",
+        "Habilidad para establecer estrategia y gobernanza de contenido",
+        "Conocimiento profundo de redacción estructurada y reutilización de contenido",
+        "Capacidad de construir guías de estilo y gobernanza de terminología",
+        "Dominio de documentación de API y kits de desarrollo entre productos",
+        "Habilidad para diseñar experiencias de documentación de autoservicio",
+        "Conocimiento de flujos de localización y traducción",
+        "Capacidad de definir y seguir métricas de documentación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de documentación interactiva y ejecutable",
+        "Habilidad para integrar la documentación en los flujos de desarrollo",
+        "Comprensión de herramientas de documentación asistida por inteligencia artificial"
+      ],
+      "indicators": [
+        "Lidera proyectos complejos de documentación",
+        "Define estándares y prácticas de documentación",
+        "Mentoriza a redactores técnicos junior"
+      ]
+    },
+    "TW-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en sistemas de documentación empresariales",
+        "Capacidad de diseñar plataformas de contenido para toda la organización",
+        "Dominio de arquitectura de la información a gran escala",
+        "Habilidad para implementar marcos de calidad y gobernanza de contenido",
+        "Conocimiento profundo de documentación como código a escala y automatización",
+        "Capacidad de definir estándares y acuerdos de nivel de servicio de documentación",
+        "Experiencia en operaciones de contenido y diseño de flujos de trabajo",
+        "Dominio de gestión de terminología y localización a escala",
+        "Capacidad de diseñar conjuntos de documentación certificados y de confianza"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de API de contenido y documentación desacoplada",
+        "Habilidad para liderar programas de analítica de documentación",
+        "Comprensión de generación y revisión de contenido con inteligencia artificial"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones de documentación empresariales",
+        "Lidera migraciones de plataformas de documentación",
+        "Define la hoja de ruta técnica de documentación"
+      ]
+    },
+    "TW-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar ecosistemas de documentación globales",
+        "Experiencia en contenido como producto y documentación como servicio",
+        "Dominio de arquitectura de la información a escala organizacional",
+        "Habilidad para implementar observabilidad de documentación completa",
+        "Conocimiento profundo de la economía y eficiencia de las operaciones de contenido",
+        "Capacidad de diseñar documentación de autoservicio a escala",
+        "Experiencia en modelos de propiedad de documentación federada",
+        "Dominio de programas de calidad, confianza y certificación de contenido",
+        "Capacidad de liderar equipos de documentación y contenido"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de documentación asistida por inteligencia artificial y búsqueda semántica",
+        "Habilidad para impulsar la adopción de documentación entre equipos",
+        "Comprensión de prácticas de contenido sostenibles"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de plataformas de documentación para múltiples productos",
+        "Lidera la transformación de contenido organizacional",
+        "Define estrategia de documentación a largo plazo"
+      ]
+    },
+    "TW-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en democratización de contenido empresarial",
+        "Capacidad de diseñar plataformas de contenido e intercambios de conocimiento",
+        "Experiencia en plataformas de documentación de autoservicio a escala",
+        "Dominio de marcos de conocimiento y terminología empresariales",
+        "Capacidad de implementar modelos de contenido federado a escala global",
+        "Conocimiento profundo de necesidades normativas y de cumplimiento de contenido",
+        "Experiencia en medición del valor y retorno de inversión del contenido",
+        "Capacidad de definir prácticas de contenido en toda la empresa",
+        "Dominio de innovación en herramientas y métodos de documentación"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en estándares de la industria de documentación",
+        "Habilidad para construir plataformas de documentación como productos",
+        "Conocimiento de tendencias emergentes del ecosistema de contenido"
+      ],
+      "indicators": [
+        "Define la estrategia corporativa de contenido y documentación",
+        "Lidera comunidades externas de redacción técnica",
+        "Líder de pensamiento reconocido en comunicación técnica"
+      ]
+    },
+    "TW-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para el futuro de la comunicación técnica",
+        "Capacidad de liderar la estrategia de contenido técnico multiproducto",
+        "Experiencia en estrategia de documentación para integraciones y consolidaciones de producto",
+        "Dominio de la creación de estándares y sistemas de documentación en toda la organización",
+        "Capacidad de definir la gobernanza docs-as-code a escala organizativa",
+        "Conocimiento profundo de la medición del impacto de la documentación en soporte y adopción",
+        "Experiencia en asociaciones estratégicas de contenido y decisiones de herramientas",
+        "Capacidad de liderar proyectos de documentación de código abierto",
+        "Dominio de prácticas de contenido inclusivas y responsables"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de dar forma a metodologías de comunicación técnica",
+        "Habilidad para asesorar sobre inversiones en plataformas de contenido",
+        "Conocimiento de inversión en tecnología de contenido"
+      ],
+      "indicators": [
+        "Define la arquitectura de contenido para organizaciones multiproducto complejas",
+        "Influye en la dirección de la disciplina de comunicación técnica",
+        "Ponente principal en conferencias globales"
+      ]
+    },
+    "TW-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia de contenido y documentación",
+        "Capacidad de convertir la documentación en un diferenciador de negocio",
+        "Experiencia en escalar los programas de documentación en toda la organización",
+        "Dominio de la planificación de presupuestos y plantilla de los equipos de documentación",
+        "Capacidad de construir y dirigir equipos de documentación distribuidos",
+        "Conocimiento profundo de gobernanza y cumplimiento de contenido",
+        "Experiencia en colaboración y estándares de documentación entre organizaciones",
+        "Capacidad de establecer una cultura de calidad de la documentación en ingeniería",
+        "Dominio de innovación e investigación en comunicación técnica"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en los estándares y la regulación del contenido",
+        "Habilidad para crear ecosistemas de contenido",
+        "Conocimiento de estrategias de inversión en contenido"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de contenido empresarial",
+        "Responsable de la estrategia de contenido corporativa",
+        "Líder reconocido en la industria global de comunicación técnica"
+      ]
+    }
+  }
+}

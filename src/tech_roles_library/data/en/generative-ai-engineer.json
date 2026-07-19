@@ -1,0 +1,258 @@
+{
+  "role": "Generative AI Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "GENAIE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of how large language models generate text token by token",
+        "Ability to call a hosted LLM through its API and read the completion",
+        "Elementary knowledge of writing zero-shot and few-shot prompts from examples",
+        "Ability to run a text-to-image diffusion model from an existing notebook",
+        "Basic understanding of temperature, top-p and max tokens sampling parameters",
+        "Ability to fill the variables of a prompt template under supervision",
+        "Elementary knowledge of reading generation logs to spot obvious failures",
+        "Basic understanding of what a token is and how it maps to billing"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of Python and Jupyter notebooks",
+        "Familiarity with REST APIs and JSON payloads",
+        "Elementary understanding of environment variables for API keys"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can run existing generation scripts with detailed guidance",
+        "Needs 3-6 months to be productive"
+      ]
+    },
+    "GENAIE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to build a retrieval-augmented generation prototype over a document set",
+        "Practical knowledge of chunking documents and creating embeddings for retrieval",
+        "Ability to design few-shot prompts with clear instructions and output format",
+        "Understanding of prompt templating and the split between system and user messages",
+        "Ability to run text-to-image or image-to-image diffusion pipelines with custom parameters",
+        "Knowledge of measuring output quality with simple reference-based metrics",
+        "Ability to handle API errors, rate limits and retries in generation code",
+        "Understanding of context windows and how to fit prompts within token limits"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of vector databases such as FAISS or pgvector",
+        "Familiarity with Hugging Face libraries for loading models",
+        "Basic understanding of structured output and JSON schema validation"
+      ],
+      "indicators": [
+        "Can build simple generation features independently",
+        "Resolves medium complexity issues in prompts and retrieval",
+        "Actively participates in code and prompt reviews"
+      ]
+    },
+    "GENAIE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Ability to build production RAG pipelines with reranking and source citation",
+        "Ability to fine-tune a model with LoRA on a task-specific dataset",
+        "Deep knowledge of prompt techniques such as chain-of-thought and structured output",
+        "Ability to design evaluation sets that measure groundedness and answer relevance",
+        "Understanding of guardrails that filter unsafe or off-topic generations",
+        "Ability to control inference cost by choosing model size and caching responses",
+        "Knowledge of ControlNet and conditioning techniques for diffusion image generation",
+        "Ability to instrument generation pipelines with tracing and token accounting"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of prompt injection risks and input sanitization",
+        "Ability to build human review workflows for generated content",
+        "Basic understanding of quantization for serving open-weight models"
+      ],
+      "indicators": [
+        "Completes complex generation features with minimal supervision",
+        "Identifies and resolves failures in retrieval and prompting",
+        "Actively contributes to technical design of generation systems"
+      ]
+    },
+    "GENAIE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design end-to-end RAG architectures with hybrid search and query rewriting",
+        "Mastery of fine-tuning strategies including LoRA, QLoRA and full fine-tuning trade-offs",
+        "Ability to build automated evaluation suites scoring quality, toxicity and groundedness",
+        "Deep knowledge of serving open-weight LLMs with quantization and batching",
+        "Ability to design content safety frameworks covering input and output moderation",
+        "Mastery of inference cost optimization across model routing and caching",
+        "Ability to fine-tune diffusion models with techniques such as DreamBooth and LoRA",
+        "Knowledge of dataset curation and synthetic data generation for training"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of distillation to produce smaller task-specific models",
+        "Ability to design prompt management and versioning systems",
+        "Understanding of watermarking and provenance for generated media"
+      ],
+      "indicators": [
+        "Leads development of critical generation components",
+        "Effectively mentors junior engineers",
+        "Makes informed architectural decisions on generation design"
+      ]
+    },
+    "GENAIE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in designing production generative AI platforms serving many use cases",
+        "Ability to architect scalable serving with GPU autoscaling and continuous batching",
+        "Mastery of evaluation-driven development with offline benchmarks and online A/B tests",
+        "Deep knowledge of red teaming generative systems for jailbreaks and unsafe output",
+        "Ability to design fine-tuning and alignment pipelines including preference tuning",
+        "Expertise in optimizing the quality, cost and latency trade-off at scale",
+        "Ability to build observability capturing prompts, retrievals and generation quality",
+        "Mastery of content safety governance including policy definition and escalation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of reinforcement learning from human feedback and direct preference optimization",
+        "Ability to design domain-specific generation benchmarks from scratch",
+        "Understanding of licensing and copyright concerns for training data and outputs"
+      ],
+      "indicators": [
+        "Designs generation architectures for complete products",
+        "Defines team technical standards for generative AI development",
+        "Leads cross-team initiatives on generation infrastructure"
+      ]
+    },
+    "GENAIE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise generative AI platforms shared across many teams",
+        "Expertise in governance frameworks for safe deployment of generative models",
+        "Mastery of evaluation infrastructure and continuous quality and safety monitoring",
+        "Ability to lead build-versus-fine-tune-versus-buy decisions for foundation models",
+        "Deep knowledge of security threats specific to generative systems such as data leakage",
+        "Ability to lead adoption of generative features across existing products",
+        "Expertise in cost governance across large-scale inference and training budgets",
+        "Mastery of reliability engineering for non-deterministic generation services"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging model architectures and open-weight ecosystems",
+        "Ability to design reusable prompt and evaluation catalogs for the organization",
+        "Understanding of on-premise and private deployment of generative models"
+      ],
+      "indicators": [
+        "Architects generation solutions for multiple teams",
+        "Influences organizational technical decisions on generative AI",
+        "Represents the company technically in the generative AI domain"
+      ]
+    },
+    "GENAIE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership of organization-wide generative AI adoption",
+        "Ability to design generation architectures resilient to model and vendor change",
+        "Expertise in strategies for safely scaling generative features to millions of users",
+        "Mastery of model-agnostic abstractions across proprietary and open-weight models",
+        "Ability to define multi-year roadmaps for generative AI capabilities",
+        "Deep knowledge of the economics and total cost of generative systems",
+        "Expertise in building and scaling generative AI engineering teams",
+        "Ability to set content safety and responsible generation standards across the org"
+      ],
+      "complementaryCompetencies": [
+        "Ability to evaluate generative AI vendors and open-weight models technically",
+        "Knowledge of research trends in generative modeling and alignment",
+        "Ability to shape internal policy on acceptable generative AI use"
+      ],
+      "indicators": [
+        "Defines organizational technical strategy for generative AI",
+        "Recognized as an authority in applied generative AI",
+        "Speaker at industry conferences on generative systems"
+      ]
+    },
+    "GENAIE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Ability to set the long-term technical direction for generative AI in the organization",
+        "Expertise in aligning generative AI investment with product and safety priorities",
+        "Mastery of technical due diligence for generative AI products and acquisitions",
+        "Ability to anticipate shifts in foundation models and adapt architecture strategy",
+        "Deep knowledge of the risk and compliance landscape for generated content",
+        "Ability to build and lead generative AI engineering organizations",
+        "Expertise in defining responsible generation practices at organizational scale",
+        "Ability to guide trade-offs between in-house training and foundation model reliance"
+      ],
+      "complementaryCompetencies": [
+        "Ability to inform industry standards for content provenance and safety",
+        "Knowledge of the foundation model vendor and hardware landscape",
+        "Ability to advise leadership on generative AI risk and opportunity"
+      ],
+      "indicators": [
+        "Shapes the technical direction of generative AI in the organization",
+        "Advises senior leadership on generative AI strategy and risk",
+        "Mentors senior technical leaders in generative AI"
+      ]
+    },
+    "GENAIE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Ability to define the organization's generative AI technical vision and safety posture",
+        "Expertise in aligning generative AI strategy with product direction and regulation",
+        "Mastery of governing large-scale training and inference investment for generation",
+        "Ability to steer foundation model sourcing across proprietary and open-weight options",
+        "Deep knowledge of managing legal, safety and reputational risk of generated content",
+        "Ability to build organizational capability for responsible generative AI at scale",
+        "Expertise in setting content provenance, watermarking and disclosure standards",
+        "Ability to sustain competitive advantage through applied generative AI"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence regulation and standards for generative AI",
+        "Knowledge of the generative AI vendor, hardware and talent ecosystem",
+        "Ability to represent the organization on generative AI safety externally"
+      ],
+      "indicators": [
+        "Sets and executes the generative AI technical vision",
+        "Accountable for generative AI safety and quality across products",
+        "Public technical voice of the organization in generative AI"
+      ]
+    }
+  }
+}

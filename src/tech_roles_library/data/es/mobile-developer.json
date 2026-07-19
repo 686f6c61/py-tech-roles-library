@@ -1,0 +1,266 @@
+{
+  "role": "Desarrollador Móvil",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "MOB-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de desarrollo móvil nativo vs híbrido vs web",
+        "Conocimiento elemental de ciclo de vida de aplicaciones móviles",
+        "Habilidad para crear interfaces simples con componentes estándar",
+        "Comprensión básica de diseños y navegación en aplicaciones móviles",
+        "Capacidad de trabajar con emuladores y dispositivos físicos",
+        "Conocimiento elemental de gestión de permisos básicos",
+        "Comprensión básica de almacenamiento local en dispositivos",
+        "Habilidad para implementar funcionalidad sin conexión básica"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de directrices de diseño móvil",
+        "Familiaridad con tiendas de aplicaciones y proceso de publicación",
+        "Comprensión elemental de diseño adaptable móvil"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en desarrollo móvil",
+        "Puede completar pantallas simples con guía detallada",
+        "Necesita 3-6 meses de mentoría en desarrollo móvil"
+      ]
+    },
+    "MOB-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar navegación compleja entre pantallas",
+        "Habilidad para integrar interfaces de programación de aplicaciones REST en aplicaciones móviles",
+        "Conocimiento práctico de manejo de estado en aplicaciones",
+        "Comprensión de ciclo de vida de componentes y memoria",
+        "Capacidad de implementar notificaciones automáticas básicas",
+        "Habilidad para manejar diferentes tamaños de pantalla y orientaciones",
+        "Conocimiento de persistencia de datos y bases de datos móviles",
+        "Comprensión de procesamiento básico en paralelo y operaciones asíncronas",
+        "Capacidad de implementar autenticación y manejo de tokens"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de animaciones y transiciones",
+        "Habilidad para usar bibliotecas de terceros comunes",
+        "Comprensión de análisis móvil básico"
+      ],
+      "indicators": [
+        "Puede desarrollar funcionalidades simples con supervisión moderada",
+        "Resuelve errores comunes de interfaz de usuario y navegación",
+        "Necesita revisión frecuente de código y arquitectura"
+      ]
+    },
+    "MOB-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de patrones de arquitectura móvil (MVC, MVP, MVVM)",
+        "Capacidad de implementar sincronización sin conexión y en línea robusta",
+        "Habilidad para optimizar rendimiento y consumo de batería",
+        "Conocimiento profundo de gestión de memoria y prevención de fugas",
+        "Capacidad de implementar funcionalidades nativas (cámara, GPS, sensores)",
+        "Comprensión sólida de seguridad móvil y encriptación local",
+        "Habilidad para implementar enlaces profundos e indexación de aplicaciones",
+        "Conocimiento de pruebas unitarias y de integración en móvil",
+        "Capacidad de manejar actualizaciones de aplicación y migración de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de desarrollo multiplataforma",
+        "Habilidad para implementar realidad aumentada básica",
+        "Comprensión de monetización móvil"
+      ],
+      "indicators": [
+        "Completa funcionalidades medianas con mínima supervisión",
+        "Puede depurar problemas complejos de rendimiento",
+        "Contribuye a decisiones de arquitectura móvil"
+      ]
+    },
+    "MOB-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas móviles escalables y mantenibles",
+        "Dominio de optimización avanzada (tiempo de arranque, velocidad de fotogramas, memoria)",
+        "Habilidad para implementar sistemas de caché multinivel",
+        "Conocimiento profundo de accesibilidad y localización",
+        "Capacidad de implementar funcionalidades complejas de hardware",
+        "Dominio de entrega continua para aplicaciones móviles",
+        "Habilidad para diseñar kits de desarrollo de software y bibliotecas reutilizables",
+        "Conocimiento de modularización y banderas de funcionalidades",
+        "Capacidad de implementar pruebas A/B y experimentación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de desarrollo de componentes gráficos y extensiones",
+        "Habilidad para trabajar con dispositivos portátiles e Internet de las Cosas",
+        "Comprensión de aprendizaje automático en dispositivo"
+      ],
+      "indicators": [
+        "Lidera desarrollo de funcionalidades complejas",
+        "Define arquitectura para componentes principales",
+        "Mentoriza a desarrolladores junior en mejores prácticas"
+      ]
+    },
+    "MOB-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia experta en arquitecturas multimódulo y microfrontends móviles",
+        "Capacidad de diseñar sistemas de sincronización distribuida",
+        "Dominio de optimización para mercados emergentes (aplicaciones ligeras)",
+        "Habilidad para implementar gestión de derechos digitales y protección de contenido",
+        "Conocimiento profundo de integración continua, entrega continua y automatización de lanzamientos",
+        "Capacidad de implementar marcos de pruebas de extremo a extremo",
+        "Experiencia experta en informes de fallos y diagnóstico remoto",
+        "Dominio de estrategias de despliegue gradual y alternancia de funcionalidades",
+        "Capacidad de diseñar sistemas de complementos y extensibilidad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de desarrollo de juegos móviles",
+        "Habilidad para trabajar con realidad aumentada avanzada",
+        "Comprensión de cadena de bloques en móvil"
+      ],
+      "indicators": [
+        "Diseña soluciones técnicas para productos completos",
+        "Lidera adopción de nuevas tecnologías móviles",
+        "Define estándares de calidad y procesos"
+      ]
+    },
+    "MOB-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar ecosistemas de aplicaciones empresariales",
+        "Experiencia experta en estrategias de monetización y crecimiento técnico acelerado",
+        "Dominio de optimización técnica de tiendas de aplicaciones y metadatos",
+        "Habilidad para diseñar arquitecturas complejas sin conexión prioritaria",
+        "Conocimiento profundo de cumplimiento normativo móvil (COPPA, GDPR)",
+        "Capacidad de implementar kits de desarrollo empresariales y marca blanca",
+        "Experiencia experta en súper aplicaciones y miniprogramas",
+        "Dominio de estrategias de migración entre plataformas",
+        "Capacidad de implementar seguridad de nivel bancario"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de desarrollo para automoción",
+        "Habilidad para diseñar experiencias de realidad mixta",
+        "Comprensión de redes móviles de quinta generación y computación en el borde"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de portafolios de aplicaciones móviles",
+        "Lidera equipos móviles multidisciplinarios",
+        "Define estrategia móvil a largo plazo"
+      ]
+    },
+    "MOB-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en transformación móvil empresarial",
+        "Capacidad de diseñar plataformas móviles de negocio a negocio a consumidor",
+        "Experiencia experta en ecosistemas de aplicaciones y mercados móviles",
+        "Dominio de arquitecturas para millones de usuarios concurrentes",
+        "Capacidad de diseñar marcos propietarios de desarrollo",
+        "Conocimiento profundo de optimización de costes de infraestructura móvil",
+        "Experiencia experta en estrategias de internacionalización técnica",
+        "Capacidad de implementar plataformas de desarrollo con poco código para móvil",
+        "Dominio de innovación en interfaces (voz, gestos, realidad aumentada)"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en estándares de industria",
+        "Habilidad para patentar innovaciones móviles",
+        "Conocimiento de hardware personalizado"
+      ],
+      "indicators": [
+        "Define arquitectura móvil para múltiples productos",
+        "Lidera comunidades de desarrollo móvil",
+        "Reconocido como experto en la industria"
+      ]
+    },
+    "MOB-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para el futuro del desarrollo móvil",
+        "Capacidad de diseñar arquitecturas para empresas globales",
+        "Experiencia experta en auditoría técnica de tecnología móvil",
+        "Dominio de ingeniería de plataformas para equipos móviles",
+        "Capacidad de definir gobernanza y mejores prácticas corporativas",
+        "Conocimiento profundo de asociaciones técnicas con proveedores de sistemas operativos",
+        "Experiencia experta en construcción de plataformas de desarrollo internas",
+        "Capacidad de liderar proyectos móviles de código abierto",
+        "Dominio de estrategias de adquisición y retención técnica"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de representar en conferencias globales",
+        "Habilidad para crear empresas emergentes móviles",
+        "Conocimiento de inversión en tecnología móvil"
+      ],
+      "indicators": [
+        "Define estrategia móvil multianual",
+        "Influye en dirección de plataformas móviles",
+        "Considerado líder de pensamiento en móvil"
+      ]
+    },
+    "MOB-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia móvil corporativa",
+        "Capacidad de alinear iniciativas móviles con objetivos de negocio",
+        "Experiencia experta en fusiones y adquisiciones de compañías móviles",
+        "Dominio de gestión de portafolios de productos móviles",
+        "Capacidad de construir organizaciones de desarrollo móvil",
+        "Conocimiento profundo de relaciones con Apple y Google",
+        "Experiencia experta en estrategias de plataforma versus producto",
+        "Capacidad de definir cultura de innovación móvil",
+        "Dominio de construcción de nuevos negocios en ecosistema móvil"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar políticas de tiendas de aplicaciones",
+        "Habilidad para crear ecosistemas móviles",
+        "Conocimiento de inversión en empresas emergentes móviles"
+      ],
+      "indicators": [
+        "Define y ejecuta visión móvil empresarial",
+        "Responsable de pérdidas y ganancias de productos móviles",
+        "Líder reconocido en industria móvil global"
+      ]
+    }
+  }
+}

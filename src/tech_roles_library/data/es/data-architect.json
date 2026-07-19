@@ -1,0 +1,249 @@
+{
+  "role": "Arquitecto de Datos",
+  "category": "Datos",
+  "levels": {
+    "DAR-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Modelado relacional básico: entidades, relaciones y normalización hasta 3FN",
+        "Lectura e interpretación de diagramas entidad-relación",
+        "Documentación de tablas, columnas y tipos de datos en un diccionario de datos",
+        "Distinción entre cargas transaccionales OLTP y analíticas OLAP",
+        "Nociones básicas de esquema en estrella y tablas de hechos y dimensiones",
+        "Uso de herramientas de diagramación para bocetar modelos simples",
+        "Nociones elementales de catálogo de datos y metadatos"
+      ],
+      "complementaryCompetencies": [
+        "SQL básico para explorar esquemas existentes",
+        "Familiaridad con el almacenamiento en la nube (almacenamiento de objetos, buckets)",
+        "Sensibilidad a la gobernanza y la privacidad de datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en tareas de modelado",
+        "Asiste a arquitectos senior en la documentación de modelos existentes",
+        "Necesita entre 6 y 12 meses de mentoría en arquitectura de datos"
+      ]
+    },
+    "DAR-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Diseño de modelos relacionales normalizados para un dominio acotado",
+        "Construcción de esquemas en estrella y copo de nieve para informes",
+        "Documentación de mapeos origen-destino para integraciones básicas",
+        "Aplicación de convenciones de nomenclatura y estándares de modelado",
+        "Registro de linaje a nivel de tabla en el catálogo",
+        "Manejo de dimensiones de variación lenta tipo 1 y tipo 2",
+        "Nociones de zonificación de un data lake (bruto, curado)"
+      ],
+      "complementaryCompetencies": [
+        "Fundamentos de optimización SQL: índices y planes de ejecución",
+        "Familiaridad con un data warehouse en la nube (BigQuery, Snowflake, Redshift)",
+        "Nociones de ingesta basada en APIs"
+      ],
+      "indicators": [
+        "Diseña esquemas simples con supervisión",
+        "Mantiene la documentación y los diagramas de los modelos",
+        "Implementa modelos dimensionales bajo revisión"
+      ]
+    },
+    "DAR-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de modelos dimensionales Kimball para varios procesos de negocio",
+        "Aplicación de dimensiones conformadas y matriz de bus entre data marts",
+        "Introducción de Data Vault (hubs, links y satélites) para el raw vault",
+        "Diseño de zonas de lakehouse y formatos de tabla (Delta, Iceberg)",
+        "Definición de linaje a nivel de columna y captura de metadatos en el catálogo",
+        "Evaluación de estrategias de particionado y clustering para el rendimiento",
+        "Documentación de contratos de datos entre productores y consumidores"
+      ],
+      "complementaryCompetencies": [
+        "Nociones de ingesta en streaming (Kafka, CDC)",
+        "Familiaridad con orquestación (Airflow, dbt)",
+        "Sensibilidad a la clasificación RGPD de atributos sensibles"
+      ],
+      "indicators": [
+        "Diseña modelos de extremo a extremo para un dominio con revisión ligera",
+        "Contribuye a los estándares y convenciones de modelado",
+        "Lidera tareas de arquitectura de alcance reducido"
+      ]
+    },
+    "DAR-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Responsable de la arquitectura de datos de un dominio de negocio de extremo a extremo",
+        "Elección entre modelado dimensional Kimball y Data Vault según el caso de uso",
+        "Diseño de arquitecturas lakehouse con capas medallion y formatos de tabla abiertos",
+        "Definición de contratos de datos, esquemas y versionado entre equipos",
+        "Establecimiento de prácticas de catálogo, linaje y gestión de metadatos",
+        "Modelado de compromisos de coste y rendimiento (almacenamiento, cómputo, TCO)",
+        "Orientación de decisiones comprar o construir para herramientas de ingesta y almacenamiento"
+      ],
+      "complementaryCompetencies": [
+        "Patrones de arquitectura en tiempo real y streaming",
+        "Diseño de feature store para consumo de aprendizaje automático",
+        "Modelado conforme al RGPD: seudonimización y retención"
+      ],
+      "indicators": [
+        "Lidera la arquitectura de un dominio y tutoriza a arquitectos junior",
+        "Define estándares de modelado adoptados por varios equipos",
+        "Revisa y aprueba diseños de otros ingenieros"
+      ]
+    },
+    "DAR-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño de plataformas de datos empresariales que abarcan varios dominios",
+        "Introducción de principios de data mesh: propiedad por dominio y productos de datos",
+        "Estandarización de patrones Data Vault y dimensionales en el almacén",
+        "Definición de la capa semántica y de métricas como contrato compartido",
+        "Gobierno de catálogo, linaje y contratos de datos a escala de plataforma",
+        "Liderazgo de decisiones comprar o construir y multinube con análisis de TCO documentado",
+        "Establecimiento de la arquitectura de recuperación ante desastres y retención"
+      ],
+      "complementaryCompetencies": [
+        "Patrones de virtualización y federación de datos",
+        "Arquitecturas que preservan la privacidad para datos regulados",
+        "Observabilidad de plataforma e ingeniería de fiabilidad de datos"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de plataformas consumidas por múltiples equipos",
+        "Define la hoja de ruta técnica de arquitectura de datos",
+        "Lidera migraciones y modernizaciones de plataforma"
+      ]
+    },
+    "DAR-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Arquitectura de la plataforma de datos de una unidad de negocio o línea de producto",
+        "Establecimiento de gobernanza federada y estándares de productos de datos entre dominios",
+        "Diseño de la capa semántica y el almacén de métricas como fuente de verdad",
+        "Definición de la estrategia de linaje, contratos y catálogo a escala de organización",
+        "Liderazgo de FinOps de datos: imputación de costes, TCO y programas de eficiencia",
+        "Arquitectura de almacenamiento a escala de petabytes y replicación entre regiones",
+        "Liderazgo y mentoría de un grupo de arquitectos de datos"
+      ],
+      "complementaryCompetencies": [
+        "Estándares de interoperabilidad entre plataformas heterogéneas",
+        "Arquitectura de compartición de datos y marketplace",
+        "Prácticas sostenibles y eficientes de plataforma de datos"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de plataformas para varios productos o dominios",
+        "Fija la estrategia de arquitectura a largo plazo de la organización",
+        "Resuelve compromisos de arquitectura entre equipos"
+      ]
+    },
+    "DAR-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia plurianual de arquitectura de datos de la empresa",
+        "Establecimiento del modelo operativo de data mesh y propiedad por dominio",
+        "Estandarización de la capa semántica, el catálogo y los contratos empresariales",
+        "Gobierno de la estrategia comprar o construir, de proveedores y multinube con disciplina de TCO",
+        "Definición de la arquitectura de gobernanza, privacidad y residencia entre regiones",
+        "Equilibrio entre hojas de ruta de modernización, deuda técnica y coste",
+        "Representación de la arquitectura de datos en la planificación ejecutiva transversal"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en los estándares internos de arquitectura y modelos de referencia",
+        "Orientación de la arquitectura de integración de datos en fusiones y adquisiciones",
+        "Mentoría de arquitectos principales y staff"
+      ],
+      "indicators": [
+        "Fija la dirección corporativa de arquitectura de datos",
+        "Arbitra las decisiones de arquitectura de mayor impacto",
+        "Autoridad interna reconocida en arquitectura de datos"
+      ]
+    },
+    "DAR-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Responsable de la visión de arquitectura de datos empresarial en todos los dominios",
+        "Alineación de la estrategia de plataforma con la estrategia de negocio y producto",
+        "Definición de arquitecturas de referencia adoptadas en toda la empresa",
+        "Liderazgo de la estrategia de datos en fusiones, adquisiciones e integraciones",
+        "Establecimiento de estándares de gobernanza, contratos y linaje a escala empresarial",
+        "Definición de marcos de TCO, FinOps y comprar o construir para la inversión en datos",
+        "Patrocinio de centros de excelencia y gremios de arquitectura de datos"
+      ],
+      "complementaryCompetencies": [
+        "Configuración de relaciones con proveedores y tecnología externa",
+        "Contribución a estándares abiertos y modelos de referencia",
+        "Asesoría a la dirección sobre inversión en plataformas de datos"
+      ],
+      "indicators": [
+        "Define la arquitectura de datos entre unidades de negocio",
+        "Influye en la dirección de la disciplina de arquitectura",
+        "Autoridad técnica principal para plataformas de datos"
+      ]
+    },
+    "DAR-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Definición y ejecución de la visión y estrategia de la plataforma de datos empresarial",
+        "Alineación de la arquitectura de datos con la estrategia corporativa y la cuenta de resultados",
+        "Responsabilidad de la inversión plurianual y el TCO de la plataforma de datos",
+        "Construcción y liderazgo de la organización de arquitectura de datos",
+        "Gobierno de la arquitectura de privacidad, residencia y cumplimiento a escala global",
+        "Definición del modelo operativo de dominios, contratos y productos de datos",
+        "Establecimiento de la estrategia de arquitectura de proveedores, multinube y alianzas"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en las prácticas y estándares de arquitectura de datos del sector",
+        "Dirección de alianzas tecnológicas estratégicas",
+        "Impulso del talento y la sucesión en arquitectura"
+      ],
+      "indicators": [
+        "Responsable de la estrategia de plataforma de datos empresarial",
+        "Ejecuta la visión de arquitectura de datos a largo plazo",
+        "Líder reconocido en arquitectura de datos"
+      ]
+    }
+  }
+}

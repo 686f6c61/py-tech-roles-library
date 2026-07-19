@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Operaciones de Seguridad",
+  "category": "Seguridad",
+  "levels": {
+    "SOE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de cómo un centro de operaciones de seguridad monitoriza y responde a las amenazas",
+        "Conocimiento elemental de un SIEM y de cómo se presentan los eventos y las alertas",
+        "Capacidad de vigilar una cola de alertas y señalar eventos relevantes bajo supervisión",
+        "Conocimiento básico del ciclo de gestión de incidentes desde la detección hasta el cierre",
+        "Capacidad de clasificar alertas de baja severidad siguiendo un manual proporcionado",
+        "Comprensión de las fuentes de eventos habituales como registros de endpoint, red y autenticación",
+        "Documentación de alertas e incidentes con cronologías claras",
+        "Conocimiento elemental de conceptos de análisis forense y manejo de evidencias"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con el instrumental habitual de un SOC y los sistemas de tickets",
+        "Conocimiento básico de redes TCP/IP y protocolos comunes",
+        "Comprensión elemental del comportamiento del software malicioso y sus indicadores"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Vigila y señala alertas básicas dentro del alcance definido",
+        "Está construyendo competencias fundamentales de operaciones de seguridad"
+      ]
+    },
+    "SOE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de responder a incidentes mediante contención y recuperación con supervisión ligera",
+        "Implementación de casos de uso de monitorización y cuadros de mando en el SIEM",
+        "Conocimiento práctico de un SIEM y un SOAR para correlación y respuesta automatizada",
+        "Capacidad de ejecutar búsquedas de amenazas básicas a partir de una hipótesis",
+        "Comprensión del análisis de registros para reconstruir lo ocurrido durante una alerta",
+        "Capacidad de contener un equipo o una cuenta comprometidos siguiendo el procedimiento",
+        "Conocimiento de los manuales de respuesta a incidentes y de cuándo aplicarlos",
+        "Capacidad de escalar incidentes con el contexto adecuado a analistas senior"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento del instrumental de detección y respuesta en endpoints",
+        "Capacidad de escribir scripts para enriquecer alertas y automatizar tareas pequeñas",
+        "Comprensión de las fuentes de inteligencia de amenazas y los indicadores de compromiso"
+      ],
+      "indicators": [
+        "Responde a incidentes con supervisión en los puntos de decisión",
+        "Ejecuta manuales de respuesta de forma fiable",
+        "Aporta hallazgos a las labores de búsqueda de amenazas"
+      ]
+    },
+    "SOE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de una cobertura de monitorización que asocia las fuentes de registro con las amenazas relevantes",
+        "Implementación y ajuste de reglas de detección para reducir los falsos positivos",
+        "Dominio del proceso de respuesta a incidentes a lo largo de todo el ciclo de vida",
+        "Capacidad de realizar búsquedas proactivas de amenazas sobre datos de endpoint y red",
+        "Capacidad de efectuar análisis forense de equipos y registros para determinar la causa raíz",
+        "Conocimiento profundo de las técnicas de los atacantes asociadas al marco MITRE ATT&CK",
+        "Implementación de manuales de SOAR que automatizan el enriquecimiento y la respuesta",
+        "Capacidad de definir y seguir métricas del SOC como el tiempo medio de detección y de respuesta"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de análisis de software malicioso para extraer indicadores de comportamiento",
+        "Capacidad de producir inteligencia de amenazas accionable a partir de los incidentes",
+        "Comprensión de las fuentes de inteligencia de amenazas cibernéticas y su fiabilidad"
+      ],
+      "indicators": [
+        "Lidera la respuesta en incidentes concretos",
+        "Diseña y ajusta la lógica de detección",
+        "Mentoriza a analistas junior en clasificación e investigación"
+      ]
+    },
+    "SOE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de las operaciones del SOC, incluidos instrumental, niveles de dotación y flujos de trabajo",
+        "Diseño de una estrategia de respuesta a incidentes con severidades y rutas de escalado definidas",
+        "Implementación de un programa estructurado de búsqueda de amenazas con hipótesis repetibles",
+        "Dominio del análisis forense avanzado sobre artefactos de memoria, disco y red",
+        "Capacidad de construir orquestación de seguridad que conecta detección, enriquecimiento y respuesta",
+        "Conocimiento profundo de las tácticas de amenazas persistentes avanzadas y de cómo detectarlas",
+        "Capacidad de coordinar la respuesta de crisis durante incidentes importantes",
+        "Liderazgo de incidentes de seguridad relevantes desde la detección hasta la recuperación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia gestionando brechas importantes bajo presión",
+        "Conocimiento del modo de operar de los actores de amenaza y de sus campañas",
+        "Implementación de automatización para reducir el trabajo repetitivo de los analistas"
+      ],
+      "indicators": [
+        "Define los procedimientos y la estrategia operativa del SOC",
+        "Lidera la respuesta a incidentes importantes",
+        "Es referente técnico en operaciones de seguridad"
+      ]
+    },
+    "SOE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de una función de operaciones de seguridad que abarca detección y respuesta",
+        "Diseño de la plataforma del SOC y de su instrumental de detección y respuesta",
+        "Gestión de equipos de analistas del SOC en distintos turnos y niveles",
+        "Definición de los procedimientos de respuesta a incidentes y de los estándares de ingeniería de detecciones",
+        "Capacidad de dirigir un programa de inteligencia de amenazas que orienta las prioridades de detección",
+        "Implementación de automatización que escala la monitorización y la respuesta",
+        "Dominio de las métricas del SOC y de los informes que demuestran su eficacia",
+        "Comunicación del riesgo operativo y el impacto de los incidentes a responsables senior"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia dirigiendo operaciones continuas ininterrumpidas",
+        "Conocimiento de los modelos de proveedores de servicios de seguridad gestionados",
+        "Gestión del presupuesto del instrumental de detección y respuesta"
+      ],
+      "indicators": [
+        "Gestiona el equipo del SOC y su rendimiento",
+        "Define la visión de las operaciones de seguridad",
+        "Representa el SOC ante la dirección ejecutiva"
+      ]
+    },
+    "SOE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de la estrategia de operaciones de seguridad en toda la organización",
+        "Gestión de operaciones de seguridad a escala en varias regiones y unidades de negocio",
+        "Definición de la arquitectura del SOC y de la práctica de ingeniería de detecciones",
+        "Liderazgo de los esfuerzos de modernización y transformación del SOC",
+        "Gestión de incidentes de seguridad importantes con impacto en toda la organización",
+        "Implementación de un modelo de SOC distribuido o de cobertura continua entre husos horarios",
+        "Innovación en la ingeniería de detecciones y en la metodología de búsqueda de amenazas",
+        "Gestión de la capacidad de inteligencia de amenazas y de su integración"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia diseñando centros de operaciones de seguridad desde cero",
+        "Conocimiento de dónde invertir entre personas, procesos e instrumental",
+        "Liderazgo dentro de la comunidad de operaciones de seguridad"
+      ],
+      "indicators": [
+        "Dirige la función de operaciones de seguridad",
+        "Participa en la estrategia de seguridad ejecutiva",
+        "Decide dónde se invierte en operaciones de seguridad"
+      ]
+    },
+    "SOE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de las operaciones de seguridad en una empresa grande",
+        "Diseño de un modelo operativo global de SOC que abarca regiones y regulaciones",
+        "Transformación de la respuesta a incidentes en una capacidad resiliente y bien ensayada",
+        "Gestión de las operaciones de seguridad en una organización grande y distribuida",
+        "Creación de una cultura operativa centrada en la detección e informada por amenazas",
+        "Definición de la hoja de ruta plurianual de las capacidades de operaciones de seguridad",
+        "Comunicación de la postura operativa de seguridad y de los incidentes graves a la junta directiva",
+        "Influencia en cómo el sector opera la seguridad moderna"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos considerables de operaciones de seguridad",
+        "Experiencia dirigiendo centros de operaciones de seguridad globales y multisede",
+        "Liderazgo dentro de la comunidad de seguridad más amplia"
+      ],
+      "indicators": [
+        "Depende del director de seguridad de la información",
+        "Dirige una organización grande de operaciones de seguridad",
+        "Define la estrategia de operaciones de seguridad de la empresa"
+      ]
+    },
+    "SOE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de cómo las operaciones de seguridad detectan y responden a amenazas cambiantes",
+        "Liderazgo de la transformación del SOC como disciplina transversal",
+        "Creación de una ventaja en detección mediante mejor ingeniería e inteligencia",
+        "Gestión del ecosistema de herramientas, fuentes y socios que sostienen las operaciones",
+        "Innovación en búsqueda de amenazas y detección que hace avanzar el campo",
+        "Definición de prácticas de SOC de nueva generación para la organización",
+        "Impulso de una defensa proactiva e informada por amenazas en la dirección",
+        "Influencia en la política interna de seguridad fundamentada en evidencia operativa"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia dando forma a las operaciones de seguridad en grandes organizaciones tecnológicas",
+        "Relaciones de asesoría con empresas emergentes y proveedores de operaciones de seguridad",
+        "Autoridad técnica reconocida en operaciones de seguridad"
+      ],
+      "indicators": [
+        "Forma parte del equipo de liderazgo de seguridad",
+        "Marca el rumbo de las operaciones de seguridad en toda la empresa",
+        "Es líder reconocido en el campo de las operaciones de seguridad"
+      ]
+    },
+    "SOE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario de las operaciones de seguridad como capacidad defensiva esencial",
+        "Transformación de cómo la empresa detecta y responde a las amenazas",
+        "Definición de un modelo operativo proactivo e informado por amenazas",
+        "Establecimiento de la monitorización continua y la respuesta rápida como práctica predeterminada",
+        "Innovación en detección y respuesta que da forma a la práctica del sector",
+        "Defensa de las operaciones de seguridad como motor de resiliencia medible",
+        "Arquitectura del programa global de detección y respuesta de la organización",
+        "Influencia en los estándares de operaciones de seguridad más allá de la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando las operaciones de seguridad a escala empresarial",
+        "Reconocimiento como figura destacada de las operaciones de seguridad",
+        "Influencia en la práctica y la cultura de la defensa moderna"
+      ],
+      "indicators": [
+        "Lidera las operaciones de seguridad a nivel ejecutivo",
+        "Marca el rumbo a largo plazo de la disciplina",
+        "Es considerado una autoridad en operaciones de seguridad"
+      ]
+    }
+  }
+}

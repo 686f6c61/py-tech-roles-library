@@ -1,0 +1,266 @@
+{
+  "role": "Technical Writer",
+  "category": "Product",
+  "levels": {
+    "TW-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of clear and concise writing",
+        "Elementary knowledge of documentation types and formats",
+        "Ability to write simple how-to guides and instructions",
+        "Basic understanding of Markdown and structured text",
+        "Familiarity with version control using Git",
+        "Elementary knowledge of grammar and style guides",
+        "Basic understanding of the target audience concept",
+        "Ability to edit and proofread existing documentation"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of screenshots and diagram tools",
+        "Familiarity with a documentation platform or wiki",
+        "Elementary understanding of software development basics"
+      ],
+      "indicators": [
+        "Requires constant supervision in writing tasks",
+        "Can update and correct existing documentation",
+        "Needs 3-6 months of mentoring in technical writing"
+      ]
+    },
+    "TW-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to write complete user guides and tutorials",
+        "Practical knowledge of documenting REST APIs",
+        "Ability to structure content with clear headings and flow",
+        "Understanding of docs-as-code workflows and Git",
+        "Ability to gather information from developers and specs",
+        "Knowledge of style guides and consistent terminology",
+        "Understanding of basic information architecture",
+        "Ability to create diagrams and visual aids",
+        "Ability to review documentation pull requests"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with static site generators for docs",
+        "Ability to read basic code and configuration files",
+        "Understanding of localization considerations"
+      ],
+      "indicators": [
+        "Can produce documentation sets with supervision",
+        "Resolves common clarity and consistency issues",
+        "Maintains existing documentation effectively"
+      ]
+    },
+    "TW-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of API reference and developer documentation",
+        "Ability to design information architecture for documentation sets",
+        "Ability to implement docs-as-code pipelines with CI/CD",
+        "Deep knowledge of content structure and topic-based authoring",
+        "Ability to create onboarding and conceptual documentation",
+        "Solid understanding of audience analysis and content strategy",
+        "Ability to establish and enforce style and terminology standards",
+        "Knowledge of documentation testing and link validation",
+        "Ability to measure documentation quality and usage"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of OpenAPI and automated reference generation",
+        "Ability to work with content management systems",
+        "Understanding of accessibility in documentation"
+      ],
+      "indicators": [
+        "Owns documentation for a product area end-to-end",
+        "Significantly improves clarity and findability",
+        "Contributes to documentation standards and templates"
+      ]
+    },
+    "TW-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design scalable documentation architectures",
+        "Mastery of docs-as-code tooling and automation",
+        "Ability to establish content strategy and governance",
+        "Deep knowledge of structured authoring and content reuse",
+        "Ability to build style guides and terminology governance",
+        "Mastery of API and SDK documentation across products",
+        "Ability to design self-service documentation experiences",
+        "Knowledge of localization and translation workflows",
+        "Ability to define and track documentation metrics"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of interactive and executable documentation",
+        "Ability to integrate documentation into developer workflows",
+        "Understanding of AI-assisted documentation tools"
+      ],
+      "indicators": [
+        "Leads complex documentation projects",
+        "Defines documentation standards and practices",
+        "Mentors junior technical writers"
+      ]
+    },
+    "TW-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise documentation systems",
+        "Ability to design content platforms for the whole organization",
+        "Mastery of large-scale information architecture",
+        "Ability to implement content quality and governance frameworks",
+        "Deep knowledge of docs-as-code at scale and automation",
+        "Ability to define documentation standards and SLAs",
+        "Expertise in content operations and workflow design",
+        "Mastery of terminology management and localization at scale",
+        "Ability to design certified and trusted documentation sets"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of content APIs and headless documentation",
+        "Ability to lead documentation analytics programs",
+        "Understanding of AI content generation and review"
+      ],
+      "indicators": [
+        "Architects enterprise documentation solutions",
+        "Leads documentation platform migrations",
+        "Defines the documentation technical roadmap"
+      ]
+    },
+    "TW-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect global documentation ecosystems",
+        "Expertise in content as a product and docs as a service",
+        "Mastery of information architecture at organizational scale",
+        "Ability to implement complete documentation observability",
+        "Deep knowledge of content operations economics and efficiency",
+        "Ability to design self-service documentation at scale",
+        "Expertise in federated documentation ownership models",
+        "Mastery of content quality, trust and certification programs",
+        "Ability to lead documentation and content teams"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AI-driven documentation and semantic search",
+        "Ability to drive documentation adoption across teams",
+        "Understanding of sustainable content practices"
+      ],
+      "indicators": [
+        "Architects documentation platforms for multiple products",
+        "Leads organizational content transformation",
+        "Defines long-term documentation strategy"
+      ]
+    },
+    "TW-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in enterprise content democratization",
+        "Ability to design content platforms and knowledge exchanges",
+        "Expertise in self-service documentation platforms at scale",
+        "Mastery of enterprise knowledge and terminology frameworks",
+        "Ability to implement federated content models at global scale",
+        "Deep knowledge of content regulatory and compliance needs",
+        "Expertise in content value measurement and ROI",
+        "Ability to define content practices across the company",
+        "Mastery of innovation in documentation tooling and methods"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence documentation industry standards",
+        "Ability to build documentation platforms as products",
+        "Knowledge of emerging content ecosystem trends"
+      ],
+      "indicators": [
+        "Defines corporate content and documentation strategy",
+        "Leads external technical writing communities",
+        "Recognized thought leader in technical communication"
+      ]
+    },
+    "TW-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of technical communication",
+        "Ability to lead multi-product technical content strategy",
+        "Expertise in documentation strategy for product integrations and consolidations",
+        "Mastery of building documentation standards and systems across the organization",
+        "Ability to define docs-as-code governance at organizational scale",
+        "Deep knowledge of measuring documentation impact on support and adoption",
+        "Expertise in strategic content partnerships and tooling decisions",
+        "Ability to lead open source documentation projects",
+        "Mastery of inclusive and responsible content practices"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape technical communication methodologies",
+        "Ability to advise on content platform investments",
+        "Knowledge of investment in content technology"
+      ],
+      "indicators": [
+        "Defines content architecture for complex multi-product organizations",
+        "Influences the direction of the technical communication discipline",
+        "Principal speaker at global conferences"
+      ]
+    },
+    "TW-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in content and documentation strategy",
+        "Ability to turn documentation into a business differentiator",
+        "Expertise in scaling documentation programs across the organization",
+        "Mastery of planning documentation team budgets and staffing",
+        "Ability to build and lead distributed documentation teams",
+        "Deep knowledge of content governance and compliance",
+        "Expertise in cross-organization documentation collaboration and standards",
+        "Ability to establish a documentation quality culture across engineering",
+        "Mastery of innovation and R&D in technical communication"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence content standards and regulation",
+        "Ability to create content ecosystems",
+        "Knowledge of content investment strategies"
+      ],
+      "indicators": [
+        "Defines and executes the enterprise content vision",
+        "Responsible for corporate content strategy",
+        "Recognized leader in the global technical communication industry"
+      ]
+    }
+  }
+}

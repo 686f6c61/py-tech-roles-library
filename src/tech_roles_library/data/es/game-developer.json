@@ -1,0 +1,258 @@
+{
+  "role": "Desarrollador de Videojuegos",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "GD-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de bucles de juego y mecánicas",
+        "Comprensión elemental de físicas de juegos",
+        "Habilidad para programación simple de jugabilidad",
+        "Conocimiento básico de gráficos 2D y 3D",
+        "Capacidad de usar motores de juegos básicos",
+        "Comprensión de manejo de entradas",
+        "Conocimiento elemental de estados de juego",
+        "Habilidad para depuración básica de juegos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con recursos y sprites",
+        "Conocimiento básico de diseño de niveles",
+        "Comprensión elemental de inteligencia artificial de juegos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Implementa mecánicas simples con guía",
+        "Está aprendiendo desarrollo de juegos"
+      ]
+    },
+    "GD-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar sistemas completos de jugabilidad",
+        "Desarrollo de controladores de personajes",
+        "Conocimiento práctico de detección de colisiones",
+        "Habilidad para interfaz de usuario y experiencia de usuario de juegos",
+        "Implementación de sistemas de guardado y carga",
+        "Comprensión de algoritmos de búsqueda de caminos",
+        "Capacidad de integración de audio",
+        "Conocimiento de sistemas de partículas"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo básico para móviles",
+        "Conocimiento de programación simple de sombreadores",
+        "Habilidad para multijugador local"
+      ],
+      "indicators": [
+        "Desarrolla funcionalidades de juego con supervisión",
+        "Implementa mecánicas estándar",
+        "Optimiza rendimiento básico"
+      ]
+    },
+    "GD-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas de juego complejas",
+        "Implementación de comportamientos avanzados de inteligencia artificial",
+        "Dominio de programación gráfica",
+        "Capacidad de redes para multijugador",
+        "Habilidad para generación procedural",
+        "Conocimiento profundo de técnicas de optimización",
+        "Implementación de sistemas de monetización",
+        "Diseño de herramientas y editores personalizados"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de juegos de realidad virtual y aumentada",
+        "Conocimiento de servicios de backend para juegos",
+        "Habilidad para desarrollo multiplataforma"
+      ],
+      "indicators": [
+        "Diseña sistemas de juego completos",
+        "Lidera desarrollo de funcionalidades complejas",
+        "Mentoriza en mejores prácticas"
+      ]
+    },
+    "GD-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de motores de juegos propios",
+        "Diseño de infraestructura para juegos multijugador masivos",
+        "Implementación de técnicas avanzadas de renderizado",
+        "Dominio de optimización en tiempo real",
+        "Capacidad de liderar dirección técnica",
+        "Conocimiento profundo de optimización específica de plataforma",
+        "Habilidad para arquitectura de operaciones en vivo",
+        "Liderazgo en diseño técnico de juegos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en desarrollo para consolas",
+        "Conocimiento de juegos en la nube",
+        "Implementación de sistemas antitrampas"
+      ],
+      "indicators": [
+        "Define arquitectura técnica de proyectos AAA",
+        "Lidera equipos técnicos de juegos",
+        "Es referente en tecnología de juegos"
+      ]
+    },
+    "GD-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en producción de juegos",
+        "Diseño de flujos de desarrollo completos",
+        "Gestión de equipos multidisciplinarios",
+        "Definición de hojas de ruta técnicas",
+        "Capacidad de investigación y desarrollo en nuevas tecnologías",
+        "Implementación de metodologías ágiles para juegos",
+        "Dominio de estrategias posteriores al lanzamiento",
+        "Adopción de nuevas tecnologías de motor y herramientas en los equipos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en portabilidad de juegos",
+        "Conocimiento de juegos con cadena de bloques",
+        "Gestión de desarrollo externo"
+      ],
+      "indicators": [
+        "Gestiona múltiples equipos de desarrollo",
+        "Define visión técnica del estudio",
+        "Representa tecnología ante editores"
+      ]
+    },
+    "GD-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección técnica de estudios de juegos",
+        "Estrategia tecnológica multiproyecto",
+        "Gestión de presupuestos técnicos grandes",
+        "Definición de pila tecnológica del estudio",
+        "Liderazgo en desarrollo de nueva generación",
+        "Gestión de alianzas tecnológicas",
+        "Innovación en procesos de desarrollo de juegos",
+        "Definición de estándares de calidad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en franquicias de juegos",
+        "Conocimiento de infraestructura de deportes electrónicos",
+        "Liderazgo en iniciativas de la industria de juegos"
+      ],
+      "indicators": [
+        "Dirige departamento técnico (más de 20 personas)",
+        "Participa en decisiones estratégicas del estudio",
+        "Define tecnología para múltiples títulos"
+      ]
+    },
+    "GD-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en tecnología de juegos",
+        "Diseño de estrategias tecnológicas multiestudio",
+        "Transformación de procesos de producción",
+        "Gestión de innovación a escala industrial",
+        "Creación de tecnología propietaria",
+        "Definición del futuro del desarrollo de juegos",
+        "Presentación de la estrategia técnica ante inversores y juntas directivas",
+        "Influencia en dirección de la industria"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de licencias de tecnología de juegos",
+        "Experiencia en desarrollo de metaverso",
+        "Liderazgo en consorcios tecnológicos"
+      ],
+      "indicators": [
+        "Depende de director ejecutivo o junta directiva",
+        "Gestiona organizaciones técnicas (más de 50 personas)",
+        "Define estrategia tecnológica corporativa"
+      ]
+    },
+    "GD-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del futuro de los videojuegos",
+        "Liderazgo en transformación del entretenimiento digital",
+        "Definición de nuevos modelos de jugabilidad y producción",
+        "Gestión de portafolios tecnológicos masivos",
+        "Avance de las tecnologías de experiencias interactivas",
+        "Definición de estándares de industria",
+        "Evaluación y adopción de nuevas plataformas de videojuegos",
+        "Influencia en políticas globales de videojuegos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de tecnología en editores AAA",
+        "Asesoría en múltiples estudios de juegos",
+        "Creación de motores de juegos comerciales"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia tecnológica de editor",
+        "Es líder de pensamiento en tecnología de juegos"
+      ]
+    },
+    "GD-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro del entretenimiento interactivo",
+        "Transformación de cómo la humanidad juega",
+        "Creación de nuevos medios de expresión",
+        "Definición de realidades virtuales masivas",
+        "Innovación en simbiosis humano-juego",
+        "Posicionamiento de los videojuegos como medio cultural",
+        "Arquitecto de metaversos y mundos virtuales",
+        "Influencia en evolución del ocio digital"
+      ],
+      "complementaryCompetencies": [
+        "Creador de géneros de juego revolucionarios",
+        "Reconocimiento como leyenda de la industria",
+        "Influencia en generaciones de desarrolladores"
+      ],
+      "indicators": [
+        "Es una autoridad reconocida en tecnología de videojuegos y dirección creativa",
+        "Define futuro del entretenimiento digital",
+        "Es ícono de la industria del videojuego"
+      ]
+    }
+  }
+}

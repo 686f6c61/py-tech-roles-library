@@ -1,0 +1,258 @@
+{
+  "role": "Accessibility Specialist",
+  "category": "Design",
+  "levels": {
+    "ACC-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of web accessibility and its purpose",
+        "Familiarity with the WCAG 2.2 principles and conformance levels",
+        "Ability to run automated accessibility checks under supervision",
+        "Elementary knowledge of assistive technologies such as screen readers",
+        "Support in documenting accessibility issues found in a product",
+        "Understanding of semantic HTML and its role in accessibility",
+        "Ability to check colour contrast against WCAG thresholds",
+        "Awareness of keyboard navigation requirements"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with browser accessibility inspection tools",
+        "Basic knowledge of ARIA roles and attributes",
+        "Understanding of accessibility in design tools such as Figma"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Assists in documenting accessibility issues",
+        "Is learning accessibility fundamentals"
+      ]
+    },
+    "ACC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Execution of accessibility audits against WCAG 2.2 success criteria",
+        "Manual testing with screen readers such as NVDA or VoiceOver",
+        "Verification of keyboard operability and focus management",
+        "Documentation of findings with severity and remediation guidance",
+        "Application of ARIA patterns to common interface components",
+        "Support in reviewing designs for accessibility before build",
+        "Testing of colour contrast and text resizing requirements",
+        "Collaboration with developers to fix accessibility defects"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with the EN 301 549 standard",
+        "Knowledge of accessibility testing in the browser developer tools",
+        "Understanding of responsive and zoom accessibility"
+      ],
+      "indicators": [
+        "Works with regular supervision",
+        "Runs accessibility audits for a component",
+        "Contributes remediation guidance to developers"
+      ]
+    },
+    "ACC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Ownership of accessibility audits for a product area against WCAG 2.2",
+        "Testing across assistive technologies including screen readers and magnifiers",
+        "Design and validation of accessible interface components and patterns",
+        "Definition of accessible name, role and state for custom widgets",
+        "Guidance to designers on accessible colour, layout and interaction",
+        "Contribution of accessible components to the design system",
+        "Preparation of accessibility conformance documentation",
+        "Training of developers on common accessibility fixes"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of EN 301 549 and its mapping to WCAG",
+        "Familiarity with accessibility checks in the CI pipeline",
+        "Understanding of cognitive accessibility considerations"
+      ],
+      "indicators": [
+        "Works with occasional supervision",
+        "Owns accessibility for a product area",
+        "Mentors trainees on testing and remediation"
+      ]
+    },
+    "ACC-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Autonomous ownership of accessibility conformance for a product",
+        "Design of accessible patterns embedded in the design system",
+        "Leadership of assistive technology testing across screen readers and devices",
+        "Integration of automated accessibility checks into CI and QA gates",
+        "Definition of the accessibility acceptance criteria for features",
+        "Preparation of conformance reports aligned with EN 301 549",
+        "Training of design and engineering teams on accessible practices",
+        "Advising on European Accessibility Act obligations for the product"
+      ],
+      "complementaryCompetencies": [
+        "Experience with accessibility metrics and defect tracking",
+        "Knowledge of accessible document and media requirements",
+        "Ability to translate audit findings into engineering work"
+      ],
+      "indicators": [
+        "Works autonomously",
+        "Owns accessibility conformance for a product",
+        "Is a reference for accessibility practices"
+      ]
+    },
+    "ACC-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Ownership of the accessibility programme across a product line",
+        "Definition of accessible component standards for the design system",
+        "Governance of assistive technology testing coverage and tooling",
+        "Embedding of accessibility gates across the development lifecycle",
+        "Definition of accessibility metrics and conformance reporting",
+        "Leadership of European Accessibility Act readiness for the product",
+        "Establishment of accessibility training programmes for teams",
+        "Mentoring of specialists on auditing and remediation"
+      ],
+      "complementaryCompetencies": [
+        "Experience with accessibility statements and conformance evidence",
+        "Knowledge of procurement and third-party accessibility requirements",
+        "Understanding of accessibility for complex data and interactions"
+      ],
+      "indicators": [
+        "Is fully autonomous and expert",
+        "Owns the accessibility programme for a product line",
+        "Leads accessibility standards across teams"
+      ]
+    },
+    "ACC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Leadership of the accessibility function across products",
+        "Definition of the accessibility strategy and conformance targets",
+        "Governance of accessible components in the design system as a standard",
+        "Integration of accessibility across design, engineering and QA",
+        "Ownership of European Accessibility Act and EN 301 549 compliance",
+        "Definition of accessibility metrics and reporting for leadership",
+        "Building an accessibility-first culture across product teams",
+        "Mentoring and growth of accessibility specialists"
+      ],
+      "complementaryCompetencies": [
+        "Experience scaling accessibility practices across an organization",
+        "Knowledge of hiring and building accessibility teams",
+        "Management of external accessibility audits and certification"
+      ],
+      "indicators": [
+        "Leads the accessibility function across products",
+        "Defines the accessibility strategy and targets",
+        "Influences accessibility practices organization-wide"
+      ]
+    },
+    "ACC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Strategic direction of the accessibility programme across the organization",
+        "Definition of the accessibility conformance and compliance roadmap",
+        "Governance of accessibility across products and the design system",
+        "Alignment of accessibility with regulatory obligations and business goals",
+        "Leadership of European Accessibility Act compliance at organizational scale",
+        "Innovation in accessibility testing and automation approaches",
+        "Advising leadership on accessibility risk and legal exposure",
+        "Definition of the multi-year accessibility maturity roadmap"
+      ],
+      "complementaryCompetencies": [
+        "Experience influencing accessibility standards and communities",
+        "Knowledge of accessibility investment prioritization",
+        "Leadership of cross-functional accessibility programmes"
+      ],
+      "indicators": [
+        "Directs accessibility at organizational scale",
+        "Participates in product and compliance strategy",
+        "Is a recognized authority in accessibility"
+      ]
+    },
+    "ACC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for accessibility as a core product principle",
+        "Leadership of accessibility transformation at scale",
+        "Definition of the organization's long-term accessibility standards",
+        "Positioning of inclusive design as a competitive advantage",
+        "Governance of accessibility compliance across complex ecosystems",
+        "Advancement of accessible component and testing practices",
+        "Influence on product strategy through inclusive design insight",
+        "Embedding of an accessibility-first culture across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience as an accessibility leader in scale-ups",
+        "Advisory on accessibility compliance and inclusive design",
+        "Thought leadership in digital accessibility"
+      ],
+      "indicators": [
+        "Sets the direction of accessibility across the organization",
+        "Defines accessibility strategy at the highest level",
+        "Is a recognized industry leader"
+      ]
+    },
+    "ACC-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership of accessibility at the executive level",
+        "Definition of the enterprise accessibility and inclusion strategy",
+        "Executive ownership of accessibility compliance and legal posture",
+        "Alignment of accessibility with corporate and product strategy",
+        "Transformation of the organization's culture towards inclusive design",
+        "Innovation in accessibility governance and standards adoption",
+        "Influence on accessibility regulation and industry standards",
+        "Accountability for accessibility across the entire product portfolio"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming accessibility in large organizations",
+        "Recognition as an accessibility leader at board level",
+        "Influence on global accessibility standards and education"
+      ],
+      "indicators": [
+        "Operates at VP or executive level for accessibility",
+        "Defines the future of inclusive design in the organization",
+        "Is a world authority in digital accessibility"
+      ]
+    }
+  }
+}

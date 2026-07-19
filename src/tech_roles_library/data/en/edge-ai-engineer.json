@@ -1,0 +1,258 @@
+{
+  "role": "Edge AI Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "EDGE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of running a neural network on a device instead of the cloud",
+        "Ability to convert a trained model to TFLite format following a guide",
+        "Elementary knowledge of measuring model size and inference time on a device",
+        "Ability to run a quantized model on a development board under supervision",
+        "Basic understanding of why edge devices have limited memory and compute",
+        "Ability to load and run an ONNX model with a runtime on a target device",
+        "Elementary knowledge of reading latency and memory profiles",
+        "Basic understanding of the difference between training and on-device inference"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of Python and C fundamentals",
+        "Familiarity with microcontrollers or single-board computers",
+        "Elementary understanding of model file formats"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can run existing conversion scripts with detailed guidance",
+        "Needs 3-6 months to be productive"
+      ]
+    },
+    "EDGE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to apply post-training INT8 quantization and check accuracy loss",
+        "Practical knowledge of converting models to TFLite, ONNX or CoreML",
+        "Ability to benchmark latency, memory and energy on a target device",
+        "Understanding of operator support and fallback when a layer is unsupported",
+        "Ability to run models on NPU or DSP accelerators through vendor runtimes",
+        "Knowledge of testing on-device accuracy against a reference dataset",
+        "Ability to reduce model size with basic pruning under guidance",
+        "Understanding of fixed-point versus floating-point arithmetic on devices"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of TinyML frameworks for microcontrollers",
+        "Familiarity with cross-compilation toolchains",
+        "Basic understanding of hardware datasheets for accelerators"
+      ],
+      "indicators": [
+        "Can deploy simple models to devices independently",
+        "Resolves medium complexity issues in conversion and quantization",
+        "Actively participates in code reviews"
+      ]
+    },
+    "EDGE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Ability to apply quantization-aware training to recover accuracy after INT8",
+        "Ability to combine pruning and distillation to fit tight memory budgets",
+        "Deep knowledge of TFLite, ONNX Runtime and CoreML deployment paths",
+        "Ability to profile and optimize models against latency and energy targets",
+        "Understanding of mapping operators onto NPU and DSP accelerators",
+        "Ability to build TinyML models that fit within kilobytes of memory",
+        "Knowledge of validating on-device behavior across hardware variants",
+        "Ability to instrument devices to collect latency and power measurements"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of over-the-air update mechanisms for model deployment",
+        "Ability to write efficient preprocessing for constrained devices",
+        "Basic understanding of thermal and battery constraints"
+      ],
+      "indicators": [
+        "Completes complex edge deployments with minimal supervision",
+        "Identifies and resolves failures in quantization and accelerator mapping",
+        "Actively contributes to technical design of edge systems"
+      ]
+    },
+    "EDGE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design edge inference architectures meeting strict latency and power budgets",
+        "Mastery of quantization strategies including QAT, mixed precision and per-channel scales",
+        "Ability to build pruning and distillation pipelines for model compression",
+        "Deep knowledge of NPU, DSP and GPU accelerators and their operator support",
+        "Ability to design over-the-air update flows for model rollout across devices",
+        "Mastery of TinyML deployment on microcontrollers with kilobyte memory",
+        "Ability to build automated benchmarking across a fleet of target devices",
+        "Knowledge of on-device monitoring for accuracy drift and performance regression"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of hardware-aware neural architecture search for edge targets",
+        "Ability to design fallback paths between accelerator and CPU execution",
+        "Understanding of secure boot and signed model updates"
+      ],
+      "indicators": [
+        "Leads development of critical edge components",
+        "Effectively mentors junior engineers",
+        "Makes informed architectural decisions on edge deployment"
+      ]
+    },
+    "EDGE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in designing production edge AI platforms across heterogeneous devices",
+        "Ability to architect scalable over-the-air model delivery to large device fleets",
+        "Mastery of compression pipelines combining quantization, pruning and distillation",
+        "Deep knowledge of accelerator toolchains and vendor-specific optimization",
+        "Ability to design staged rollouts with monitoring and rollback for edge models",
+        "Expertise in optimizing the accuracy, latency and energy trade-off on device",
+        "Ability to build fleet observability for latency, power and accuracy drift",
+        "Mastery of validation across hardware variants and firmware versions"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of federated learning and on-device personalization",
+        "Ability to design edge benchmarking suites from scratch",
+        "Understanding of certification and safety constraints for embedded devices"
+      ],
+      "indicators": [
+        "Designs edge architectures for complete products",
+        "Defines team technical standards for edge deployment",
+        "Leads cross-team initiatives on edge infrastructure"
+      ]
+    },
+    "EDGE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise edge AI platforms serving many device families",
+        "Expertise in governance frameworks for model updates across device fleets",
+        "Mastery of fleet-wide monitoring and continuous performance validation",
+        "Ability to lead hardware selection and accelerator partnerships for edge",
+        "Deep knowledge of security threats specific to on-device models and updates",
+        "Ability to lead migrations from cloud inference to edge deployment",
+        "Expertise in cost and power governance across large device fleets",
+        "Mastery of reliability engineering for intermittently connected devices"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging edge accelerators and TinyML ecosystems",
+        "Ability to design reusable compression and deployment toolchains",
+        "Understanding of regulatory constraints for connected embedded devices"
+      ],
+      "indicators": [
+        "Architects edge solutions for multiple teams",
+        "Influences organizational technical decisions on edge AI",
+        "Represents the company technically in the edge AI domain"
+      ]
+    },
+    "EDGE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership of organization-wide edge AI adoption",
+        "Ability to design edge architectures resilient to hardware and vendor change",
+        "Expertise in strategies for deploying models safely across millions of devices",
+        "Mastery of hardware-agnostic abstractions across accelerators and runtimes",
+        "Ability to define multi-year roadmaps for edge AI capabilities",
+        "Deep knowledge of the economics and total cost of edge deployment at scale",
+        "Expertise in building and scaling edge AI engineering teams",
+        "Ability to set standards for safe over-the-air model updates across the org"
+      ],
+      "complementaryCompetencies": [
+        "Ability to evaluate edge hardware and accelerator vendors technically",
+        "Knowledge of research trends in model compression and efficient inference",
+        "Ability to shape internal policy on device data and on-device processing"
+      ],
+      "indicators": [
+        "Defines organizational technical strategy for edge AI",
+        "Recognized as an authority in applied edge AI",
+        "Speaker at industry conferences on edge and embedded AI"
+      ]
+    },
+    "EDGE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Ability to set the long-term technical direction for edge AI in the organization",
+        "Expertise in aligning edge AI investment with product and hardware priorities",
+        "Mastery of technical due diligence for edge products and hardware acquisitions",
+        "Ability to anticipate shifts in accelerators and adapt deployment strategy",
+        "Deep knowledge of the risk and safety landscape for on-device AI",
+        "Ability to build and lead edge AI engineering organizations",
+        "Expertise in defining safe update and rollback practices at fleet scale",
+        "Ability to guide trade-offs between cloud, edge and hybrid inference"
+      ],
+      "complementaryCompetencies": [
+        "Ability to inform industry standards for on-device model safety",
+        "Knowledge of the edge silicon and accelerator vendor landscape",
+        "Ability to advise leadership on edge AI risk and opportunity"
+      ],
+      "indicators": [
+        "Shapes the technical direction of edge AI in the organization",
+        "Advises senior leadership on edge AI strategy and risk",
+        "Mentors senior technical leaders in edge AI"
+      ]
+    },
+    "EDGE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Ability to define the organization's edge AI technical vision and safety posture",
+        "Expertise in aligning edge AI strategy with product direction and hardware roadmaps",
+        "Mastery of governing investment in edge silicon, tooling and fleet operations",
+        "Ability to steer accelerator and device sourcing across vendors",
+        "Deep knowledge of managing safety and reliability risk of on-device AI at scale",
+        "Ability to build organizational capability for edge AI across device families",
+        "Expertise in setting standards for secure and auditable model updates",
+        "Ability to sustain competitive advantage through efficient on-device AI"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence standards for on-device AI safety and updates",
+        "Knowledge of the edge hardware, tooling and talent ecosystem",
+        "Ability to represent the organization on edge AI reliability externally"
+      ],
+      "indicators": [
+        "Sets and executes the edge AI technical vision",
+        "Accountable for edge AI reliability and safety across products",
+        "Public technical voice of the organization in edge AI"
+      ]
+    }
+  }
+}

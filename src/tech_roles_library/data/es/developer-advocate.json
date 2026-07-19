@@ -1,0 +1,258 @@
+{
+  "role": "Developer Advocate",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "DVA-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de desarrollo de software",
+        "Habilidad para comunicación técnica simple",
+        "Comprensión elemental de comunidades de desarrolladores",
+        "Capacidad de crear contenido técnico básico",
+        "Conocimiento de redes sociales profesionales",
+        "Habilidad para demostraciones simples",
+        "Comprensión básica de documentación técnica",
+        "Capacidad de soporte a desarrolladores nivel 1"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de oratoria pública",
+        "Familiaridad con herramientas de creación de contenido",
+        "Comprensión elemental de comunicación técnica de mercado"
+      ],
+      "indicators": [
+        "Requiere supervisión y mentoría constante",
+        "Crea contenido con revisión exhaustiva",
+        "Está aprendiendo el ecosistema de desarrolladores"
+      ]
+    },
+    "DVA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de crear tutoriales técnicos completos",
+        "Habilidad para dar charlas técnicas en encuentros",
+        "Conocimiento práctico de múltiples tecnologías",
+        "Comprensión de experiencia de desarrollador",
+        "Capacidad de moderar comunidades en línea",
+        "Habilidad para crear demostraciones interactivas",
+        "Conocimiento de métricas de compromiso",
+        "Capacidad de recopilación y análisis de retroalimentación"
+      ],
+      "complementaryCompetencies": [
+        "Gestión básica de eventos técnicos",
+        "Conocimiento de producción de vídeo técnico",
+        "Habilidad para programación en vivo básica"
+      ],
+      "indicators": [
+        "Crea contenido técnico de forma independiente",
+        "Participa activamente en comunidades",
+        "Representa la empresa en eventos locales"
+      ]
+    },
+    "DVA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de programas de relaciones con desarrolladores",
+        "Capacidad de crear contenido multimedia avanzado",
+        "Habilidad para ponencias principales en conferencias regionales",
+        "Dominio de narrativa técnica",
+        "Capacidad de construcción de comunidades de desarrolladores",
+        "Conocimiento profundo de recorrido del desarrollador",
+        "Habilidad para crear kits de desarrollo y herramientas",
+        "Gestión de bucles de retroalimentación con producto"
+      ],
+      "complementaryCompetencies": [
+        "Creación de programas de audio técnicos",
+        "Conocimiento de plataformas de transmisión",
+        "Habilidad para talleres técnicos complejos"
+      ],
+      "indicators": [
+        "Lidera iniciativas de compromiso con desarrolladores",
+        "Es reconocido en comunidades específicas",
+        "Influye en hoja de ruta de producto"
+      ]
+    },
+    "DVA-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Estrategia de relaciones con desarrolladores a escala",
+        "Liderazgo de programas de defensoría globales",
+        "Capacidad de influenciar adopción tecnológica",
+        "Dominio de construcción de ecosistemas",
+        "Habilidad para alianzas técnicas",
+        "Conocimiento profundo de posicionamiento competitivo",
+        "Capacidad de gestión de crisis en comunidades",
+        "Diseño de programas de certificación de desarrolladores"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos significativos de relaciones con desarrolladores",
+        "Experiencia en gobernanza de código abierto",
+        "Conocimiento de construcción de empresas"
+      ],
+      "indicators": [
+        "Define estrategia departamental de relaciones con desarrolladores",
+        "Ponente principal en conferencias principales",
+        "Construye relaciones estratégicas con personas influyentes"
+      ]
+    },
+    "DVA-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de equipos de defensoría de desarrolladores",
+        "Diseño de estrategias de adopción tecnológica",
+        "Gestión de comunidades globales de desarrolladores",
+        "Definición de métricas de éxito de relaciones con desarrolladores",
+        "Capacidad de divulgación tecnológica ante audiencias ejecutivas",
+        "Implementación de programas empresariales para desarrolladores",
+        "Dominio de liderazgo de pensamiento",
+        "Influencia en estándares de industria"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en gestión técnica de producto",
+        "Conocimiento de desarrollo de negocio",
+        "Gestión de relaciones con analistas y firmas de investigación"
+      ],
+      "indicators": [
+        "Gestiona equipo de defensores con 5 a 10 personas",
+        "Define voz técnica de la empresa",
+        "Representa la empresa en paneles ejecutivos"
+      ]
+    },
+    "DVA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de relaciones con desarrolladores organizacional",
+        "Estrategia de ecosistema de desarrolladores",
+        "Gestión de grandes presupuestos de relaciones con desarrolladores",
+        "Definición de cultura centrada en desarrolladores",
+        "Liderazgo en transformación de entrada al mercado",
+        "Construcción de comunidades de desarrolladores en torno a los productos",
+        "Gestión de relaciones con directores de tecnología externos",
+        "Innovación en modelos de compromiso"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en estrategia de producto",
+        "Conocimiento de desarrollo corporativo",
+        "Habilidad para fusiones y adquisiciones de comunidades"
+      ],
+      "indicators": [
+        "Dirige departamento de relaciones con desarrolladores con más de 20 personas",
+        "Participa en estrategia ejecutiva de producto",
+        "Define posicionamiento técnico de mercado"
+      ]
+    },
+    "DVA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en ecosistema de desarrolladores",
+        "Diseño de estrategias de economía de plataforma",
+        "Transformación de empresas hacia centradas en desarrolladores",
+        "Gestión de grandes ecosistemas de desarrolladores",
+        "Creación de ventajas competitivas mediante comunidad",
+        "Definición de futuro de experiencia de desarrollador",
+        "Comunicación de la estrategia de desarrolladores a la dirección ejecutiva",
+        "Influencia en dirección de industrias"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de fondos de inversión para desarrolladores",
+        "Experiencia en creación de empresas de alto crecimiento centradas en desarrolladores",
+        "Liderazgo en consorcios tecnológicos"
+      ],
+      "indicators": [
+        "Depende directamente de alta dirección",
+        "Gestiona organizaciones de relaciones con desarrolladores con más de 50 personas",
+        "Es voz pública de la estrategia técnica"
+      ]
+    },
+    "DVA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de economía de desarrolladores",
+        "Liderazgo en transformación de industrias mediante desarrolladores",
+        "Definición de la estrategia de plataforma para desarrolladores",
+        "Gestión de ecosistemas de desarrolladores a gran escala",
+        "Innovación en programas de compromiso con desarrolladores",
+        "Definición de estándares globales de experiencia de desarrollador",
+        "Divulgación de tecnologías emergentes para desarrolladores",
+        "Influencia en políticas tecnológicas gubernamentales"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de producto o tecnología en empresas centradas en desarrolladores",
+        "Consejos asesores de múltiples empresas emergentes",
+        "Publicación de libros influyentes sobre relaciones con desarrolladores"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia de ecosistema corporativo",
+        "Es líder de pensamiento global en economía de desarrolladores"
+      ]
+    },
+    "DVA-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de desarrollo de software",
+        "Avance de las prácticas de desarrollo en la industria",
+        "Liderazgo de iniciativas de desarrolladores a gran escala",
+        "Definición de la visión de plataforma para desarrolladores de la organización",
+        "Innovación en experiencia de desarrollador y herramientas",
+        "Divulgación de prácticas de desarrollo emergentes",
+        "Influencia en evolución de profesión de desarrollador",
+        "Arquitectura de la estrategia de ecosistema de desarrolladores"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director general o de tecnología de empresas que transformaron industrias",
+        "Reconocimiento como referente en relaciones con desarrolladores",
+        "Influencia en planes de estudio universitarios globales"
+      ],
+      "indicators": [
+        "Lidera la función de relaciones con desarrolladores de la empresa",
+        "Define el futuro de cómo se construye software",
+        "Es autoridad reconocida en relaciones con desarrolladores"
+      ]
+    }
+  }
+}

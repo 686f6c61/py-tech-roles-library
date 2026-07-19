@@ -1,0 +1,258 @@
+{
+  "role": "Content Designer",
+  "category": "Design",
+  "levels": {
+    "CD-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of UX writing and interface content",
+        "Familiarity with voice and tone guidelines",
+        "Ability to write microcopy for simple screens under supervision",
+        "Elementary knowledge of content patterns in a product",
+        "Support in keeping interface strings consistent",
+        "Understanding of the difference between labels, hints and error messages",
+        "Ability to follow a content style guide",
+        "Awareness of plain language principles"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with design tools such as Figma",
+        "Basic knowledge of how content is localized",
+        "Understanding of accessibility basics for text"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Assists senior content designers on simple screens",
+        "Is learning content design"
+      ]
+    },
+    "CD-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Writing of microcopy for complete features",
+        "Application of voice and tone across interface content",
+        "Ability to craft error, empty and confirmation states",
+        "Practical knowledge of content patterns and reuse",
+        "Collaboration with designers on flows and wording",
+        "Iteration of copy based on feedback and usability signals",
+        "Maintenance of consistent terminology across screens",
+        "Support in preparing content for localization"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with comprehension testing techniques",
+        "Knowledge of readability and plain language guidelines",
+        "Understanding of information hierarchy in interfaces"
+      ],
+      "indicators": [
+        "Works with regular supervision",
+        "Writes microcopy for features independently",
+        "Collaborates effectively with designers"
+      ]
+    },
+    "CD-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Ownership of interface content for a product area",
+        "Definition of content patterns for common interface states",
+        "Application of voice and tone consistently across flows",
+        "Facilitation of comprehension and usability testing of copy",
+        "Contribution to the content style guide and terminology glossary",
+        "Design of content structure and information hierarchy in flows",
+        "Collaboration with product and design from early discovery",
+        "Preparation of content ready for localization and translation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of content in design systems and component libraries",
+        "Familiarity with accessibility requirements for interface text",
+        "Understanding of frontend constraints on content"
+      ],
+      "indicators": [
+        "Works with occasional supervision",
+        "Owns interface content for a product area",
+        "Mentors trainees on content practices"
+      ]
+    },
+    "CD-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Autonomous ownership of content design for complex flows",
+        "Definition of the voice and tone system for the product",
+        "Design of content patterns embedded in the design system",
+        "Leadership of comprehension testing to validate content decisions",
+        "Structuring of in-product content architecture across journeys",
+        "Alignment of content design with product strategy and outcomes",
+        "Collaboration with localization to scale content across markets",
+        "Facilitation of content critiques and workshops with the team"
+      ],
+      "complementaryCompetencies": [
+        "Experience shaping terminology governance for the product",
+        "Knowledge of data-informed content decisions and metrics",
+        "Ability to balance clarity, brand and accessibility in copy"
+      ],
+      "indicators": [
+        "Works autonomously on complex flows",
+        "Shapes content direction for a product area",
+        "Is a reference for content design"
+      ]
+    },
+    "CD-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Ownership of content design strategy across a product line",
+        "Definition of the content system and voice standards for the product",
+        "Governance of terminology and content patterns at scale",
+        "Leadership of comprehension research programmes for content",
+        "Influence on product decisions through content insight",
+        "Establishment of content quality standards across teams",
+        "Scaling of localization-ready content practices",
+        "Mentoring of content designers on craft and systems"
+      ],
+      "complementaryCompetencies": [
+        "Experience embedding content design in the design system",
+        "Knowledge of content operations and workflow tooling",
+        "Understanding of inclusive and accessible content at scale"
+      ],
+      "indicators": [
+        "Is fully autonomous and expert",
+        "Owns content strategy for a product line",
+        "Leads content standards across teams"
+      ]
+    },
+    "CD-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Leadership of the content design function across products",
+        "Definition of the voice, tone and content principles for the organization",
+        "Governance of the content system as a strategic design asset",
+        "Alignment of content design with product and brand strategy",
+        "Establishment of comprehension research as a standard practice",
+        "Definition of content operations and localization at scale",
+        "Building a content-first culture across product teams",
+        "Mentoring and growth of content designers"
+      ],
+      "complementaryCompetencies": [
+        "Experience scaling content design practices across an organization",
+        "Knowledge of hiring and building content design teams",
+        "Leadership in cross-product content consistency"
+      ],
+      "indicators": [
+        "Leads content design across products",
+        "Defines the voice and content principles",
+        "Grows and mentors senior content designers"
+      ]
+    },
+    "CD-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Strategic direction of content design across the organization",
+        "Definition of the content design vision for multiple products",
+        "Governance of voice, tone and content systems at organizational scale",
+        "Alignment of content strategy with long-term business goals",
+        "Leadership of content design at the design leadership table",
+        "Innovation in content systems and comprehension methodologies",
+        "Advising leadership on content as a driver of product clarity",
+        "Definition of the multi-year roadmap for content design"
+      ],
+      "complementaryCompetencies": [
+        "Management of content design in complex organizations",
+        "Experience with content design for enterprise-scale products",
+        "Leadership in the content design community"
+      ],
+      "indicators": [
+        "Sets content design direction across products",
+        "Partners with design and product leadership",
+        "Is a recognized authority in content design"
+      ]
+    },
+    "CD-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of content design as a core product driver",
+        "Leadership of content design transformation at scale",
+        "Definition of the organization's long-term content standards and systems",
+        "Positioning of content clarity as a competitive advantage",
+        "Governance of voice and content across complex product ecosystems",
+        "Advancement of content design patterns and research practices",
+        "Influence on product strategy through content and language insight",
+        "Embedding of a content-first culture across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience as a principal content designer in leading companies",
+        "Advisory on content systems and design operations",
+        "Thought leadership in content design"
+      ],
+      "indicators": [
+        "Shapes content design strategy at company level",
+        "Defines the content vision for the organization",
+        "Is a recognized industry leader"
+      ]
+    },
+    "CD-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership of content design at the executive level",
+        "Definition of the content and language strategy for the organization",
+        "Transformation of the product experience through content design",
+        "Alignment of content design with corporate and product strategy",
+        "Creation of a content-first company culture",
+        "Innovation at the intersection of content, design and product",
+        "Influence on the evolution of the content design discipline",
+        "Accountability for content clarity across all product teams"
+      ],
+      "complementaryCompetencies": [
+        "Creator of industry-shaping content design practices",
+        "Recognition as a content design leader in the industry",
+        "Influence on content and design education"
+      ],
+      "indicators": [
+        "Operates at VP of design or equivalent level",
+        "Defines the content vision of the company",
+        "Is a world authority in content design"
+      ]
+    }
+  }
+}

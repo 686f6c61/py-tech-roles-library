@@ -1,0 +1,258 @@
+{
+  "role": "Delivery Manager",
+  "category": "Product",
+  "levels": {
+    "DM-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of delivery methodologies",
+        "Elementary understanding of continuous delivery",
+        "Ability for basic release tracking",
+        "Basic knowledge of deployment processes",
+        "Simple coordination capability",
+        "Understanding of basic quality gates",
+        "Release notes documentation",
+        "Elementary knowledge of DevOps"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with CI/CD tools",
+        "Basic knowledge of automation",
+        "Basic monitoring understanding"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Coordinates simple releases",
+        "Learning delivery management"
+      ]
+    },
+    "DM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to manage delivery pipelines",
+        "Implementation of release management",
+        "Practical knowledge of deployment automation",
+        "Incident management skills",
+        "Understanding of rollback strategies",
+        "Performance monitoring capability",
+        "Knowledge of service level management",
+        "Dependency tracking skills"
+      ],
+      "complementaryCompetencies": [
+        "Environment management",
+        "Knowledge of containerization",
+        "Understanding of infrastructure as code"
+      ],
+      "indicators": [
+        "Manages delivery with supervision",
+        "Coordinates multiple releases",
+        "Improves delivery processes"
+      ]
+    },
+    "DM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of complete delivery strategies",
+        "Implementation of continuous deployment",
+        "Mastery of release orchestration",
+        "Zero-downtime deployment capability",
+        "Chaos engineering skills",
+        "Deep knowledge of observability",
+        "Implementation of progressive delivery",
+        "Complex dependency management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of service mesh",
+        "Canary deployment skills",
+        "Advanced understanding of feature flags"
+      ],
+      "indicators": [
+        "Leads delivery excellence",
+        "Defines release strategies",
+        "Mentors delivery teams"
+      ]
+    },
+    "DM-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Delivery platform architecture",
+        "Design of global deployment strategies",
+        "Implementation of GitOps practices",
+        "Mastery of multi-region deployments",
+        "Disaster recovery planning capability",
+        "Deep knowledge of SRE practices",
+        "Cost-optimized delivery skills",
+        "Leadership in automation excellence"
+      ],
+      "complementaryCompetencies": [
+        "Experience in blue-green deployments",
+        "Knowledge of compliance automation",
+        "Multi-cloud delivery management"
+      ],
+      "indicators": [
+        "Defines delivery platform strategy",
+        "Leads DevOps transformation",
+        "Influences technical architecture"
+      ]
+    },
+    "DM-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leadership in delivery excellence",
+        "Design of DevOps transformation",
+        "Management of complex delivery teams",
+        "Definition of delivery metrics and KPIs",
+        "Platform engineering capability",
+        "Implementation of self-service delivery",
+        "Mastery of reliability engineering",
+        "Promotion of delivery excellence culture"
+      ],
+      "complementaryCompetencies": [
+        "Experience in SRE transformation",
+        "Knowledge of FinOps practices",
+        "Delivery vendor management"
+      ],
+      "indicators": [
+        "Manages delivery organization",
+        "Defines DevOps vision",
+        "Represents delivery to executives"
+      ]
+    },
+    "DM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of delivery and DevOps",
+        "Continuous everything strategy",
+        "Transformation budget management",
+        "Definition of engineering excellence",
+        "Leadership in platform revolution",
+        "Implementation of autonomous delivery",
+        "Innovation in deployment strategies",
+        "Global delivery management"
+      ],
+      "complementaryCompetencies": [
+        "Experience in hyperscale delivery",
+        "Knowledge of edge deployment",
+        "Leadership in DevOps communities"
+      ],
+      "indicators": [
+        "Directs DevOps department (20+ people)",
+        "Participates in technology strategy",
+        "Defines automation investments"
+      ]
+    },
+    "DM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in engineering excellence",
+        "Design of global DevOps strategies",
+        "Engineering culture transformation",
+        "Delivery management for high-scale platforms",
+        "Creation of competitive advantages via velocity",
+        "Definition of continuous delivery future",
+        "Communication of DevOps strategy to executive leadership",
+        "Influence in DevOps industry"
+      ],
+      "complementaryCompetencies": [
+        "Large-scale distributed systems management",
+        "Experience in zero-touch operations",
+        "Leadership in CNCF/standards"
+      ],
+      "indicators": [
+        "Reports to CTO",
+        "Manages engineering excellence (50+ people)",
+        "Defines corporate DevOps strategy"
+      ]
+    },
+    "DM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of perfect delivery",
+        "Leadership in global DevOps revolution",
+        "Definition of high-frequency deployment practices",
+        "Delivery management across the engineering organization",
+        "Innovation in continuous delivery and deployment",
+        "Definition of self-healing systems",
+        "Promotion of platform and self-service operations",
+        "Influence in software delivery evolution"
+      ],
+      "complementaryCompetencies": [
+        "Experience as VP Engineering in unicorns",
+        "DevOps transformation advisory",
+        "Thought leadership in delivery"
+      ],
+      "indicators": [
+        "Part of engineering leadership",
+        "Defines future of delivery",
+        "Recognized leader in DevOps"
+      ]
+    },
+    "DM-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in software delivery future",
+        "Transformation of how software is delivered",
+        "Definition of the organization's software delivery model",
+        "Definition of fully automated deployment governance",
+        "Innovation in reliability and delivery engineering",
+        "Promotion of high-velocity delivery practices",
+        "Architecture of resilient delivery platforms",
+        "Influence in digital creation evolution"
+      ],
+      "complementaryCompetencies": [
+        "Recognized contributor to DevOps practices",
+        "Recognition as delivery revolutionary",
+        "Influence in development future"
+      ],
+      "indicators": [
+        "Leads the enterprise software delivery function",
+        "Defines deployment future",
+        "Recognized authority in DevOps"
+      ]
+    }
+  }
+}

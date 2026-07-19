@@ -1,0 +1,258 @@
+{
+  "role": "Developer Experience Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "DEVX-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Ability to write shell scripts that automate repetitive developer tasks",
+        "Elementary knowledge of local development environment setup",
+        "Ability to write and improve internal how-to documentation",
+        "Basic understanding of build tools and their configuration",
+        "Elementary knowledge of version control workflows",
+        "Ability to reproduce and document developer setup issues",
+        "Understanding of command-line interface usability basics",
+        "Basic knowledge of measuring build and test execution times"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with a scripting language (Python, Bash)",
+        "Basic knowledge of containerized development environments",
+        "Elementary understanding of continuous integration pipelines"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Improves documentation and simple scripts",
+        "Needs 6-12 months of mentorship"
+      ]
+    },
+    "DEVX-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to build internal command-line tools for common workflows",
+        "Ability to create project scaffolding templates and generators",
+        "Practical knowledge of reproducible local environments (devcontainers, Nix basics)",
+        "Understanding of build caching to reduce compile times",
+        "Ability to instrument and measure developer feedback loop times",
+        "Knowledge of writing task-oriented internal documentation",
+        "Understanding of onboarding checklists for new engineers",
+        "Ability to gather developer pain points through lightweight surveys"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of DORA metrics (lead time, deployment frequency)",
+        "Familiarity with pre-commit hooks and linting automation",
+        "Understanding of dependency management ergonomics"
+      ],
+      "indicators": [
+        "Builds internal tooling with supervision",
+        "Improves onboarding documentation",
+        "Measures basic feedback loop metrics"
+      ]
+    },
+    "DEVX-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of CLI design for internal developer tooling",
+        "Ability to reduce build times through caching and incremental compilation",
+        "Ability to design golden path documentation for common tasks",
+        "Deep knowledge of local environment reproducibility across teams",
+        "Ability to instrument DORA and SPACE metrics for the development cycle",
+        "Understanding of developer survey design and friction analysis",
+        "Ability to design onboarding flows that reduce time-to-first-commit",
+        "Knowledge of documentation-as-code and internal knowledge bases"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of test suite optimization and flaky test detection",
+        "Ability to build editor and IDE integrations",
+        "Understanding of inner-loop versus outer-loop developer feedback"
+      ],
+      "indicators": [
+        "Designs internal tooling independently",
+        "Reduces build and feedback times measurably",
+        "Defines golden path documentation"
+      ]
+    },
+    "DEVX-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to architect internal developer tooling suites (CLIs, generators)",
+        "Mastery of build system optimization at repository scale (monorepo tooling)",
+        "Ability to design golden paths that measurably increase adoption",
+        "Deep knowledge of DORA and SPACE frameworks applied to team improvement",
+        "Ability to run developer experience research combining surveys and metrics",
+        "Mastery of onboarding programs that reduce ramp-up time",
+        "Ability to reduce cognitive load in developer workflows",
+        "Knowledge of documentation strategy for engineering organizations"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of remote development environment ergonomics",
+        "Ability to design tooling telemetry and adoption dashboards",
+        "Understanding of change management for tooling rollouts"
+      ],
+      "indicators": [
+        "Defines developer experience strategy for teams",
+        "Leads friction-reduction initiatives with measured impact",
+        "Mentors developer experience engineers"
+      ]
+    },
+    "DEVX-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in developer experience strategy across engineering teams",
+        "Ability to define developer productivity measurement programs",
+        "Mastery of build and feedback loop optimization at scale",
+        "Ability to establish golden path adoption as an organizational standard",
+        "Deep knowledge of DORA and SPACE program design and interpretation",
+        "Ability to run continuous developer experience research at organization scale",
+        "Expertise in onboarding and ramp-up program design",
+        "Mastery of internal documentation and knowledge management strategy"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of developer sentiment and satisfaction measurement",
+        "Ability to design tooling adoption incentives",
+        "Understanding of developer workflow standardization trade-offs"
+      ],
+      "indicators": [
+        "Defines developer experience strategy for the organization",
+        "Leads productivity measurement programs",
+        "Sets golden path and documentation standards"
+      ]
+    },
+    "DEVX-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define enterprise developer experience strategy",
+        "Expertise in developer productivity programs across the organization",
+        "Mastery of measuring and improving engineering feedback loops at scale",
+        "Ability to set standards for internal tooling and golden paths",
+        "Deep knowledge of DORA, SPACE and developer sentiment frameworks",
+        "Ability to lead organization-wide friction-reduction programs",
+        "Expertise in onboarding and developer enablement strategy",
+        "Mastery of documentation and knowledge strategy for engineering"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of developer experience economics (time saved, cost of friction)",
+        "Ability to define tooling investment priorities",
+        "Understanding of engineering culture and workflow change"
+      ],
+      "indicators": [
+        "Defines multi-year developer experience roadmap",
+        "Leads developer experience across the organization",
+        "Advises leadership on developer productivity"
+      ]
+    },
+    "DEVX-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership in developer experience across the enterprise",
+        "Ability to define developer productivity measurement standards",
+        "Expertise in developer experience strategy across engineering divisions",
+        "Mastery of feedback loop and build optimization at enterprise scale",
+        "Ability to define golden path and tooling standards enterprise-wide",
+        "Deep knowledge of developer experience economics and impact modeling",
+        "Expertise in building developer experience teams and practices",
+        "Ability to influence engineering culture through tooling and measurement"
+      ],
+      "complementaryCompetencies": [
+        "Ability to establish developer experience research practices",
+        "Ability to define documentation and enablement governance",
+        "Knowledge of developer productivity benchmarking"
+      ],
+      "indicators": [
+        "Defines enterprise developer experience strategy",
+        "Recognized authority in developer productivity",
+        "Advisor on engineering effectiveness"
+      ]
+    },
+    "DEVX-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of developer experience and productivity evolution",
+        "Ability to lead developer experience strategy enterprise-wide",
+        "Expertise in developer productivity due diligence and assessment",
+        "Mastery of measurement frameworks connecting developer experience to business outcomes",
+        "Ability to define internal tooling and golden path direction",
+        "Deep knowledge of developer experience economics at scale",
+        "Expertise in aligning developer experience with engineering strategy",
+        "Ability to establish developer experience standards across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape internal tooling investment strategy",
+        "Ability to define developer productivity research direction",
+        "Knowledge of emerging developer tooling and practices"
+      ],
+      "indicators": [
+        "Defines organization-wide developer experience direction",
+        "Advises executives on engineering productivity",
+        "Mentors principal developer experience engineers"
+      ]
+    },
+    "DEVX-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in developer experience and productivity strategy",
+        "Ability to align developer experience with engineering and business strategy",
+        "Expertise in managing developer productivity investment",
+        "Mastery of enterprise developer experience and enablement strategy",
+        "Ability to build developer experience organizations",
+        "Deep knowledge of developer productivity measurement and economics",
+        "Expertise in engineering effectiveness and culture strategy",
+        "Ability to drive developer experience improvement across the enterprise"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape developer tooling and vendor strategy",
+        "Ability to influence developer experience practices in the industry",
+        "Knowledge of engineering productivity investment"
+      ],
+      "indicators": [
+        "Defines and executes developer experience vision",
+        "Accountable for engineering productivity strategy",
+        "Represents the company in developer experience matters"
+      ]
+    }
+  }
+}

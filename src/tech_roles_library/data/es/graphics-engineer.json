@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Gráficos",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "GE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de gráficos por ordenador",
+        "Comprensión elemental de tuberías de renderizado",
+        "Habilidad para sombreadores simples",
+        "Conocimiento básico de álgebra lineal para gráficos",
+        "Capacidad de usar APIs gráficas básicas",
+        "Comprensión de transformaciones 3D",
+        "Documentación de activos gráficos",
+        "Conocimiento elemental de iluminación"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con OpenGL/DirectX básico",
+        "Conocimiento de texturas y materiales",
+        "Comprensión de primitivas geométricas"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Implementa efectos visuales simples",
+        "Está aprendiendo programación gráfica"
+      ]
+    },
+    "GE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar renderizadores completos",
+        "Implementación de técnicas de iluminación",
+        "Conocimiento práctico de postprocesamiento",
+        "Habilidad para optimización de sombreadores",
+        "Comprensión de descarte y nivel de detalle",
+        "Capacidad de sistemas de partículas",
+        "Conocimiento de sistemas de animación",
+        "Habilidad para perfilado gráfico"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de efectos visuales",
+        "Conocimiento de renderizado físico básico",
+        "Comprensión de renderizado diferido"
+      ],
+      "indicators": [
+        "Desarrolla funcionalidades gráficas con supervisión",
+        "Implementa técnicas de renderizado",
+        "Optimiza rendimiento visual"
+      ]
+    },
+    "GE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de motores gráficos completos",
+        "Implementación de técnicas avanzadas de renderizado",
+        "Dominio de trazado de rayos",
+        "Capacidad de iluminación global",
+        "Habilidad para renderizado basado en física",
+        "Conocimiento profundo de programación de GPU",
+        "Implementación de sombreadores de cómputo",
+        "Diseño de sistemas de efectos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de Vulkan/Metal",
+        "Habilidad para generación procedural",
+        "Comprensión de renderizado volumétrico"
+      ],
+      "indicators": [
+        "Lidera desarrollo gráfico",
+        "Diseña tuberías de renderizado",
+        "Mentoriza programadores gráficos"
+      ]
+    },
+    "GE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de motores de renderizado",
+        "Diseño de tuberías gráficas escalables",
+        "Implementación de trazado de rayos en tiempo real",
+        "Dominio de optimización de GPU",
+        "Capacidad de renderizado multi-GPU",
+        "Conocimiento profundo de hardware gráfico",
+        "Habilidad para investigación y desarrollo gráfico",
+        "Liderazgo en innovación gráfica"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en trazado de caminos",
+        "Conocimiento de renderizado neuronal",
+        "Implementación de renderizado VR/AR"
+      ],
+      "indicators": [
+        "Define arquitectura gráfica",
+        "Lidera equipos de renderizado",
+        "Es referente en gráficos por ordenador"
+      ]
+    },
+    "GE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en tecnología gráfica",
+        "Diseño de plataformas gráficas",
+        "Gestión de equipos de desarrollo gráfico",
+        "Definición de estrategia de renderizado",
+        "Capacidad de gráficos de próxima generación",
+        "Implementación de renderizado fotorrealista",
+        "Dominio de tubería de arte técnico",
+        "Promoción de estándares de ingeniería gráfica"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en renderizado de calidad cinematográfica",
+        "Conocimiento de gráficos de simulación",
+        "Gestión de middleware gráfico"
+      ],
+      "indicators": [
+        "Gestiona equipos de gráficos",
+        "Define visión visual del producto",
+        "Representa gráficos ante partes interesadas"
+      ]
+    },
+    "GE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de tecnología gráfica organizacional",
+        "Estrategia de computación visual",
+        "Gestión de inversiones en investigación gráfica",
+        "Definición de estándares de fidelidad visual",
+        "Liderazgo en transformación gráfica",
+        "Implementación de gráficos mejorados con IA",
+        "Adopción de arquitecturas de renderizado emergentes",
+        "Gestión de ecosistemas gráficos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en diseño de hardware gráfico",
+        "Conocimiento de gráficos de metaverso",
+        "Liderazgo en estándares gráficos"
+      ],
+      "indicators": [
+        "Dirige departamento de gráficos (20+ personas)",
+        "Participa en visión de producto",
+        "Define inversiones en tecnología visual"
+      ]
+    },
+    "GE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en computación visual",
+        "Diseño de estrategias gráficas globales",
+        "Transformación de industrias mediante gráficos",
+        "Gestión de gráficos a escala AAA",
+        "Definición de arquitecturas de referencia de renderizado",
+        "Definición de futuro de gráficos por ordenador",
+        "Comunicación de la estrategia gráfica a la dirección ejecutiva",
+        "Influencia en industria visual"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de gráficos en éxitos de taquilla",
+        "Experiencia en unicornios gráficos",
+        "Liderazgo en consorcios gráficos"
+      ],
+      "indicators": [
+        "Depende de director de tecnología",
+        "Gestiona organización de gráficos (50+ personas)",
+        "Define estrategia visual corporativa"
+      ]
+    },
+    "GE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de futuro visual",
+        "Liderazgo en revolución gráfica global",
+        "Diseño de canalizaciones de renderizado en tiempo real de alta fidelidad",
+        "Gestión de sistemas gráficos a escala global",
+        "Investigación en técnicas de renderizado neuronal",
+        "Definición de realidad sintética",
+        "Definición de la dirección tecnológica gráfica a largo plazo",
+        "Influencia en evolución de percepción"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como arquitecto gráfico en gigantes",
+        "Asesoría en empresas emergentes de gráficos",
+        "Liderazgo de pensamiento en renderizado"
+      ],
+      "indicators": [
+        "Es parte del comité técnico",
+        "Define futuro de gráficos",
+        "Es líder mundial en gráficos por ordenador"
+      ]
+    },
+    "GE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de realidad visual",
+        "Transformación de percepción mediante gráficos",
+        "Definición de arquitecturas de renderizado fotorrealista de nueva generación",
+        "Definición de la estrategia tecnológica de gráficos en tiempo real de la organización",
+        "Innovación en renderizado cuántico",
+        "Promoción de estándares abiertos de gráficos y renderizado",
+        "Arquitecto de universos visuales",
+        "Influencia en evolución de experiencia visual"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones gráficas",
+        "Reconocimiento como pionero de gráficos por ordenador",
+        "Influencia en futuro de realidad visual"
+      ],
+      "indicators": [
+        "Es una autoridad reconocida en ingeniería de gráficos",
+        "Define futuro de visualización",
+        "Es autoridad mundial en gráficos por ordenador"
+      ]
+    }
+  }
+}

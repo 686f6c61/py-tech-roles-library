@@ -1,0 +1,258 @@
+{
+  "role": "Cloud Architect",
+  "category": "Infrastructure",
+  "levels": {
+    "CA-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Ability to read cloud architecture diagrams and identify account boundaries",
+        "Elementary knowledge of the Well-Architected pillars (reliability, security, cost, performance, operational excellence)",
+        "Ability to document reference architecture decisions using templates",
+        "Basic understanding of account and subscription organization",
+        "Ability to build an application inventory for a migration assessment",
+        "Elementary knowledge of pricing calculators for cost estimates",
+        "Basic understanding of the shared responsibility model",
+        "Ability to compare provider service catalogs against requirements"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with architecture diagramming tools (draw.io, Lucidchart)",
+        "Basic knowledge of one hyperscaler console (AWS, Azure, GCP)",
+        "Elementary understanding of VPC and subnet topologies"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Assists in documenting existing architectures",
+        "Needs 6-12 months of architecture mentorship"
+      ]
+    },
+    "CA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to draft reference architectures for common workloads (three-tier web, batch)",
+        "Ability to define account structure for a single landing zone with guardrails",
+        "Practical knowledge of Well-Architected review questionnaires",
+        "Understanding of hub-and-spoke network topologies at design level",
+        "Ability to build TCO estimates comparing on-premises versus cloud",
+        "Knowledge of migration assessment tooling (Migration Evaluator, Azure Migrate)",
+        "Understanding of the 7Rs migration strategies",
+        "Ability to document guardrail policies (tagging, region restrictions)"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of Infrastructure as Code as a delivery mechanism for architecture",
+        "Familiarity with cost allocation and tagging strategies",
+        "Understanding of identity federation concepts"
+      ],
+      "indicators": [
+        "Designs reference architectures with supervision",
+        "Contributes to landing zone design",
+        "Documents governance policies"
+      ]
+    },
+    "CA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of multi-account landing zone design with organizational units",
+        "Ability to design guardrails using service control policies and policy-as-code",
+        "Ability to conduct Well-Architected reviews and produce remediation plans",
+        "Deep knowledge of hybrid connectivity design (Direct Connect, ExpressRoute, VPN)",
+        "Ability to model cost across accounts with showback and chargeback design",
+        "Understanding of migration wave planning and dependency mapping",
+        "Ability to select managed services against architectural trade-offs",
+        "Knowledge of compliance frameworks mapped to architecture controls (CIS benchmarks)"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of disaster recovery topology design (pilot light, warm standby)",
+        "Ability to design landing zones with automated account provisioning",
+        "Understanding of data residency and sovereignty requirements"
+      ],
+      "indicators": [
+        "Designs multi-account architectures independently",
+        "Leads Well-Architected reviews",
+        "Defines migration wave plans"
+      ]
+    },
+    "CA-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design multi-cloud reference architectures with workload placement criteria",
+        "Mastery of governance frameworks spanning organization-wide guardrails and exceptions",
+        "Ability to architect landing zones for regulated industries (financial, health)",
+        "Deep knowledge of TCO modeling including reserved capacity and commitment discounts",
+        "Ability to define migration factory patterns for large portfolios",
+        "Mastery of hybrid architecture patterns (bursting, data gravity, edge)",
+        "Ability to design cross-account identity and access architecture",
+        "Knowledge of Well-Architected trade-off analysis across pillars"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of FinOps practices at architecture design level",
+        "Ability to design sovereign and air-gapped cloud architectures",
+        "Understanding of sustainability and carbon-aware architecture"
+      ],
+      "indicators": [
+        "Defines cloud architecture standards for products",
+        "Leads migration strategy for portfolios",
+        "Mentors cloud architects"
+      ]
+    },
+    "CA-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise landing zone frameworks across multiple business units",
+        "Ability to define multi-cloud governance operating models",
+        "Mastery of architecture cost optimization at portfolio scale",
+        "Ability to establish an architecture review board with decision records",
+        "Deep knowledge of migration program strategy across hundreds of applications",
+        "Ability to design reference architectures adopted as organizational blueprints",
+        "Expertise in regulatory compliance mapping across jurisdictions",
+        "Mastery of hybrid and edge architecture for latency-sensitive workloads"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of vendor commitment negotiation inputs (enterprise agreements)",
+        "Ability to design industry-specific cloud blueprints",
+        "Understanding of cloud exit and portability strategies"
+      ],
+      "indicators": [
+        "Architects landing zones for the enterprise",
+        "Leads portfolio-wide migration strategy",
+        "Defines organizational architecture standards"
+      ]
+    },
+    "CA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define enterprise cloud architecture strategy across business units",
+        "Expertise in governance guardrail frameworks balancing autonomy and control",
+        "Mastery of TCO and commitment strategy at enterprise scale",
+        "Ability to set multi-cloud and hybrid direction with workload placement policy",
+        "Deep knowledge of compliance architecture for multiple regulatory regimes",
+        "Ability to lead architecture for large-scale datacenter exit programs",
+        "Expertise in architecture governance and exception management",
+        "Mastery of reference architecture portfolio ownership"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cloud economics for capacity commitment decisions",
+        "Ability to define landing zone strategy for acquisitions",
+        "Understanding of resilience and business continuity architecture"
+      ],
+      "indicators": [
+        "Defines multi-year cloud architecture roadmap",
+        "Leads architecture across the organization",
+        "Advises executives on cloud strategy"
+      ]
+    },
+    "CA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership in enterprise cloud transformation architecture",
+        "Ability to define cloud-agnostic architecture principles across the enterprise",
+        "Expertise in datacenter exit and mass migration architecture strategy",
+        "Mastery of governance and compliance architecture for global operations",
+        "Ability to define multi-year architecture and cost strategy",
+        "Deep knowledge of cloud economics and commitment portfolio management",
+        "Expertise in establishing cloud architecture practices and standards",
+        "Ability to influence provider roadmaps through architecture requirements"
+      ],
+      "complementaryCompetencies": [
+        "Ability to define architecture for regulated and sovereign environments",
+        "Ability to establish architecture review governance at scale",
+        "Knowledge of vendor strategy and negotiation inputs"
+      ],
+      "indicators": [
+        "Defines enterprise cloud architecture strategy",
+        "Recognized authority in cloud architecture",
+        "Advisor on large-scale transformation"
+      ]
+    },
+    "CA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of enterprise cloud architecture evolution",
+        "Ability to lead architecture strategy for enterprise-wide transformation",
+        "Expertise in architecture due diligence for mergers and acquisitions",
+        "Mastery of governance operating models across a global organization",
+        "Ability to define the reference architecture portfolio direction",
+        "Deep knowledge of cloud cost and commitment strategy at scale",
+        "Expertise in aligning architecture decisions with business outcomes",
+        "Ability to establish cloud architecture standards adopted enterprise-wide"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape cloud provider partnerships through architecture requirements",
+        "Ability to define architecture for regulatory change readiness",
+        "Knowledge of technology portfolio rationalization"
+      ],
+      "indicators": [
+        "Defines enterprise-wide cloud architecture direction",
+        "Advises C-suite on cloud strategy and investment",
+        "Mentors principal architects"
+      ]
+    },
+    "CA-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in cloud architecture strategy",
+        "Ability to align cloud architecture with enterprise business strategy",
+        "Expertise in governing multi-million dollar cloud commitment portfolios",
+        "Mastery of architecture-led digital transformation",
+        "Ability to define the cloud operating model and governance at enterprise level",
+        "Deep knowledge of cloud risk, resilience, and compliance strategy",
+        "Expertise in building cloud architecture organizations",
+        "Ability to drive migration and modernization strategy across the enterprise"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape enterprise vendor and commitment strategy",
+        "Ability to influence cloud architecture standards in the industry",
+        "Knowledge of technology investment governance"
+      ],
+      "indicators": [
+        "Defines and executes enterprise cloud architecture vision",
+        "Accountable for cloud investment strategy",
+        "Represents the company in cloud architecture matters"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Especialista en Accesibilidad",
+  "category": "Diseño",
+  "levels": {
+    "ACC-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de la accesibilidad web y su propósito",
+        "Familiaridad con los principios de WCAG 2.2 y sus niveles de conformidad",
+        "Capacidad de ejecutar comprobaciones automáticas de accesibilidad con supervisión",
+        "Conocimiento elemental de las tecnologías de asistencia como los lectores de pantalla",
+        "Apoyo en la documentación de problemas de accesibilidad de un producto",
+        "Comprensión del HTML semántico y su papel en la accesibilidad",
+        "Capacidad de comprobar el contraste de color frente a los umbrales de WCAG",
+        "Conciencia de los requisitos de navegación por teclado"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con las herramientas de inspección de accesibilidad del navegador",
+        "Conocimiento básico de los roles y atributos ARIA",
+        "Comprensión de la accesibilidad en herramientas de diseño como Figma"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Asiste en la documentación de problemas de accesibilidad",
+        "Está aprendiendo los fundamentos de accesibilidad"
+      ]
+    },
+    "ACC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ejecución de auditorías de accesibilidad frente a los criterios de éxito de WCAG 2.2",
+        "Pruebas manuales con lectores de pantalla como NVDA o VoiceOver",
+        "Verificación de la operabilidad por teclado y la gestión del foco",
+        "Documentación de hallazgos con severidad y orientación de subsanación",
+        "Aplicación de patrones ARIA a los componentes de interfaz habituales",
+        "Apoyo en la revisión de diseños para accesibilidad antes de su construcción",
+        "Pruebas de contraste de color y requisitos de redimensionado del texto",
+        "Colaboración con los desarrolladores para corregir defectos de accesibilidad"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con la norma EN 301 549",
+        "Conocimiento de las pruebas de accesibilidad en las herramientas de desarrollo del navegador",
+        "Comprensión de la accesibilidad adaptable y con ampliación"
+      ],
+      "indicators": [
+        "Trabaja con supervisión habitual",
+        "Ejecuta auditorías de accesibilidad de un componente",
+        "Aporta orientación de subsanación a los desarrolladores"
+      ]
+    },
+    "ACC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre las auditorías de accesibilidad de un área de producto frente a WCAG 2.2",
+        "Pruebas con distintas tecnologías de asistencia, incluidos lectores de pantalla y ampliadores",
+        "Diseño y validación de componentes y patrones de interfaz accesibles",
+        "Definición de nombre accesible, rol y estado de los componentes personalizados",
+        "Orientación a los diseñadores sobre color, disposición e interacción accesibles",
+        "Contribución de componentes accesibles al sistema de diseño",
+        "Preparación de la documentación de conformidad de accesibilidad",
+        "Formación de los desarrolladores en las correcciones de accesibilidad habituales"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de EN 301 549 y su correspondencia con WCAG",
+        "Familiaridad con las comprobaciones de accesibilidad en la integración continua",
+        "Comprensión de las consideraciones de accesibilidad cognitiva"
+      ],
+      "indicators": [
+        "Trabaja con supervisión ocasional",
+        "Es responsable de la accesibilidad de un área de producto",
+        "Mentoriza a los aprendices en pruebas y subsanación"
+      ]
+    },
+    "ACC-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Responsabilidad autónoma de la conformidad de accesibilidad de un producto",
+        "Diseño de patrones accesibles integrados en el sistema de diseño",
+        "Liderazgo de pruebas con tecnologías de asistencia en distintos lectores de pantalla y dispositivos",
+        "Integración de comprobaciones automáticas de accesibilidad en la integración continua y las puertas de QA",
+        "Definición de los criterios de aceptación de accesibilidad de las funcionalidades",
+        "Preparación de informes de conformidad alineados con EN 301 549",
+        "Formación de los equipos de diseño e ingeniería en prácticas accesibles",
+        "Asesoramiento sobre las obligaciones del Acta Europea de Accesibilidad para el producto"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con métricas de accesibilidad y seguimiento de defectos",
+        "Conocimiento de los requisitos de accesibilidad de documentos y contenido multimedia",
+        "Capacidad de traducir los hallazgos de auditoría en trabajo de ingeniería"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma",
+        "Es responsable de la conformidad de accesibilidad de un producto",
+        "Es referente en prácticas de accesibilidad"
+      ]
+    },
+    "ACC-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre el programa de accesibilidad de una línea de producto",
+        "Definición de los estándares de componentes accesibles del sistema de diseño",
+        "Gobierno de la cobertura y las herramientas de pruebas con tecnologías de asistencia",
+        "Integración de puertas de accesibilidad en el ciclo de desarrollo",
+        "Definición de métricas de accesibilidad e informes de conformidad",
+        "Liderazgo de la preparación para el Acta Europea de Accesibilidad del producto",
+        "Establecimiento de programas de formación en accesibilidad para los equipos",
+        "Mentoría de especialistas en auditoría y subsanación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con declaraciones de accesibilidad y evidencias de conformidad",
+        "Conocimiento de los requisitos de accesibilidad en compras y de terceros",
+        "Comprensión de la accesibilidad de datos e interacciones complejas"
+      ],
+      "indicators": [
+        "Es totalmente autónomo y experto",
+        "Es responsable del programa de accesibilidad de una línea de producto",
+        "Lidera los estándares de accesibilidad entre equipos"
+      ]
+    },
+    "ACC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo de la función de accesibilidad entre productos",
+        "Definición de la estrategia de accesibilidad y los objetivos de conformidad",
+        "Gobierno de los componentes accesibles del sistema de diseño como estándar",
+        "Integración de la accesibilidad en diseño, ingeniería y QA",
+        "Responsabilidad sobre el cumplimiento del Acta Europea de Accesibilidad y EN 301 549",
+        "Definición de métricas de accesibilidad e informes para la dirección",
+        "Construcción de una cultura centrada en la accesibilidad en los equipos de producto",
+        "Mentoría y crecimiento de los especialistas en accesibilidad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en el escalado de prácticas de accesibilidad en una organización",
+        "Conocimiento de la contratación y formación de equipos de accesibilidad",
+        "Gestión de auditorías externas de accesibilidad y certificación"
+      ],
+      "indicators": [
+        "Lidera la función de accesibilidad entre productos",
+        "Define la estrategia y los objetivos de accesibilidad",
+        "Influye en las prácticas de accesibilidad de toda la organización"
+      ]
+    },
+    "ACC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Dirección estratégica del programa de accesibilidad en la organización",
+        "Definición de la hoja de ruta de conformidad y cumplimiento de accesibilidad",
+        "Gobierno de la accesibilidad entre productos y en el sistema de diseño",
+        "Alineación de la accesibilidad con las obligaciones regulatorias y los objetivos de negocio",
+        "Liderazgo del cumplimiento del Acta Europea de Accesibilidad a escala organizativa",
+        "Innovación en los enfoques de pruebas y automatización de accesibilidad",
+        "Asesoramiento a la dirección sobre el riesgo de accesibilidad y la exposición legal",
+        "Definición de la hoja de ruta plurianual de madurez en accesibilidad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia influyendo en los estándares y comunidades de accesibilidad",
+        "Conocimiento de la priorización de inversiones en accesibilidad",
+        "Liderazgo de programas interfuncionales de accesibilidad"
+      ],
+      "indicators": [
+        "Dirige la accesibilidad a escala organizativa",
+        "Participa en la estrategia de producto y cumplimiento",
+        "Es una autoridad reconocida en accesibilidad"
+      ]
+    },
+    "ACC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la accesibilidad como principio central del producto",
+        "Liderazgo de la transformación de accesibilidad a escala",
+        "Definición de los estándares de accesibilidad a largo plazo de la organización",
+        "Posicionamiento del diseño inclusivo como ventaja competitiva",
+        "Gobierno del cumplimiento de accesibilidad en ecosistemas complejos",
+        "Avance de las prácticas de componentes accesibles y de pruebas",
+        "Influencia en la estrategia de producto mediante el conocimiento del diseño inclusivo",
+        "Consolidación de una cultura centrada en la accesibilidad en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como líder de accesibilidad en empresas en crecimiento",
+        "Asesoría sobre cumplimiento de accesibilidad y diseño inclusivo",
+        "Liderazgo de pensamiento en accesibilidad digital"
+      ],
+      "indicators": [
+        "Marca la dirección de la accesibilidad en toda la organización",
+        "Define la estrategia de accesibilidad al más alto nivel",
+        "Es un líder reconocido en el sector"
+      ]
+    },
+    "ACC-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario de la accesibilidad a nivel ejecutivo",
+        "Definición de la estrategia de accesibilidad e inclusión empresarial",
+        "Responsabilidad ejecutiva del cumplimiento de accesibilidad y la postura legal",
+        "Alineación de la accesibilidad con la estrategia corporativa y de producto",
+        "Transformación de la cultura de la organización hacia el diseño inclusivo",
+        "Innovación en el gobierno de la accesibilidad y la adopción de estándares",
+        "Influencia en la regulación de accesibilidad y los estándares del sector",
+        "Responsabilidad sobre la accesibilidad en toda la cartera de productos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando la accesibilidad en grandes organizaciones",
+        "Reconocimiento como líder de accesibilidad a nivel de junta directiva",
+        "Influencia en los estándares globales de accesibilidad y la educación"
+      ],
+      "indicators": [
+        "Opera a nivel de vicepresidente o ejecutivo en accesibilidad",
+        "Define el futuro del diseño inclusivo en la organización",
+        "Es una autoridad mundial en accesibilidad digital"
+      ]
+    }
+  }
+}

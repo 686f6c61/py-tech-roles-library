@@ -1,0 +1,259 @@
+{
+  "role": "Científico de Datos",
+  "category": "Datos",
+  "levels": {
+    "DS-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de estadística descriptiva e inferencial",
+        "Conocimiento elemental de probabilidad y distribuciones",
+        "Habilidad para análisis exploratorio de datos básico",
+        "Comprensión básica de pruebas de hipótesis",
+        "Capacidad de crear visualizaciones simples",
+        "Conocimiento elemental de correlación y regresión",
+        "Comprensión básica de limpieza y preprocesamiento de datos",
+        "Habilidad para usar herramientas estadísticas básicas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de SQL",
+        "Familiaridad con cuadernos y entornos analíticos",
+        "Comprensión elemental de métricas de negocio"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en análisis",
+        "Puede ejecutar análisis predefinidos",
+        "Necesita 6-12 meses de mentoría"
+      ]
+    },
+    "DS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de realizar análisis estadístico completo",
+        "Habilidad para construir modelos predictivos básicos",
+        "Conocimiento práctico de ingeniería de características",
+        "Comprensión de técnicas de validación y sobreajuste",
+        "Capacidad de realizar pruebas A/B y experimentación",
+        "Habilidad para narración con datos",
+        "Conocimiento de segmentación y agrupamiento",
+        "Comprensión básica de análisis de series temporales"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de herramientas de grandes volúmenes de datos",
+        "Habilidad para extracción web",
+        "Comprensión de ética de datos"
+      ],
+      "indicators": [
+        "Desarrolla modelos con supervisión moderada",
+        "Genera conocimientos accionables básicos",
+        "Comunica resultados efectivamente"
+      ]
+    },
+    "DS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de algoritmos clásicos de aprendizaje automático",
+        "Capacidad de optimización de modelos y ajuste",
+        "Habilidad para análisis causal e inferencia",
+        "Conocimiento profundo de diseño experimental",
+        "Capacidad de trabajar con datos no estructurados",
+        "Comprensión sólida de reducción de dimensionalidad",
+        "Habilidad para métodos de ensamblaje y apilamiento",
+        "Conocimiento de interpretabilidad de modelos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de aprendizaje profundo",
+        "Habilidad para procesamiento de lenguaje natural básico",
+        "Comprensión de sistemas de recomendación"
+      ],
+      "indicators": [
+        "Lidera proyectos analíticos de extremo a extremo",
+        "Mejora métricas de negocio mediante conocimientos",
+        "Propone nuevas metodologías analíticas"
+      ]
+    },
+    "DS-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar estrategias analíticas completas",
+        "Dominio de técnicas avanzadas de aprendizaje automático",
+        "Habilidad para modelado de sistemas complejos",
+        "Conocimiento profundo de algoritmos de optimización",
+        "Capacidad de implementar modelos de aprendizaje profundo",
+        "Dominio de inferencia estadística avanzada",
+        "Habilidad para análisis de supervivencia y modelado de riesgos",
+        "Conocimiento de métodos bayesianos y programación probabilística"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de aprendizaje por refuerzo",
+        "Habilidad para visión por ordenador",
+        "Comprensión de análisis de grafos"
+      ],
+      "indicators": [
+        "Define estrategia analítica para productos",
+        "Mentoriza a científicos de datos junior",
+        "Publica análisis y metodologías"
+      ]
+    },
+    "DS-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en modelado a escala empresarial",
+        "Capacidad de diseñar experimentos complejos",
+        "Dominio de inferencia causal y econometría",
+        "Habilidad para simulación y métodos de Monte Carlo",
+        "Conocimiento profundo de pronóstico de series temporales",
+        "Capacidad de implementar soluciones de aprendizaje automático automatizado",
+        "Experiencia en detección avanzada de anomalías",
+        "Dominio de optimización multiobjetivo"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de algoritmos cuánticos",
+        "Habilidad para análisis federado",
+        "Comprensión de privacidad diferencial"
+      ],
+      "indicators": [
+        "Lidera ciencia de datos para líneas de negocio",
+        "Define metodologías analíticas corporativas",
+        "Impacta decisiones estratégicas con análisis"
+      ]
+    },
+    "DS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir estrategia empresarial de ciencia de datos",
+        "Experiencia en análisis avanzado e inteligencia artificial",
+        "Dominio de ciencia de decisiones y análisis prescriptivo",
+        "Habilidad para construir productos de datos",
+        "Conocimiento profundo de modelado específico de la industria",
+        "Capacidad de liderar investigación aplicada",
+        "Experiencia en inteligencia artificial explicable y equidad",
+        "Dominio de plataformas avanzadas de experimentación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de computación cognitiva",
+        "Habilidad para generación de datos sintéticos",
+        "Comprensión de análisis en el borde"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones analíticas empresariales",
+        "Lidera transformación basada en datos",
+        "Reconocido como experto en el dominio"
+      ]
+    },
+    "DS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en innovación analítica organizacional",
+        "Capacidad de crear ventaja competitiva mediante análisis",
+        "Experiencia en estrategia y hoja de ruta de inteligencia artificial",
+        "Dominio de métodos avanzados de investigación",
+        "Capacidad de definir gobernanza de ciencia de datos",
+        "Conocimiento profundo de economía del análisis",
+        "Experiencia en construcción de equipos de ciencia de datos",
+        "Capacidad de liderar iniciativas de ciencia abierta"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar metodologías",
+        "Habilidad para colaboración académica",
+        "Conocimiento de emprendimientos analíticos"
+      ],
+      "indicators": [
+        "Define filosofía analítica corporativa",
+        "Ponente en conferencias de primer nivel",
+        "Influye en prácticas de la industria"
+      ]
+    },
+    "DS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del futuro de la ciencia de datos",
+        "Capacidad de transformar empresas mediante análisis",
+        "Experiencia en ciencia de datos para ventaja estratégica",
+        "Dominio de liderazgo en investigación e innovación",
+        "Capacidad de definir gobernanza científica",
+        "Conocimiento profundo de ética en ciencia de datos",
+        "Experiencia en asociaciones academia-industria",
+        "Capacidad de liderar investigación revolucionaria"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de consejos asesores científicos",
+        "Habilidad para empresas derivadas analíticas",
+        "Conocimiento de financiación de investigación"
+      ],
+      "indicators": [
+        "Define estrategia científica corporativa",
+        "Publica en revistas de primer nivel",
+        "Influye en dirección de la disciplina"
+      ]
+    },
+    "DS-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en ciencia de datos",
+        "Capacidad de monetizar análisis como activo",
+        "Experiencia en transformación analítica empresarial",
+        "Dominio de presupuestos de investigación estratégicos",
+        "Capacidad de construir organizaciones científicas",
+        "Conocimiento profundo de gestión de propiedad intelectual y patentes",
+        "Experiencia en asociaciones científicas globales",
+        "Capacidad de definir cultura analítica",
+        "Dominio de innovación mediante ciencia de datos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar política de datos",
+        "Habilidad para crear institutos de investigación",
+        "Conocimiento de inversiones científicas"
+      ],
+      "indicators": [
+        "Define y ejecuta visión científica empresarial",
+        "Responsable de toda la analítica corporativa",
+        "Líder reconocido en ciencia de datos global"
+      ]
+    }
+  }
+}

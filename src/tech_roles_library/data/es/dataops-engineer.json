@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Operaciones de Datos",
+  "category": "Datos",
+  "levels": {
+    "DOE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de pipelines de datos y de lotes frente a streaming",
+        "Ejecución y monitorización de DAGs de Airflow con supervisión",
+        "CI/CD elemental para trabajos de datos con Git y pull requests",
+        "Lectura de logs de pipelines para localizar tareas fallidas",
+        "Redacción de comprobaciones simples de calidad sobre tablas",
+        "Despliegue de cambios de pipeline a un entorno de staging",
+        "Documentación de los pasos y la planificación de los pipelines",
+        "SQL básico para inspeccionar tablas de origen y destino"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con Airflow u orquestador similar",
+        "Ramas de Git y revisión de código",
+        "Uso elemental de contenedores para ejecutar trabajos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta despliegues simples de pipelines",
+        "Está aprendiendo operaciones de pipelines de datos"
+      ]
+    },
+    "DOE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Construcción de pipelines de CI/CD para trabajos y transformaciones de datos",
+        "Pruebas de datos automatizadas con dbt tests o Great Expectations",
+        "Creación y planificación de DAGs en Airflow o Dagster",
+        "Monitorización y alertas sobre frescura y fallos de los pipelines",
+        "Infraestructura como código para recursos de datos con Terraform",
+        "Automatización de despliegues entre desarrollo, staging y producción",
+        "Gestión del código y la configuración de pipelines en control de versiones",
+        "Diagnóstico y reejecución de tareas de pipeline fallidas"
+      ],
+      "complementaryCompetencies": [
+        "Ejecución de cargas de datos sobre Kubernetes",
+        "Scripting de lógica de unión en Python o Bash",
+        "Nociones de data warehouses en la nube (Snowflake, BigQuery)"
+      ],
+      "indicators": [
+        "Implementa pipelines con supervisión puntual",
+        "Automatiza despliegues y reprocesos",
+        "Mantiene la monitorización y las alertas"
+      ]
+    },
+    "DOE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de la arquitectura DataOps de los pipelines de un equipo",
+        "CI/CD avanzado con promoción entre entornos y rollbacks",
+        "Dominio de la orquestación con Airflow, Dagster o Prefect",
+        "Observabilidad de datos: frescura, volumen, esquema y linaje",
+        "Módulos de infraestructura reutilizables para plataformas de datos",
+        "Estrategia de pruebas de datos: unitarias, de integración y contratos",
+        "Plantillas de autoservicio para que los analistas publiquen pipelines",
+        "Respuesta a incidentes de guardia ante caídas de pipelines"
+      ],
+      "complementaryCompetencies": [
+        "Patrones operativos de data mesh y propiedad por dominio",
+        "Optimización de coste de warehouse y de cómputo",
+        "Aplicación de principios SRE a los sistemas de datos"
+      ],
+      "indicators": [
+        "Lidera proyectos DataOps de un dominio",
+        "Diseña la automatización y los estándares de pipelines",
+        "Mentoriza a ingenieros y analistas en DataOps"
+      ]
+    },
+    "DOE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de la plataforma DataOps para varios equipos",
+        "Diseño de estándares de pipelines y golden paths empresariales",
+        "Despliegue de infraestructura de datos guiado por GitOps",
+        "Operación de DataOps en varias nubes y warehouses",
+        "Ingeniería de plataforma para datos: autoservicio y plantillas",
+        "Ingeniería de fiabilidad de datos con SLOs de frescura",
+        "Gobierno de contratos de datos y evolución de esquemas",
+        "Liderazgo de la automatización de ingesta, transformación y entrega"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con plataformas lakehouse (Databricks, Iceberg)",
+        "Gobierno de coste y FinOps de las cargas de datos",
+        "Políticas como código para acceso y calidad de datos"
+      ],
+      "indicators": [
+        "Define la estrategia DataOps",
+        "Lidera un equipo de plataforma de datos",
+        "Es referente en fiabilidad de datos"
+      ]
+    },
+    "DOE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo del diseño técnico de la plataforma de datos de extremo a extremo",
+        "Estandarización de orquestación, pruebas y despliegue entre equipos",
+        "Definición de SLAs y SLOs de datos y política de error budget",
+        "Construcción de plataformas de observabilidad y linaje de datos",
+        "GitOps y automatización en múltiples pipelines y dominios",
+        "Optimización de capacidad y coste de la plataforma de datos",
+        "Establecimiento de respuesta a incidentes y postmortems de datos",
+        "Definición de estándares de ingeniería para el desarrollo de pipelines"
+      ],
+      "complementaryCompetencies": [
+        "Ingeniería de fiabilidad de datos a escala",
+        "Modelado de la economía de la plataforma y chargeback",
+        "Gestión del presupuesto de herramientas DataOps"
+      ],
+      "indicators": [
+        "Lidera un equipo DataOps",
+        "Define la visión de automatización y fiabilidad",
+        "Representa DataOps ante las partes interesadas de datos e ingeniería"
+      ]
+    },
+    "DOE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Propiedad de la estrategia plurianual de DataOps de la organización",
+        "Gobierno de programas de fiabilidad de pipelines y SLAs de datos",
+        "Definición de la arquitectura y los estándares de la plataforma de datos",
+        "Dirección de migraciones a orquestación moderna y stacks lakehouse",
+        "Gestión de las operaciones globales de pipelines y de las guardias",
+        "Definición de líneas base de calidad, linaje y observabilidad de datos",
+        "Impulso de la innovación en automatización de ingesta y entrega",
+        "Alineación de la inversión en DataOps con las necesidades de analítica y producto"
+      ],
+      "complementaryCompetencies": [
+        "Integración de plataformas de datos tras fusiones y adquisiciones",
+        "Planificación de la inversión en herramientas DataOps",
+        "Liderazgo en la comunidad de ingeniería de datos"
+      ],
+      "indicators": [
+        "Dirige la función DataOps",
+        "Participa en la estrategia de datos y de plataforma",
+        "Decide las inversiones en plataforma de datos"
+      ]
+    },
+    "DOE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia corporativa de DataOps y fiabilidad de datos",
+        "Estandarización de las prácticas de pipelines entre unidades de negocio",
+        "Diseño de la arquitectura multinube de la plataforma de datos",
+        "Dirección de la transformación de automatización de datos de toda la organización",
+        "Construcción del modelo de coste y capacidad de las plataformas de datos",
+        "Establecimiento de gobierno, calidad y fiabilidad de datos a escala",
+        "Orientación de la dirección de producto de la plataforma de datos",
+        "Crecimiento y estructuración de los equipos DataOps y de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos DataOps de varios equipos",
+        "Experiencia en organizaciones intensivas en datos",
+        "Representación de la empresa en foros de plataformas de datos"
+      ],
+      "indicators": [
+        "Depende del director de datos o al CTO",
+        "Lidera una organización de 25 o más ingenieros",
+        "Es dueño de la estrategia DataOps corporativa"
+      ]
+    },
+    "DOE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición del rumbo a largo plazo de las operaciones de la plataforma de datos",
+        "Dirección de la arquitectura de fiabilidad y automatización de datos de toda la empresa",
+        "Conversión de DataOps en una ventaja operativa duradera",
+        "Gobierno de los estándares de calidad y linaje de datos entre dominios",
+        "Impulso de la adopción de patrones emergentes de orquestación y observabilidad",
+        "Definición de la estrategia de fiabilidad, coste y gobierno de los sistemas de datos",
+        "Asesoramiento a la dirección sobre construir o comprar plataforma de datos",
+        "Configuración de la cultura y el plan de carrera de la ingeniería DataOps"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia profunda operando plataformas de datos a escala",
+        "Asesoría a empresas emergentes de plataformas de datos",
+        "Autoridad técnica reconocida en DataOps"
+      ],
+      "indicators": [
+        "Forma parte del grupo de liderazgo técnico",
+        "Fija la estrategia DataOps",
+        "Es un líder reconocido en operaciones de datos"
+      ]
+    },
+    "DOE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Propiedad de la estrategia de plataforma y operaciones de datos a nivel ejecutivo",
+        "Alineación de DataOps con la estrategia de negocio y de analítica",
+        "Dirección de la inversión en fiabilidad y automatización de datos",
+        "Definición de objetivos de calidad, fiabilidad y coste de los sistemas de datos",
+        "Liderazgo de la transformación de operaciones de datos de toda la organización",
+        "Gobierno del riesgo, cumplimiento y estrategia de proveedores de la plataforma de datos",
+        "Creación de ventaja competitiva mediante una entrega de datos fiable",
+        "Definición de cómo construye y opera la organización sus pipelines de datos"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de grandes presupuestos de plataforma de datos",
+        "Dirección de alianzas empresariales de herramientas de datos",
+        "Influencia en el rumbo de la práctica de operaciones de datos"
+      ],
+      "indicators": [
+        "Es dueño de la estrategia de operaciones de datos de la empresa",
+        "Responde por la fiabilidad y el coste de los datos",
+        "Representa a la empresa en tecnología de plataformas de datos"
+      ]
+    }
+  }
+}

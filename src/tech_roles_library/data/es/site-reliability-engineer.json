@@ -1,0 +1,259 @@
+{
+  "role": "Ingeniero de Fiabilidad del Sitio",
+  "category": "Infraestructura",
+  "levels": {
+    "SRE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de principios SRE y SLI/SLO/SLA",
+        "Conocimiento elemental de monitorización y observabilidad",
+        "Habilidad para responder a incidentes con manuales de procedimientos",
+        "Comprensión básica de disponibilidad y fiabilidad",
+        "Capacidad de usar herramientas de monitorización básicas",
+        "Conocimiento elemental de gestión de incidentes",
+        "Comprensión básica de automatización y programación de scripts",
+        "Habilidad para documentar procedimientos operacionales"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de plataformas en la nube",
+        "Familiaridad con contenedorización",
+        "Comprensión elemental de redes"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en tareas SRE",
+        "Participa en guardias con apoyo senior",
+        "Necesita 6-12 meses de mentoría SRE"
+      ]
+    },
+    "SRE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de definir y monitorizar SLIs básicos",
+        "Habilidad para implementar alertas efectivas",
+        "Conocimiento práctico de planificación de capacidad básica",
+        "Comprensión de presupuestos de errores y su gestión",
+        "Capacidad de realizar análisis post-incidente básicos",
+        "Habilidad para automatizar tareas operacionales simples",
+        "Conocimiento de balanceo de carga y conmutación por error",
+        "Comprensión de procedimientos de respaldo y recuperación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de infraestructura como código",
+        "Habilidad para ajuste de rendimiento básico",
+        "Comprensión de operaciones de seguridad"
+      ],
+      "indicators": [
+        "Gestiona incidentes de severidad media independientemente",
+        "Mejora manuales de procedimientos y documentación proactivamente",
+        "Participa efectivamente en rotación de guardias"
+      ]
+    },
+    "SRE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de observabilidad completa (métricas, registros, trazas)",
+        "Capacidad de diseñar SLOs exhaustivos",
+        "Habilidad para implementar ingeniería del caos básica",
+        "Conocimiento profundo de fiabilidad de sistemas distribuidos",
+        "Capacidad de realizar planificación de capacidad avanzada",
+        "Comprensión sólida de reducción de trabajo manual y automatización",
+        "Habilidad para implementar sistemas de autocuración",
+        "Conocimiento de planificación de recuperación ante desastres"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de malla de servicios",
+        "Habilidad para optimización de costes",
+        "Comprensión de automatización de cumplimiento normativo"
+      ],
+      "indicators": [
+        "Lidera respuesta a incidentes complejos",
+        "Diseña sistemas de monitorización para nuevos servicios",
+        "Reduce trabajo manual significativamente mediante automatización"
+      ]
+    },
+    "SRE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas para alta disponibilidad",
+        "Dominio de comando de incidentes y gestión de crisis",
+        "Habilidad para implementar prácticas SRE a escala",
+        "Conocimiento profundo de ingeniería de rendimiento",
+        "Capacidad de definir estándares de fiabilidad organizacionales",
+        "Dominio de cultura de análisis post-incidente sin culpas",
+        "Habilidad para diseñar estrategias de recuperación ante desastres",
+        "Conocimiento de conmutación por error multirregional y georredundancia"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de aprendizaje automático para SRE",
+        "Habilidad para simulacros y ejercicios prácticos",
+        "Comprensión de fiabilidad en el borde"
+      ],
+      "indicators": [
+        "Define estrategia SRE para productos críticos",
+        "Mentora SREs junior efectivamente",
+        "Mejora tiempo medio de reparación y tiempo medio entre fallos consistentemente"
+      ]
+    },
+    "SRE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en ingeniería de fiabilidad para sistemas masivos",
+        "Capacidad de implementar operaciones inteligentes y análisis predictivo",
+        "Dominio de balanceo de carga global y gestión de tráfico",
+        "Habilidad para diseñar plataformas de observabilidad",
+        "Conocimiento profundo de ingeniería del caos avanzada",
+        "Capacidad de liderar transformaciones SRE",
+        "Experiencia en revisiones de preparación para producción",
+        "Dominio de pruebas y validación de fiabilidad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de fiabilidad resistente a computación cuántica",
+        "Habilidad para economía de fiabilidad",
+        "Comprensión de sostenibilidad en SRE"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de fiabilidad para múltiples productos",
+        "Lidera iniciativas SRE transversales a la organización",
+        "Define hoja de ruta técnica de fiabilidad"
+      ]
+    },
+    "SRE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir estrategia SRE empresarial",
+        "Experiencia en fiabilidad para arquitecturas complejas",
+        "Dominio de gestión de incidentes a escala global",
+        "Habilidad para construir plataformas y herramientas SRE",
+        "Conocimiento profundo de economía de fiabilidad y retorno de inversión",
+        "Capacidad de liderar transformación cultural hacia SRE",
+        "Experiencia en gestión de fiabilidad de proveedores",
+        "Dominio de cumplimiento normativo para disponibilidad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de fiabilidad para sistemas de IA y aprendizaje automático",
+        "Habilidad para consultoría de fiabilidad",
+        "Comprensión de seguros de fiabilidad"
+      ],
+      "indicators": [
+        "Define estándares de fiabilidad corporativos",
+        "Lidera construcción de organización SRE",
+        "Influencia prácticas SRE de la industria"
+      ]
+    },
+    "SRE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en innovación de ingeniería de fiabilidad",
+        "Capacidad de diseñar fiabilidad para ecosistemas",
+        "Experiencia en transformación sin tiempo de inactividad",
+        "Dominio de plataformas de automatización de fiabilidad",
+        "Capacidad de definir metodologías SRE",
+        "Conocimiento profundo de impacto de fiabilidad en ingresos",
+        "Experiencia en construcción de centros de excelencia SRE",
+        "Capacidad de liderar investigación de fiabilidad"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones de fiabilidad",
+        "Capacidad de impulsar la adopción de SRE en una organización global",
+        "Conocimiento de emprendimientos de fiabilidad"
+      ],
+      "indicators": [
+        "Define filosofía SRE organizacional",
+        "Ponente principal en conferencias SRE",
+        "Autor de marcos de trabajo SRE"
+      ]
+    },
+    "SRE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del futuro de ingeniería de fiabilidad",
+        "Capacidad de transformar industrias mediante fiabilidad",
+        "Experiencia en fiabilidad para infraestructura crítica",
+        "Dominio de gobernanza ejecutiva de fiabilidad",
+        "Capacidad de definir modelos económicos de fiabilidad",
+        "Conocimiento profundo de estándares globales de fiabilidad",
+        "Experiencia en alianzas estratégicas de fiabilidad",
+        "Capacidad de liderar iniciativas SRE de código abierto"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar regulaciones de fiabilidad",
+        "Habilidad para consejos asesores de fiabilidad",
+        "Conocimiento de inversiones en fiabilidad"
+      ],
+      "indicators": [
+        "Define estrategia de fiabilidad multianual",
+        "Influye en estándares globales de fiabilidad",
+        "Asesor de alta dirección en fiabilidad"
+      ]
+    },
+    "SRE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en fiabilidad y operaciones",
+        "Capacidad de convertir fiabilidad en ventaja competitiva",
+        "Experiencia en transformación empresarial de fiabilidad",
+        "Dominio de presupuestos estratégicos de fiabilidad",
+        "Capacidad de construir organizaciones SRE globales",
+        "Conocimiento profundo de gestión de riesgos de fiabilidad",
+        "Experiencia en fiabilidad como diferenciador de mercado",
+        "Capacidad de definir cultura de fiabilidad",
+        "Dominio de métricas de fiabilidad para directivos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de crear empresas de fiabilidad",
+        "Habilidad para fusiones y adquisiciones de fiabilidad",
+        "Conocimiento de salidas a bolsa de fiabilidad"
+      ],
+      "indicators": [
+        "Define y ejecuta visión de fiabilidad empresarial",
+        "Responsable de toda la fiabilidad corporativa",
+        "Líder reconocido en ingeniería de fiabilidad global"
+      ]
+    }
+  }
+}

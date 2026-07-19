@@ -1,0 +1,258 @@
+{
+  "role": "Desarrollador de Backend",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "BE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de arquitectura cliente-servidor",
+        "Conocimiento elemental de protocolos HTTP/HTTPS y métodos REST",
+        "Habilidad para crear puntos de acceso simples con supervisión",
+        "Comprensión básica de bases de datos relacionales (tablas, consultas simples)",
+        "Capacidad de escribir código funcional siguiendo ejemplos",
+        "Conocimiento elemental de depuración con registros",
+        "Comprensión básica de autenticación y autorización",
+        "Habilidad para usar herramientas de desarrollo básicas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de línea de comandos",
+        "Familiaridad con entornos de desarrollo comunes",
+        "Comprensión elemental de JSON y XML"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede completar tareas simples con guía detallada",
+        "Necesita 3-6 meses para ser productivo"
+      ]
+    },
+    "BE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar operaciones CRUD completas con supervisión mínima",
+        "Habilidad para diseñar esquemas de base de datos normalizados",
+        "Conocimiento práctico de mapeo objeto-relacional y sus limitaciones",
+        "Comprensión de índices y optimización básica de consultas",
+        "Capacidad de implementar validación de datos y manejo de errores",
+        "Habilidad para trabajar con sistemas de colas y mensajería básicos",
+        "Conocimiento de patrones modelo-vista-controlador y arquitectura en capas",
+        "Comprensión de pruebas unitarias y de integración"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de contenedores",
+        "Habilidad para usar herramientas de análisis de rendimiento",
+        "Comprensión básica de integración y entrega continuas"
+      ],
+      "indicators": [
+        "Puede desarrollar funcionalidades simples independientemente",
+        "Resuelve errores de complejidad media",
+        "Participa activamente en revisiones de código"
+      ]
+    },
+    "BE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de diseño de API RESTful y mejores prácticas",
+        "Capacidad de implementar autenticación y autorización robustas (tokens web JSON, OAuth)",
+        "Habilidad para optimizar rendimiento de aplicaciones y consultas",
+        "Conocimiento profundo de transacciones y consistencia de datos",
+        "Capacidad de implementar almacenamiento en caché en múltiples niveles",
+        "Comprensión de patrones de diseño y su aplicación práctica",
+        "Habilidad para trabajar con múltiples fuentes de datos simultáneamente",
+        "Conocimiento de registro estructurado y monitorización"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de GraphQL",
+        "Habilidad para implementar conexiones bidireccionales en tiempo real",
+        "Comprensión básica de microservicios"
+      ],
+      "indicators": [
+        "Completa funcionalidades complejas con mínima supervisión",
+        "Identifica y resuelve problemas de rendimiento",
+        "Contribuye activamente al diseño técnico"
+      ]
+    },
+    "BE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar sistemas distribuidos y microservicios",
+        "Dominio de arquitectura orientada a eventos y patrones de mensajería",
+        "Habilidad para implementar idempotencia y manejo de fallos",
+        "Conocimiento profundo de concurrencia y paralelismo",
+        "Capacidad de diseñar sistemas de alta disponibilidad",
+        "Dominio de seguridad avanzada (cifrado, dispersión criptográfica, sal)",
+        "Habilidad para implementar limitación de tasa y regulación de tráfico",
+        "Conocimiento de rastreo distribuido y observabilidad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de orquestación de contenedores",
+        "Habilidad para implementar segregación de responsabilidad de consultas y comandos y generación de eventos",
+        "Comprensión de diseño orientado al dominio"
+      ],
+      "indicators": [
+        "Lidera desarrollo de componentes críticos",
+        "Mentoriza efectivamente a desarrolladores junior",
+        "Toma decisiones arquitecturales informadas"
+      ]
+    },
+    "BE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en arquitecturas nativas de la nube y sin servidor",
+        "Capacidad de diseñar sistemas escalables multiinquilino",
+        "Dominio de optimización de bases de datos a gran escala",
+        "Habilidad para implementar fragmentación y particionamiento",
+        "Conocimiento profundo de teorema CAP y consistencia eventual",
+        "Capacidad de diseñar API públicas versionadas y retrocompatibles",
+        "Experiencia en migración de sistemas heredados",
+        "Dominio de malla de servicios y pasarelas de API"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de conductos de aprendizaje automático",
+        "Habilidad para trabajar con grandes volúmenes de datos",
+        "Comprensión de cadena de bloques y sistemas distribuidos"
+      ],
+      "indicators": [
+        "Diseña arquitecturas para productos completos",
+        "Define estándares técnicos del equipo",
+        "Lidera iniciativas técnicas entre equipos"
+      ]
+    },
+    "BE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas backend empresariales",
+        "Experiencia en optimización de gastes de infraestructura",
+        "Dominio de estrategias de recuperación ante desastres y respaldo",
+        "Habilidad para diseñar sistemas globalmente distribuidos",
+        "Conocimiento profundo de cumplimiento normativo y regulaciones (reglamento general de protección de datos, estándar de seguridad de datos de la industria de tarjetas de pago)",
+        "Capacidad de liderar migraciones masivas de arquitectura",
+        "Experiencia en ingeniería de plataformas y experiencia del desarrollador",
+        "Dominio de ingeniería del caos y resiliencia"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de computación en el borde",
+        "Habilidad para diseñar sistemas de internet de las cosas",
+        "Comprensión de preparación para computación cuántica"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones para múltiples equipos",
+        "Influencia decisiones técnicas organizacionales",
+        "Representa la empresa técnicamente"
+      ]
+    },
+    "BE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en transformaciones digitales",
+        "Capacidad de diseñar arquitecturas para sistemas empresariales de gran escala",
+        "Experiencia en estrategias de modernización de sistemas heredados",
+        "Dominio de arquitecturas multinube y agnósticas a la nube",
+        "Capacidad de definir hojas de ruta técnicas de varios años",
+        "Conocimiento profundo de economía de software y gasto total de propiedad",
+        "Experiencia en construcción y escalamiento de equipos de ingeniería",
+        "Capacidad de influenciar la industria con innovaciones"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones",
+        "Habilidad para evaluar empresas emergentes técnicamente",
+        "Conocimiento de capital de riesgo técnico"
+      ],
+      "indicators": [
+        "Define estrategia técnica organizacional",
+        "Reconocido como líder de pensamiento",
+        "Ponente en conferencias internacionales"
+      ]
+    },
+    "BE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de evolución tecnológica de la industria",
+        "Capacidad de liderar la evolución técnica de la plataforma de backend",
+        "Experiencia en diligencia debida técnica y fusiones y adquisiciones",
+        "Dominio de transformación organizacional mediante tecnología",
+        "Capacidad de construir y liderar organizaciones de ingeniería",
+        "Conocimiento profundo de impacto de negocio de decisiones técnicas",
+        "Experiencia en relaciones con partes interesadas ejecutivas",
+        "Capacidad de definir cultura de ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar políticas de industria",
+        "Habilidad para crear empresas derivadas tecnológicas",
+        "Conocimiento de inversión en tecnología"
+      ],
+      "indicators": [
+        "Impacta la dirección técnica de la industria",
+        "Asesor de alta dirección ejecutiva y juntas directivas",
+        "Mentor de líderes técnicos senior"
+      ]
+    },
+    "BE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en tecnología",
+        "Capacidad de alinear tecnología con estrategia de negocio",
+        "Experiencia en gestión de presupuestos tecnológicos multimillonarios",
+        "Dominio de relaciones con inversores y gestión de juntas directivas",
+        "Capacidad de fusiones y adquisiciones tecnológicas e integración posterior a la fusión",
+        "Conocimiento profundo de gestión de riesgos tecnológicos",
+        "Experiencia en construcción de ventajas competitivas mediante tecnología",
+        "Capacidad de transformación digital empresarial"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar regulación tecnológica",
+        "Habilidad para crear ecosistemas tecnológicos",
+        "Conocimiento de capital privado y salidas"
+      ],
+      "indicators": [
+        "Define y ejecuta visión tecnológica empresarial",
+        "Responsable de pérdidas y ganancias tecnológicas",
+        "Figura pública de la empresa en tecnología"
+      ]
+    }
+  }
+}

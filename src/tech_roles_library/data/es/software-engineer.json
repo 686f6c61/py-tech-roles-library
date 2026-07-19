@@ -1,0 +1,266 @@
+{
+  "role": "Ingeniero de Software",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "SE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de fundamentos de programación y algoritmos",
+        "Conocimiento elemental de estructuras de datos básicas (arrays, listas, pilas)",
+        "Habilidad para escribir código simple siguiendo ejemplos y guías",
+        "Comprensión básica de programación procedural y orientada a objetos",
+        "Capacidad de resolver problemas simples con supervisión",
+        "Conocimiento elemental de debugging y testing manual",
+        "Comprensión básica de ciclo de vida del software",
+        "Habilidad para usar herramientas de desarrollo básicas y control de versiones"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de sistemas operativos",
+        "Familiaridad con metodologías ágiles",
+        "Comprensión elemental de bases de datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en todas las tareas",
+        "Puede completar ejercicios de programación básicos",
+        "Necesita 3-6 meses de mentoría intensiva"
+      ]
+    },
+    "SE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar funcionalidades simples con supervisión",
+        "Habilidad para trabajar con estructuras de datos y algoritmos comunes",
+        "Conocimiento práctico de patrones de diseño básicos",
+        "Comprensión de principios SOLID y código limpio básico",
+        "Capacidad de escribir pruebas unitarias simples",
+        "Habilidad para realizar revisiones de código básicas",
+        "Conocimiento de depuración sistemática y análisis de rendimiento básico",
+        "Comprensión de arquitectura de software básica",
+        "Capacidad de trabajar en equipo y comunicar técnicamente"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de integración y entrega continua",
+        "Habilidad para estimar tareas simples",
+        "Comprensión de seguridad básica"
+      ],
+      "indicators": [
+        "Puede desarrollar funcionalidades simples con guía moderada",
+        "Participa activamente en ceremonias de equipo",
+        "Resuelve errores de complejidad baja-media"
+      ]
+    },
+    "SE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de múltiples enfoques de programación (procedural, funcional, OOP)",
+        "Capacidad de diseñar e implementar módulos complejos",
+        "Habilidad para optimizar código y mejorar rendimiento",
+        "Conocimiento profundo de patrones de diseño y su aplicación",
+        "Capacidad de implementar pruebas exhaustivas (unitarias, integración)",
+        "Comprensión sólida de complejidad algorítmica y optimización",
+        "Habilidad para refactorizar código heredado",
+        "Conocimiento de arquitecturas de software comunes",
+        "Capacidad de documentar decisiones técnicas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de múltiples lenguajes de programación",
+        "Habilidad para trabajar con sistemas distribuidos básicos",
+        "Comprensión de desarrollo y operaciones básico"
+      ],
+      "indicators": [
+        "Completa funcionalidades medianas independientemente",
+        "Propone mejoras técnicas proactivamente",
+        "Contribuye a decisiones de arquitectura"
+      ]
+    },
+    "SE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar sistemas y componentes complejos",
+        "Dominio de arquitecturas escalables y mantenibles",
+        "Habilidad para liderar iniciativas técnicas medianas",
+        "Conocimiento profundo de mejores prácticas de ingeniería",
+        "Capacidad de realizar trade-offs técnicos informados",
+        "Dominio de técnicas avanzadas de depuración y análisis de rendimiento",
+        "Habilidad para mentorizar desarrolladores junior",
+        "Conocimiento de diseño dirigido por dominio y arquitectura limpia",
+        "Capacidad de escribir especificaciones técnicas detalladas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas de microservicios",
+        "Habilidad para optimización de sistemas",
+        "Comprensión de aprendizaje automático básico"
+      ],
+      "indicators": [
+        "Lidera desarrollo de componentes críticos",
+        "Define estándares técnicos del equipo",
+        "Resuelve problemas técnicos complejos"
+      ]
+    },
+    "SE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en diseño de sistemas distribuidos y escalables",
+        "Capacidad de liderar proyectos técnicos grandes",
+        "Dominio de arquitecturas empresariales y patrones",
+        "Habilidad para realizar evaluaciones técnicas y auditorías",
+        "Conocimiento profundo de optimización y ajuste de sistemas",
+        "Capacidad de diseñar marcos de trabajo y bibliotecas reutilizables",
+        "Experiencia en migración y modernización de sistemas",
+        "Dominio de mejores prácticas de seguridad y cumplimiento normativo",
+        "Capacidad de influenciar decisiones técnicas transversales entre equipos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas nativas de la nube",
+        "Habilidad para trabajar con grandes volúmenes de datos",
+        "Comprensión de inteligencia artificial y aprendizaje automático aplicado"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones para productos completos",
+        "Lidera iniciativas técnicas entre equipos",
+        "Reconocido como experto técnico interno"
+      ]
+    },
+    "SE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir estrategia técnica para productos",
+        "Experiencia en arquitecturas de alta complejidad y escala",
+        "Dominio de innovación técnica e investigación y desarrollo aplicado",
+        "Habilidad para liderar transformaciones técnicas",
+        "Conocimiento profundo de tecnologías emergentes",
+        "Capacidad de construir y liderar equipos técnicos",
+        "Experiencia en optimización de procesos de ingeniería",
+        "Dominio de gestión estratégica de deuda técnica",
+        "Capacidad de representar la empresa técnicamente"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de estándares de industria",
+        "Habilidad para contribuir a código abierto",
+        "Comprensión de impacto de negocio"
+      ],
+      "indicators": [
+        "Define arquitectura para múltiples productos",
+        "Lidera comunidades técnicas internas",
+        "Mentor de ingenieros senior"
+      ]
+    },
+    "SE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en innovación técnica organizacional",
+        "Capacidad de diseñar arquitecturas para ecosistemas",
+        "Experiencia en estrategias de ingeniería de plataformas",
+        "Dominio de transformación técnica empresarial",
+        "Capacidad de definir mejores prácticas a nivel de industria",
+        "Conocimiento profundo de tendencias tecnológicas futuras",
+        "Experiencia en construcción de excelencia en ingeniería",
+        "Capacidad de influenciar hoja de ruta tecnológica corporativa",
+        "Dominio de gestión de carteras técnicas"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones",
+        "Habilidad para evaluar empresas emergentes técnicamente",
+        "Conocimiento de construcción de emprendimientos"
+      ],
+      "indicators": [
+        "Define estrategia técnica multianual",
+        "Ponente en conferencias internacionales",
+        "Líder de pensamiento reconocido"
+      ]
+    },
+    "SE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del futuro tecnológico",
+        "Capacidad de liderar innovación técnica",
+        "Experiencia en transformación digital empresarial",
+        "Dominio de arquitecturas para sistemas a gran escala",
+        "Capacidad de definir cultura de ingeniería",
+        "Conocimiento profundo de economía del software",
+        "Experiencia en construcción de organizaciones de ingeniería",
+        "Capacidad de liderar iniciativas mayores de código abierto",
+        "Dominio de diligencia técnica debida y fusiones y adquisiciones"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar estándares globales",
+        "Habilidad para crear empresas derivadas técnicas",
+        "Conocimiento de inversión tecnológica"
+      ],
+      "indicators": [
+        "Define dirección técnica corporativa",
+        "Asesor de alta dirección y consejos",
+        "Influye en la industria tecnológica"
+      ]
+    },
+    "SE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en tecnología e innovación",
+        "Capacidad de alinear tecnología con estrategia empresarial",
+        "Experiencia en gestión de presupuestos tecnológicos masivos",
+        "Dominio de transformación organizacional mediante tecnología",
+        "Capacidad de construir ventajas competitivas tecnológicas",
+        "Conocimiento profundo de gobernanza tecnológica",
+        "Experiencia en ecosistemas tecnológicos y alianzas",
+        "Capacidad de definir visión tecnológica disruptiva",
+        "Dominio de gestión de riesgo tecnológico empresarial"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar políticas tecnológicas",
+        "Habilidad para liderar consorcios técnicos",
+        "Conocimiento de ventas y salidas a bolsa tecnológicas"
+      ],
+      "indicators": [
+        "Define y ejecuta visión tecnológica empresarial",
+        "Responsable de toda la tecnología corporativa",
+        "Líder reconocido globalmente en tecnología"
+      ]
+    }
+  }
+}

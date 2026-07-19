@@ -1,0 +1,259 @@
+{
+  "role": "Ingeniero de Nube",
+  "category": "Infraestructura",
+  "levels": {
+    "CE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de conceptos de nube (IaaS, PaaS, SaaS)",
+        "Conocimiento elemental de virtualización y contenedores",
+        "Habilidad para usar consolas de nube básicas",
+        "Comprensión básica de redes en la nube",
+        "Capacidad de desplegar aplicaciones simples",
+        "Conocimiento elemental de almacenamiento en la nube",
+        "Comprensión básica de seguridad en la nube",
+        "Habilidad para monitorización de nube básico"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de programación de scripts",
+        "Familiaridad con herramientas de línea de comandos",
+        "Comprensión elemental de facturación"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede ejecutar tareas de nube predefinidas",
+        "Necesita 6-12 meses de mentoría en nube"
+      ]
+    },
+    "CE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de gestionar recursos de nube básicos",
+        "Habilidad para configurar redes y seguridad en la nube",
+        "Conocimiento práctico de autoescalado y balanceo de carga",
+        "Comprensión de respaldo y recuperación ante desastres en la nube",
+        "Capacidad de implementar integración y despliegue continuo en la nube",
+        "Habilidad para optimización de costes básica",
+        "Conocimiento de cumplimiento básico en la nube",
+        "Comprensión de arquitecturas multinivel"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de computación sin servidor",
+        "Habilidad para planificación de migraciones",
+        "Comprensión de nube híbrida"
+      ],
+      "indicators": [
+        "Gestiona infraestructura de nube con supervisión",
+        "Optimiza costes básicos",
+        "Resuelve problemas comunes de nube"
+      ]
+    },
+    "CE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de múltiples proveedores de nube",
+        "Capacidad de diseñar arquitecturas de nube resilientes",
+        "Habilidad para implementar infraestructura como código completo",
+        "Conocimiento profundo de servicios nativos de nube",
+        "Capacidad de implementar mejores prácticas de seguridad",
+        "Comprensión sólida de redes avanzadas en la nube",
+        "Habilidad para contenedorización y orquestación",
+        "Conocimiento de automatización completa en la nube"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de computación en el perímetro",
+        "Habilidad para Internet de las Cosas en la nube",
+        "Comprensión de servicios de inteligencia artificial y aprendizaje automático"
+      ],
+      "indicators": [
+        "Diseña soluciones de nube de extremo a extremo",
+        "Lidera migraciones de nube medianas",
+        "Optimiza arquitecturas existentes"
+      ]
+    },
+    "CE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar soluciones multinube",
+        "Dominio de seguridad y cumplimiento en la nube",
+        "Habilidad para diseñar recuperación ante desastres global",
+        "Conocimiento profundo de economía de la nube",
+        "Capacidad de implementar zonas de aterrizaje",
+        "Dominio de malla de servicios y microservicios",
+        "Habilidad para gobernanza de la nube",
+        "Conocimiento de marcos de arquitectura bien diseñada"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de servicios de nube cuántica",
+        "Habilidad para blockchain en la nube",
+        "Comprensión de sostenibilidad en la nube"
+      ],
+      "indicators": [
+        "Define estrategia de nube para productos",
+        "Lidera transformaciones de nube",
+        "Mentorea ingenieros de nube"
+      ]
+    },
+    "CE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia especializada en arquitecturas de nube empresariales",
+        "Capacidad de diseñar plataformas de nube",
+        "Dominio de transformación nativa de nube",
+        "Habilidad para centro de excelencia de nube",
+        "Conocimiento profundo de operaciones financieras avanzadas",
+        "Capacidad de implementar modelos operativos de nube",
+        "Experiencia especializada en cumplimiento regulatorio global",
+        "Dominio de colaboraciones técnicas en la nube"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de nubes soberanas",
+        "Habilidad para nubes de industria",
+        "Comprensión de mercados de nube"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de nube para carteras",
+        "Lidera iniciativas corporativas de nube",
+        "Define estándares organizacionales de nube"
+      ]
+    },
+    "CE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir estrategia empresarial de nube",
+        "Experiencia especializada en transformación digital centrada en nube",
+        "Dominio de economía estratégica de la nube",
+        "Habilidad para laboratorios de innovación en la nube",
+        "Conocimiento profundo de ecosistemas de nube",
+        "Capacidad de liderar migraciones masivas a la nube",
+        "Experiencia especializada en gestión de proveedores de nube",
+        "Dominio de gestión de riesgos en la nube"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de nube espacial",
+        "Habilidad para investigación y desarrollo en la nube",
+        "Comprensión de emprendimientos en la nube"
+      ],
+      "indicators": [
+        "Define hoja de ruta de nube multianual",
+        "Lidera organizaciones de nube",
+        "Influencia la industria de la nube"
+      ]
+    },
+    "CE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en innovación global de nube",
+        "Capacidad de crear ventajas competitivas mediante nube",
+        "Experiencia especializada en modelos de negocio de nube",
+        "Dominio de ingeniería de plataformas de nube",
+        "Capacidad de definir gobernanza corporativa de nube",
+        "Conocimiento profundo de geopolítica de la nube",
+        "Experiencia especializada en alianzas estratégicas de nube",
+        "Capacidad de liderar liderazgo intelectual en nube"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones en la nube",
+        "Habilidad para asesoría en nube",
+        "Conocimiento de inversiones en nube"
+      ],
+      "indicators": [
+        "Define filosofía corporativa de nube",
+        "Ponente principal en conferencias de nube",
+        "Asesor de transformación de nube"
+      ]
+    },
+    "CE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del futuro de la nube",
+        "Capacidad de transformar industrias mediante la nube",
+        "Experiencia especializada en estrategia ejecutiva de nube",
+        "Dominio de economía corporativa de la nube",
+        "Capacidad de definir excelencia operativa en la nube",
+        "Conocimiento profundo de soberanía de la nube",
+        "Experiencia especializada en construcción de ecosistemas de nube",
+        "Capacidad de liderar estándares de nube"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar regulaciones de nube",
+        "Habilidad para emprendimientos en la nube",
+        "Conocimiento de fusiones y adquisiciones en nube"
+      ],
+      "indicators": [
+        "Define la estrategia de nube de toda la organización",
+        "Influye en proveedores de nube",
+        "Líder intelectual global en nube"
+      ]
+    },
+    "CE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia de nube",
+        "Capacidad de nube como diferenciador competitivo",
+        "Experiencia especializada en transformación total de nube",
+        "Dominio de presupuestos estratégicos de nube",
+        "Capacidad de construir organizaciones de nube",
+        "Conocimiento profundo de informes a junta directiva sobre nube",
+        "Experiencia especializada en colaboraciones ejecutivas de nube",
+        "Capacidad de definir cultura de nube",
+        "Dominio de creación de valor en la nube"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influencia en políticas de nube",
+        "Habilidad para creación de ecosistemas de nube",
+        "Conocimiento de preparación para salida a bolsa en nube"
+      ],
+      "indicators": [
+        "Define y ejecuta visión empresarial de nube",
+        "Responsable de toda la estrategia de nube",
+        "Líder reconocido en computación en la nube global"
+      ]
+    }
+  }
+}

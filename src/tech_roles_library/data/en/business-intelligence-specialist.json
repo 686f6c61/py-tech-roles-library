@@ -1,0 +1,258 @@
+{
+  "role": "Business Intelligence Specialist",
+  "category": "Data",
+  "levels": {
+    "BIS-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of BI tools",
+        "Elementary understanding of data warehousing",
+        "Ability to create simple reports",
+        "Basic knowledge of dimensional modeling",
+        "Capability to use existing dashboards",
+        "Understanding of basic business metrics",
+        "Documentation of BI requirements",
+        "Elementary knowledge of data marts"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic SQL",
+        "Knowledge of Excel pivot tables",
+        "Understanding of departmental KPIs"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Maintains existing reports",
+        "Is learning BI architecture"
+      ]
+    },
+    "BIS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to develop complete dashboards",
+        "Implementation of basic ETL pipelines",
+        "Practical knowledge of star/snowflake schemas",
+        "Ability for intermediate data modeling",
+        "Understanding of OLAP cubes",
+        "Capability for BI performance tuning",
+        "Knowledge of BI data governance",
+        "Ability for self-service BI"
+      ],
+      "complementaryCompetencies": [
+        "Development of corporate scorecards",
+        "Knowledge of real-time BI",
+        "Understanding of mobile BI"
+      ],
+      "indicators": [
+        "Develops independent BI solutions",
+        "Optimizes existing ETL processes",
+        "Trains users on BI tools"
+      ]
+    },
+    "BIS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of enterprise BI architectures",
+        "Implementation of complete data warehouses",
+        "Mastery of advanced ETL/ELT",
+        "Capability for metadata management",
+        "Ability for BI security and row-level security",
+        "Deep knowledge of BI performance optimization",
+        "Implementation of master data management",
+        "Design of BI governance frameworks"
+      ],
+      "complementaryCompetencies": [
+        "Implementation of predictive BI",
+        "Knowledge of cloud BI platforms",
+        "Ability for embedded analytics"
+      ],
+      "indicators": [
+        "Architects end-to-end BI solutions",
+        "Leads BI transformation projects",
+        "Mentors junior BI specialists"
+      ]
+    },
+    "BIS-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of corporate BI platforms",
+        "Design of BI modernization strategies",
+        "Implementation of enterprise semantic layers",
+        "Mastery of BI automation and orchestration",
+        "Capability for BI platform selection",
+        "Deep knowledge of hybrid cloud BI",
+        "Ability for augmented analytics",
+        "Leadership in BI center of excellence"
+      ],
+      "complementaryCompetencies": [
+        "Implementation of AI-powered BI",
+        "Knowledge of data fabric architectures",
+        "Experience in BI monetization"
+      ],
+      "indicators": [
+        "Defines organizational BI strategy",
+        "Leads BI development teams",
+        "Is principal BI architect"
+      ]
+    },
+    "BIS-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in enterprise BI",
+        "Design of multi-divisional BI strategies",
+        "Management of BI specialist teams",
+        "Definition of strategic BI roadmaps",
+        "Capability for BI portfolio management",
+        "Implementation of enterprise BI standards",
+        "Mastery of BI change management",
+        "Promotion of data-driven decision-making practices"
+      ],
+      "complementaryCompetencies": [
+        "Experience in BI transformation programs",
+        "Knowledge of industry-specific BI",
+        "Management of strategic BI vendors"
+      ],
+      "indicators": [
+        "Manages multiple BI teams",
+        "Defines business intelligence vision",
+        "Represents BI to executives"
+      ]
+    },
+    "BIS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of corporate-level BI",
+        "Strategy for competitive intelligence platforms",
+        "Management of multi-million dollar BI investments",
+        "Definition of BI as a service models",
+        "Leadership in digital BI transformation",
+        "Implementation of next-gen BI capabilities",
+        "Innovation in BI delivery models",
+        "Management of BI ecosystem partnerships"
+      ],
+      "complementaryCompetencies": [
+        "BI strategy in M&A integration",
+        "Experience in executive BI consulting",
+        "Knowledge of BI regulatory compliance"
+      ],
+      "indicators": [
+        "Directs BI department (20+ people)",
+        "Participates in digital strategy board",
+        "Defines BI investment portfolio"
+      ]
+    },
+    "BIS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in business intelligence",
+        "Design of global multi-company BI strategies",
+        "Organizational transformation via intelligence",
+        "Management of BI at large enterprise scale",
+        "Creation of competitive advantages via BI",
+        "Definition of the future of enterprise intelligence",
+        "Communication of BI strategy to executive leadership",
+        "Influence on BI industry standards"
+      ],
+      "complementaryCompetencies": [
+        "Management of BI innovation centers",
+        "Experience in BI platform ventures",
+        "Leadership in global BI consortiums"
+      ],
+      "indicators": [
+        "Reports to CIO/CDO",
+        "Manages BI organizations (50+ people)",
+        "Defines corporate strategic intelligence"
+      ]
+    },
+    "BIS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of intelligence-driven enterprise",
+        "Leadership in business intelligence revolution",
+        "Design of embedded and real-time analytics platforms",
+        "Management of global intelligence platforms",
+        "Adoption of AI-augmented analytics capabilities",
+        "Definition of autonomous BI evolution",
+        "Definition of long-term analytics technology direction",
+        "Influence on intelligence regulations"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CBIO in global corporations",
+        "Advisory in BI unicorns",
+        "Thought leadership in enterprise intelligence"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines global intelligence strategy",
+        "Is world leader in BI"
+      ]
+    },
+    "BIS-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in future of business intelligence",
+        "Transformation of economy through intelligence platforms",
+        "Definition of enterprise-wide decision intelligence frameworks",
+        "Definition of prescient analytics evolution",
+        "Innovation in quantum business intelligence",
+        "Promotion of open analytics and semantic standards",
+        "Architect of global-scale analytics platforms",
+        "Influence on evolution of decision science"
+      ],
+      "complementaryCompetencies": [
+        "Definition of next-generation analytics architectures",
+        "Recognition as father of modern BI",
+        "Influence on global BI education"
+      ],
+      "indicators": [
+        "Is a recognized authority in business intelligence",
+        "Defines future of corporate intelligence",
+        "Is supreme authority in BI"
+      ]
+    }
+  }
+}

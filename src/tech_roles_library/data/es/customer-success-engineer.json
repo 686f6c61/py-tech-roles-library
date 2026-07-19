@@ -1,0 +1,266 @@
+{
+  "role": "Ingeniero de Éxito de Cliente",
+  "category": "Ventas",
+  "levels": {
+    "CUS-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica del producto y sus casos de uso",
+        "Conocimiento elemental de procesos de soporte al cliente",
+        "Habilidad para responder preguntas técnicas comunes con orientación",
+        "Comprensión básica de la metodología de resolución de incidencias",
+        "Familiaridad con herramientas de tiques y CRM",
+        "Conocimiento elemental de comunicación clara con el cliente",
+        "Comprensión básica de los pasos de incorporación",
+        "Habilidad para reproducir y documentar incidencias de clientes"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de API e integraciones",
+        "Familiaridad con la lectura de registros y mensajes de error",
+        "Comprensión elemental de SQL para comprobaciones de datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en interacciones con clientes",
+        "Puede resolver incidencias simples y documentadas",
+        "Necesita 3-6 meses de mentoría en ingeniería de éxito de cliente"
+      ]
+    },
+    "CUS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de dirigir sesiones básicas de incorporación técnica",
+        "Conocimiento práctico de resolución de incidencias de integraciones y API",
+        "Habilidad para reproducir y diagnosticar incidencias comunes de forma autónoma",
+        "Comprensión de métricas de adopción y salud del cliente",
+        "Capacidad de escribir pasos de resolución y seguimientos claros",
+        "Conocimiento de vías de escalado a producto e ingeniería",
+        "Comprensión de la configuración y puesta en marcha del cliente",
+        "Habilidad para crear artículos de base de conocimiento",
+        "Capacidad de gestionar una cola de solicitudes de clientes"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de monitorización y observabilidad",
+        "Habilidad para escribir scripts simples para diagnosticar incidencias",
+        "Comprensión de gestión de cuentas básica"
+      ],
+      "indicators": [
+        "Puede gestionar incorporaciones e incidencias con supervisión",
+        "Resuelve problemas técnicos comunes de forma autónoma",
+        "Mantiene relaciones con clientes efectivamente"
+      ]
+    },
+    "CUS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de la incorporación técnica para clientes complejos",
+        "Capacidad de diagnosticar incidencias avanzadas de integración y rendimiento",
+        "Habilidad para impulsar la adopción del producto con orientación técnica",
+        "Conocimiento profundo de la arquitectura del producto y sus API",
+        "Capacidad de actuar como puente técnico entre el cliente y el producto",
+        "Comprensión sólida de la puntuación de salud del cliente y las señales de abandono",
+        "Capacidad de diseñar soluciones y alternativas para los clientes",
+        "Conocimiento de monitorización proactivo y prevención de incidencias",
+        "Capacidad de influir en la hoja de ruta con los comentarios de los clientes"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de scripting y automatización para soporte",
+        "Habilidad para impartir habilitación técnica y formación",
+        "Comprensión de la dinámica de renovación y expansión"
+      ],
+      "indicators": [
+        "Es responsable del éxito técnico de una cartera de cuentas",
+        "Mejora significativamente la adopción y la satisfacción",
+        "Contribuye a guías de éxito y buenas prácticas"
+      ]
+    },
+    "CUS-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar programas de incorporación técnica a escala",
+        "Dominio de resolución de incidencias complejas y análisis de causa raíz",
+        "Habilidad para establecer marcos de medición de adopción y salud",
+        "Conocimiento profundo del ecosistema completo de producto e integraciones",
+        "Capacidad de liderar cuentas estratégicas y relaciones técnicas",
+        "Dominio de la traducción de necesidades del cliente en comentarios de producto",
+        "Habilidad para diseñar habilitación y documentación de autoservicio",
+        "Conocimiento de automatización para el éxito proactivo del cliente",
+        "Capacidad de definir y seguir métricas de éxito técnico"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitectura de soluciones para clientes",
+        "Habilidad para impulsar la expansión a través del valor técnico",
+        "Comprensión de éxito de cliente basado en datos"
+      ],
+      "indicators": [
+        "Lidera iniciativas complejas de éxito de cliente",
+        "Define estándares y guías de éxito técnico",
+        "Mentoriza a ingenieros de éxito de cliente junior"
+      ]
+    },
+    "CUS-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en ingeniería de éxito de cliente empresarial",
+        "Capacidad de diseñar programas de éxito para toda la base de clientes",
+        "Dominio de la gestión de relaciones técnicas a escala",
+        "Habilidad para implementar marcos de salud y adopción del cliente",
+        "Conocimiento profundo de los límites del producto, la plataforma y las integraciones",
+        "Capacidad de definir procesos de escalado y respuesta a incidentes",
+        "Experiencia en éxito proactivo y prevención de abandono",
+        "Dominio de la colaboración multifuncional con producto e ingeniería",
+        "Capacidad de diseñar programas certificados de habilitación y formación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de plataformas de automatización de éxito de cliente",
+        "Habilidad para liderar la planificación técnica de cuentas",
+        "Comprensión de la realización de valor y los resultados de negocio"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones de éxito de cliente empresariales",
+        "Lidera la transformación de programas de éxito",
+        "Define la hoja de ruta técnica de éxito"
+      ]
+    },
+    "CUS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar programas globales de éxito de cliente",
+        "Experiencia en el éxito de cliente como motor estratégico de crecimiento",
+        "Dominio del éxito técnico entre regiones y segmentos",
+        "Habilidad para implementar observabilidad completa de la salud del cliente",
+        "Conocimiento profundo de la economía de la retención y las palancas de expansión",
+        "Capacidad de diseñar experiencias de éxito de autoservicio a escala",
+        "Experiencia en modelos de éxito federados entre equipos",
+        "Dominio de programas de realización de valor y resultados",
+        "Capacidad de liderar y hacer crecer equipos de éxito de cliente"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de éxito de cliente basado en inteligencia artificial y abandono predictivo",
+        "Habilidad para impulsar la adopción entre productos y segmentos",
+        "Comprensión de prácticas sostenibles de éxito de cliente"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de programas de éxito para múltiples segmentos",
+        "Lidera la transformación organizacional centrada en el cliente",
+        "Define estrategia de éxito de cliente a largo plazo"
+      ]
+    },
+    "CUS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en éxito de cliente empresarial a escala",
+        "Capacidad de diseñar plataformas y modelos de éxito de cliente",
+        "Experiencia en experiencias de éxito de autoservicio a escala global",
+        "Dominio de programas de retención, expansión y recomendación",
+        "Capacidad de implementar modelos de éxito federados globalmente",
+        "Conocimiento profundo del éxito de cliente en industrias reguladas",
+        "Experiencia en medición del valor y retorno de inversión del éxito",
+        "Capacidad de definir prácticas de éxito en toda la empresa",
+        "Dominio de innovación en metodologías de éxito de cliente"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en estándares de la industria de éxito de cliente",
+        "Habilidad para construir plataformas de éxito de cliente como productos",
+        "Conocimiento de tendencias emergentes del ecosistema de éxito de cliente"
+      ],
+      "indicators": [
+        "Define la estrategia corporativa de éxito de cliente",
+        "Lidera comunidades externas de éxito de cliente",
+        "Líder de pensamiento reconocido en ingeniería de éxito de cliente"
+      ]
+    },
+    "CUS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para el futuro del éxito de cliente",
+        "Capacidad de transformar empresas en organizaciones centradas en el cliente",
+        "Experiencia en estrategia de éxito para fusiones e integraciones",
+        "Dominio de construcción de centros de excelencia de éxito de cliente",
+        "Capacidad de definir gobernanza de éxito de cliente empresarial",
+        "Conocimiento profundo de la economía de la retención y el valor de vida del cliente",
+        "Experiencia en asociaciones estratégicas con clientes",
+        "Capacidad de liderar iniciativas de éxito de cliente entre industrias",
+        "Dominio de la relación con el cliente ética y responsable"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de dar forma a metodologías de éxito de cliente",
+        "Habilidad para asesorar sobre inversiones en plataformas de éxito de cliente",
+        "Conocimiento de inversión en tecnología de éxito de cliente"
+      ],
+      "indicators": [
+        "Define la estrategia de éxito de cliente para conglomerados",
+        "Influye en la dirección de la disciplina de éxito de cliente",
+        "Ponente principal en conferencias globales"
+      ]
+    },
+    "CUS-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia de éxito de cliente",
+        "Capacidad de convertir el éxito de cliente en un diferenciador de negocio",
+        "Experiencia en transformación digital impulsada por el cliente",
+        "Dominio de presupuestos de éxito de cliente multimillonarios",
+        "Capacidad de construir organizaciones de éxito de cliente globales",
+        "Conocimiento profundo de retención, expansión y recomendación a escala",
+        "Experiencia en asociaciones y ecosistemas de clientes",
+        "Capacidad de definir una cultura organizacional centrada en el cliente",
+        "Dominio de innovación e investigación en éxito de cliente"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en los estándares de éxito de cliente",
+        "Habilidad para crear ecosistemas de éxito de cliente",
+        "Conocimiento de estrategias de inversión en éxito de cliente"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de éxito de cliente empresarial",
+        "Responsable de la estrategia de éxito de cliente corporativa",
+        "Líder reconocido en la industria global de éxito de cliente"
+      ]
+    }
+  }
+}

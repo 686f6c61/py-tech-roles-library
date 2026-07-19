@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de IA Multimodal",
+  "category": "IA/ML",
+  "levels": {
+    "MMALE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de cómo un modelo toma imágenes, audio y texto como entradas",
+        "Capacidad de cargar una imagen y pasarla por un modelo de visión preentrenado",
+        "Conocimiento elemental de redimensionado, normalización y formateo de imágenes para un modelo",
+        "Habilidad para ejecutar un modelo imagen-texto preentrenado como CLIP sobre pares de ejemplo",
+        "Comprensión básica de qué es una incrustación y de cómo se calcula la similitud",
+        "Capacidad de extraer fotogramas de un vídeo y audio de un clip bajo supervisión",
+        "Conocimiento elemental de lectura de salidas del modelo para subtitulado o clasificación",
+        "Comprensión básica de cómo el texto y la imagen pueden compartir una representación común"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de Python y de matrices NumPy",
+        "Familiaridad con bibliotecas de imagen como Pillow u OpenCV",
+        "Comprensión elemental de los tensores y de sus formas"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede ejecutar scripts multimodales existentes con guía detallada",
+        "Necesita 3-6 meses para ser productivo"
+      ]
+    },
+    "MMALE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de construir un prototipo de subtitulado de imágenes o de respuesta visual a preguntas",
+        "Conocimiento práctico de los flujos de preprocesado para imagen, audio y vídeo",
+        "Capacidad de calcular incrustaciones conjuntas de imagen y texto y ordenar por similitud",
+        "Comprensión del troceado del texto en tokens y del particionado de imágenes para entradas de transformador",
+        "Capacidad de construir recuperación de imágenes o texto usando un espacio de incrustación compartido",
+        "Conocimiento de medición de la calidad de recuperación con métricas de exhaustividad y ordenación",
+        "Capacidad de manejar distintas resoluciones, frecuencias de muestreo y formatos de entrada",
+        "Comprensión del alineamiento de marcas de tiempo entre flujos de audio y vídeo"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de búsqueda vectorial para recuperación de incrustaciones",
+        "Familiaridad con torchvision y bibliotecas de procesamiento de audio",
+        "Comprensión básica de los espectrogramas como entrada de audio"
+      ],
+      "indicators": [
+        "Puede construir funcionalidades multimodales simples de forma independiente",
+        "Resuelve problemas de complejidad media en preprocesado y recuperación",
+        "Participa activamente en revisiones de código"
+      ]
+    },
+    "MMALE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Capacidad de ajustar un modelo visión-lenguaje para tareas de subtitulado o recuperación",
+        "Capacidad de diseñar estrategias de fusión que combinan características de imagen, texto y audio",
+        "Conocimiento profundo de los objetivos de entrenamiento contrastivo usados en modelos tipo CLIP",
+        "Capacidad de construir respuesta visual a preguntas sobre documentos e imágenes",
+        "Comprensión del alineamiento de modalidades con atención cruzada entre codificadores",
+        "Capacidad de evaluar salidas multimodales con métricas específicas de la tarea y humanas",
+        "Conocimiento del manejo de modalidades ausentes o ruidosas en el momento de la inferencia",
+        "Capacidad de instrumentar flujos multimodales con trazado por modalidad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de modelos de difusión condicionados por texto e imagen",
+        "Habilidad para construir conjuntos de datos que emparejan imágenes, audio y subtítulos",
+        "Comprensión básica del modelado temporal de vídeo"
+      ],
+      "indicators": [
+        "Completa funcionalidades multimodales complejas con supervisión mínima",
+        "Identifica y resuelve fallos en fusión y alineamiento",
+        "Contribuye activamente al diseño técnico de sistemas multimodales"
+      ]
+    },
+    "MMALE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas multimodales con fusión temprana, tardía e híbrida",
+        "Dominio del alineamiento visión-lenguaje con objetivos contrastivos y generativos",
+        "Habilidad para construir conjuntos de evaluación automática para subtitulado, recuperación y respuesta visual a preguntas",
+        "Conocimiento profundo de los codificadores de imagen, audio y vídeo y de sus compromisos",
+        "Capacidad de diseñar generación multimodal que combina prompts de texto e imágenes de referencia",
+        "Dominio del preprocesado a gran escala de conjuntos de datos de imagen, audio y vídeo",
+        "Capacidad de ajustar modelos de incrustación conjunta sobre pares específicos del dominio",
+        "Conocimiento del servicio de modelos multimodales con procesamiento por lotes específico de cada modalidad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la destilación para codificadores multimodales compactos",
+        "Habilidad para diseñar sistemas de recuperación intermodal a escala",
+        "Comprensión del alineamiento temporal para la comprensión de vídeo largo"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de componentes multimodales críticos",
+        "Mentoriza eficazmente a ingenieros junior",
+        "Toma decisiones arquitecturales informadas sobre fusión y alineamiento"
+      ]
+    },
+    "MMALE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en el diseño de plataformas multimodales de producción para imagen, audio, vídeo y texto",
+        "Capacidad de arquitectar un servicio multimodal escalable con enrutado consciente de la modalidad",
+        "Dominio del desarrollo guiado por evaluación con bancos de pruebas multimodales y revisión humana",
+        "Conocimiento profundo del preentrenamiento de modelos visión-lenguaje sobre grandes corpus emparejados",
+        "Capacidad de diseñar espacios de incrustación conjunta que escalan a millones de elementos",
+        "Experiencia en la optimización de la precisión, el coste y la latencia de la inferencia multimodal",
+        "Capacidad de construir observabilidad a lo largo de las etapas de preprocesado, fusión y generación",
+        "Dominio del manejo del desequilibrio de modalidades y de los fallos de alineamiento en producción"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de objetivos autosupervisados para el aprendizaje de representaciones multimodales",
+        "Habilidad para diseñar bancos de pruebas multimodales que cubren recuperación, respuesta visual y generación",
+        "Comprensión de las cuestiones de sesgo y seguridad específicas del contenido generado"
+      ],
+      "indicators": [
+        "Diseña arquitecturas multimodales para productos completos",
+        "Define los estándares técnicos del equipo para el desarrollo multimodal",
+        "Lidera iniciativas entre equipos sobre infraestructura multimodal"
+      ]
+    },
+    "MMALE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas multimodales empresariales compartidas por muchos equipos",
+        "Experiencia en marcos de gobernanza para datos multimodales y contenido generado",
+        "Dominio de la infraestructura de evaluación y de la supervisión continua entre modalidades",
+        "Capacidad de liderar decisiones entre construir o ajustar modelos visión-lenguaje",
+        "Conocimiento profundo de amenazas de seguridad y privacidad en datos de imagen, audio y vídeo",
+        "Capacidad de liderar la adopción de funcionalidades multimodales en los productos existentes",
+        "Experiencia en la gobernanza de costes del entrenamiento y servicio multimodal intensivos en cómputo",
+        "Dominio de la ingeniería de fiabilidad para flujos que abarcan varias modalidades"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas multimodales emergentes y de modelos de pesos abiertos",
+        "Habilidad para diseñar conjuntos de datos multimodales reutilizables y catálogos de evaluación",
+        "Comprensión de las restricciones de la inferencia multimodal en dispositivo"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones multimodales para múltiples equipos",
+        "Influye en las decisiones técnicas organizacionales sobre IA multimodal",
+        "Representa a la empresa técnicamente en el ámbito multimodal"
+      ]
+    },
+    "MMALE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la adopción de IA multimodal en toda la organización",
+        "Capacidad de diseñar arquitecturas multimodales resistentes al cambio de modelo y de proveedor",
+        "Experiencia en estrategias para escalar funcionalidades multimodales a grandes bases de usuarios",
+        "Dominio de abstracciones agnósticas al modelo entre modelos de visión, audio y lenguaje",
+        "Capacidad de definir hojas de ruta de varios años para capacidades multimodales",
+        "Conocimiento profundo de la economía y del coste total de los sistemas multimodales",
+        "Experiencia en la construcción y el escalamiento de equipos de ingeniería multimodal",
+        "Capacidad de fijar estándares para el uso responsable del contenido generado y analizado"
+      ],
+      "complementaryCompetencies": [
+        "Habilidad para evaluar técnicamente proveedores multimodales y modelos de pesos abiertos",
+        "Conocimiento de las tendencias de investigación en representación y generación multimodal",
+        "Capacidad de dar forma a la política interna sobre el uso de datos y contenido multimodal"
+      ],
+      "indicators": [
+        "Define la estrategia técnica organizacional para la IA multimodal",
+        "Reconocido como autoridad en IA multimodal aplicada",
+        "Ponente en conferencias del sector sobre sistemas multimodales"
+      ]
+    },
+    "MMALE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Capacidad de fijar la dirección técnica a largo plazo de la IA multimodal en la organización",
+        "Experiencia en alinear la inversión multimodal con las prioridades de producto y de seguridad",
+        "Dominio de la diligencia debida técnica para productos y adquisiciones multimodales",
+        "Capacidad de anticipar cambios en los modelos visión-lenguaje y adaptar la estrategia de arquitectura",
+        "Conocimiento profundo del panorama de riesgo y cumplimiento del contenido generado y analizado",
+        "Capacidad de construir y liderar organizaciones de ingeniería multimodal",
+        "Experiencia en la definición de prácticas responsables de manejo de contenido a escala organizacional",
+        "Capacidad de guiar el equilibrio entre el preentrenamiento propio y la dependencia de modelos fundacionales"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de informar los estándares del sector sobre procedencia y consentimiento del contenido",
+        "Conocimiento del panorama de proveedores de modelos multimodales y de hardware",
+        "Capacidad de asesorar a la dirección sobre el riesgo y la oportunidad multimodal"
+      ],
+      "indicators": [
+        "Da forma a la dirección técnica de la IA multimodal en la organización",
+        "Asesora a la alta dirección sobre la estrategia y el riesgo multimodal",
+        "Mentoriza a líderes técnicos senior en IA multimodal"
+      ]
+    },
+    "MMALE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Capacidad de definir la visión técnica y la postura de seguridad de la IA multimodal de la organización",
+        "Experiencia en alinear la estrategia multimodal con la dirección de producto y la regulación",
+        "Dominio de la gobernanza de la inversión en entrenamiento e inferencia multimodal a gran escala",
+        "Capacidad de dirigir el abastecimiento de modelos visión-lenguaje entre proveedores y pesos abiertos",
+        "Conocimiento profundo de la gestión del riesgo de privacidad, consentimiento y reputación del procesamiento de contenido",
+        "Capacidad de construir la capacidad organizacional para una IA multimodal responsable a escala",
+        "Experiencia en fijar estándares de procedencia y divulgación del contenido generado",
+        "Capacidad de sostener la ventaja competitiva mediante la IA multimodal aplicada"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en la regulación y los estándares de la IA multimodal y del contenido",
+        "Conocimiento del ecosistema de proveedores, hardware y talento de la IA multimodal",
+        "Capacidad de representar a la organización en materia de seguridad de la IA multimodal"
+      ],
+      "indicators": [
+        "Fija y ejecuta la visión técnica de la IA multimodal",
+        "Responsable de la seguridad y la calidad de la IA multimodal en los productos",
+        "Voz técnica pública de la organización en IA multimodal"
+      ]
+    }
+  }
+}

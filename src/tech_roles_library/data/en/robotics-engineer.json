@@ -1,0 +1,258 @@
+{
+  "role": "Robotics Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "RBE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic grasp of robot components, sensors and actuators",
+        "Elementary command of forward kinematics and coordinate frames",
+        "Ability to program simple robot behaviors under supervision",
+        "Basic practice reading sensor data such as encoders and range finders",
+        "Ability to run basic control loops for motors and joints",
+        "Elementary command of the Robot Operating System with its nodes and topics",
+        "Basic grasp of robot simulation environments",
+        "Ability to document robotic setups and wiring"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with microcontroller platforms for prototyping",
+        "Familiarity with basic simulators such as Gazebo",
+        "Elementary sense of gripper and end-effector control"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Programs simple robot behaviors",
+        "Is learning robotics engineering"
+      ]
+    },
+    "RBE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement feedback control such as PID controllers",
+        "Ability to build basic path planning for mobile robots",
+        "Practical command of rigid-body dynamics and forces",
+        "Ability to fuse data from multiple sensors for state estimation",
+        "Grasp of localization methods for mobile robots",
+        "Ability to perform basic manipulation and pick-and-place tasks",
+        "Practice with robot perception using cameras and depth sensors",
+        "Ability to work within ROS packages and message interfaces"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with mobile robot navigation stacks",
+        "Sense of industrial robot programming",
+        "Familiarity with coordinate transforms and calibration"
+      ],
+      "indicators": [
+        "Develops robotic applications with supervision",
+        "Implements robot behaviors and controllers",
+        "Integrates sensors and actuators"
+      ]
+    },
+    "RBE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Command of designing complete robotic systems from perception to actuation",
+        "Ability to implement simultaneous localization and mapping",
+        "Ability to build motion planning with obstacle avoidance",
+        "Solid command of control theory including state-space methods",
+        "Ability to implement autonomous navigation in real environments",
+        "Ability to design human-robot interaction for shared workspaces",
+        "Practice coordinating multiple robots on a task",
+        "Ability to apply learning-based methods to robot control"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with transferring policies from simulation to real robots",
+        "Ability to work with manipulators and inverse kinematics",
+        "Sense of drone or legged robot autonomy"
+      ],
+      "indicators": [
+        "Leads robotics projects with minimal supervision",
+        "Designs autonomous robot behaviors",
+        "Mentors junior robotics engineers"
+      ]
+    },
+    "RBE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to architect robotic platforms integrating hardware and software",
+        "Command of perception pipelines fusing SLAM, vision and depth",
+        "Ability to design whole-body and coordinated multi-joint control",
+        "Solid command of motion and task planning under constraints",
+        "Ability to bridge the simulation-to-reality gap in deployment",
+        "Ability to apply learning from demonstration to robot skills",
+        "Practice with functional safety requirements for robots around people",
+        "Ability to mentor engineers on robotics design and integration"
+      ],
+      "complementaryCompetencies": [
+        "Experience with manipulation in unstructured environments",
+        "Familiarity with real-time systems for robot control",
+        "Sense of certification for safety-critical robots"
+      ],
+      "indicators": [
+        "Leads development of robotic platforms",
+        "Mentors teams on robotics engineering",
+        "Makes architectural decisions on robot systems"
+      ]
+    },
+    "RBE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in leading robotics programs from prototype to product",
+        "Ability to design and operate fleets of coordinated robots",
+        "Command of functional safety standards and risk assessment for robots",
+        "Ability to define automation strategy for a line of robotic products",
+        "Solid command of reliability engineering for physical systems",
+        "Ability to design perception and control that generalize across conditions",
+        "Expertise in the cost and maintenance economics of robot deployments",
+        "Ability to establish testing and validation for safety-critical robots"
+      ],
+      "complementaryCompetencies": [
+        "Experience with robots in demanding field environments",
+        "Familiarity with teleoperation and shared autonomy",
+        "Management of hardware and component supplier relationships"
+      ],
+      "indicators": [
+        "Designs robotics architectures for complete products",
+        "Defines team standards for robot development",
+        "Leads cross-team robotics initiatives"
+      ]
+    },
+    "RBE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect robotics platforms serving multiple product lines",
+        "Expertise in safety certification and compliance for deployed robots",
+        "Command of reliability and quality monitoring for robot fleets",
+        "Ability to design autonomous systems that meet safety targets",
+        "Solid command of the risks specific to robots operating among people",
+        "Ability to lead adoption of robotic automation across operations",
+        "Expertise in managing the total cost of robot fleet operations",
+        "Ability to set standards for perception, control and safety"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with emerging robot hardware and actuation",
+        "Ability to design shared perception and navigation services",
+        "Sense of edge computing for on-robot processing"
+      ],
+      "indicators": [
+        "Architects robotics solutions for multiple teams",
+        "Influences organizational decisions on automation",
+        "Represents the company technically in robotics"
+      ]
+    },
+    "RBE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership of robotics strategy across an organization",
+        "Ability to design robot architectures independent of specific hardware",
+        "Expertise in platform-agnostic robotics software stacks",
+        "Ability to define multi-year roadmaps for robotic capabilities",
+        "Solid command of the total cost and economics of robot programs",
+        "Expertise in building and scaling robotics engineering teams",
+        "Ability to set safety and validation standards adopted across the organization",
+        "Ability to guide build-versus-buy decisions for robotic systems"
+      ],
+      "complementaryCompetencies": [
+        "Ability to evaluate robotics vendors and components",
+        "Familiarity with research trends in robot learning and control",
+        "Ability to represent robotics work at industry conferences"
+      ],
+      "indicators": [
+        "Defines organizational strategy for robotics",
+        "Recognized as a technical authority in robotics",
+        "Speaks at industry conferences on robotics"
+      ]
+    },
+    "RBE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic direction for how the organization builds robotic systems",
+        "Ability to align robotics investments with product and business goals",
+        "Expertise in technical due diligence for robotics products and acquisitions",
+        "Ability to set the engineering bar for robot safety and reliability",
+        "Solid command of moving robotics research into production systems",
+        "Ability to build and lead robotics engineering organizations",
+        "Expertise in balancing autonomy ambitions with safety and delivery",
+        "Ability to advise leadership on risk and opportunity in robotics"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape hardware and platform strategy for robotics",
+        "Familiarity with regulation and liability for autonomous machines",
+        "Ability to mentor principal engineers and technical leads"
+      ],
+      "indicators": [
+        "Shapes the technical direction of robotics in the company",
+        "Advises leadership on robotics decisions",
+        "Mentors senior technical leaders"
+      ]
+    },
+    "RBE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership of robotics and automation strategy",
+        "Ability to align robotics capabilities with company strategy",
+        "Expertise in planning and managing budgets for robotics programs",
+        "Ability to set organizational policy for safe autonomous systems",
+        "Solid command of safety, liability and risk for deployed robots",
+        "Ability to build competitive advantage through robotics capabilities",
+        "Expertise in partnering with hardware and platform providers",
+        "Ability to lead the organization through shifts in robotics technology"
+      ],
+      "complementaryCompetencies": [
+        "Ability to represent the company on robotics and automation matters",
+        "Familiarity with the vendor and research landscape in robotics",
+        "Ability to shape hiring and organizational design for robotics teams"
+      ],
+      "indicators": [
+        "Defines and executes the robotics technology vision",
+        "Accountable for the outcomes of robotics investments",
+        "Represents the company externally on robotics"
+      ]
+    }
+  }
+}

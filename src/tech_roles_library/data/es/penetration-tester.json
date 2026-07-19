@@ -1,0 +1,258 @@
+{
+  "role": "Pentester",
+  "category": "Seguridad",
+  "levels": {
+    "PT-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica del proceso de pruebas de penetración y de las reglas de enfrentamiento que autorizan una evaluación",
+        "Conocimiento elemental de las categorías del OWASP Top 10 de vulnerabilidades web",
+        "Capacidad de ejecutar reconocimiento pasivo y activo con herramientas como Nmap bajo supervisión",
+        "Conocimiento básico de fallos web comunes como XSS reflejado e inyección SQL sencilla",
+        "Capacidad de seguir un recorrido guiado de explotación contra laboratorios vulnerables",
+        "Comprensión de cómo se registran los hallazgos con evidencias y pasos de reproducción",
+        "Documentación de vulnerabilidades con la severidad asignada según una rúbrica dada",
+        "Conocimiento elemental de recomendaciones de remediación para los fallos encontrados"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con una distribución de Linux orientada a seguridad y su instrumental habitual",
+        "Conocimiento básico de módulos de Metasploit para exploits conocidos",
+        "Comprensión elemental de scripting en Bash o Python para automatizar tareas pequeñas"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en cada trabajo",
+        "Ejecuta escaneos y reconocimiento básicos sobre el alcance definido",
+        "Está construyendo competencias fundamentales de seguridad ofensiva"
+      ]
+    },
+    "PT-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de realizar una prueba de penetración web completa sobre un alcance definido con supervisión ligera",
+        "Implementación de reconocimiento exhaustivo con enumeración de subdominios e identificación de servicios",
+        "Conocimiento práctico de la explotación del OWASP Top 10, incluidas inyección, control de acceso roto y fallos de autenticación",
+        "Capacidad de escalar privilegios en equipos Linux y Windows aprovechando configuraciones incorrectas comunes",
+        "Comprensión de la posexplotación básica como el saqueo de credenciales y el pivoteo",
+        "Capacidad de interceptar y manipular tráfico con un proxy como Burp Suite",
+        "Conocimiento de la metodología de la Guía de Pruebas de OWASP para una cobertura estructurada",
+        "Capacidad de ejecutar pruebas de penetración de red internas y externas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de marcos de pruebas como PTES y OSSTMM",
+        "Capacidad de escribir scripts reutilizables para acelerar tareas repetitivas",
+        "Comprensión de la evaluación de seguridad de redes inalámbricas"
+      ],
+      "indicators": [
+        "Ejecuta pruebas estándar con supervisión en los hitos clave",
+        "Identifica y confirma vulnerabilidades críticas con prueba de concepto",
+        "Redacta hallazgos técnicos claros con pasos de reproducción"
+      ]
+    },
+    "PT-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de un plan y una metodología de pruebas adaptados a la pila tecnológica de cada objetivo",
+        "Implementación de explotación avanzada encadenando varias debilidades hasta un compromiso completo",
+        "Capacidad de ejecutar actividades de red team como acceso inicial y movimiento lateral",
+        "Capacidad de emular el comportamiento de un adversario definido durante una evaluación",
+        "Capacidad de desarrollar y adaptar exploits y cargas útiles a medida para un objetivo concreto",
+        "Conocimiento profundo de rutas de ataque en Active Directory como Kerberoasting y retransmisión de credenciales",
+        "Implementación de pretextos de ingeniería social, incluidas campañas de phishing dentro del alcance",
+        "Capacidad de redactar resúmenes ejecutivos que traducen el riesgo técnico para la dirección"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de análisis básico de código malicioso para entender muestras capturadas",
+        "Capacidad de construir pequeñas herramientas ofensivas para cubrir carencias del instrumental existente",
+        "Comprensión de la inteligencia de amenazas para plantear escenarios de ataque realistas"
+      ],
+      "indicators": [
+        "Lidera pruebas de penetración complejas de aplicaciones y redes",
+        "Desarrolla exploits a medida cuando no hay públicos disponibles",
+        "Mentoriza a probadores junior en metodología e instrumental"
+      ]
+    },
+    "PT-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de un programa de pruebas de penetración repetible con metodología y controles de calidad consistentes",
+        "Diseño de una estrategia de red team diferenciada de las pruebas acotadas y centradas en vulnerabilidades",
+        "Implementación de ejercicios de purple team que combinan acciones ofensivas con retroalimentación a la ingeniería de detecciones",
+        "Dominio de la emulación de adversarios contra entornos maduros, incluidos endpoints vigilados por EDR",
+        "Capacidad de ejecutar trabajos de alcance completo que abarcan vectores externos, internos, inalámbricos y físicos",
+        "Conocimiento profundo de la investigación de vulnerabilidades y del análisis de CVE por su explotabilidad",
+        "Capacidad de convertir en arma y demostrar de forma segura la explotación de fallos hasta entonces desconocidos",
+        "Liderazgo de evaluaciones de principio a fin, desde el alcance hasta la validación de la remediación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia participando en programas de recompensas por errores",
+        "Conocimiento de marcos de mando y control como Cobalt Strike a nivel operativo",
+        "Implementación de automatización para escalar el reconocimiento y el escaneo"
+      ],
+      "indicators": [
+        "Define la estrategia de pruebas de los trabajos",
+        "Lidera un red team en una operación coordinada",
+        "Es referente técnico en seguridad ofensiva"
+      ]
+    },
+    "PT-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de una práctica de seguridad ofensiva que cubre servicios de pentest y red team",
+        "Diseño de operaciones prolongadas de red team con escenarios de amenaza y objetivos realistas",
+        "Gestión de un equipo de pruebas, incluidas planificación, revisión de calidad y desarrollo de competencias",
+        "Definición de metodologías de pruebas y estándares de informes usados en todo el equipo",
+        "Capacidad de planificar campañas de varias semanas alineadas con actores de amenaza concretos",
+        "Implementación de ejercicios recurrentes de purple team para mejorar la detección de forma medible",
+        "Dominio de la emulación de amenazas basada en el marco MITRE ATT&CK",
+        "Comunicación de los hallazgos ofensivos y el riesgo residual a responsables senior"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia simulando el modo de operar de amenazas persistentes avanzadas",
+        "Conocimiento de los perfiles de actores de amenaza y de su instrumental habitual",
+        "Gestión del presupuesto y las licencias del instrumental ofensivo"
+      ],
+      "indicators": [
+        "Gestiona un red team y su cartera de trabajos",
+        "Define la visión de los servicios de seguridad ofensiva",
+        "Presenta los resultados de seguridad ofensiva a la dirección ejecutiva"
+      ]
+    },
+    "PT-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de la estrategia de seguridad ofensiva en toda la organización",
+        "Gestión de operaciones de red team a escala en varias unidades de negocio",
+        "Definición de un programa de emulación de adversarios alineado con el modelo de amenazas de la organización",
+        "Liderazgo de la validación continua de seguridad frente a las pruebas puntuales",
+        "Gestión de un programa de recompensas por errores o de divulgación de vulnerabilidades",
+        "Implementación de capacidades de pruebas de penetración continuas y automatizadas",
+        "Innovación en técnicas de ataque y modo de operar para adelantarse a las defensas",
+        "Gestión de una labor de investigación en seguridad ofensiva"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia atribuyendo intrusiones a grupos de amenaza conocidos",
+        "Conocimiento de cómo montar y dirigir una función de investigación y desarrollo ofensivo",
+        "Liderazgo dentro de la comunidad de investigación en seguridad"
+      ],
+      "indicators": [
+        "Dirige la función de seguridad ofensiva",
+        "Participa en la estrategia de seguridad más amplia",
+        "Decide dónde se invierte en seguridad ofensiva"
+      ]
+    },
+    "PT-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la seguridad ofensiva en una organización grande",
+        "Diseño de un modelo operativo global de red team que abarca regiones y regulaciones",
+        "Transformación del aseguramiento de la seguridad desde pruebas periódicas hacia la validación continua",
+        "Gestión de la seguridad ofensiva en una empresa grande y distribuida",
+        "Creación de una mentalidad de asunción de vulneración centrada en el adversario en ingeniería y defensa",
+        "Definición de la hoja de ruta plurianual de las capacidades de seguridad ofensiva",
+        "Comunicación del valor y el riesgo de la seguridad ofensiva a la junta directiva",
+        "Influencia en cómo el sector aborda las pruebas de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos considerables de seguridad ofensiva",
+        "Experiencia escalando equipos ofensivos en empresas de alto crecimiento",
+        "Liderazgo dentro de la comunidad profesional de hacking"
+      ],
+      "indicators": [
+        "Depende del director de seguridad de la información",
+        "Dirige una organización de seguridad ofensiva de numerosos profesionales",
+        "Define la estrategia de seguridad ofensiva de la empresa"
+      ]
+    },
+    "PT-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de cómo la seguridad ofensiva valida las defensas de la empresa",
+        "Liderazgo de la validación continua de seguridad como disciplina transversal",
+        "Creación de una defensa informada por amenazas volcando los hallazgos ofensivos en detecciones y controles",
+        "Gestión de las relaciones entre proveedores ofensivos, investigadores y equipos internos",
+        "Innovación en técnicas de explotación y evasión que elevan el listón del sector",
+        "Definición de prácticas de red team de nueva generación para la organización",
+        "Impulso de una filosofía de asunción de vulneración en la dirección",
+        "Influencia en la política interna de seguridad mediante resultados ofensivos demostrados"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia dando forma a la seguridad ofensiva en grandes organizaciones tecnológicas",
+        "Relaciones de asesoría con empresas emergentes y proveedores de instrumental ofensivo",
+        "Autoridad técnica reconocida en pruebas de penetración"
+      ],
+      "indicators": [
+        "Forma parte del equipo de liderazgo de seguridad",
+        "Marca el rumbo de la seguridad ofensiva en toda la empresa",
+        "Es líder reconocido en el campo de la seguridad ofensiva"
+      ]
+    },
+    "PT-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario de la seguridad ofensiva como capacidad esencial de aseguramiento",
+        "Transformación de cómo la empresa valida su postura de seguridad",
+        "Definición de un modelo operativo de seguridad centrado en el adversario",
+        "Establecimiento de la validación continua como práctica predeterminada en la organización",
+        "Innovación en el modo de operar ofensivo que da forma a la práctica del sector",
+        "Defensa de las pruebas ofensivas como motor de mejora defensiva medible",
+        "Arquitectura del programa global de seguridad ofensiva de la organización",
+        "Influencia en los estándares de pruebas de seguridad más allá de la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando la validación de seguridad a escala empresarial",
+        "Reconocimiento como figura destacada de la seguridad ofensiva",
+        "Influencia en la cultura y la ética del hacking ético"
+      ],
+      "indicators": [
+        "Lidera la seguridad ofensiva a nivel ejecutivo",
+        "Marca el rumbo a largo plazo de la disciplina",
+        "Es considerado una autoridad en seguridad ofensiva"
+      ]
+    }
+  }
+}

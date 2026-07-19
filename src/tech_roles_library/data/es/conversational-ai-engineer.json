@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de IA Conversacional",
+  "category": "IA/ML",
+  "levels": {
+    "CAI-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de cómo los asistentes conversacionales interpretan los mensajes del usuario",
+        "Manejo elemental de intenciones, entidades y campos en el diálogo",
+        "Capacidad de construir flujos de conversación simples con guía",
+        "Práctica básica con la comprensión del lenguaje natural para detectar intenciones",
+        "Capacidad de redactar las respuestas y los prompts del asistente para los casos habituales",
+        "Práctica elemental probando un asistente contra conversaciones de ejemplo",
+        "Comprensión básica del despliegue de un asistente en un canal de mensajería",
+        "Capacidad de documentar los diseños de conversación y sus flujos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con plataformas como Dialogflow y Rasa",
+        "Nociones básicas de procesamiento del lenguaje natural",
+        "Noción elemental de las interfaces de voz"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Construye flujos de conversación simples",
+        "Está aprendiendo inteligencia artificial conversacional"
+      ]
+    },
+    "CAI-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar conversaciones de varios turnos que siguen los objetivos del usuario",
+        "Capacidad de gestionar el estado y el contexto del diálogo a lo largo de los turnos",
+        "Manejo práctico de la comprensión y la generación del lenguaje natural",
+        "Capacidad de definir políticas de diálogo y el tratamiento de respuestas de reserva",
+        "Práctica en conectar un asistente con servicios de fondo y API",
+        "Capacidad de medir la resolución, el abandono y otras métricas de conversación",
+        "Práctica en el manejo de entradas ambiguas o fuera de alcance",
+        "Capacidad de mejorar los modelos de intención a partir de registros de conversaciones reales"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con los asistentes de voz y las interfaces de habla",
+        "Capacidad de construir flujos de conversación multilingües",
+        "Noción del sentimiento y el tono en los mensajes del usuario"
+      ],
+      "indicators": [
+        "Desarrolla asistentes conversacionales con supervisión",
+        "Implementa conversaciones de varios turnos",
+        "Mejora el rendimiento del asistente a partir de la analítica"
+      ]
+    },
+    "CAI-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio del diseño de diálogo para conversaciones complejas orientadas a objetivos",
+        "Capacidad de construir comprensión del lenguaje natural avanzada con entidades y contexto",
+        "Capacidad de diseñar una gestión de estado robusta para conversaciones largas",
+        "Capacidad de personalizar las respuestas según el contexto y el historial del usuario",
+        "Dominio sólido de los principios de diseño conversacional y de las estrategias de reparación",
+        "Capacidad de realizar pruebas A/B y evaluar la calidad de la conversación",
+        "Capacidad de integrar la voz mediante reconocimiento y síntesis del habla",
+        "Práctica en el diseño de una transferencia fluida del asistente a un agente humano"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con la integración de modelos grandes de lenguaje en el diálogo",
+        "Capacidad de manejar respuestas empáticas y sensibles al sentimiento",
+        "Noción de la accesibilidad en las interfaces conversacionales"
+      ],
+      "indicators": [
+        "Lidera proyectos de inteligencia artificial conversacional",
+        "Diseña arquitecturas de diálogo",
+        "Mentoriza a otros en diseño conversacional"
+      ]
+    },
+    "CAI-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar plataformas conversacionales que abarcan varios canales",
+        "Dominio de la integración de modelos grandes de lenguaje con herramientas y recuperación",
+        "Capacidad de diseñar experiencias omnicanal con un contexto coherente",
+        "Dominio sólido de la comprensión y la generación del lenguaje natural a escala",
+        "Capacidad de construir evaluación de la calidad de la conversación y del éxito de la tarea",
+        "Capacidad de diseñar flujos fiables de escalado y de transferencia a un agente humano",
+        "Práctica en el escalado de sistemas conversacionales a alto tráfico",
+        "Capacidad de mentorizar a ingenieros en diseño y evaluación conversacional"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con plataformas de voz y flujos de habla",
+        "Familiaridad con las salvaguardas frente a respuestas inseguras o fuera de marca",
+        "Capacidad de personalizar a escala respetando la privacidad"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de plataformas conversacionales",
+        "Mentoriza a equipos en inteligencia artificial conversacional",
+        "Toma decisiones de arquitectura sobre los sistemas de diálogo"
+      ]
+    },
+    "CAI-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Pericia en el diseño de plataformas conversacionales compartidas entre productos",
+        "Capacidad de instaurar marcos de evaluación de la calidad de la conversación",
+        "Dominio de la orquestación de asistentes basados en modelos de lenguaje con herramientas",
+        "Capacidad de definir estándares de diseño de diálogo y componentes reutilizables",
+        "Dominio sólido del escalado de asistentes entre canales e idiomas",
+        "Capacidad de diseñar la gobernanza de lo que los asistentes pueden decir y hacer",
+        "Pericia en la optimización del coste y la latencia de los sistemas conversacionales",
+        "Capacidad de construir transferencia a un agente humano y asistencia al agente a escala"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con el diseño conversacional multimodal y con prioridad en la voz",
+        "Capacidad de diseñar analítica que saca a la luz los fallos de conversación",
+        "Noción del cumplimiento para las interacciones automatizadas con clientes"
+      ],
+      "indicators": [
+        "Diseña arquitecturas conversacionales para productos completos",
+        "Define los estándares del equipo para los sistemas de diálogo",
+        "Lidera iniciativas conversacionales entre equipos"
+      ]
+    },
+    "CAI-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar plataformas conversacionales corporativas que sirven a muchos equipos",
+        "Pericia en la gobernanza de lo que se permite hacer a los asistentes automatizados",
+        "Dominio de la supervisión de la calidad y de la evaluación continua de las conversaciones",
+        "Capacidad de diseñar asistentes que cumplen objetivos de fiabilidad y seguridad",
+        "Dominio sólido de los riesgos de seguridad y privacidad en los sistemas conversacionales",
+        "Capacidad de liderar la adopción de la automatización conversacional en el negocio",
+        "Pericia en la gestión del coste de los asistentes basados en modelos de lenguaje a escala",
+        "Capacidad de fijar estándares para la transferencia a un agente humano y el escalado"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con las capacidades emergentes de asistentes y agentes",
+        "Capacidad de diseñar servicios compartidos de comprensión y de diálogo",
+        "Noción de la accesibilidad y del diseño conversacional inclusivo"
+      ],
+      "indicators": [
+        "Diseña soluciones conversacionales para varios equipos",
+        "Influye en las decisiones organizativas sobre inteligencia artificial conversacional",
+        "Representa a la empresa técnicamente en inteligencia artificial conversacional"
+      ]
+    },
+    "CAI-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la estrategia de inteligencia artificial conversacional en toda la organización",
+        "Capacidad de diseñar arquitecturas de asistente independientes de cualquier modelo concreto",
+        "Pericia en plataformas conversacionales independientes del modelo y del proveedor",
+        "Capacidad de definir hojas de ruta plurianuales para las capacidades conversacionales",
+        "Dominio sólido del coste total y de la economía de los asistentes a escala",
+        "Pericia en la construcción y el escalado de equipos de ingeniería conversacional",
+        "Capacidad de fijar estándares de evaluación y seguridad adoptados en toda la organización",
+        "Capacidad de guiar las decisiones de construir o comprar tecnología conversacional"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de evaluar proveedores y herramientas de inteligencia artificial conversacional",
+        "Familiaridad con las tendencias de investigación en diálogo y modelos de lenguaje",
+        "Capacidad de representar el trabajo conversacional en eventos del sector"
+      ],
+      "indicators": [
+        "Define la estrategia organizativa de inteligencia artificial conversacional",
+        "Reconocido como autoridad técnica en sistemas conversacionales",
+        "Ponente en eventos del sector sobre inteligencia artificial conversacional"
+      ]
+    },
+    "CAI-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Dirección estratégica de cómo la organización construye sus sistemas conversacionales",
+        "Capacidad de alinear las inversiones conversacionales con los objetivos de producto y negocio",
+        "Pericia en la diligencia debida técnica de los productos conversacionales",
+        "Capacidad de fijar el listón de ingeniería para la calidad y la seguridad del asistente",
+        "Dominio sólido de los compromisos entre asistentes propios y de terceros",
+        "Capacidad de construir y dirigir organizaciones de ingeniería conversacional",
+        "Pericia en trasladar los avances de los modelos de lenguaje a los asistentes",
+        "Capacidad de asesorar a la dirección sobre el riesgo y la oportunidad de la IA conversacional"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de dar forma a la estrategia de datos para entrenar y evaluar asistentes",
+        "Familiaridad con las consideraciones regulatorias de las interacciones automatizadas",
+        "Capacidad de mentorizar a ingenieros senior y responsables técnicos"
+      ],
+      "indicators": [
+        "Da forma a la dirección técnica de la IA conversacional en la empresa",
+        "Asesora a la dirección en decisiones sobre tecnología conversacional",
+        "Mentoriza a responsables técnicos senior"
+      ]
+    },
+    "CAI-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la estrategia de inteligencia artificial conversacional",
+        "Capacidad de alinear las capacidades conversacionales con la estrategia de la empresa",
+        "Pericia en la planificación y gestión de presupuestos para programas de asistentes",
+        "Capacidad de fijar la política organizativa de asistentes responsables",
+        "Dominio sólido de la gestión del riesgo de las interacciones automatizadas con clientes",
+        "Capacidad de construir ventaja competitiva a través de las experiencias conversacionales",
+        "Pericia en la colaboración con proveedores de modelos y plataformas",
+        "Capacidad de guiar a la organización a través de los cambios en la tecnología conversacional"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de representar a la empresa en asuntos de tecnología conversacional",
+        "Familiaridad con el panorama de proveedores e investigación de asistentes",
+        "Capacidad de dar forma a la contratación y a la organización de los equipos conversacionales"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de tecnología conversacional",
+        "Responsable de los resultados de las inversiones conversacionales",
+        "Representa a la empresa externamente en inteligencia artificial conversacional"
+      ]
+    }
+  }
+}

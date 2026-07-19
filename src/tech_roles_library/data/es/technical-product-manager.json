@@ -1,0 +1,258 @@
+{
+  "role": "Gestor de Producto Técnico",
+  "category": "Producto",
+  "levels": {
+    "TPM-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de arquitectura de software",
+        "Comprensión elemental de APIs y microservicios",
+        "Habilidad para escribir requisitos técnicos",
+        "Conocimiento básico de computación en la nube",
+        "Capacidad de comunicación con desarrolladores",
+        "Comprensión del ciclo de vida del desarrollo de software",
+        "Documentación técnica básica",
+        "Conocimiento elemental de bases de datos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con diagramas técnicos",
+        "Conocimiento básico de operaciones de desarrollo",
+        "Comprensión de fundamentos de seguridad"
+      ],
+      "indicators": [
+        "Requiere supervisión en decisiones técnicas",
+        "Apoya en especificaciones técnicas",
+        "Está aprendiendo gestión de productos técnicos"
+      ]
+    },
+    "TPM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de definir arquitecturas de producto",
+        "Implementación de hojas de ruta técnicas",
+        "Conocimiento práctico de diseño de sistemas",
+        "Habilidad para diseño de APIs",
+        "Comprensión de patrones de escalabilidad",
+        "Capacidad de evaluar compromisos técnicos",
+        "Conocimiento de métricas de rendimiento",
+        "Habilidad para gestión de deuda técnica"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de productos de plataforma",
+        "Conocimiento de patrones de integración",
+        "Comprensión de arquitectura de SaaS"
+      ],
+      "indicators": [
+        "Gestiona productos técnicos con supervisión",
+        "Define especificaciones técnicas independientemente",
+        "Colabora efectivamente con arquitectos"
+      ]
+    },
+    "TPM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de productos de plataforma complejos",
+        "Implementación de estrategias de experiencia del desarrollador",
+        "Dominio de requisitos técnicos",
+        "Capacidad de tomar decisiones arquitectónicas",
+        "Habilidad para gestión de productos API",
+        "Conocimiento profundo de infraestructura",
+        "Implementación de alianzas técnicas",
+        "Gestión de productos para desarrolladores"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de estrategia de código abierto",
+        "Habilidad para diseño de kits de desarrollo",
+        "Comprensión de ecosistemas de desarrolladores"
+      ],
+      "indicators": [
+        "Lidera productos técnicos complejos",
+        "Define estrategia de plataforma",
+        "Mentoriza gestores de producto técnico junior"
+      ]
+    },
+    "TPM-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de productos empresariales",
+        "Diseño de estrategias de plataforma",
+        "Implementación de plataformas para desarrolladores",
+        "Dominio de ecosistemas técnicos",
+        "Capacidad de gestionar productos de infraestructura",
+        "Conocimiento profundo de arquitectura empresarial",
+        "Habilidad para fusiones y adquisiciones técnicas",
+        "Liderazgo en transformación de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en economía de APIs",
+        "Conocimiento de productos nativos de la nube",
+        "Gestión de productos de infraestructura"
+      ],
+      "indicators": [
+        "Define estrategia técnica de producto",
+        "Lidera productos de plataforma",
+        "Influencia arquitectura empresarial"
+      ]
+    },
+    "TPM-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de gestión de productos técnicos",
+        "Diseño de organizaciones de plataforma",
+        "Gestión de carteras técnicas",
+        "Definición de estrategia para desarrolladores",
+        "Capacidad de evaluar economía de plataformas",
+        "Implementación de plataformas internas",
+        "Dominio de alianzas técnicas",
+        "Impulso del pensamiento orientado a plataformas entre equipos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación de plataforma",
+        "Conocimiento de productos de infraestructura",
+        "Gestión de ecosistemas técnicos"
+      ],
+      "indicators": [
+        "Gestiona múltiples gestores de producto técnico",
+        "Define visión de plataforma empresarial",
+        "Representa productos técnicos ante directores técnicos"
+      ]
+    },
+    "TPM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de productos técnicos corporativos",
+        "Estrategia de plataformas empresariales",
+        "Gestión de inversiones en infraestructura",
+        "Definición de estrategia de experiencia del desarrollador",
+        "Liderazgo en revolución de plataforma",
+        "Implementación de plataforma como producto",
+        "Innovación en productos técnicos",
+        "Gestión del ecosistema de socios de plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en productos de infraestructura crítica",
+        "Conocimiento de regulaciones de plataforma",
+        "Liderazgo en comunidades técnicas"
+      ],
+      "indicators": [
+        "Dirige gestión de productos de plataforma (20+ personas)",
+        "Participa en estrategia técnica",
+        "Define inversiones en plataforma"
+      ]
+    },
+    "TPM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en productos técnicos",
+        "Diseño de estrategias de plataforma globales",
+        "Transformación empresarial mediante plataformas",
+        "Gestión de productos técnicos a escala de alto crecimiento",
+        "Creación de ventajas tecnológicas sostenibles",
+        "Definición del futuro de productos de plataforma",
+        "Comunicación de la estrategia de plataforma a la dirección ejecutiva",
+        "Influencia en la industria de plataformas"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de plataformas a hiperescala",
+        "Experiencia en unicornios de infraestructura",
+        "Liderazgo en estándares técnicos"
+      ],
+      "indicators": [
+        "Depende de director técnico o de producto",
+        "Gestiona organización de plataforma (50+ personas)",
+        "Define estrategia técnica corporativa"
+      ]
+    },
+    "TPM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de plataformas como núcleo",
+        "Liderazgo en revolución de infraestructura",
+        "Definición de los estándares de arquitectura de plataforma de la organización",
+        "Gestión de ecosistemas técnicos a gran escala",
+        "Innovación en estrategia de producto de plataforma",
+        "Definición de plataformas autónomas",
+        "Impulso de prácticas de ingeniería centradas en plataforma",
+        "Influencia en economía de plataformas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como vicepresidente de plataforma en grandes empresas tecnológicas",
+        "Asesoría en empresas emergentes de infraestructura",
+        "Liderazgo de pensamiento en plataformas"
+      ],
+      "indicators": [
+        "Es parte del liderazgo técnico",
+        "Define futuro de plataformas",
+        "Es líder reconocido en productos de plataforma"
+      ]
+    },
+    "TPM-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en el futuro de plataformas",
+        "Transformación de industrias mediante infraestructura",
+        "Definición de la visión de tecnología de plataforma de la organización",
+        "Definición de capacidades de plataforma de autoservicio",
+        "Innovación en experiencia de plataforma para desarrolladores",
+        "Impulso de una cultura de ingeniería de plataforma",
+        "Arquitectura de infraestructura de plataforma a gran escala",
+        "Influencia en evolución de computación"
+      ],
+      "complementaryCompetencies": [
+        "Trayectoria en la construcción de productos de plataforma",
+        "Reconocimiento como arquitecto de ecosistemas",
+        "Influencia en el futuro de infraestructura"
+      ],
+      "indicators": [
+        "Lidera la organización de producto de plataforma de la empresa",
+        "Define futuro de infraestructura tecnológica",
+        "Es autoridad mundial en productos de plataforma"
+      ]
+    }
+  }
+}

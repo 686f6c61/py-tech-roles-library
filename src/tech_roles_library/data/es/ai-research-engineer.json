@@ -1,0 +1,249 @@
+{
+  "role": "Ingeniero de Investigación en IA",
+  "category": "IA/ML",
+  "levels": {
+    "AIRE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica del entrenamiento de una red neuronal con PyTorch bajo supervisión",
+        "Nociones elementales de la lectura de un artículo de investigación y de la identificación de su método central",
+        "Capaz de ejecutar un script de entrenamiento existente y registrar métricas con guía",
+        "Comprensión básica de los tensores, la diferenciación automática y el bucle de entrenamiento",
+        "Capaz de lanzar experimentos en una GPU siguiendo instrucciones dadas",
+        "Práctica elemental del seguimiento de experimentos con herramientas como Weights & Biases",
+        "Comprensión básica de la reproducibilidad mediante semillas y dependencias fijadas"
+      ],
+      "complementaryCompetencies": [
+        "Soltura con Python y NumPy",
+        "Familiaridad con Git y con la ejecución de trabajos en un clúster compartido",
+        "Noción elemental del álgebra lineal y los gradientes"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede reproducir experimentos simples con guía detallada",
+        "Necesita 3-6 meses para ser productivo"
+      ]
+    },
+    "AIRE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capaz de reimplementar un método simple de un artículo y replicar sus líneas base",
+        "Comprensión del bucle de entrenamiento, incluidos la pérdida, el optimizador y la planificación de la tasa de aprendizaje",
+        "Capaz de construir cargadores de datos y preprocesamiento para un pipeline de entrenamiento",
+        "Depuración práctica del entrenamiento con curvas de pérdida e inspección de gradientes",
+        "Capaz de ejecutar experimentos controlados que cambian una variable cada vez",
+        "Comprensión del entrenamiento en precisión mixta y de su efecto en memoria y velocidad",
+        "Familiaridad con el perfilado de un paso de entrenamiento para localizar cuellos de botella evidentes"
+      ],
+      "complementaryCompetencies": [
+        "Soltura con la gestión de memoria en una sola GPU y con el ajuste del tamaño de lote",
+        "Familiaridad con el seguimiento de experimentos y la gestión de configuraciones",
+        "Práctica básica de las pruebas unitarias de código de modelo y de datos"
+      ],
+      "indicators": [
+        "Reproduce métodos publicados con supervisión",
+        "Resuelve problemas de complejidad media en el código de entrenamiento",
+        "Participa activamente en revisiones de código y experimentos"
+      ]
+    },
+    "AIRE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Solvencia en la reimplementación de métodos de artículos recientes con una evaluación correcta",
+        "Capaz de configurar entrenamiento en paralelo de datos en varias GPU con herramientas como DistributedDataParallel",
+        "Capaz de diseñar estudios de ablación que aíslan la contribución de cada componente",
+        "Buen manejo de la depuración de inestabilidad numérica, como los NaN y la pérdida divergente",
+        "Capaz de perfilar y optimizar un paso de entrenamiento para mejorar la utilización de la GPU",
+        "Comprensión de la acumulación de gradientes y del checkpointing de activaciones para ajustar modelos más grandes",
+        "Capaz de construir pipelines de experimentos reproducibles con configuraciones y datos versionados"
+      ],
+      "complementaryCompetencies": [
+        "Soltura escribiendo operadores y hooks personalizados en PyTorch",
+        "Capaz de leer kernels CUDA y razonar sobre los patrones de acceso a memoria",
+        "Práctica básica de la comunicación distribuida, como all-reduce"
+      ],
+      "indicators": [
+        "Completa tareas complejas de ingeniería para investigación con mínima supervisión",
+        "Identifica y resuelve fallos en los pipelines de entrenamiento y evaluación",
+        "Contribuye activamente al diseño experimental junto a los científicos"
+      ]
+    },
+    "AIRE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capaz de construir entrenamiento distribuido con particionado como FSDP o DeepSpeed ZeRO",
+        "Solvencia con la infraestructura de experimentación que ejecuta y rastrea muchas ejecuciones en paralelo",
+        "Capaz de optimizar el rendimiento del entrenamiento mediante fusión de kernels y carga de datos eficiente",
+        "Buen manejo de la optimización de memoria, incluidos el checkpointing de activaciones y la descarga",
+        "Capaz de traducir el método novedoso de un artículo a código de entrenamiento eficiente y probado",
+        "Solvencia con las prácticas de reproducibilidad entre hardware, semillas y versiones de software",
+        "Capaz de escribir kernels personalizados en CUDA o Triton para una operación crítica en rendimiento"
+      ],
+      "complementaryCompetencies": [
+        "Soltura con herramientas de perfilado como el perfilador de PyTorch y Nsight",
+        "Capaz de colaborar con científicos para convertir hipótesis en experimentos",
+        "Comprensión de la construcción de conjuntos de datos y del diseño de arneses de evaluación"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de infraestructura de investigación crítica",
+        "Mentoriza eficazmente a ingenieros de investigación junior",
+        "Toma decisiones informadas sobre el diseño de sistemas de entrenamiento"
+      ]
+    },
+    "AIRE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experto en el diseño de sistemas de entrenamiento que escalan eficientemente en muchas GPU",
+        "Capaz de arquitectar plataformas de experimentación que maximizan la velocidad de iteración de los investigadores",
+        "Solvencia en la optimización de rendimiento en la pila de cómputo, memoria y comunicación",
+        "Capaz de combinar paralelismo de tensor, de pipeline y de datos para entrenar modelos grandes",
+        "Buen manejo del perfilado y la eliminación de cuellos de botella en el entrenamiento distribuido",
+        "Capaz de construir arneses de evaluación que producen resultados fiables y reproducibles",
+        "Experto en la escritura y optimización de kernels personalizados para operaciones novedosas de modelos"
+      ],
+      "complementaryCompetencies": [
+        "Consciente de los métodos numéricos y de la estabilidad del entrenamiento en baja precisión",
+        "Capaz de diseñar bancos de pruebas que miden la eficiencia del entrenamiento",
+        "Comprensión del proceso de investigación desde la hipótesis hasta la publicación"
+      ],
+      "indicators": [
+        "Diseña sistemas de entrenamiento y experimentación para un grupo de investigación",
+        "Define los estándares técnicos para una ingeniería de investigación reproducible",
+        "Lidera iniciativas entre equipos sobre infraestructura de investigación"
+      ]
+    },
+    "AIRE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capaz de arquitectar plataformas de cómputo para investigación compartidas por muchos equipos",
+        "Experto en el escalado fiable de la infraestructura de entrenamiento a cientos de GPU",
+        "Solvencia con las herramientas que convierten ideas de investigación en experimentos reproducibles a escala",
+        "Capaz de diseñar sistemas resilientes al fallo de hardware durante ejecuciones de entrenamiento prolongadas",
+        "Buen manejo de la ingeniería de rendimiento en kernels, paralelismo e interconexión",
+        "Capaz de liderar la adopción de nuevos marcos de entrenamiento y hardware en la organización",
+        "Experto en ingeniería de fiabilidad para trabajos de entrenamiento distribuido de larga duración"
+      ],
+      "complementaryCompetencies": [
+        "Consciente de los aceleradores emergentes y de sus modelos de programación",
+        "Capaz de diseñar infraestructura compartida de evaluación y de bancos de pruebas",
+        "Comprensión de la economía de la asignación de cómputo para investigación"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de infraestructura de investigación para múltiples equipos",
+        "Influye en las decisiones organizacionales sobre cómputo para investigación",
+        "Representa a la empresa técnicamente en foros de ingeniería para investigación"
+      ]
+    },
+    "AIRE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Aporta liderazgo técnico de la ingeniería para investigación en toda la organización",
+        "Capaz de diseñar arquitecturas de cómputo y de entrenamiento para programas a gran escala",
+        "Experto en estrategias para maximizar el rendimiento de investigación por unidad de cómputo",
+        "Buen manejo de pilas de entrenamiento agnósticas al hardware entre distintos fabricantes de aceleradores",
+        "Capaz de definir hojas de ruta de varios años para la infraestructura de entrenamiento y experimentación",
+        "Comprensión profunda de los compromisos de coste y eficiencia de los grandes programas de entrenamiento",
+        "Experto en la construcción y el escalamiento de equipos de ingeniería para investigación"
+      ],
+      "complementaryCompetencies": [
+        "Capaz de evaluar métodos de entrenamiento y hardware emergentes para su adopción",
+        "Capaz de coescribir publicaciones con científicos de investigación",
+        "Consciente de las tendencias en entrenamiento eficiente y en sistemas para aprendizaje automático"
+      ],
+      "indicators": [
+        "Define la estrategia organizacional para la ingeniería de investigación",
+        "Reconocido como autoridad técnica en sistemas de entrenamiento",
+        "Ponente en conferencias de sistemas y de aprendizaje automático"
+      ]
+    },
+    "AIRE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Fija la visión estratégica de la infraestructura de entrenamiento y experimentación de la organización",
+        "Capaz de liderar cambios importantes en la forma de construir y usar el cómputo para investigación",
+        "Experto en diligencia debida técnica para infraestructura de investigación e inversión en hardware",
+        "Impulsa el cambio organizacional hacia una investigación eficiente y reproducible a escala",
+        "Capaz de construir y liderar organizaciones de ingeniería para investigación",
+        "Comprensión profunda del impacto de las decisiones de infraestructura en la velocidad de investigación",
+        "Experto en la relación entre investigación, ingeniería y dirección"
+      ],
+      "complementaryCompetencies": [
+        "Capaz de influir en la práctica del sector sobre sistemas de entrenamiento",
+        "Capaz de orientar la inversión en cómputo y en herramientas de investigación",
+        "Consciente del panorama de aceleradores e infraestructura de investigación"
+      ],
+      "indicators": [
+        "Impacta en la dirección técnica de la ingeniería para investigación en el campo",
+        "Asesora a la dirección sobre la estrategia de infraestructura de investigación",
+        "Mentoriza a ingenieros de investigación senior"
+      ]
+    },
+    "AIRE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Aporta liderazgo ejecutivo de la ingeniería para investigación en toda la organización",
+        "Capaz de alinear la estrategia de infraestructura de investigación con los objetivos científicos y de negocio",
+        "Experto en la gestión de grandes presupuestos para cómputo de investigación y hardware",
+        "Domina la comunicación con partes interesadas y con la junta directiva sobre la inversión en infraestructura de investigación",
+        "Capaz de liderar la transformación de cómo la organización realiza investigación a escala",
+        "Comprensión profunda de la gestión de riesgos de los programas de entrenamiento grandes y de larga duración",
+        "Experto en la construcción de ventajas competitivas mediante la capacidad de ingeniería para investigación"
+      ],
+      "complementaryCompetencies": [
+        "Capaz de dar forma a la política organizacional sobre asignación de cómputo y práctica de investigación",
+        "Capaz de establecer alianzas con proveedores de hardware y de nube",
+        "Consciente de la economía de los programas de investigación a gran escala"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión tecnológica de la ingeniería para investigación",
+        "Responsable de la estrategia y el presupuesto de cómputo para investigación",
+        "Voz pública de la empresa en ingeniería para investigación"
+      ]
+    }
+  }
+}

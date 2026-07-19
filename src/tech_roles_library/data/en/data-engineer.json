@@ -1,0 +1,266 @@
+{
+  "role": "Data Engineer",
+  "category": "Data",
+  "levels": {
+    "DE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of relational databases and SQL",
+        "Elementary knowledge of data types and structures",
+        "Ability to write simple SQL queries",
+        "Basic understanding of ETL and data movement",
+        "Ability to work with CSV, JSON, XML files",
+        "Elementary knowledge of data quality",
+        "Basic understanding of data warehousing concepts",
+        "Ability to use basic visualization tools"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of Python for data",
+        "Familiarity with advanced Excel",
+        "Elementary understanding of statistics"
+      ],
+      "indicators": [
+        "Requires constant supervision in data tasks",
+        "Can execute simple data loading scripts",
+        "Needs 3-6 months of mentoring in data engineering"
+      ]
+    },
+    "DE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to design and implement basic ETL pipelines",
+        "Ability to optimize SQL queries and create indexes",
+        "Practical knowledge of basic dimensional modeling",
+        "Understanding of basic partitioning and sharding",
+        "Ability to implement data validation and cleaning",
+        "Ability to work with APIs and web scraping",
+        "Knowledge of basic scheduling and orchestration",
+        "Understanding of data and schema versioning",
+        "Ability to document pipelines and processes"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of NoSQL",
+        "Ability to use BI tools",
+        "Understanding of cloud storage"
+      ],
+      "indicators": [
+        "Can build simple pipelines with supervision",
+        "Solves common data quality problems",
+        "Maintains existing pipelines effectively"
+      ]
+    },
+    "DE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of multiple database technologies (SQL, NoSQL)",
+        "Ability to implement basic streaming pipelines",
+        "Ability to design data warehouses and data marts",
+        "Deep knowledge of performance optimization",
+        "Ability to implement CDC and data replication",
+        "Solid understanding of data governance and lineage",
+        "Ability to work with big data tools (Spark, Hadoop)",
+        "Knowledge of containerization for pipelines",
+        "Ability to implement monitoring and alerting"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of machine learning pipelines",
+        "Ability to work with data lakes",
+        "Understanding of real-time analytics"
+      ],
+      "indicators": [
+        "Designs end-to-end data solutions",
+        "Significantly optimizes existing pipelines",
+        "Contributes to data architecture"
+      ]
+    },
+    "DE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design scalable data architectures",
+        "Mastery of distributed processing and MPP systems",
+        "Ability to implement event-driven architectures",
+        "Deep knowledge of data mesh and data fabric",
+        "Ability to implement feature stores for ML",
+        "Mastery of cost optimization in cloud",
+        "Ability to design metadata systems",
+        "Knowledge of data cataloging and discovery",
+        "Ability to implement technical GDPR compliance"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of graph databases",
+        "Ability for time-series optimization",
+        "Understanding of edge analytics"
+      ],
+      "indicators": [
+        "Leads complex data projects",
+        "Defines data engineering standards",
+        "Mentors junior data engineers"
+      ]
+    },
+    "DE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in lambda and kappa architectures",
+        "Ability to design enterprise data platforms",
+        "Mastery of real-time streaming at scale (Kafka, Pulsar)",
+        "Ability to implement data virtualization",
+        "Deep knowledge of distributed computing frameworks",
+        "Ability to implement multi-cloud data strategies",
+        "Expertise in enterprise data quality frameworks",
+        "Mastery of DataOps and automation",
+        "Ability to design disaster recovery for data"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of quantum data processing",
+        "Ability for blockchain data integration",
+        "Understanding of synthetic data generation"
+      ],
+      "indicators": [
+        "Architects enterprise data solutions",
+        "Leads data platform migration",
+        "Defines technical data roadmap"
+      ]
+    },
+    "DE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect global data ecosystems",
+        "Expertise in federated learning and privacy-preserving analytics",
+        "Mastery of data products and data as a service",
+        "Ability to implement complete data observability",
+        "Deep knowledge of FinOps for data",
+        "Ability to design architectures for petabyte scale",
+        "Expertise in cross-region replication and geo-distribution",
+        "Mastery of semantic layer and metrics layer",
+        "Ability to lead data platform teams"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of neuromorphic computing",
+        "Ability for data in edge computing",
+        "Understanding of green data engineering"
+      ],
+      "indicators": [
+        "Architects data platforms for multiple products",
+        "Leads organizational data-driven transformation",
+        "Defines long-term data strategy"
+      ]
+    },
+    "DE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in enterprise data democratization",
+        "Ability to design data exchanges and marketplaces",
+        "Expertise in augmented analytics and AutoML platforms",
+        "Mastery of enterprise knowledge graphs",
+        "Ability to implement data fabric at global scale",
+        "Deep knowledge of global regulatory compliance",
+        "Expertise in data valuation and monetization",
+        "Ability to design self-service analytics platforms",
+        "Mastery of innovation in data technologies"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence data standards",
+        "Ability to create data startups",
+        "Knowledge of data venture capital"
+      ],
+      "indicators": [
+        "Defines corporate data strategy",
+        "Leads external data communities",
+        "Recognized thought leader in data engineering"
+      ]
+    },
+    "DE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of data",
+        "Ability to transform companies into data-driven",
+        "Expertise in data strategy for M&A",
+        "Mastery of building data centers of excellence",
+        "Ability to define corporate data governance",
+        "Deep knowledge of data economics and ROI",
+        "Expertise in strategic data partnerships",
+        "Ability to lead open source data projects",
+        "Mastery of data ethics and responsible AI"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent data innovations",
+        "Ability for advisory boards",
+        "Knowledge of investment in data tech"
+      ],
+      "indicators": [
+        "Defines data architecture for conglomerates",
+        "Influences industry direction",
+        "Principal speaker at global conferences"
+      ]
+    },
+    "DE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in data strategy",
+        "Ability to monetize data as business asset",
+        "Expertise in data-driven digital transformation",
+        "Mastery of multi-million dollar data budgets",
+        "Ability to build global data organizations",
+        "Deep knowledge of data governance and compliance",
+        "Expertise in data partnerships and ecosystems",
+        "Ability to define data-driven culture",
+        "Mastery of innovation and R&D in data"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence data regulation",
+        "Ability to create data ecosystems",
+        "Knowledge of data investment strategies"
+      ],
+      "indicators": [
+        "Defines and executes enterprise data vision",
+        "Responsible for corporate data strategy",
+        "Recognized leader in global data industry"
+      ]
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "role": "AI Research Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "AIRE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of training a neural network with PyTorch under supervision",
+        "Elementary grasp of reading a research paper and identifying its core method",
+        "Able to run an existing training script and log metrics with guidance",
+        "Basic understanding of tensors, autograd and the training loop",
+        "Able to launch experiments on a GPU following provided instructions",
+        "Elementary practice of tracking experiments with tools such as Weights & Biases",
+        "Basic understanding of reproducibility through seeds and pinned dependencies"
+      ],
+      "complementaryCompetencies": [
+        "Comfortable with Python and NumPy",
+        "Familiar with Git and running jobs on a shared cluster",
+        "Elementary notion of linear algebra and gradients"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can reproduce simple experiments with detailed guidance",
+        "Needs 3-6 months to become productive"
+      ]
+    },
+    "AIRE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Able to reimplement a simple method from a paper and match reported baselines",
+        "Grasp of the training loop including loss, optimizer and learning-rate schedule",
+        "Able to build data loaders and preprocessing for a training pipeline",
+        "Practical debugging of training with loss curves and gradient inspection",
+        "Able to run controlled experiments that change one variable at a time",
+        "Grasp of mixed-precision training and its effect on memory and speed",
+        "Familiar with profiling a training step to find obvious bottlenecks"
+      ],
+      "complementaryCompetencies": [
+        "Comfortable with single-GPU memory management and batch sizing",
+        "Familiar with experiment tracking and configuration management",
+        "Basic practice of unit testing model and data code"
+      ],
+      "indicators": [
+        "Reproduces published methods with supervision",
+        "Resolves medium-complexity issues in training code",
+        "Actively participates in code and experiment reviews"
+      ]
+    },
+    "AIRE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Proficient at reimplementing methods from recent papers with correct evaluation",
+        "Able to set up multi-GPU data-parallel training with tools such as DistributedDataParallel",
+        "Able to design ablation studies that isolate the contribution of each component",
+        "Solid command of debugging numerical instability such as NaNs and diverging loss",
+        "Able to profile and optimize a training step for GPU utilization",
+        "Grasp of gradient accumulation and activation checkpointing to fit larger models",
+        "Able to build reproducible experiment pipelines with versioned configs and data"
+      ],
+      "complementaryCompetencies": [
+        "Comfortable writing custom PyTorch operators and hooks",
+        "Able to read CUDA kernels and reason about memory-access patterns",
+        "Basic practice of distributed communication such as all-reduce"
+      ],
+      "indicators": [
+        "Completes complex research engineering tasks with minimal supervision",
+        "Identifies and resolves failures in training and evaluation pipelines",
+        "Actively contributes to experimental design alongside scientists"
+      ]
+    },
+    "AIRE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Able to build distributed training with sharding such as FSDP or DeepSpeed ZeRO",
+        "Proficient with experiment infrastructure that runs and tracks many parallel runs",
+        "Able to optimize training throughput through kernel fusion and efficient data loading",
+        "Solid command of memory optimization including activation checkpointing and offloading",
+        "Able to translate a novel paper method into efficient, tested training code",
+        "Proficient with reproducibility practices across hardware, seeds and software versions",
+        "Able to write custom CUDA or Triton kernels for a performance-critical operation"
+      ],
+      "complementaryCompetencies": [
+        "Comfortable with profiling tools such as the PyTorch profiler and Nsight",
+        "Able to collaborate with scientists to turn hypotheses into experiments",
+        "Grasp of dataset construction and evaluation-harness design"
+      ],
+      "indicators": [
+        "Leads development of critical research infrastructure",
+        "Effectively mentors junior research engineers",
+        "Makes informed decisions on training-system design"
+      ]
+    },
+    "AIRE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expert at designing training systems that scale efficiently across many GPUs",
+        "Able to architect experimentation platforms that maximize researcher iteration speed",
+        "Proficient at performance optimization across the compute, memory and communication stack",
+        "Able to combine tensor, pipeline and data parallelism for large-model training",
+        "Solid command of profiling and eliminating bottlenecks in distributed training",
+        "Able to build evaluation harnesses that produce trustworthy, reproducible results",
+        "Expert at writing and optimizing custom kernels for novel model operations"
+      ],
+      "complementaryCompetencies": [
+        "Aware of numerical methods and low-precision training stability",
+        "Able to design benchmarks that measure training efficiency",
+        "Grasp of the research process from hypothesis to publication"
+      ],
+      "indicators": [
+        "Designs training and experimentation systems for a research group",
+        "Defines technical standards for reproducible research engineering",
+        "Leads cross-team initiatives on research infrastructure"
+      ]
+    },
+    "AIRE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Able to architect research computing platforms shared across many research teams",
+        "Expert at scaling training infrastructure to hundreds of GPUs reliably",
+        "Proficient with the tooling that turns research ideas into reproducible experiments at scale",
+        "Able to design systems resilient to hardware failure during long training runs",
+        "Solid command of performance engineering across kernels, parallelism and interconnect",
+        "Able to lead adoption of new training frameworks and hardware across the org",
+        "Expert at reliability engineering for long-running distributed training jobs"
+      ],
+      "complementaryCompetencies": [
+        "Aware of emerging accelerators and their programming models",
+        "Able to design shared evaluation and benchmarking infrastructure",
+        "Grasp of the economics of research-compute allocation"
+      ],
+      "indicators": [
+        "Architects research infrastructure for multiple teams",
+        "Influences organizational decisions on research computing",
+        "Represents the company technically in research engineering venues"
+      ]
+    },
+    "AIRE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Provides technical leadership for research engineering across an organization",
+        "Able to design research-compute and training architectures for large-scale programs",
+        "Expert at strategies for maximizing research throughput per unit of compute",
+        "Solid command of hardware-agnostic training stacks across accelerator vendors",
+        "Able to define multi-year roadmaps for training and experimentation infrastructure",
+        "Deep grasp of the cost and efficiency trade-offs of large training programs",
+        "Expert at building and scaling research engineering teams"
+      ],
+      "complementaryCompetencies": [
+        "Able to evaluate emerging training methods and hardware for adoption",
+        "Able to co-author publications with research scientists",
+        "Aware of trends in efficient training and systems for machine learning"
+      ],
+      "indicators": [
+        "Defines organizational strategy for research engineering",
+        "Recognized as a technical authority in training systems",
+        "Speaks at systems and machine-learning conferences"
+      ]
+    },
+    "AIRE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Sets the strategic vision for the organization's training and experimentation infrastructure",
+        "Able to lead major shifts in how research compute is built and used",
+        "Expert at technical due diligence for research infrastructure and hardware investment",
+        "Drives organizational change toward efficient, reproducible research at scale",
+        "Able to build and lead research engineering organizations",
+        "Deep grasp of the impact of infrastructure decisions on research velocity",
+        "Expert at stakeholder relations between research, engineering and leadership"
+      ],
+      "complementaryCompetencies": [
+        "Able to influence industry practice on training systems",
+        "Able to guide investment in compute and research tooling",
+        "Aware of the accelerator and research-infrastructure landscape"
+      ],
+      "indicators": [
+        "Impacts the technical direction of research engineering in the field",
+        "Advises leadership on research-infrastructure strategy",
+        "Mentors senior research engineers"
+      ]
+    },
+    "AIRE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Provides executive leadership for research engineering across the organization",
+        "Able to align research-infrastructure strategy with scientific and business goals",
+        "Expert at managing large budgets for research compute and hardware",
+        "Commands stakeholder and board communication on research-infrastructure investment",
+        "Able to lead the transformation of how the organization runs research at scale",
+        "Deep grasp of risk management for large, long-running training programs",
+        "Expert at building competitive advantage through research engineering capability"
+      ],
+      "complementaryCompetencies": [
+        "Able to shape organizational policy on compute allocation and research practice",
+        "Able to build partnerships with hardware and cloud providers",
+        "Aware of the economics of large-scale research programs"
+      ],
+      "indicators": [
+        "Defines and executes the research engineering technology vision",
+        "Accountable for research-compute strategy and budget",
+        "Serves as the public voice of the company in research engineering"
+      ]
+    }
+  }
+}

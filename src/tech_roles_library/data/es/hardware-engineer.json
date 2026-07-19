@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Hardware",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "HW-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Capacidad de leer esquemáticos electrónicos e identificar componentes",
+        "Conocimiento elemental del uso del multímetro y la fuente de alimentación de laboratorio",
+        "Capacidad de soldar componentes de agujero pasante y de montaje superficial básicos",
+        "Comprensión básica de componentes pasivos (resistencias, condensadores, bobinas)",
+        "Conocimiento elemental de las capas y las pistas de cobre de una PCB",
+        "Capacidad de ensamblar y poblar placas de prototipo con guía",
+        "Comprensión de las hojas de datos y los parámetros de los componentes",
+        "Conocimiento básico de la ley de Ohm y el análisis de circuitos simples"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con una herramienta de captura de esquemáticos (KiCad, Altium)",
+        "Conocimiento básico del manejo de descargas electrostáticas y la seguridad de laboratorio",
+        "Comprensión elemental de señales digitales y analógicas"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ayuda en el ensamblaje de placas y las medidas básicas",
+        "Necesita 6-12 meses de mentoría en hardware"
+      ]
+    },
+    "HW-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar esquemáticos para circuitos simples (regulación de alimentación, interfaz de sensores)",
+        "Capacidad de trazar PCB de dos capas con enrutado básico",
+        "Conocimiento práctico de la selección de componentes según parámetros eléctricos y disponibilidad",
+        "Comprensión de las medidas con osciloscopio y analizador lógico",
+        "Capacidad de realizar la puesta en marcha y las comprobaciones de encendido de placas",
+        "Conocimiento de la colocación de condensadores de desacoplo y derivación",
+        "Comprensión de la selección de reguladores de tensión (lineales, conmutados)",
+        "Capacidad de documentar la lista de materiales con información de aprovisionamiento"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de conceptos de integridad de señal",
+        "Familiaridad con estaciones de soldadura por reflujo y de retrabajo",
+        "Comprensión de estándares de interfaz a nivel de placa (USB, I2C, SPI)"
+      ],
+      "indicators": [
+        "Diseña placas simples con supervisión",
+        "Realiza la puesta en marcha y depuración básica",
+        "Documenta listas de materiales"
+      ]
+    },
+    "HW-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio del trazado de PCB multicapa con impedancia controlada",
+        "Capacidad de diseñar redes de distribución de alimentación y etapas de regulación",
+        "Capacidad de depurar placas con osciloscopio, analizador lógico y cámara térmica",
+        "Conocimiento profundo del derating de componentes y el análisis de tolerancias",
+        "Capacidad de diseñar para la integridad de señal (igualado de longitudes, pares diferenciales)",
+        "Comprensión de principios de compatibilidad electromagnética (apantallamiento, masas, filtrado)",
+        "Capacidad de planificar y ejecutar la puesta en marcha y caracterización de rendimiento de placas",
+        "Conocimiento de las reglas de DFM para ensamblaje y fabricación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de simulación térmica y dimensionado de disipadores",
+        "Capacidad de diseñar puntos de prueba e interfaces de depuración",
+        "Comprensión de circuitos de batería y gestión de alimentación"
+      ],
+      "indicators": [
+        "Diseña placas multicapa de forma autónoma",
+        "Lidera la puesta en marcha y validación de placas",
+        "Aplica reglas de DFM en el trazado"
+      ]
+    },
+    "HW-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar placas de señal mixta complejas",
+        "Dominio del diseño digital de alta velocidad (DDR, enlaces serie de alta velocidad)",
+        "Capacidad de diseñar la secuenciación y gestión de alimentación para sistemas de múltiples raíles",
+        "Conocimiento profundo de las pruebas de precumplimiento de EMC y su mitigación",
+        "Capacidad de liderar el diseño para pruebas (DFT) con boundary scan y prueba en circuito",
+        "Dominio del diseño de gestión térmica (flujo de aire, vías térmicas, disipadores de calor)",
+        "Capacidad de dirigir revisiones de esquemáticos y trazado",
+        "Conocimiento de los requisitos de certificación (CE, FCC, EMC) y la planificación de ensayos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de fundamentos de diseño de circuitos de RF",
+        "Capacidad de diseñar para la inspección óptica automatizada",
+        "Comprensión de ensayos de fiabilidad (ciclado térmico, HALT)"
+      ],
+      "indicators": [
+        "Define la arquitectura de placa para productos",
+        "Lidera la validación y la planificación de certificación",
+        "Mentoriza a ingenieros de hardware"
+      ]
+    },
+    "HW-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en diseño electrónico complejo de placa y a nivel de sistema",
+        "Capacidad de diseñar plataformas de hardware y diseños de referencia",
+        "Dominio de la simulación y el análisis de integridad de señal y alimentación",
+        "Capacidad de liderar campañas de precumplimiento y certificación (CE, FCC, EMC)",
+        "Conocimiento profundo del diseño para fabricación y la optimización de coste",
+        "Capacidad de definir la estrategia de validación de hardware y la cobertura de ensayos",
+        "Experiencia en la cualificación de componentes y la estrategia de segunda fuente",
+        "Dominio de la colaboración con fabricación y el traspaso de diseño"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de diseño de electrónica de alta tensión o de potencia",
+        "Capacidad de diseñar para aplicaciones de alta fiabilidad (automoción, industrial)",
+        "Comprensión de la cadena de suministro y la gestión del ciclo de vida de componentes"
+      ],
+      "indicators": [
+        "Arquitecta plataformas de hardware",
+        "Lidera la certificación y la transferencia a fabricación",
+        "Define la estrategia de validación"
+      ]
+    },
+    "HW-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir la estrategia de arquitectura de hardware para líneas de producto",
+        "Experiencia en diseño electrónico a nivel de sistema entre placas que interactúan",
+        "Dominio de programas de fiabilidad y cualificación de hardware",
+        "Capacidad de liderar la introducción de nuevos productos con fabricantes por contrato",
+        "Conocimiento profundo de la estrategia de certificación entre regiones y estándares",
+        "Capacidad de definir la estrategia de componentes y proveedores",
+        "Experiencia en diseño para fabricación a escala de producción",
+        "Dominio de la ingeniería de coste de hardware y la optimización de la lista de materiales"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de análisis de fallos y métodos de causa raíz",
+        "Capacidad de definir la infraestructura de ensayo de hardware (utillajes, ATE)",
+        "Comprensión de la estrategia normativa para nuevos mercados"
+      ],
+      "indicators": [
+        "Dirige el diseño de hardware para líneas de producto",
+        "Lidera la introducción de nuevos productos",
+        "Define la estrategia de proveedores y certificación"
+      ]
+    },
+    "HW-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en ingeniería de hardware en toda una organización",
+        "Capacidad de definir estándares de diseño electrónico y reglas de diseño",
+        "Experiencia en estrategia de plataforma de hardware entre familias de producto",
+        "Dominio de la estrategia de certificación y normativa para mercados globales",
+        "Capacidad de definir los objetivos de fiabilidad y calidad de hardware",
+        "Conocimiento profundo de economía de fabricación y diseño orientado a coste",
+        "Experiencia en la construcción de equipos y capacidades de ingeniería de hardware",
+        "Capacidad de definir la estrategia de componentes y cadena de suministro"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de establecer el gobierno de revisión de diseño de hardware",
+        "Capacidad de definir la estrategia de infraestructura de ensayo y validación",
+        "Conocimiento de propiedad intelectual y patentes de hardware"
+      ],
+      "indicators": [
+        "Define los estándares de ingeniería de hardware",
+        "Reconocido como autoridad en diseño electrónico",
+        "Asesor en estrategia de plataforma de hardware"
+      ]
+    },
+    "HW-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la evolución de la tecnología de hardware",
+        "Capacidad de liderar la arquitectura de hardware en una cartera de productos",
+        "Experiencia en diligencia debida de hardware para adquisiciones y evaluación tecnológica",
+        "Dominio de la estrategia de fabricación y cadena de suministro de hardware",
+        "Capacidad de definir la excelencia en fiabilidad y certificación de hardware",
+        "Conocimiento profundo del diseño orientado a coste y la economía de hardware a escala",
+        "Experiencia en alinear las decisiones de hardware con la estrategia de producto",
+        "Capacidad de establecer estándares de ingeniería de hardware adoptados en toda la organización"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de moldear las alianzas con proveedores de componentes",
+        "Capacidad de definir la hoja de ruta de tecnología de hardware",
+        "Conocimiento de tecnologías y procesos electrónicos emergentes"
+      ],
+      "indicators": [
+        "Define la dirección de hardware para toda la organización",
+        "Asesora a la dirección sobre estrategia de hardware",
+        "Mentoriza a ingenieros de hardware principales"
+      ]
+    },
+    "HW-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia de ingeniería de hardware",
+        "Capacidad de alinear la hoja de ruta de hardware con la estrategia de producto y negocio",
+        "Experiencia en la gestión de presupuestos de desarrollo y fabricación de hardware",
+        "Dominio de la estrategia de cartera y plataforma de hardware",
+        "Capacidad de construir organizaciones de ingeniería de hardware",
+        "Conocimiento profundo del riesgo de cadena de suministro y fabricación de hardware",
+        "Experiencia en estrategia de certificación y normativa de hardware a nivel global",
+        "Capacidad de impulsar la innovación de hardware en las líneas de producto"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de moldear alianzas estratégicas de fabricación y proveedores",
+        "Capacidad de influir en los estándares de hardware del sector",
+        "Conocimiento de la inversión en tecnología de hardware"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de ingeniería de hardware",
+        "Responsable del desarrollo y la fabricación de hardware",
+        "Representa a la empresa en asuntos de hardware"
+      ]
+    }
+  }
+}

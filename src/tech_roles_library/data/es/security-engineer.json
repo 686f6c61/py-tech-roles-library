@@ -1,0 +1,249 @@
+{
+  "role": "Ingeniero de Seguridad",
+  "category": "Seguridad",
+  "levels": {
+    "SEC-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de la confidencialidad, la integridad y la disponibilidad",
+        "Nociones elementales de las clases comunes de vulnerabilidad y de cómo surgen",
+        "Capaz de ejecutar un escáner de vulnerabilidades e interpretar su salida",
+        "Comprensión básica de los modelos de autenticación y autorización",
+        "Capaz de documentar hallazgos de seguridad con claridad",
+        "Comprensión elemental del cifrado en tránsito y en reposo",
+        "Capaz de aplicar un endurecimiento básico de sistemas a partir de una lista de verificación"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con marcos de seguridad como NIST y los estándares CIS",
+        "Comprensión elemental de redes y cortafuegos",
+        "Familiaridad básica con los conceptos de identidad y acceso"
+      ],
+      "indicators": [
+        "Necesita supervisión estrecha en las tareas de seguridad",
+        "Ejecuta procedimientos documentados de endurecimiento y escaneo",
+        "Aprende los conceptos básicos de seguridad de plataforma"
+      ]
+    },
+    "SEC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capaz de realizar evaluaciones de vulnerabilidades y priorizar los hallazgos",
+        "Configuración de roles y políticas de gestión de identidad y acceso",
+        "Comprensión práctica de la gestión de certificados y claves (PKI)",
+        "Capaz de configurar el cifrado de datos en tránsito y en reposo",
+        "Implementación de segmentación de red y reglas de cortafuegos",
+        "Capaz de aplicar líneas base de endurecimiento de sistemas y contenedores",
+        "Capaz de hacer seguimiento de la remediación de vulnerabilidades conocidas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de gestión de secretos",
+        "Comprensión de los fundamentos de la seguridad en la nube",
+        "Familiaridad básica con el registro de seguridad para su análisis posterior"
+      ],
+      "indicators": [
+        "Realiza evaluaciones de seguridad con supervisión",
+        "Aplica controles estándar de seguridad de plataforma",
+        "Coordina remediaciones sencillas con los responsables de los sistemas"
+      ]
+    },
+    "SEC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de estructuras de identidad y acceso con roles y políticas de mínimo privilegio",
+        "Implementación de la gestión y rotación de secretos",
+        "Diseño de controles de seguridad de red y segmentación",
+        "Capaz de realizar modelado de amenazas para cambios de infraestructura y plataforma",
+        "Implementación del cifrado y la gestión de claves entre servicios",
+        "Capaz de liderar un ciclo de gestión de vulnerabilidades de principio a fin",
+        "Elaboración de líneas base de seguridad y estándares de endurecimiento"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de los principios de red de confianza cero",
+        "Familiaridad con herramientas de gestión de la postura de seguridad en la nube",
+        "Comprensión de las prácticas de revisión de seguridad de infraestructura"
+      ],
+      "indicators": [
+        "Diseña controles de seguridad de plataforma para proyectos",
+        "Ejecuta la gestión de vulnerabilidades de forma autónoma",
+        "Coordina la remediación entre equipos"
+      ]
+    },
+    "SEC-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Diseño de la arquitectura de seguridad de plataforma entre entornos",
+        "Implementación de acceso de confianza cero para sistemas y servicios",
+        "Definición de la estrategia de cifrado y gestión de claves",
+        "Integración de controles de seguridad y escaneo en las cadenas de integración y despliegue",
+        "Capaz de realizar revisiones de seguridad transversales de arquitecturas",
+        "Diseño de un programa de gestión de vulnerabilidades con acuerdos de servicio",
+        "Coordinación con seguridad de aplicaciones sobre el código de producto y con operaciones de seguridad sobre la monitorización"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de los controles de seguridad en entornos multinube",
+        "Familiaridad con la seguridad de la cadena de suministro y las dependencias",
+        "Comprensión de las opciones de criptografía aplicada"
+      ],
+      "indicators": [
+        "Lidera la seguridad de plataforma en sistemas complejos",
+        "Define la arquitectura de seguridad de la infraestructura",
+        "Orienta al equipo en las prácticas de seguridad de plataforma"
+      ]
+    },
+    "SEC-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre la arquitectura de seguridad de plataforma en la organización",
+        "Diseño de la identidad corporativa y la federación de identidades",
+        "Definición de la estrategia de cifrado, claves y gestión de secretos",
+        "Establecimiento de estándares de endurecimiento de sistemas y redes",
+        "Definición de un programa de gestión de vulnerabilidades con reducción de riesgo medible",
+        "Liderazgo de revisiones de seguridad transversales y guía de diseño",
+        "Coordinación del trabajo de seguridad con los especialistas de aplicaciones y de operaciones"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de los requisitos de cumplimiento que afectan a los controles de plataforma",
+        "Familiaridad con la gestión de la postura y la configuración de seguridad en la nube",
+        "Comprensión de la automatización de seguridad para controles repetibles"
+      ],
+      "indicators": [
+        "Diseña la seguridad de plataforma corporativa de forma autónoma",
+        "Lidera los programas de gestión de vulnerabilidades y endurecimiento",
+        "Define la hoja de ruta plurianual de seguridad de plataforma"
+      ]
+    },
+    "SEC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia de seguridad de plataforma en la organización",
+        "Arquitectura de identidad, cifrado y gestión de secretos a escala",
+        "Establecimiento de líneas base de seguridad y endurecimiento entre entornos",
+        "Definición del modelo operativo de gestión de vulnerabilidades y parches",
+        "Diseño de barreras de seguridad por defecto para los equipos de ingeniería",
+        "Alineación de los controles de plataforma con las necesidades de privacidad y cumplimiento",
+        "Coordinación de la función de seguridad entre aplicaciones, operaciones y plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión del riesgo de seguridad de terceros y de la cadena de suministro",
+        "Familiaridad con métricas de seguridad que siguen la cobertura de los controles",
+        "Comprensión del diseño de infraestructura resiliente y defendible"
+      ],
+      "indicators": [
+        "Da forma a la seguridad de plataforma en la organización",
+        "Lidera barreras de seguridad que adoptan los equipos de ingeniería",
+        "Se relaciona con la dirección sobre la postura de seguridad"
+      ]
+    },
+    "SEC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo de la transformación de la seguridad de plataforma en la empresa",
+        "Definición de los estándares de arquitectura de seguridad y su gobierno",
+        "Establecimiento de estándares de identidad y cifrado entre unidades de negocio",
+        "Definición de la gestión de vulnerabilidades y configuración a escala empresarial",
+        "Uso de métricas de seguridad para impulsar la cobertura de controles y la reducción de riesgo",
+        "Alineación de la seguridad de plataforma con las obligaciones regulatorias",
+        "Definición de cómo colaboran las funciones de plataforma, aplicaciones y operaciones"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de los equilibrios de inversión en seguridad en la empresa",
+        "Contribución a los estándares internos y las arquitecturas de referencia de seguridad",
+        "Comprensión de las prácticas emergentes de seguridad de plataforma"
+      ],
+      "indicators": [
+        "Establece la estrategia de seguridad de plataforma de la empresa",
+        "Reconocido internamente como referente en seguridad de plataforma",
+        "Asesora a la dirección en las decisiones de arquitectura de seguridad"
+      ]
+    },
+    "SEC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición de una estrategia plurianual de seguridad de plataforma",
+        "Posicionamiento de la arquitectura de seguridad como facilitador de una entrega segura",
+        "Establecimiento de un centro de excelencia de ingeniería de seguridad",
+        "Definición del gobierno de seguridad y los marcos de control en toda la empresa",
+        "Evaluación del riesgo de seguridad de plataforma en adquisiciones e integraciones",
+        "Justificación de la inversión en seguridad mediante reducción de riesgo medible",
+        "Guía de las decisiones de herramientas y proveedores de seguridad de la plataforma"
+      ],
+      "complementaryCompetencies": [
+        "Definición de arquitecturas de referencia de seguridad reutilizadas en toda la empresa",
+        "Comprensión del panorama de herramientas y proveedores de seguridad",
+        "Comprensión de la comparación de seguridad frente al sector"
+      ],
+      "indicators": [
+        "Es responsable de la estrategia plurianual de seguridad de plataforma",
+        "Representa a la empresa en materia de seguridad en foros externos",
+        "Influye en la práctica de la seguridad de plataforma más allá de la organización"
+      ]
+    },
+    "SEC-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Responsabilidad ejecutiva sobre la seguridad y su alineación con la estrategia de negocio",
+        "Definición de la postura de seguridad de la empresa y su marco de control",
+        "Rendición de cuentas por el riesgo de seguridad y las métricas que lo comunican",
+        "Liderazgo de organizaciones de seguridad que abarcan plataforma, aplicaciones y operaciones",
+        "Gestión del presupuesto de seguridad y su retorno",
+        "Comunicación del riesgo de seguridad a la dirección y al consejo",
+        "Definición de la estrategia corporativa de identidad y protección de datos"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en la práctica de la seguridad del sector en su conjunto",
+        "Comprensión de la transferencia del riesgo cibernético y los seguros",
+        "Comprensión de la inversión a largo plazo en la función de seguridad"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de seguridad de la empresa",
+        "Responsable de la postura de seguridad corporativa",
+        "Reconocido como líder en ingeniería de seguridad"
+      ]
+    }
+  }
+}

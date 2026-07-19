@@ -1,0 +1,258 @@
+{
+  "role": "Integration Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "INT-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of systems integration",
+        "Elementary understanding of APIs and web services",
+        "Ability for simple data mapping",
+        "Basic knowledge of interchange formats",
+        "Capability to use basic ETL tools",
+        "Understanding of basic middleware",
+        "Documentation of interfaces",
+        "Elementary knowledge of integration protocols"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with REST/SOAP",
+        "Knowledge of JSON/XML transformations",
+        "Basic understanding of message queues"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Implements simple integrations",
+        "Is learning integration patterns"
+      ]
+    },
+    "INT-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to develop connectors and adapters",
+        "Implementation of complex data transformation",
+        "Practical knowledge of ESB/iPaaS",
+        "Ability for error handling in integrations",
+        "Understanding of transaction management",
+        "Real-time integration capability",
+        "Knowledge of batch processing",
+        "Ability for integration monitoring"
+      ],
+      "complementaryCompetencies": [
+        "Development of API orchestration",
+        "Knowledge of event streaming",
+        "Understanding of data synchronization"
+      ],
+      "indicators": [
+        "Develops integrations with supervision",
+        "Implements data pipelines",
+        "Maintains existing connectors"
+      ]
+    },
+    "INT-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of enterprise integration architectures",
+        "Implementation of advanced integration patterns",
+        "Mastery of microservices integration",
+        "Hybrid integration platforms capability",
+        "Ability for master data management",
+        "Deep knowledge of data governance",
+        "Implementation of API management",
+        "Design of integration security"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of blockchain integration",
+        "Ability for IoT integration",
+        "Understanding of cloud-to-cloud integration"
+      ],
+      "indicators": [
+        "Leads integration projects",
+        "Designs enterprise solutions",
+        "Mentors integration engineers"
+      ]
+    },
+    "INT-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of integration platforms",
+        "Design of interoperability strategies",
+        "Implementation of federated integration",
+        "Mastery of semantic integration",
+        "Integration at scale capability",
+        "Deep knowledge of data fabric",
+        "Ability for integration governance",
+        "Leadership in integration standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience in B2B integration",
+        "Knowledge of industry standards",
+        "Implementation of AI-driven integration"
+      ],
+      "indicators": [
+        "Defines integration strategy",
+        "Leads integration teams",
+        "Is a reference in interoperability"
+      ]
+    },
+    "INT-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in integration engineering",
+        "Design of integration excellence programs",
+        "Management of integration teams",
+        "Definition of integration strategy",
+        "Integration economics capability",
+        "Implementation of integration factories",
+        "Mastery of vendor management",
+        "Promotion of integration engineering standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience in M&A integration",
+        "Knowledge of regulatory integration",
+        "Management of integration partners"
+      ],
+      "indicators": [
+        "Manages integration teams",
+        "Defines interoperability vision",
+        "Represents integration to executives"
+      ]
+    },
+    "INT-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of organizational integration",
+        "Connected ecosystem strategy",
+        "Management of integration investments",
+        "Definition of interoperability strategy",
+        "Leadership in integration transformation",
+        "Implementation of autonomous integration",
+        "Adoption of emerging integration architectures",
+        "Management of global integration"
+      ],
+      "complementaryCompetencies": [
+        "Experience in digital ecosystems",
+        "Knowledge of API economy",
+        "Leadership in integration consortiums"
+      ],
+      "indicators": [
+        "Directs integration department (20+ people)",
+        "Participates in enterprise architecture",
+        "Defines connectivity investments"
+      ]
+    },
+    "INT-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in integration excellence",
+        "Design of global integration strategies",
+        "Transformation via seamless connectivity",
+        "Management of integration at large enterprise scale",
+        "Definition of enterprise interoperability reference models",
+        "Definition of future of connected systems",
+        "Communication of integration strategy to executive leadership",
+        "Influence on industry standards"
+      ],
+      "complementaryCompetencies": [
+        "Management of ecosystem integration",
+        "Experience in platform economies",
+        "Leadership in interoperability standards"
+      ],
+      "indicators": [
+        "Reports to CTO/CIO",
+        "Manages integration organization (50+ people)",
+        "Defines corporate connectivity strategy"
+      ]
+    },
+    "INT-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of total hyperconnectivity",
+        "Leadership in integration revolution",
+        "Design of unified, low-friction integration architectures",
+        "Management of global integration platforms",
+        "Research into emerging connectivity and API technologies",
+        "Definition of organization-wide integration standards",
+        "Definition of long-term integration technology direction",
+        "Influence on connected economy"
+      ],
+      "complementaryCompetencies": [
+        "Experience as Chief Integration in giants",
+        "Advisory in integration platforms",
+        "Thought leadership in interoperability"
+      ],
+      "indicators": [
+        "Is part of technical committee",
+        "Defines future of integration",
+        "Is world leader in systems connectivity"
+      ]
+    },
+    "INT-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in future of universal interconnection",
+        "Transformation of systems via perfect integration",
+        "Definition of next-generation distributed integration architectures",
+        "Definition of seamless reality",
+        "Advancement of enterprise integration architectures",
+        "Promotion of open integration and event-mesh standards",
+        "Architect of interconnected reality",
+        "Influence on total connectivity evolution"
+      ],
+      "complementaryCompetencies": [
+        "Creator of integration revolutions",
+        "Recognition as interoperability master",
+        "Influence on future of unified systems"
+      ],
+      "indicators": [
+        "Is a recognized authority in integration engineering",
+        "Defines future of universal connectivity",
+        "Is world authority in integration"
+      ]
+    }
+  }
+}

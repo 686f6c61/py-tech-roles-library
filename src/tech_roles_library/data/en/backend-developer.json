@@ -1,0 +1,258 @@
+{
+  "role": "Backend Developer",
+  "category": "Software Engineering",
+  "levels": {
+    "BE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of client-server architecture",
+        "Elementary knowledge of HTTP/HTTPS protocols and REST methods",
+        "Ability to create simple endpoints with supervision",
+        "Basic understanding of relational databases (tables, simple queries)",
+        "Ability to write functional code following examples",
+        "Elementary knowledge of debugging with logs",
+        "Basic understanding of authentication and authorization",
+        "Ability to use basic development tools"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of command line",
+        "Familiarity with common IDEs",
+        "Elementary understanding of JSON and XML"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can complete simple tasks with detailed guidance",
+        "Needs 3-6 months to be productive"
+      ]
+    },
+    "BE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement complete CRUDs with minimal supervision",
+        "Ability to design normalized database schemas",
+        "Practical knowledge of ORM/ODM and their limitations",
+        "Understanding of indexes and basic query optimization",
+        "Ability to implement data validation and error handling",
+        "Ability to work with basic queue and messaging systems",
+        "Knowledge of MVC patterns and layered architecture",
+        "Understanding of unit and integration testing"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of Docker",
+        "Ability to use profiling tools",
+        "Basic understanding of CI/CD"
+      ],
+      "indicators": [
+        "Can develop simple features independently",
+        "Resolves medium complexity bugs",
+        "Actively participates in code reviews"
+      ]
+    },
+    "BE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of RESTful API design and best practices",
+        "Ability to implement robust authentication and authorization (JWT, OAuth)",
+        "Ability to optimize application and query performance",
+        "Deep knowledge of transactions and data consistency",
+        "Ability to implement caching at multiple levels",
+        "Understanding of design patterns and their practical application",
+        "Ability to work with multiple data sources simultaneously",
+        "Knowledge of structured logging and monitoring"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of GraphQL",
+        "Ability to implement websockets",
+        "Basic understanding of microservices"
+      ],
+      "indicators": [
+        "Completes complex features with minimal supervision",
+        "Identifies and resolves performance issues",
+        "Actively contributes to technical design"
+      ]
+    },
+    "BE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design distributed systems and microservices",
+        "Mastery of event-driven architecture and messaging patterns",
+        "Ability to implement idempotency and failure handling",
+        "Deep knowledge of concurrency and parallelism",
+        "Ability to design high-availability systems",
+        "Mastery of advanced security (encryption, hashing, salt)",
+        "Ability to implement rate limiting and throttling",
+        "Knowledge of distributed tracing and observability"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of Kubernetes and orchestration",
+        "Ability to implement CQRS and Event Sourcing",
+        "Understanding of Domain-Driven Design"
+      ],
+      "indicators": [
+        "Leads development of critical components",
+        "Effectively mentors junior developers",
+        "Makes informed architectural decisions"
+      ]
+    },
+    "BE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in cloud-native and serverless architectures",
+        "Ability to design scalable multi-tenant systems",
+        "Mastery of large-scale database optimization",
+        "Ability to implement sharding and partitioning",
+        "Deep knowledge of CAP theorem and eventual consistency",
+        "Ability to design versioned and backward-compatible public APIs",
+        "Expertise in legacy system migration",
+        "Mastery of Service Mesh and API Gateways"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of Machine Learning pipelines",
+        "Ability to work with Big Data",
+        "Understanding of Blockchain and distributed systems"
+      ],
+      "indicators": [
+        "Designs architectures for complete products",
+        "Defines team technical standards",
+        "Leads cross-team technical initiatives"
+      ]
+    },
+    "BE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise backend platforms",
+        "Expertise in infrastructure cost optimization",
+        "Mastery of disaster recovery and backup strategies",
+        "Ability to design globally distributed systems",
+        "Deep knowledge of compliance and regulations (GDPR, PCI)",
+        "Ability to lead massive architecture migrations",
+        "Expertise in platform engineering and developer experience",
+        "Mastery of chaos engineering and resilience"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of edge computing",
+        "Ability to design IoT systems",
+        "Understanding of quantum computing readiness"
+      ],
+      "indicators": [
+        "Architects solutions for multiple teams",
+        "Influences organizational technical decisions",
+        "Represents the company technically"
+      ]
+    },
+    "BE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership in digital transformations",
+        "Ability to design architectures for large-scale enterprise systems",
+        "Expertise in legacy system modernization strategies",
+        "Mastery of multi-cloud and cloud-agnostic architectures",
+        "Ability to define multi-year technical roadmaps",
+        "Deep knowledge of software economics and TCO",
+        "Expertise in building and scaling engineering teams",
+        "Ability to influence the industry with innovations"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent innovations",
+        "Ability to technically evaluate startups",
+        "Knowledge of technical venture capital"
+      ],
+      "indicators": [
+        "Defines organizational technical strategy",
+        "Recognized as thought leader",
+        "Speaker at international conferences"
+      ]
+    },
+    "BE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of industry technological evolution",
+        "Ability to lead the technical evolution of the backend platform",
+        "Expertise in technical due diligence and M&A",
+        "Mastery of organizational transformation through technology",
+        "Ability to build and lead engineering organizations",
+        "Deep knowledge of business impact of technical decisions",
+        "Expertise in executive stakeholder relations",
+        "Ability to define engineering culture"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence industry policies",
+        "Ability to create technology spin-offs",
+        "Knowledge of technology investment"
+      ],
+      "indicators": [
+        "Impacts the technical direction of the industry",
+        "Advisor to C-suite and boards",
+        "Mentor to senior technical leaders"
+      ]
+    },
+    "BE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in technology",
+        "Ability to align technology with business strategy",
+        "Expertise in managing multi-million dollar technology budgets",
+        "Mastery of investor relations and board management",
+        "Ability to perform technology M&A and post-merger integration",
+        "Deep knowledge of technology risk management",
+        "Expertise in building competitive advantages through technology",
+        "Ability to drive enterprise digital transformation"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence technology regulation",
+        "Ability to create technology ecosystems",
+        "Knowledge of private equity and exits"
+      ],
+      "indicators": [
+        "Defines and executes enterprise technology vision",
+        "Responsible for technology P&L",
+        "Public face of the company in technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "role": "AI Ethics & Governance Specialist",
+  "category": "AI/ML",
+  "levels": {
+    "AIEGS-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Understanding of fairness, transparency and accountability principles in AI",
+        "Familiarity with the risk categories of the EU AI Act",
+        "Collection of model and dataset documentation under supervision",
+        "Assisted computation of fairness metrics such as demographic parity",
+        "Reading and interpreting model cards and dataset datasheets",
+        "Preparation of registry entries for an AI system inventory",
+        "Documentation of ethical issues found during reviews"
+      ],
+      "complementaryCompetencies": [
+        "Notions of statistics applied to bias measurement",
+        "Familiarity with spreadsheets and structured documentation tools",
+        "Basic knowledge of the General Data Protection Regulation"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Completes guided documentation and bias-measurement tasks",
+        "Needs 3-6 months to become productive"
+      ]
+    },
+    "AIEGS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Measurement of bias with group metrics such as equal opportunity and equalized odds",
+        "Drafting of model cards and datasheets following established templates",
+        "Application of explainability tools such as SHAP and LIME on existing models",
+        "Preparation of preliminary algorithmic impact assessments",
+        "Verification of compliance against regulatory checklists",
+        "Analysis of training data representativeness across subgroups",
+        "Documentation of the decision traceability of an AI system"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of the NIST AI Risk Management Framework",
+        "Familiarity with fairness libraries such as Fairlearn or AIF360",
+        "Understanding of EU AI Act roles: provider and deployer"
+      ],
+      "indicators": [
+        "Develops bias assessments and documentation with occasional supervision",
+        "Resolves medium-complexity questions in model audits",
+        "Actively participates in system and documentation reviews"
+      ]
+    },
+    "AIEGS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of end-to-end bias audits on production models",
+        "Selection of fairness metrics appropriate to the context and protected groups",
+        "Application of bias mitigation techniques before, during and after training",
+        "Preparation of algorithmic impact assessments compliant with the EU AI Act",
+        "Analysis of global and local explainability to justify model decisions",
+        "Definition of acceptance thresholds and blocking criteria for a system",
+        "Complete documentation of the model lifecycle for regulatory traceability"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of privacy techniques such as anonymization and differential privacy",
+        "Familiarity with evaluating language models for toxicity and bias",
+        "Mentoring of entry-level colleagues"
+      ],
+      "indicators": [
+        "Completes complex fairness audits with minimal supervision",
+        "Identifies ethical risks and proposes concrete mitigations",
+        "Actively contributes to the design of governance processes"
+      ]
+    },
+    "AIEGS-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Design of model governance frameworks covering the full lifecycle",
+        "Definition of the processes of an AI ethics review board",
+        "Implementation of EU AI Act compliance for high-risk systems",
+        "Design of continuous fairness and model drift monitoring channels",
+        "Integration of governance gates into the model development lifecycle",
+        "Definition of model and dataset documentation standards",
+        "Coordination of bias audits across data science and product teams",
+        "Translation of regulatory requirements into verifiable technical controls"
+      ],
+      "complementaryCompetencies": [
+        "Experience applying the NIST AI Risk Management Framework",
+        "Knowledge of data governance and dataset lineage",
+        "Familiarity with third-party and vendor system audits"
+      ],
+      "indicators": [
+        "Leads the design of critical governance processes",
+        "Mentors junior specialists and reviews their audits",
+        "Makes informed decisions on controls and mitigations"
+      ]
+    },
+    "AIEGS-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Design of an AI governance program for an entire business unit",
+        "Definition of an AI risk management framework aligned with the NIST standard",
+        "Establishment of a review board with approval and escalation criteria",
+        "Definition of fairness and transparency metrics as organizational standards",
+        "Design of independent audits and external review processes",
+        "Governance of the data lifecycle compliant with GDPR and data minimization",
+        "Definition of the response to ethical incidents and algorithmic harms",
+        "Integration of impact assessment into deployment decisions"
+      ],
+      "complementaryCompetencies": [
+        "Comparative knowledge of international AI regulatory frameworks",
+        "Design of responsible AI training for technical and product teams",
+        "Definition of transparency agreements with affected users"
+      ],
+      "indicators": [
+        "Designs the AI governance framework of complete products",
+        "Defines the team's fairness and transparency standards",
+        "Leads governance initiatives spanning multiple teams"
+      ]
+    },
+    "AIEGS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of the AI governance program serving multiple teams",
+        "Definition of accountability frameworks for responsible AI deployment",
+        "Technical leadership in continuous fairness and compliance monitoring",
+        "Design of the EU AI Act conformity strategy across the portfolio",
+        "Governance of third-party model risk and the AI supply chain",
+        "Direction of relationships with regulators and external auditors",
+        "Design of the traceability and evidence infrastructure for inspections",
+        "Establishment of the company's transparency and explainability policy"
+      ],
+      "complementaryCompetencies": [
+        "Evaluation of governance and model-auditing tools",
+        "Knowledge of emerging AI certification standards",
+        "Representation of the company in responsible AI forums"
+      ],
+      "indicators": [
+        "Designs AI governance for multiple teams at once",
+        "Influences organizational decisions on AI risk",
+        "Is the company's reference in AI ethics and governance"
+      ]
+    },
+    "AIEGS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definition of the direction of AI governance across the organization",
+        "Design of governance frameworks adaptable to different regulatory regimes",
+        "Development of multi-year compliance and responsible AI roadmaps",
+        "Strategies to scale governance to new products and jurisdictions",
+        "Definition of the cost and return of AI risk controls",
+        "Direction of the balance between model innovation and regulatory obligations",
+        "Building and growing AI ethics and governance teams",
+        "Anticipation of the impact of new regulation on the AI system portfolio"
+      ],
+      "complementaryCompetencies": [
+        "Participation in public consultations on AI regulation",
+        "Publication of responsible AI guidelines or standards",
+        "Knowledge of trends in algorithmic auditing and certification"
+      ],
+      "indicators": [
+        "Defines the organization's AI governance strategy",
+        "Is recognized as a reference in AI ethics and governance",
+        "Speaks at industry conferences"
+      ]
+    },
+    "AIEGS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the evolution of AI governance and regulation",
+        "Definition of the role of responsible AI in the company's strategy",
+        "Ethical technical due diligence of products, models and acquisitions",
+        "Design of the governance framework that supports multiple business lines",
+        "Direction of the corporate response to emerging AI regulation",
+        "Definition of responsible AI principles against social harms and discrimination",
+        "Building and leading AI ethics and governance organizations",
+        "Analysis of the business and reputational impact of governance decisions"
+      ],
+      "complementaryCompetencies": [
+        "Influence on public policy and AI regulation",
+        "Advisory to leadership on ethical and regulatory AI risk",
+        "Collaboration with academia on responsible AI"
+      ],
+      "indicators": [
+        "Influences the direction of AI governance in the industry",
+        "Advises executive leadership on AI risk",
+        "Mentors leaders in ethics and governance"
+      ]
+    },
+    "AIEGS-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership of the company's responsible AI strategy",
+        "Alignment of AI governance with business and risk strategy",
+        "Direction of investment in governance, compliance and specialized talent",
+        "Definition of the company's stance on global AI regulation",
+        "Management of the balance between innovation, public trust and legal obligations",
+        "Accountability to the board for the ethical and regulatory risk of AI",
+        "Governance of the reputational and legal risk of large-scale AI systems",
+        "Definition of the culture of responsibility and accountability in AI"
+      ],
+      "complementaryCompetencies": [
+        "Influence on international regulation and AI standards",
+        "Direction of partnerships around responsible AI and trust",
+        "Public representation of the company on AI ethics"
+      ],
+      "indicators": [
+        "Defines and executes the company's responsible AI vision",
+        "Is accountable to the board for AI risk",
+        "Is the public face of the company in AI ethics and governance"
+      ]
+    }
+  }
+}

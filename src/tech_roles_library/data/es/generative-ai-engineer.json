@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de IA Generativa",
+  "category": "IA/ML",
+  "levels": {
+    "GENAIE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de cómo un modelo de lenguaje genera texto token a token",
+        "Capacidad de invocar un modelo de lenguaje alojado a través de su API y leer la respuesta",
+        "Conocimiento elemental de escritura de prompts sin ejemplos y con pocos ejemplos",
+        "Habilidad para ejecutar un modelo de difusión de texto a imagen desde un cuaderno existente",
+        "Comprensión básica de los parámetros de muestreo temperatura, top-p y número máximo de tokens",
+        "Capacidad de rellenar las variables de una plantilla de prompt bajo supervisión",
+        "Conocimiento elemental de lectura de registros de generación para detectar fallos evidentes",
+        "Comprensión básica de qué es un token y de cómo influye en la facturación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de Python y de cuadernos Jupyter",
+        "Familiaridad con APIs REST y cargas JSON",
+        "Comprensión elemental de variables de entorno para claves de API"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede ejecutar scripts de generación existentes con guía detallada",
+        "Necesita 3-6 meses para ser productivo"
+      ]
+    },
+    "GENAIE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de construir un prototipo de generación aumentada por recuperación sobre un conjunto de documentos",
+        "Conocimiento práctico de troceado de documentos y creación de incrustaciones para recuperación",
+        "Habilidad para diseñar prompts con pocos ejemplos, instrucciones claras y formato de salida",
+        "Comprensión de las plantillas de prompt y de la diferencia entre mensajes de sistema y de usuario",
+        "Capacidad de ejecutar flujos de difusión de texto a imagen o de imagen a imagen con parámetros propios",
+        "Conocimiento de medición de la calidad de salida con métricas simples basadas en referencia",
+        "Capacidad de manejar errores de API, límites de tasa y reintentos en el código de generación",
+        "Comprensión de las ventanas de contexto y de cómo ajustar el prompt a los límites de tokens"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de bases de datos vectoriales como FAISS o pgvector",
+        "Familiaridad con las bibliotecas de Hugging Face para cargar modelos",
+        "Comprensión básica de salida estructurada y validación de esquemas JSON"
+      ],
+      "indicators": [
+        "Puede construir funcionalidades de generación simples de forma independiente",
+        "Resuelve problemas de complejidad media en prompts y recuperación",
+        "Participa activamente en revisiones de código y prompts"
+      ]
+    },
+    "GENAIE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Capacidad de construir flujos RAG de producción con reordenación y citado de fuentes",
+        "Capacidad de ajustar un modelo con LoRA sobre un conjunto de datos específico de la tarea",
+        "Conocimiento profundo de técnicas de prompts como la cadena de razonamiento y la salida estructurada",
+        "Habilidad para diseñar conjuntos de evaluación que miden la fundamentación y la relevancia de la respuesta",
+        "Comprensión de los mecanismos de protección que filtran generaciones inseguras o fuera de tema",
+        "Capacidad de controlar el coste de inferencia eligiendo el tamaño del modelo y cacheando respuestas",
+        "Conocimiento de ControlNet y de técnicas de condicionamiento para la generación de imágenes con difusión",
+        "Capacidad de instrumentar flujos de generación con trazado y contabilidad de tokens"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de los riesgos de inyección de prompts y del saneamiento de entradas",
+        "Habilidad para construir flujos de revisión humana del contenido generado",
+        "Comprensión básica de la cuantización para servir modelos de pesos abiertos"
+      ],
+      "indicators": [
+        "Completa funcionalidades complejas de generación con supervisión mínima",
+        "Identifica y resuelve fallos en recuperación y en creación de prompts",
+        "Contribuye activamente al diseño técnico de sistemas de generación"
+      ]
+    },
+    "GENAIE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas RAG completas con búsqueda híbrida y reescritura de consultas",
+        "Dominio de las estrategias de ajuste fino, incluidos los compromisos entre LoRA, QLoRA y ajuste completo",
+        "Habilidad para construir conjuntos de evaluación automática que puntúan calidad, toxicidad y fundamentación",
+        "Conocimiento profundo del servicio de modelos de pesos abiertos con cuantización y procesamiento por lotes",
+        "Capacidad de diseñar marcos de seguridad de contenido que cubren la moderación de entrada y de salida",
+        "Dominio de la optimización del coste de inferencia mediante enrutado de modelos y caché",
+        "Capacidad de ajustar modelos de difusión con técnicas como DreamBooth y LoRA",
+        "Conocimiento de la curación de conjuntos de datos y de la generación de datos sintéticos para entrenamiento"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la destilación para producir modelos más pequeños específicos de la tarea",
+        "Habilidad para diseñar sistemas de gestión y versionado de prompts",
+        "Comprensión de las marcas de agua y de la procedencia del contenido generado"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de componentes críticos de generación",
+        "Mentoriza eficazmente a ingenieros junior",
+        "Toma decisiones arquitecturales informadas sobre el diseño de generación"
+      ]
+    },
+    "GENAIE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en el diseño de plataformas de IA generativa de producción que dan servicio a muchos casos de uso",
+        "Capacidad de arquitectar un servicio escalable con autoescalado de GPU y procesamiento continuo por lotes",
+        "Dominio del desarrollo guiado por evaluación con bancos de pruebas fuera de línea y pruebas A/B en línea",
+        "Conocimiento profundo del equipo rojo aplicado a sistemas generativos para detectar fugas y salidas inseguras",
+        "Capacidad de diseñar flujos de ajuste fino y de alineamiento, incluido el ajuste por preferencias",
+        "Experiencia en la optimización del equilibrio entre calidad, coste y latencia a gran escala",
+        "Capacidad de construir observabilidad que capture prompts, recuperaciones y calidad de la generación",
+        "Dominio de la gobernanza de la seguridad de contenido, incluidas la definición de políticas y el escalado"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento del aprendizaje por refuerzo con retroalimentación humana y de la optimización directa de preferencias",
+        "Habilidad para diseñar bancos de pruebas de generación específicos del dominio desde cero",
+        "Comprensión de las cuestiones de licencia y derechos de autor de los datos de entrenamiento y de las salidas"
+      ],
+      "indicators": [
+        "Diseña arquitecturas de generación para productos completos",
+        "Define los estándares técnicos del equipo para el desarrollo de IA generativa",
+        "Lidera iniciativas entre equipos sobre infraestructura de generación"
+      ]
+    },
+    "GENAIE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas de IA generativa empresariales compartidas por muchos equipos",
+        "Experiencia en marcos de gobernanza para el despliegue seguro de modelos generativos",
+        "Dominio de la infraestructura de evaluación y de la supervisión continua de calidad y seguridad",
+        "Capacidad de liderar decisiones entre construir, ajustar o comprar modelos fundacionales",
+        "Conocimiento profundo de amenazas de seguridad específicas de los sistemas generativos, como la fuga de datos",
+        "Capacidad de liderar la adopción de funcionalidades generativas en los productos existentes",
+        "Experiencia en la gobernanza de costes de inferencia y entrenamiento a gran escala",
+        "Dominio de la ingeniería de fiabilidad para servicios de generación no deterministas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas de modelos emergentes y de ecosistemas de pesos abiertos",
+        "Habilidad para diseñar catálogos reutilizables de prompts y evaluaciones para la organización",
+        "Comprensión del despliegue privado y en instalaciones propias de modelos generativos"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones de generación para múltiples equipos",
+        "Influye en las decisiones técnicas organizacionales sobre IA generativa",
+        "Representa a la empresa técnicamente en el ámbito de la IA generativa"
+      ]
+    },
+    "GENAIE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la adopción de IA generativa en toda la organización",
+        "Capacidad de diseñar arquitecturas de generación resistentes al cambio de modelo y de proveedor",
+        "Experiencia en estrategias para escalar con seguridad funcionalidades generativas a millones de usuarios",
+        "Dominio de abstracciones agnósticas al modelo entre modelos propietarios y de pesos abiertos",
+        "Capacidad de definir hojas de ruta de varios años para capacidades de IA generativa",
+        "Conocimiento profundo de la economía y del coste total de los sistemas generativos",
+        "Experiencia en la construcción y el escalamiento de equipos de ingeniería de IA generativa",
+        "Capacidad de fijar estándares de seguridad de contenido y de generación responsable en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Habilidad para evaluar técnicamente proveedores de IA generativa y modelos de pesos abiertos",
+        "Conocimiento de las tendencias de investigación en modelado generativo y alineamiento",
+        "Capacidad de dar forma a la política interna sobre el uso aceptable de la IA generativa"
+      ],
+      "indicators": [
+        "Define la estrategia técnica organizacional para la IA generativa",
+        "Reconocido como autoridad en IA generativa aplicada",
+        "Ponente en conferencias del sector sobre sistemas generativos"
+      ]
+    },
+    "GENAIE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Capacidad de fijar la dirección técnica a largo plazo de la IA generativa en la organización",
+        "Experiencia en alinear la inversión en IA generativa con las prioridades de producto y de seguridad",
+        "Dominio de la diligencia debida técnica para productos y adquisiciones de IA generativa",
+        "Capacidad de anticipar cambios en los modelos fundacionales y adaptar la estrategia de arquitectura",
+        "Conocimiento profundo del panorama de riesgo y cumplimiento del contenido generado",
+        "Capacidad de construir y liderar organizaciones de ingeniería de IA generativa",
+        "Experiencia en la definición de prácticas de generación responsable a escala organizacional",
+        "Capacidad de guiar el equilibrio entre el entrenamiento propio y la dependencia de modelos fundacionales"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de informar los estándares del sector sobre procedencia y seguridad del contenido",
+        "Conocimiento del panorama de proveedores de modelos fundacionales y de hardware",
+        "Capacidad de asesorar a la dirección sobre el riesgo y la oportunidad de la IA generativa"
+      ],
+      "indicators": [
+        "Da forma a la dirección técnica de la IA generativa en la organización",
+        "Asesora a la alta dirección sobre la estrategia y el riesgo de la IA generativa",
+        "Mentoriza a líderes técnicos senior en IA generativa"
+      ]
+    },
+    "GENAIE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Capacidad de definir la visión técnica y la postura de seguridad de la IA generativa de la organización",
+        "Experiencia en alinear la estrategia de IA generativa con la dirección de producto y la regulación",
+        "Dominio de la gobernanza de la inversión en entrenamiento e inferencia a gran escala para la generación",
+        "Capacidad de dirigir el abastecimiento de modelos fundacionales entre opciones propietarias y de pesos abiertos",
+        "Conocimiento profundo de la gestión del riesgo legal, de seguridad y de reputación del contenido generado",
+        "Capacidad de construir la capacidad organizacional para una IA generativa responsable a escala",
+        "Experiencia en fijar estándares de procedencia, marca de agua y divulgación del contenido",
+        "Capacidad de sostener la ventaja competitiva mediante la IA generativa aplicada"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en la regulación y los estándares de la IA generativa",
+        "Conocimiento del ecosistema de proveedores, hardware y talento de la IA generativa",
+        "Capacidad de representar a la organización en materia de seguridad de la IA generativa"
+      ],
+      "indicators": [
+        "Fija y ejecuta la visión técnica de la IA generativa",
+        "Responsable de la seguridad y la calidad de la IA generativa en los productos",
+        "Voz técnica pública de la organización en IA generativa"
+      ]
+    }
+  }
+}

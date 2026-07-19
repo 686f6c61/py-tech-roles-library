@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Experiencia de Desarrollador",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "DEVX-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Capacidad de escribir scripts de consola que automaticen tareas repetitivas del desarrollador",
+        "Conocimiento elemental de la configuración del entorno de desarrollo local",
+        "Capacidad de escribir y mejorar documentación interna de instrucciones",
+        "Comprensión básica de las herramientas de compilación y su configuración",
+        "Conocimiento elemental de los flujos de control de versiones",
+        "Capacidad de reproducir y documentar problemas de configuración del desarrollador",
+        "Comprensión de los fundamentos de usabilidad de una interfaz de línea de comandos",
+        "Conocimiento básico de la medición de tiempos de compilación y de pruebas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con un lenguaje de scripting (Python, Bash)",
+        "Conocimiento básico de entornos de desarrollo en contenedores",
+        "Comprensión elemental de los conductos de integración continua"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Mejora documentación y scripts simples",
+        "Necesita 6-12 meses de mentoría"
+      ]
+    },
+    "DEVX-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de construir herramientas de línea de comandos internas para flujos de trabajo comunes",
+        "Capacidad de crear plantillas y generadores de andamiaje de proyectos",
+        "Conocimiento práctico de entornos locales reproducibles (devcontainers, fundamentos de Nix)",
+        "Comprensión del cacheo de compilación para reducir los tiempos de compilación",
+        "Capacidad de instrumentar y medir los tiempos del ciclo de retroalimentación del desarrollador",
+        "Conocimiento de la redacción de documentación interna orientada a tareas",
+        "Comprensión de las listas de comprobación de incorporación de nuevos ingenieros",
+        "Capacidad de recoger los puntos de fricción del desarrollador mediante encuestas ligeras"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de las métricas DORA (tiempo de entrega, frecuencia de despliegue)",
+        "Familiaridad con hooks de precommit y automatización de linting",
+        "Comprensión de la ergonomía de la gestión de dependencias"
+      ],
+      "indicators": [
+        "Construye herramientas internas con supervisión",
+        "Mejora la documentación de incorporación",
+        "Mide métricas básicas del ciclo de retroalimentación"
+      ]
+    },
+    "DEVX-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio del diseño de interfaces de línea de comandos para herramientas internas de desarrollo",
+        "Capacidad de reducir los tiempos de compilación mediante cacheo y compilación incremental",
+        "Capacidad de diseñar documentación de rutas guía para tareas comunes",
+        "Conocimiento profundo de la reproducibilidad del entorno local entre equipos",
+        "Capacidad de instrumentar las métricas DORA y SPACE del ciclo de desarrollo",
+        "Comprensión del diseño de encuestas al desarrollador y el análisis de fricción",
+        "Capacidad de diseñar flujos de incorporación que reduzcan el tiempo hasta la primera contribución",
+        "Conocimiento de documentación como código y bases de conocimiento internas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de optimización de suites de pruebas y detección de pruebas inestables",
+        "Capacidad de construir integraciones para editores y entornos de desarrollo",
+        "Comprensión de la retroalimentación de ciclo interno frente a ciclo externo"
+      ],
+      "indicators": [
+        "Diseña herramientas internas de forma autónoma",
+        "Reduce los tiempos de compilación y retroalimentación de forma medible",
+        "Define documentación de rutas guía"
+      ]
+    },
+    "DEVX-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar conjuntos de herramientas internas de desarrollo (CLI, generadores)",
+        "Dominio de la optimización del sistema de compilación a escala de repositorio (herramientas de monorepo)",
+        "Capacidad de diseñar rutas guía que aumenten la adopción de forma medible",
+        "Conocimiento profundo de los marcos DORA y SPACE aplicados a la mejora del equipo",
+        "Capacidad de conducir investigación de experiencia del desarrollador combinando encuestas y métricas",
+        "Dominio de programas de incorporación que reducen el tiempo de puesta al día",
+        "Capacidad de reducir la carga cognitiva en los flujos de trabajo del desarrollador",
+        "Conocimiento de la estrategia de documentación para organizaciones de ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la ergonomía de los entornos de desarrollo remotos",
+        "Capacidad de diseñar telemetría de herramientas y paneles de adopción",
+        "Comprensión de la gestión del cambio en los despliegues de herramientas"
+      ],
+      "indicators": [
+        "Define la estrategia de experiencia del desarrollador para los equipos",
+        "Lidera iniciativas de reducción de fricción con impacto medido",
+        "Mentoriza a ingenieros de experiencia del desarrollador"
+      ]
+    },
+    "DEVX-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en estrategia de experiencia del desarrollador entre equipos de ingeniería",
+        "Capacidad de definir programas de medición de la productividad del desarrollador",
+        "Dominio de la optimización de la compilación y el ciclo de retroalimentación a escala",
+        "Capacidad de establecer la adopción de rutas guía como estándar organizativo",
+        "Conocimiento profundo del diseño e interpretación de programas DORA y SPACE",
+        "Capacidad de conducir investigación continua de experiencia del desarrollador a escala de organización",
+        "Experiencia en el diseño de programas de incorporación y puesta al día",
+        "Dominio de la estrategia de documentación interna y gestión del conocimiento"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la medición del sentimiento y la satisfacción del desarrollador",
+        "Capacidad de diseñar incentivos de adopción de herramientas",
+        "Comprensión de los compromisos de la estandarización de flujos de trabajo"
+      ],
+      "indicators": [
+        "Define la estrategia de experiencia del desarrollador para la organización",
+        "Lidera programas de medición de productividad",
+        "Fija estándares de rutas guía y documentación"
+      ]
+    },
+    "DEVX-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir la estrategia de experiencia del desarrollador empresarial",
+        "Experiencia en programas de productividad del desarrollador en toda la organización",
+        "Dominio de la medición y mejora de los ciclos de retroalimentación de ingeniería a escala",
+        "Capacidad de fijar estándares de herramientas internas y rutas guía",
+        "Conocimiento profundo de los marcos DORA, SPACE y de sentimiento del desarrollador",
+        "Capacidad de liderar programas de reducción de fricción en toda la organización",
+        "Experiencia en estrategia de incorporación y habilitación del desarrollador",
+        "Dominio de la estrategia de documentación y conocimiento para ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la economía de la experiencia del desarrollador (tiempo ahorrado, coste de la fricción)",
+        "Capacidad de definir las prioridades de inversión en herramientas",
+        "Comprensión de la cultura de ingeniería y el cambio de flujos de trabajo"
+      ],
+      "indicators": [
+        "Define la hoja de ruta de experiencia del desarrollador de varios años",
+        "Lidera la experiencia del desarrollador en toda la organización",
+        "Asesora a la dirección sobre productividad del desarrollador"
+      ]
+    },
+    "DEVX-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en experiencia del desarrollador en toda la empresa",
+        "Capacidad de definir estándares de medición de la productividad del desarrollador",
+        "Experiencia en estrategia de experiencia del desarrollador entre divisiones de ingeniería",
+        "Dominio de la optimización del ciclo de retroalimentación y la compilación a escala empresarial",
+        "Capacidad de definir estándares de rutas guía y herramientas para toda la empresa",
+        "Conocimiento profundo de la economía de la experiencia del desarrollador y el modelado de impacto",
+        "Experiencia en la construcción de equipos y prácticas de experiencia del desarrollador",
+        "Capacidad de influir en la cultura de ingeniería mediante herramientas y medición"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de establecer prácticas de investigación de experiencia del desarrollador",
+        "Capacidad de definir el gobierno de documentación y habilitación",
+        "Conocimiento de la comparación de productividad del desarrollador"
+      ],
+      "indicators": [
+        "Define la estrategia de experiencia del desarrollador empresarial",
+        "Reconocido como autoridad en productividad del desarrollador",
+        "Asesor en efectividad de ingeniería"
+      ]
+    },
+    "DEVX-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la evolución de la experiencia y la productividad del desarrollador",
+        "Capacidad de liderar la estrategia de experiencia del desarrollador para toda la empresa",
+        "Experiencia en diligencia debida y evaluación de la productividad del desarrollador",
+        "Dominio de marcos de medición que conectan la experiencia del desarrollador con los resultados de negocio",
+        "Capacidad de definir la dirección de las herramientas internas y las rutas guía",
+        "Conocimiento profundo de la economía de la experiencia del desarrollador a escala",
+        "Experiencia en alinear la experiencia del desarrollador con la estrategia de ingeniería",
+        "Capacidad de establecer estándares de experiencia del desarrollador en toda la organización"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de moldear la estrategia de inversión en herramientas internas",
+        "Capacidad de definir la dirección de la investigación de productividad del desarrollador",
+        "Conocimiento de herramientas y prácticas de desarrollo emergentes"
+      ],
+      "indicators": [
+        "Define la dirección de experiencia del desarrollador para toda la organización",
+        "Asesora a la dirección sobre productividad de ingeniería",
+        "Mentoriza a ingenieros de experiencia del desarrollador principales"
+      ]
+    },
+    "DEVX-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia de experiencia y productividad del desarrollador",
+        "Capacidad de alinear la experiencia del desarrollador con la estrategia de ingeniería y negocio",
+        "Experiencia en la gestión de la inversión en productividad del desarrollador",
+        "Dominio de la estrategia empresarial de experiencia y habilitación del desarrollador",
+        "Capacidad de construir organizaciones de experiencia del desarrollador",
+        "Conocimiento profundo de la medición y la economía de la productividad del desarrollador",
+        "Experiencia en estrategia de efectividad y cultura de ingeniería",
+        "Capacidad de impulsar la mejora de la experiencia del desarrollador en toda la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de moldear la estrategia de herramientas de desarrollo y proveedores",
+        "Capacidad de influir en las prácticas de experiencia del desarrollador del sector",
+        "Conocimiento de la inversión en productividad de ingeniería"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de experiencia del desarrollador",
+        "Responsable de la estrategia de productividad de ingeniería",
+        "Representa a la empresa en asuntos de experiencia del desarrollador"
+      ]
+    }
+  }
+}

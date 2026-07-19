@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Soporte",
+  "category": "Soporte",
+  "levels": {
+    "SUP-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Capacidad de registrar un ticket con pasos de reproducción claros y detalles del entorno",
+        "Lectura básica de logs de aplicación para localizar un mensaje de error",
+        "Comprensión de la clasificación de prioridad y severidad de los tickets",
+        "Familiaridad con la búsqueda de soluciones conocidas en una base de conocimiento",
+        "Capacidad de preguntar al cliente lo necesario para acotar un problema",
+        "Conocimiento básico de cómo funcionan una petición y una respuesta HTTP",
+        "Comprensión de cuándo un ticket debe escalarse en lugar de resolverse",
+        "Documentación de los pasos seguidos para resolver un ticket"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con una herramienta de tickets como Zendesk o Jira Service Management",
+        "Nociones básicas de SQL para ejecutar una consulta de lectura proporcionada",
+        "Comprensión de las funcionalidades principales del producto desde la óptica del usuario"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Resuelve tickets rutinarios a partir de la base de conocimiento",
+        "Está aprendiendo el producto y el proceso de soporte"
+      ]
+    },
+    "SUP-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Reproducción de una incidencia reportada en un entorno de pruebas a partir de la información del cliente",
+        "Lectura de logs y trazas de pila para identificar el componente que falla",
+        "Resolución de errores habituales de API e integraciones como autenticación y límites de tasa",
+        "Gestión de una cola de tickets frente a los SLA de respuesta y resolución",
+        "Escalado a ingeniería con un informe de problema claro y reproducible",
+        "Redacción de artículos de base de conocimiento para incidencias vistas más de una vez",
+        "Uso de las herramientas de administración del producto para inspeccionar la configuración de un cliente",
+        "Correlación de un aviso del cliente con publicaciones recientes o incidentes"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la lectura de respuestas de API y códigos de estado para el diagnóstico",
+        "Comprensión de la resolución básica de problemas de red como errores de DNS y TLS",
+        "Familiaridad con consultar una base de datos para verificar datos del cliente"
+      ],
+      "indicators": [
+        "Reproduce y resuelve incidencias habituales de forma autónoma",
+        "Cumple los objetivos de SLA en una cola asignada",
+        "Escala con informes reproducibles"
+      ]
+    },
+    "SUP-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diagnóstico de incidencias intermitentes correlacionando logs, trazas y métricas",
+        "Resolución de problemas complejos de API e integraciones entre varios sistemas",
+        "Aislamiento de la causa raíz a un servicio, configuración o condición de datos concreta",
+        "Responsabilidad sobre tickets de severidad alta bajo fuerte presión de SLA",
+        "Gestión de escalados como puente entre el cliente y la ingeniería",
+        "Mantenimiento de la base de conocimiento para que las incidencias repetidas se resuelvan más rápido",
+        "Reproducción de casos límite que solo aparecen con datos concretos de un cliente",
+        "Orientación a ingenieros junior sobre técnica de diagnóstico"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la lectura de trazas distribuidas entre servicios",
+        "Comprensión de los fallos de integraciones basadas en webhooks y eventos",
+        "Familiaridad con scripting para automatizar un paso de diagnóstico repetitivo"
+      ],
+      "indicators": [
+        "Es responsable de tickets complejos y de severidad alta",
+        "Diagnostica la causa raíz entre sistemas",
+        "Mentoriza a ingenieros de soporte junior"
+      ]
+    },
+    "SUP-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Liderazgo de la resolución técnica de incidentes graves de cara al cliente",
+        "Análisis de causa raíz que identifica patrones de fallo recurrentes entre tickets",
+        "Automatización de una tarea repetitiva de diagnóstico o remediación para ahorrar tiempo de cola",
+        "Diseño de vías de escalado y traspasos de guardia con los equipos de ingeniería",
+        "Construcción de herramientas de autoservicio que permiten al cliente resolver incidencias habituales",
+        "Responsabilidad sobre la estructura de la base de conocimiento y su cobertura de las incidencias principales",
+        "Diagnóstico de problemas de rendimiento e integraciones en los entornos del cliente",
+        "Retroalimentación de los problemas sistémicos hacia los backlog de producto e ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia construyendo herramientas internas de diagnóstico para el equipo de soporte",
+        "Conocimiento de herramientas de observabilidad para trazar peticiones de cliente",
+        "Comprensión del diseño de SLA y SLO para una función de soporte"
+      ],
+      "indicators": [
+        "Lidera la resolución de incidentes graves",
+        "Automatiza el trabajo de diagnóstico repetitivo",
+        "Retroalimenta los problemas sistémicos a producto"
+      ]
+    },
+    "SUP-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de un equipo de ingeniería de soporte en un área de producto",
+        "Definición del proceso de escalado e incidentes entre soporte e ingeniería",
+        "Diseño de la estrategia de autoservicio y desvío para reducir el volumen de tickets",
+        "Análisis de los datos de tickets para encontrar las causas sistémicas detrás de la carga de soporte",
+        "Responsabilidad sobre los objetivos de SLA y SLO y el dimensionamiento para cumplirlos",
+        "Construcción de las herramientas que dan al equipo visibilidad del estado del cliente",
+        "Dirección de las revisiones de causa raíz que convierten incidentes en correcciones de producto",
+        "Desarrollo de ingenieros de soporte mediante formación en diagnóstico y producto"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia definiendo métricas de soporte más allá del recuento de tickets y el CSAT",
+        "Conocimiento de la construcción de una plataforma de diagnóstico para la organización de soporte",
+        "Comprensión de cómo la calidad de las publicaciones impulsa el volumen de soporte"
+      ],
+      "indicators": [
+        "Lidera un equipo de ingeniería de soporte",
+        "Es responsable de los objetivos de SLA y SLO de un área",
+        "Convierte los incidentes en correcciones de producto"
+      ]
+    },
+    "SUP-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de la función de ingeniería de soporte en un área de negocio",
+        "Definición de la estrategia de autoservicio y automatización que dobla la curva de coste",
+        "Responsabilidad sobre el programa de causa raíz sistémica que reduce los tickets recurrentes",
+        "Diseño de la plataforma de herramientas y datos que sostiene el soporte a escala",
+        "Definición del marco de SLA y SLO y de cómo se corresponde con los niveles de cliente",
+        "Alineación de las prioridades de soporte con las hojas de ruta de producto e ingeniería",
+        "Establecimiento del modelo de escalado entre las guardias de soporte e ingeniería",
+        "Desarrollo de líderes de ingeniería de soporte y especialistas en diagnóstico"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia dando forma a la inversión en herramientas y automatización de soporte",
+        "Conocimiento de la economía del soporte y el análisis de coste de servicio",
+        "Comprensión de cómo el conocimiento del soporte informa el trabajo de fiabilidad del producto"
+      ],
+      "indicators": [
+        "Dirige la ingeniería de soporte de un área",
+        "Es responsable de la estrategia de automatización y autoservicio",
+        "Alinea el soporte con las hojas de ruta de producto"
+      ]
+    },
+    "SUP-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la ingeniería de soporte en toda la organización",
+        "Definición de la estrategia que desplaza la resolución de los tickets al autoservicio",
+        "Responsabilidad sobre el programa de fiabilidad sistémica impulsado por el conocimiento del soporte",
+        "Diseño de la arquitectura de datos y herramientas de soporte a escala de empresa",
+        "Definición de los compromisos de SLA y SLO que la empresa asume ante los clientes",
+        "Alineación de la función de soporte con producto, ingeniería y fiabilidad",
+        "Comunicación de las prioridades de fiabilidad impulsadas por soporte a la dirección ejecutiva",
+        "Desarrollo del banquillo de liderazgo de la disciplina de ingeniería de soporte"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia representando la voz del cliente ante la dirección ejecutiva",
+        "Conocimiento del modelado de coste de servicio a escala organizativa",
+        "Comprensión de cómo el soporte escala sin un crecimiento lineal de plantilla"
+      ],
+      "indicators": [
+        "Depende del director ejecutivo o de tecnología en materia de soporte",
+        "Es responsable de la estrategia de soporte en toda la empresa",
+        "Impulsa la fiabilidad a partir del conocimiento del soporte"
+      ]
+    },
+    "SUP-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición de la tesis de la empresa sobre cómo el soporte escala mediante la ingeniería",
+        "Arquitectura de la estrategia de autoservicio y automatización como palanca estructural de coste",
+        "Responsabilidad sobre la disciplina de causa raíz sistémica que moldea la fiabilidad del producto",
+        "Diseño de la plataforma de datos de soporte como sistema de alerta temprana de la empresa",
+        "Definición de la doctrina de SLA y SLO que gobierna los compromisos con los clientes",
+        "Alineación del conocimiento impulsado por soporte con la estrategia de producto y fiabilidad",
+        "Establecimiento de la ingeniería de soporte como disciplina de ingeniería reconocida",
+        "Dirección de cómo la función convierte el dolor del cliente en mejora sistémica"
+      ],
+      "complementaryCompetencies": [
+        "Asesoramiento sobre estrategia de ingeniería de soporte en todo el sector",
+        "Influencia en cómo la empresa mide y financia la fiabilidad para el cliente",
+        "Trayectoria escalando el soporte mediante automatización, no plantilla"
+      ],
+      "indicators": [
+        "Da forma a la tesis de ingeniería de soporte de la empresa",
+        "Es responsable de la estrategia de soporte hacia la fiabilidad",
+        "Es una autoridad reconocida en ingeniería de soporte"
+      ]
+    },
+    "SUP-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre la estrategia de ingeniería de soporte de la empresa y su evolución",
+        "Definición del autoservicio y la automatización como base de un modelo de soporte escalable",
+        "Dirección del programa de fiabilidad sistémica que el conocimiento del soporte alimenta",
+        "Custodia de la plataforma de datos de soporte como señal de fiabilidad a nivel de empresa",
+        "Fijación de los compromisos de SLA y SLO que definen la relación con el cliente",
+        "Alineación de la estrategia de soporte con los objetivos de producto, ingeniería y negocio",
+        "Establecimiento de la ingeniería de soporte como capacidad competitiva duradera",
+        "Definición de cómo la organización convierte la experiencia del cliente en calidad de producto"
+      ],
+      "complementaryCompetencies": [
+        "Reconocimiento como referente en ingeniería de soporte en el sector",
+        "Influencia en las prácticas de soporte y fiabilidad más allá de la empresa",
+        "Trayectoria construyendo organizaciones de soporte que escalan de forma sublineal"
+      ],
+      "indicators": [
+        "Lidera la ingeniería de soporte de toda la empresa",
+        "Define la estrategia de soporte y fiabilidad de la empresa",
+        "Es autoridad de referencia en ingeniería de soporte"
+      ]
+    }
+  }
+}

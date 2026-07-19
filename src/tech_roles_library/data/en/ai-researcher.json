@@ -1,0 +1,258 @@
+{
+  "role": "AI Researcher",
+  "category": "AI/ML",
+  "levels": {
+    "AIR-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic grasp of machine learning fundamentals and how models learn from data",
+        "Elementary command of the linear algebra, calculus and probability used in AI",
+        "Ability to reproduce results from simple published experiments",
+        "Basic practice reading a research paper and extracting its contribution",
+        "Ability to run and log experiments with frameworks such as PyTorch",
+        "Elementary practice with experiment tracking and keeping results reproducible",
+        "Basic grasp of how deep learning models are trained and evaluated",
+        "Ability to document methods and findings clearly"
+      ],
+      "complementaryCompetencies": [
+        "Basic statistics and hypothesis testing",
+        "Familiarity with Python and scientific computing libraries",
+        "Elementary sense of the computing resources needed for training"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can assist experienced researchers",
+        "Needs 1-2 years of foundational training"
+      ]
+    },
+    "AIR-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement methods described in research papers from scratch",
+        "Ability to design controlled experiments with clear baselines",
+        "Practical command of neural network architectures and training dynamics",
+        "Familiarity with optimization methods and hyperparameter search",
+        "Ability to run ablation studies to isolate what drives results",
+        "Ability to conduct a structured literature review on a topic",
+        "Practice with reproducibility, fixed seeds and reporting variance",
+        "Grasp of research ethics and responsible experimentation"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with distributed and multi-GPU training",
+        "Ability to produce clear figures and result visualizations",
+        "Sense of statistical significance in experimental comparisons"
+      ],
+      "indicators": [
+        "Conducts experiments with supervision",
+        "Implements and validates recent techniques",
+        "Publishes at workshops or contributes to papers"
+      ]
+    },
+    "AIR-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Command of state-of-the-art methods in one or more research areas",
+        "Ability to formulate hypotheses and propose novel methods to test them",
+        "Ability to lead a focused research line end to end",
+        "Solid command of the theoretical foundations behind the methods used",
+        "Ability to collaborate with academic groups on joint work",
+        "Ability to review papers and give constructive technical feedback",
+        "Practice writing papers for conferences and workshops",
+        "Ability to mentor junior researchers on experimental design"
+      ],
+      "complementaryCompetencies": [
+        "Practice writing research proposals and grant applications",
+        "Ability to design benchmarks and evaluation protocols",
+        "Sense of open-sourcing code and datasets responsibly"
+      ],
+      "indicators": [
+        "Leads a research line with minimal supervision",
+        "Publishes at peer-reviewed conferences",
+        "Collaborates with academia and reviews for venues"
+      ]
+    },
+    "AIR-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to define a research agenda for a team over several projects",
+        "Command of rigorous experimental methodology across studies",
+        "Ability to lead a small research team and coordinate their work",
+        "Solid command of the current landscape in the team's research areas",
+        "Ability to build collaborations with academic and industry partners",
+        "Ability to translate research findings toward product applications",
+        "Practice protecting and publishing intellectual property",
+        "Ability to secure funding through grants or internal proposals"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with foundation models and their training regimes",
+        "Ability to shape safety and alignment considerations in research",
+        "Sense of scaling laws and compute-efficient experimentation"
+      ],
+      "indicators": [
+        "Defines the direction of a research team",
+        "Leads strategic collaborations",
+        "Publishes influential peer-reviewed work"
+      ]
+    },
+    "AIR-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in building and leading a research group",
+        "Ability to run interdisciplinary research spanning multiple fields",
+        "Command of reproducibility and rigor standards across the group",
+        "Ability to form strategic partnerships with labs and universities",
+        "Solid command of the funding landscape and how to navigate it",
+        "Ability to define the research culture and review practices of a group",
+        "Expertise in developing research talent and career growth",
+        "Ability to measure and communicate the impact of research"
+      ],
+      "complementaryCompetencies": [
+        "Practice connecting research programs to product roadmaps",
+        "Ability to organize workshops and research events",
+        "Sense of publication strategy and venue selection"
+      ],
+      "indicators": [
+        "Architects research programs spanning several lines",
+        "Leads multiple research lines",
+        "Defines the research strategy of a group"
+      ]
+    },
+    "AIR-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define a multi-year research vision for an area",
+        "Expertise in producing sustained, high-impact research results",
+        "Command of building and maintaining external research networks",
+        "Ability to guide the transfer of research into products",
+        "Solid command of where a research field is heading",
+        "Ability to represent the organization in the scientific community",
+        "Expertise in shaping research programs and their evaluation",
+        "Ability to set ethical and safety standards for research work"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with cross-institution collaboration and consortia",
+        "Ability to advise on research investment decisions",
+        "Sense of long-horizon versus applied research trade-offs"
+      ],
+      "indicators": [
+        "Defines the research vision for an area",
+        "Leads research groups and programs",
+        "Influences the direction of a research field"
+      ]
+    },
+    "AIR-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership of research strategy across an organization",
+        "Ability to balance a portfolio of applied and long-horizon research",
+        "Expertise in governance and review of research programs",
+        "Ability to define publication and open-science policy",
+        "Solid command of the scientific value and risk of research bets",
+        "Expertise in building and scaling research organizations",
+        "Ability to set research ethics and safety standards across the organization",
+        "Ability to attract and retain leading research talent"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence the broader research community",
+        "Ability to establish or lead research labs",
+        "Familiarity with connecting research output to business strategy"
+      ],
+      "indicators": [
+        "Defines executive research strategy",
+        "Represents the company in the scientific community",
+        "Recognized authority in the research area"
+      ]
+    },
+    "AIR-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic direction of the organization's research portfolio",
+        "Ability to align research investments with long-term company goals",
+        "Expertise in technical due diligence of research and its maturity",
+        "Ability to set the scientific bar for rigor and reproducibility",
+        "Solid command of turning research advances into durable capabilities",
+        "Ability to build and lead research organizations",
+        "Expertise in balancing scientific ambition with practical delivery",
+        "Ability to advise leadership on scientific opportunities and risk"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape the data and compute strategy for research",
+        "Familiarity with ethics and governance for advanced AI research",
+        "Ability to mentor principal researchers and research leads"
+      ],
+      "indicators": [
+        "Shapes the scientific direction of the organization",
+        "Advises leadership on research investments",
+        "Mentors senior researchers"
+      ]
+    },
+    "AIR-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership of the organization's research mission",
+        "Ability to align the research program with company strategy",
+        "Expertise in planning and managing research budgets",
+        "Ability to set policy for responsible and safe research",
+        "Solid command of managing the risk of long-horizon research bets",
+        "Ability to build scientific reputation and partnerships",
+        "Expertise in shaping the organization's research culture at scale",
+        "Ability to guide the organization through scientific shifts in the field"
+      ],
+      "complementaryCompetencies": [
+        "Ability to represent the organization in the scientific community",
+        "Familiarity with the funding and collaboration landscape",
+        "Ability to shape organizational design for research"
+      ],
+      "indicators": [
+        "Defines and executes the organization's research vision",
+        "Accountable for the outcomes of the research program",
+        "Represents the company in the scientific community"
+      ]
+    }
+  }
+}

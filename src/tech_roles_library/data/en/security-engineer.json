@@ -1,0 +1,249 @@
+{
+  "role": "Security Engineer",
+  "category": "Security",
+  "levels": {
+    "SEC-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of confidentiality, integrity and availability",
+        "Elementary knowledge of common vulnerability classes and how they arise",
+        "Ability to run a vulnerability scanner and read its output",
+        "Basic understanding of authentication and authorization models",
+        "Ability to document security findings clearly",
+        "Elementary understanding of encryption in transit and at rest",
+        "Ability to apply basic system hardening from a checklist"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with security frameworks such as NIST and CIS benchmarks",
+        "Elementary understanding of networking and firewalls",
+        "Basic familiarity with identity and access concepts"
+      ],
+      "indicators": [
+        "Requires close supervision on security tasks",
+        "Executes documented hardening and scanning procedures",
+        "Learning core platform security concepts"
+      ]
+    },
+    "SEC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to run vulnerability assessments and prioritize findings",
+        "Configuration of identity and access management roles and policies",
+        "Practical understanding of certificate and key management (PKI)",
+        "Ability to configure encryption for data in transit and at rest",
+        "Implementation of network segmentation and firewall rules",
+        "Ability to apply system and container hardening baselines",
+        "Ability to track remediation of known vulnerabilities"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with secrets management tooling",
+        "Understanding of cloud security fundamentals",
+        "Basic familiarity with security logging for later analysis"
+      ],
+      "indicators": [
+        "Performs security assessments with supervision",
+        "Applies standard platform security controls",
+        "Coordinates simple remediation with system owners"
+      ]
+    },
+    "SEC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of identity and access structures with least-privilege roles and policies",
+        "Implementation of secrets management and rotation",
+        "Design of network security controls and segmentation",
+        "Ability to run threat modeling for infrastructure and platform changes",
+        "Implementation of encryption and key management across services",
+        "Ability to lead a vulnerability management cycle end to end",
+        "Development of security baselines and hardening standards"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of Zero Trust networking principles",
+        "Familiarity with cloud security posture management tooling",
+        "Understanding of security review practices for infrastructure"
+      ],
+      "indicators": [
+        "Designs platform security controls for projects",
+        "Runs vulnerability management independently",
+        "Coordinates remediation across teams"
+      ]
+    },
+    "SEC-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Design of platform security architecture across environments",
+        "Implementation of Zero Trust access for systems and services",
+        "Definition of the encryption and key management strategy",
+        "Integration of security controls and scanning into CI/CD pipelines",
+        "Ability to run cross-cutting security reviews of architectures",
+        "Design of a vulnerability management program with SLAs",
+        "Coordination with AppSec on product code and SecOps on monitoring"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of security controls across multi-cloud environments",
+        "Familiarity with supply chain and dependency security",
+        "Understanding of applied cryptography choices"
+      ],
+      "indicators": [
+        "Leads platform security for complex systems",
+        "Defines the security architecture for infrastructure",
+        "Mentors the team on platform security practices"
+      ]
+    },
+    "SEC-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Ownership of the platform security architecture across the organization",
+        "Design of enterprise identity and identity federation",
+        "Definition of the encryption, key and secrets management strategy",
+        "Establishment of system and network hardening standards",
+        "Definition of a vulnerability management program with measurable risk reduction",
+        "Leadership of cross-cutting security reviews and design guidance",
+        "Coordination of security work with AppSec and SecOps specialists"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of compliance requirements affecting platform controls",
+        "Familiarity with cloud security posture and configuration management",
+        "Understanding of security automation for repeatable controls"
+      ],
+      "indicators": [
+        "Designs enterprise platform security autonomously",
+        "Leads the vulnerability management and hardening programs",
+        "Defines the multi-year platform security roadmap"
+      ]
+    },
+    "SEC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Definition of the platform security strategy across the organization",
+        "Architecture of identity, encryption and secrets management at scale",
+        "Establishment of security baselines and hardening across environments",
+        "Definition of the vulnerability and patch management operating model",
+        "Design of security-by-default guardrails for engineering teams",
+        "Alignment of platform controls with privacy and compliance needs",
+        "Coordination of the security function across AppSec, SecOps and platform"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of third-party and supply chain security risk",
+        "Familiarity with security metrics that track control coverage",
+        "Understanding of resilient, defensible infrastructure design"
+      ],
+      "indicators": [
+        "Shapes platform security across the organization",
+        "Leads security guardrails adopted by engineering teams",
+        "Interfaces with leadership on security posture"
+      ]
+    },
+    "SEC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership of enterprise platform security transformation",
+        "Definition of security architecture standards and their governance",
+        "Establishment of identity and encryption standards across business units",
+        "Definition of vulnerability and configuration management at enterprise scale",
+        "Use of security metrics to drive control coverage and risk reduction",
+        "Alignment of platform security with regulatory obligations",
+        "Definition of how platform, AppSec and SecOps functions collaborate"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of security investment trade-offs across the enterprise",
+        "Contribution to internal security standards and reference architectures",
+        "Understanding of emerging platform security practices"
+      ],
+      "indicators": [
+        "Sets the platform security strategy for the enterprise",
+        "Recognized internally as the authority on platform security",
+        "Advises leadership on security architecture decisions"
+      ]
+    },
+    "SEC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definition of a multi-year platform security strategy",
+        "Positioning of security architecture as an enabler of safe delivery",
+        "Establishment of a security engineering center of excellence",
+        "Definition of security governance and control frameworks across the company",
+        "Evaluation of platform security risk in acquisitions and integrations",
+        "Justification of security investment through measurable risk reduction",
+        "Guidance of security tooling and vendor decisions for the platform"
+      ],
+      "complementaryCompetencies": [
+        "Definition of security reference architectures reused across the company",
+        "Understanding of the security tooling and vendor landscape",
+        "Understanding of security benchmarking against the industry"
+      ],
+      "indicators": [
+        "Owns the multi-year platform security strategy",
+        "Represents the company on security in external forums",
+        "Influences platform security practice beyond the organization"
+      ]
+    },
+    "SEC-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive ownership of security and its alignment with business strategy",
+        "Definition of the enterprise security posture and control framework",
+        "Accountability for security risk and the metrics that communicate it",
+        "Leadership of security organizations spanning platform, AppSec and SecOps",
+        "Management of the security budget and its return",
+        "Communication of security risk to executives and the board",
+        "Definition of the enterprise identity and data protection strategy"
+      ],
+      "complementaryCompetencies": [
+        "Influence on security practice across the wider industry",
+        "Understanding of cyber risk transfer and insurance",
+        "Understanding of long-term investment in the security function"
+      ],
+      "indicators": [
+        "Defines and executes the enterprise security vision",
+        "Accountable for the corporate security posture",
+        "Recognized leader in security engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Cloud Security Engineer",
+  "category": "Security",
+  "levels": {
+    "CSE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of cloud computing",
+        "Elementary understanding of cloud security",
+        "Ability to configure basic security groups",
+        "Basic knowledge of IAM",
+        "Capability to review configurations with supervision",
+        "Understanding of encryption at rest/transit",
+        "Documentation of security findings",
+        "Elementary knowledge of compliance"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with AWS/Azure/GCP consoles",
+        "Basic knowledge of CloudTrail",
+        "Elementary understanding of network security"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Implements basic controls",
+        "Is learning cloud security"
+      ]
+    },
+    "CSE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to implement security controls in cloud",
+        "Implementation of IAM policies",
+        "Practical knowledge of cloud compliance",
+        "Ability for security monitoring",
+        "Understanding of infrastructure as code security",
+        "Capability for vulnerability scanning",
+        "Knowledge of container security",
+        "Ability for basic incident response"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of CSPM tools",
+        "Ability for security automation",
+        "Understanding of multi-cloud"
+      ],
+      "indicators": [
+        "Implements security with supervision",
+        "Responds to alerts",
+        "Maintains compliance"
+      ]
+    },
+    "CSE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of secure architectures in cloud",
+        "Implementation of zero-trust networks",
+        "Mastery of cloud security posture management",
+        "Capability for threat detection",
+        "Ability for security automation",
+        "Deep knowledge of shared responsibility model",
+        "Implementation of DLP",
+        "Capability for security training"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of SIEM/SOAR",
+        "Ability for forensics",
+        "Understanding of compliance frameworks"
+      ],
+      "indicators": [
+        "Leads security projects",
+        "Designs secure cloud solutions",
+        "Mentors in cloud security"
+      ]
+    },
+    "CSE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of security programs in cloud",
+        "Design of multi-cloud security strategy",
+        "Implementation of security automation at scale",
+        "Mastery of advanced threat detection",
+        "Capability for cloud security architecture",
+        "Deep knowledge of regulatory compliance",
+        "Ability for security governance",
+        "Leadership in cloud hardening"
+      ],
+      "complementaryCompetencies": [
+        "Experience in cloud compliance (PCI-DSS, HIPAA)",
+        "Knowledge of CASB",
+        "Implementation of security orchestration"
+      ],
+      "indicators": [
+        "Defines cloud security strategy",
+        "Leads security transformation",
+        "Is a reference in cloud security"
+      ]
+    },
+    "CSE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in cloud security",
+        "Design of enterprise cloud security",
+        "Management of security teams",
+        "Definition of cloud security standards",
+        "Capability for security risk management",
+        "Implementation of SIEM/SOAR platforms",
+        "Mastery of cloud security economics",
+        "Promotion of cloud security best practices"
+      ],
+      "complementaryCompetencies": [
+        "Experience in cloud migrations",
+        "Knowledge of security partnerships",
+        "Management of security budget"
+      ],
+      "indicators": [
+        "Manages cloud security team",
+        "Defines cloud security vision",
+        "Represents security to executives"
+      ]
+    },
+    "CSE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of cloud security strategy",
+        "Management of security operations at scale",
+        "Definition of multi-cloud security architecture",
+        "Leadership in cloud security transformation",
+        "Management of major incidents",
+        "Implementation of security governance",
+        "Innovation in cloud security",
+        "Management of global compliance"
+      ],
+      "complementaryCompetencies": [
+        "Experience in M&A security",
+        "Knowledge of security investment",
+        "Leadership in cloud security industry"
+      ],
+      "indicators": [
+        "Directs cloud security department",
+        "Participates in executive strategy",
+        "Defines security investments"
+      ]
+    },
+    "CSE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in cloud security",
+        "Design of global security strategies",
+        "Organizational transformation via cloud security",
+        "Management at large enterprise scale",
+        "Creation of cloud security culture",
+        "Definition of security roadmap",
+        "Communication of security strategy to executive leadership",
+        "Influence on standards"
+      ],
+      "complementaryCompetencies": [
+        "Management of multi-million dollar security budgets",
+        "Experience in cloud IPO",
+        "Leadership in consortiums"
+      ],
+      "indicators": [
+        "Reports to CISO",
+        "Manages organization (25+ people)",
+        "Defines cloud security strategy"
+      ]
+    },
+    "CSE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of cloud security",
+        "Leadership in security transformation",
+        "Creation of competitive advantage",
+        "Management of security ecosystems",
+        "Research into emerging cloud security technologies",
+        "Definition of next-generation cloud security architectures",
+        "Definition of long-term cloud security technology direction",
+        "Influence on policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CISO in unicorns",
+        "Advisory in startups",
+        "Thought leadership in cloud security"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines strategy",
+        "Is globally recognized leader"
+      ]
+    },
+    "CSE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in cloud security",
+        "Transformation of industries",
+        "Definition of cloud security reference architectures",
+        "Definition of cloud-native security",
+        "Innovation in governance",
+        "Promotion of a security-by-design engineering culture",
+        "Architect of ecosystems",
+        "Influence on regulation"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming Fortune 100",
+        "Recognition as pioneer",
+        "Influence on cloud standards"
+      ],
+      "indicators": [
+        "Is a recognized authority in cloud security",
+        "Defines the future",
+        "Is world authority"
+      ]
+    }
+  }
+}

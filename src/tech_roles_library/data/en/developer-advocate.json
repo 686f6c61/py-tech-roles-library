@@ -1,0 +1,258 @@
+{
+  "role": "Developer Advocate",
+  "category": "Software Engineering",
+  "levels": {
+    "DVA-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic software development knowledge",
+        "Simple technical communication skills",
+        "Elementary understanding of developer communities",
+        "Ability to create basic technical content",
+        "Knowledge of professional social networks",
+        "Skills for simple demos",
+        "Basic understanding of technical documentation",
+        "Level 1 developer support capability"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of public speaking",
+        "Familiarity with content creation tools",
+        "Elementary understanding of technical marketing"
+      ],
+      "indicators": [
+        "Requires constant supervision and mentoring",
+        "Creates content with thorough review",
+        "Learning the developer ecosystem"
+      ]
+    },
+    "DVA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to create complete technical tutorials",
+        "Skills to give technical talks at meetups",
+        "Practical knowledge of multiple technologies",
+        "Understanding of developer experience",
+        "Ability to moderate online communities",
+        "Skills to create interactive demos",
+        "Knowledge of engagement metrics",
+        "Feedback collection and analysis capability"
+      ],
+      "complementaryCompetencies": [
+        "Basic technical event management",
+        "Knowledge of technical video production",
+        "Basic live coding skills"
+      ],
+      "indicators": [
+        "Creates technical content independently",
+        "Actively participates in communities",
+        "Represents company at local events"
+      ]
+    },
+    "DVA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of developer relations programs",
+        "Ability to create advanced multimedia content",
+        "Skills for keynotes at regional conferences",
+        "Mastery of technical storytelling",
+        "Developer community building capability",
+        "Deep knowledge of developer journey",
+        "Skills to create SDKs and tools",
+        "Product feedback loop management"
+      ],
+      "complementaryCompetencies": [
+        "Technical podcast creation",
+        "Knowledge of streaming platforms",
+        "Skills for complex technical workshops"
+      ],
+      "indicators": [
+        "Leads developer engagement initiatives",
+        "Recognized in specific communities",
+        "Influences product roadmap"
+      ]
+    },
+    "DVA-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Developer relations strategy at scale",
+        "Leadership of global advocacy programs",
+        "Ability to influence technology adoption",
+        "Mastery of ecosystem building",
+        "Technical partnership skills",
+        "Deep knowledge of competitive positioning",
+        "Community crisis management capability",
+        "Design of developer certification programs"
+      ],
+      "complementaryCompetencies": [
+        "Significant DevRel budget management",
+        "Experience in open source governance",
+        "Knowledge of venture building"
+      ],
+      "indicators": [
+        "Defines departmental DevRel strategy",
+        "Keynote speaker at major conferences",
+        "Builds strategic relationships with influencers"
+      ]
+    },
+    "DVA-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leadership of developer advocacy teams",
+        "Design of technology adoption strategies",
+        "Management of global developer communities",
+        "Definition of DevRel success metrics",
+        "Ability to advocate technology to executive audiences",
+        "Implementation of enterprise developer programs",
+        "Mastery of thought leadership",
+        "Influence in industry standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience in technical product management",
+        "Knowledge of business development",
+        "Analyst relations management (Gartner, etc)"
+      ],
+      "indicators": [
+        "Manages advocate team (5-10 people)",
+        "Defines company technical voice",
+        "Represents company on executive panels"
+      ]
+    },
+    "DVA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Organizational developer relations direction",
+        "Developer ecosystem strategy",
+        "Management of large DevRel budgets",
+        "Developer-first culture definition",
+        "Go-to-market transformation leadership",
+        "Building of developer communities around products",
+        "External CTO relationship management",
+        "Innovation in engagement models"
+      ],
+      "complementaryCompetencies": [
+        "Experience in product strategy",
+        "Knowledge of corporate development",
+        "Community M&A skills"
+      ],
+      "indicators": [
+        "Directs DevRel department (20+ people)",
+        "Participates in executive product strategy",
+        "Defines technical market positioning"
+      ]
+    },
+    "DVA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in developer ecosystem",
+        "Platform economy strategy design",
+        "Developer-centric company transformation",
+        "Management of large developer ecosystems",
+        "Competitive advantage creation through community",
+        "Definition of developer experience future",
+        "Communication of developer strategy to executive leadership",
+        "Industry direction influence"
+      ],
+      "complementaryCompetencies": [
+        "Developer investment fund management",
+        "Experience creating developer-first unicorns",
+        "Leadership in technology consortiums"
+      ],
+      "indicators": [
+        "Reports directly to C-suite",
+        "Manages DevRel organizations (50+ people)",
+        "Public voice of technical strategy"
+      ]
+    },
+    "DVA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of developer economy",
+        "Industry transformation leadership through developers",
+        "Definition of developer platform strategy",
+        "Management of large-scale developer ecosystems",
+        "Innovation in developer engagement programs",
+        "Definition of global DevX standards",
+        "Advocacy for emerging developer technologies",
+        "Influence in government technology policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CPO/CTO in developer-first companies",
+        "Advisory boards for multiple startups",
+        "Publication of influential books on DevRel"
+      ],
+      "indicators": [
+        "Part of executive committee",
+        "Defines corporate ecosystem strategy",
+        "Global thought leader in developer economy"
+      ]
+    },
+    "DVA-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in software development future",
+        "Advancement of developer practices across the industry",
+        "Leadership of large-scale developer initiatives",
+        "Definition of the organization's developer platform vision",
+        "Innovation in developer experience and tooling",
+        "Advocacy for emerging development practices",
+        "Influence in developer profession evolution",
+        "Architecture of developer ecosystem strategy"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CEO/CTO of industry-transforming companies",
+        "Recognition as a leader in developer relations",
+        "Influence in global university curricula"
+      ],
+      "indicators": [
+        "Leads the enterprise developer relations function",
+        "Defines the future of how software is built",
+        "Recognized authority in developer relations"
+      ]
+    }
+  }
+}

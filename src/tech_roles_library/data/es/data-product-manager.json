@@ -1,0 +1,266 @@
+{
+  "role": "Gestor de Producto de Datos",
+  "category": "Producto",
+  "levels": {
+    "DPM-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de qué es un producto de datos",
+        "Conocimiento elemental del ciclo de vida del producto",
+        "Habilidad para escribir historias de usuario y requisitos claros",
+        "Comprensión básica de fuentes de datos y pipelines",
+        "Familiaridad con métricas e indicadores clave",
+        "Conocimiento elemental de comunicación con partes interesadas",
+        "Comprensión básica de conceptos de priorización",
+        "Habilidad para documentar necesidades de producto y comentarios"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de SQL para exploración de datos",
+        "Familiaridad con herramientas de hoja de ruta y pila de trabajo",
+        "Comprensión elemental de nociones de privacidad de datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en tareas de producto",
+        "Puede recopilar y organizar requisitos con orientación",
+        "Necesita 3-6 meses de mentoría en gestión de producto de datos"
+      ]
+    },
+    "DPM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de definir requisitos para productos de datos",
+        "Conocimiento práctico de definición de métricas e instrumentación",
+        "Habilidad para priorizar una pila de trabajo con marcos básicos",
+        "Comprensión de expectativas de calidad de datos y acuerdos de nivel de servicio",
+        "Capacidad de traducir necesidades de negocio en requisitos de datos",
+        "Conocimiento de necesidades básicas de gobernanza y acceso a datos",
+        "Comprensión del recorrido del consumidor de datos",
+        "Habilidad para realizar entrevistas con partes interesadas y recoger comentarios",
+        "Capacidad de escribir criterios de aceptación para entregables de datos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de inteligencia de negocios y analítica",
+        "Habilidad para construir cuadros de mando simples para validación",
+        "Comprensión de nociones básicas de experimentación"
+      ],
+      "indicators": [
+        "Puede gestionar funcionalidades pequeñas de producto de datos con supervisión",
+        "Resuelve ambigüedades de requisitos comunes",
+        "Mantiene la pila de trabajo y la documentación del producto efectivamente"
+      ]
+    },
+    "DPM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio del descubrimiento y validación de productos de datos",
+        "Capacidad de definir métricas guía y medidas de éxito",
+        "Habilidad para construir y comunicar una hoja de ruta de producto",
+        "Conocimiento profundo de requisitos de gobernanza y cumplimiento de datos",
+        "Capacidad de gestionar equilibrios entre alcance, calidad y tiempo",
+        "Comprensión sólida del linaje de datos y su impacto en la confianza",
+        "Capacidad de definir contratos de datos con productores y consumidores",
+        "Conocimiento de precios y empaquetado para productos de datos",
+        "Capacidad de medir la adopción y la salud del producto"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de consideraciones de producto de aprendizaje automático",
+        "Habilidad para trabajar con plataformas de analítica de autoservicio",
+        "Comprensión de conceptos de monetización de datos"
+      ],
+      "indicators": [
+        "Es responsable de un área de producto de datos de extremo a extremo",
+        "Mejora significativamente la adopción y la confianza en los datos",
+        "Contribuye a la estrategia de producto de datos"
+      ]
+    },
+    "DPM-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de definir una estrategia para una cartera de productos de datos",
+        "Dominio de marcos de métricas y hojas de ruta orientadas a resultados",
+        "Habilidad para establecer modelos de gobernanza y custodia de datos",
+        "Conocimiento profundo de las capacidades y restricciones de la plataforma de datos",
+        "Capacidad de liderar equipos multifuncionales en torno a productos de datos",
+        "Dominio de la priorización bajo incertidumbre y recursos limitados",
+        "Habilidad para diseñar experiencias de producto de datos de autoservicio",
+        "Conocimiento de cumplimiento normativo (RGPD, residencia de datos)",
+        "Capacidad de definir y seguir el retorno de inversión de iniciativas de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de productos de datos en tiempo real y de transmisión",
+        "Habilidad para integrar funcionalidades basadas en aprendizaje automático e inteligencia artificial",
+        "Comprensión de asociaciones del ecosistema de datos"
+      ],
+      "indicators": [
+        "Lidera iniciativas complejas de producto de datos",
+        "Define estándares y prácticas de producto de datos",
+        "Mentoriza a gerentes de producto de datos junior"
+      ]
+    },
+    "DPM-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en estrategia de producto de datos empresarial",
+        "Capacidad de definir la hoja de ruta de plataformas de datos",
+        "Dominio de gobernanza, confianza y cumplimiento a escala",
+        "Habilidad para alinear productos de datos con los objetivos de negocio",
+        "Conocimiento profundo de la economía de la plataforma y la gestión de costes",
+        "Capacidad de definir modelos operativos de producto de datos",
+        "Experiencia en monetización de datos y creación de valor",
+        "Dominio de la gestión de partes interesadas en toda la organización",
+        "Capacidad de establecer programas de calidad y certificación de productos de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de malla de datos y modelos de propiedad por dominio",
+        "Habilidad para liderar programas de experimentación y analítica",
+        "Comprensión de productos de datos que preservan la privacidad"
+      ],
+      "indicators": [
+        "Da forma a la estrategia de producto de datos empresarial",
+        "Lidera la dirección de producto de plataformas de datos",
+        "Define la hoja de ruta técnica y de negocio de datos"
+      ]
+    },
+    "DPM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de liderar una cartera global de productos de datos",
+        "Experiencia en modelos de datos como producto y datos como servicio",
+        "Dominio de estrategia de plataforma y pensamiento de ecosistema",
+        "Habilidad para establecer gobernanza de datos en toda la organización",
+        "Conocimiento profundo de operaciones financieras y medición de valor para datos",
+        "Capacidad de diseñar experiencias de datos de autoservicio a escala",
+        "Experiencia en malla de datos y propiedad federada",
+        "Dominio de programas de confianza, certificación y calidad de datos",
+        "Capacidad de liderar y hacer crecer equipos de producto de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de productos de datos generativos y basados en inteligencia artificial",
+        "Habilidad para impulsar la adopción entre dominios de negocio",
+        "Comprensión de prácticas sostenibles de producto de datos"
+      ],
+      "indicators": [
+        "Lidera la estrategia de producto de datos en múltiples dominios",
+        "Impulsa la transformación organizacional basada en datos",
+        "Define la visión de producto de datos a largo plazo"
+      ]
+    },
+    "DPM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en democratización de productos de datos empresarial",
+        "Capacidad de diseñar mercados e intercambios de datos",
+        "Experiencia en plataformas de datos de autoservicio a escala global",
+        "Dominio de monetización de datos y diseño de modelos de negocio",
+        "Capacidad de establecer gobernanza federada a escala global",
+        "Conocimiento profundo de los panoramas normativos y de cumplimiento globales",
+        "Experiencia en valoración de datos y priorización de cartera",
+        "Capacidad de definir prácticas de producto de datos en toda la empresa",
+        "Dominio de innovación en metodologías de producto de datos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en estándares de la industria de producto de datos",
+        "Habilidad para construir emprendimientos de producto de datos",
+        "Conocimiento de estrategia de ecosistema y asociaciones de datos"
+      ],
+      "indicators": [
+        "Define la estrategia corporativa de producto de datos",
+        "Lidera comunidades externas de producto de datos",
+        "Líder de pensamiento reconocido en gestión de producto de datos"
+      ]
+    },
+    "DPM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para el futuro de los productos de datos",
+        "Capacidad de transformar empresas en organizaciones guiadas por productos de datos",
+        "Experiencia en estrategia de producto de datos para fusiones e integraciones",
+        "Dominio de construcción de centros de excelencia de producto de datos",
+        "Capacidad de definir gobernanza de producto de datos empresarial",
+        "Conocimiento profundo de economía de datos y retorno de inversión",
+        "Experiencia en asociaciones estratégicas de datos y monetización",
+        "Capacidad de liderar iniciativas de producto de datos entre industrias",
+        "Dominio de ética de datos y prácticas de producto responsables"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de dar forma a metodologías de producto de datos",
+        "Habilidad para asesorar a consejos sobre inversión en producto de datos",
+        "Conocimiento de inversión en tecnología de producto de datos"
+      ],
+      "indicators": [
+        "Define la estrategia de producto de datos para conglomerados",
+        "Influye en la dirección de la disciplina de producto de datos",
+        "Ponente principal en conferencias globales"
+      ]
+    },
+    "DPM-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia de producto de datos",
+        "Capacidad de monetizar productos de datos como activos empresariales",
+        "Experiencia en transformación digital basada en datos",
+        "Dominio de presupuestos de producto de datos multimillonarios",
+        "Capacidad de construir organizaciones de producto de datos globales",
+        "Conocimiento profundo de gobernanza y cumplimiento de datos",
+        "Experiencia en asociaciones y ecosistemas de datos",
+        "Capacidad de definir una cultura guiada por productos de datos",
+        "Dominio de innovación e investigación en productos de datos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en la regulación y los estándares de datos",
+        "Habilidad para crear ecosistemas de producto de datos",
+        "Conocimiento de estrategias de inversión en producto de datos"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de producto de datos empresarial",
+        "Responsable de la estrategia de producto de datos corporativa",
+        "Líder reconocido en la industria global de producto de datos"
+      ]
+    }
+  }
+}

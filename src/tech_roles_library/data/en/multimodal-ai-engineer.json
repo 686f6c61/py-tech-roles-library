@@ -1,0 +1,258 @@
+{
+  "role": "Multimodal AI Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "MMALE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of how models take images, audio and text as inputs",
+        "Ability to load an image and run it through a pretrained vision model",
+        "Elementary knowledge of resizing, normalizing and formatting images for a model",
+        "Ability to run a pretrained image-text model such as CLIP on example pairs",
+        "Basic understanding of what an embedding is and how similarity is computed",
+        "Ability to extract frames from a video and audio from a clip under supervision",
+        "Elementary knowledge of reading model outputs for captioning or classification",
+        "Basic understanding of how text and image can share a common representation"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of Python and NumPy arrays",
+        "Familiarity with image libraries such as Pillow or OpenCV",
+        "Elementary understanding of tensors and their shapes"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can run existing multimodal scripts with detailed guidance",
+        "Needs 3-6 months to be productive"
+      ]
+    },
+    "MMALE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to build an image captioning or visual question answering prototype",
+        "Practical knowledge of preprocessing pipelines for image, audio and video",
+        "Ability to compute joint image-text embeddings and rank by similarity",
+        "Understanding of tokenizing text and patching images for transformer inputs",
+        "Ability to build image or text retrieval using a shared embedding space",
+        "Knowledge of measuring retrieval quality with recall and ranking metrics",
+        "Ability to handle different input resolutions, sampling rates and formats",
+        "Understanding of aligning timestamps across audio and video streams"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of vector search for embedding retrieval",
+        "Familiarity with torchvision and audio processing libraries",
+        "Basic understanding of spectrograms as audio input"
+      ],
+      "indicators": [
+        "Can build simple multimodal features independently",
+        "Resolves medium complexity issues in preprocessing and retrieval",
+        "Actively participates in code reviews"
+      ]
+    },
+    "MMALE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Ability to fine-tune a vision-language model for captioning or retrieval tasks",
+        "Ability to design fusion strategies combining image, text and audio features",
+        "Deep knowledge of contrastive training objectives used in CLIP-style models",
+        "Ability to build visual question answering over documents and images",
+        "Understanding of aligning modalities with cross-attention between encoders",
+        "Ability to evaluate multimodal outputs with task-specific and human metrics",
+        "Knowledge of handling missing or noisy modalities at inference time",
+        "Ability to instrument multimodal pipelines with per-modality tracing"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of diffusion models conditioned on text and image inputs",
+        "Ability to build datasets pairing images, audio and captions",
+        "Basic understanding of temporal modeling for video"
+      ],
+      "indicators": [
+        "Completes complex multimodal features with minimal supervision",
+        "Identifies and resolves failures in fusion and alignment",
+        "Actively contributes to technical design of multimodal systems"
+      ]
+    },
+    "MMALE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design multimodal architectures with early, late and hybrid fusion",
+        "Mastery of vision-language alignment with contrastive and generative objectives",
+        "Ability to build automated evaluation suites for captioning, retrieval and VQA",
+        "Deep knowledge of encoders for image, audio and video and their trade-offs",
+        "Ability to design multimodal generation combining text prompts and reference images",
+        "Mastery of large-scale preprocessing for image, audio and video datasets",
+        "Ability to fine-tune joint embedding models on domain-specific pairs",
+        "Knowledge of serving multimodal models with modality-specific batching"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of distillation for compact multimodal encoders",
+        "Ability to design cross-modal retrieval systems at scale",
+        "Understanding of temporal alignment for long video understanding"
+      ],
+      "indicators": [
+        "Leads development of critical multimodal components",
+        "Effectively mentors junior engineers",
+        "Makes informed architectural decisions on fusion and alignment"
+      ]
+    },
+    "MMALE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in designing production multimodal platforms for image, audio, video and text",
+        "Ability to architect scalable multimodal serving with modality-aware routing",
+        "Mastery of evaluation-driven development with multimodal benchmarks and human review",
+        "Deep knowledge of pretraining vision-language models on large paired corpora",
+        "Ability to design joint embedding spaces that scale across millions of items",
+        "Expertise in optimizing the accuracy, cost and latency of multimodal inference",
+        "Ability to build observability across preprocessing, fusion and generation stages",
+        "Mastery of handling modality imbalance and alignment failures in production"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of self-supervised objectives for multimodal representation learning",
+        "Ability to design multimodal benchmarks covering retrieval, VQA and generation",
+        "Understanding of bias and safety concerns specific to generated media"
+      ],
+      "indicators": [
+        "Designs multimodal architectures for complete products",
+        "Defines team technical standards for multimodal development",
+        "Leads cross-team initiatives on multimodal infrastructure"
+      ]
+    },
+    "MMALE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise multimodal platforms shared across many teams",
+        "Expertise in governance frameworks for multimodal data and generated media",
+        "Mastery of evaluation infrastructure and continuous monitoring across modalities",
+        "Ability to lead build-versus-fine-tune decisions for vision-language models",
+        "Deep knowledge of security and privacy threats in image, audio and video data",
+        "Ability to lead adoption of multimodal features across existing products",
+        "Expertise in cost governance for compute-heavy multimodal training and serving",
+        "Mastery of reliability engineering for pipelines spanning several modalities"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging multimodal architectures and open-weight models",
+        "Ability to design reusable multimodal datasets and evaluation catalogs",
+        "Understanding of on-device multimodal inference constraints"
+      ],
+      "indicators": [
+        "Architects multimodal solutions for multiple teams",
+        "Influences organizational technical decisions on multimodal AI",
+        "Represents the company technically in the multimodal domain"
+      ]
+    },
+    "MMALE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership of organization-wide multimodal AI adoption",
+        "Ability to design multimodal architectures resilient to model and vendor change",
+        "Expertise in strategies for scaling multimodal features to large user bases",
+        "Mastery of model-agnostic abstractions across vision, audio and language models",
+        "Ability to define multi-year roadmaps for multimodal capabilities",
+        "Deep knowledge of the economics and total cost of multimodal systems",
+        "Expertise in building and scaling multimodal engineering teams",
+        "Ability to set standards for responsible use of generated and analyzed media"
+      ],
+      "complementaryCompetencies": [
+        "Ability to evaluate multimodal vendors and open-weight models technically",
+        "Knowledge of research trends in multimodal representation and generation",
+        "Ability to shape internal policy on multimodal data and media use"
+      ],
+      "indicators": [
+        "Defines organizational technical strategy for multimodal AI",
+        "Recognized as an authority in applied multimodal AI",
+        "Speaker at industry conferences on multimodal systems"
+      ]
+    },
+    "MMALE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Ability to set the long-term technical direction for multimodal AI in the organization",
+        "Expertise in aligning multimodal investment with product and safety priorities",
+        "Mastery of technical due diligence for multimodal products and acquisitions",
+        "Ability to anticipate shifts in vision-language models and adapt architecture strategy",
+        "Deep knowledge of the risk and compliance landscape for generated and analyzed media",
+        "Ability to build and lead multimodal engineering organizations",
+        "Expertise in defining responsible media practices at organizational scale",
+        "Ability to guide trade-offs between in-house pretraining and foundation model reliance"
+      ],
+      "complementaryCompetencies": [
+        "Ability to inform industry standards for media provenance and consent",
+        "Knowledge of the multimodal model vendor and hardware landscape",
+        "Ability to advise leadership on multimodal risk and opportunity"
+      ],
+      "indicators": [
+        "Shapes the technical direction of multimodal AI in the organization",
+        "Advises senior leadership on multimodal strategy and risk",
+        "Mentors senior technical leaders in multimodal AI"
+      ]
+    },
+    "MMALE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Ability to define the organization's multimodal AI technical vision and safety posture",
+        "Expertise in aligning multimodal strategy with product direction and regulation",
+        "Mastery of governing large-scale multimodal training and inference investment",
+        "Ability to steer sourcing of vision-language models across vendors and open weights",
+        "Deep knowledge of managing privacy, consent and reputational risk of media processing",
+        "Ability to build organizational capability for responsible multimodal AI at scale",
+        "Expertise in setting provenance and disclosure standards for generated media",
+        "Ability to sustain competitive advantage through applied multimodal AI"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence regulation and standards for multimodal AI and media",
+        "Knowledge of the multimodal vendor, hardware and talent ecosystem",
+        "Ability to represent the organization on multimodal AI safety externally"
+      ],
+      "indicators": [
+        "Sets and executes the multimodal AI technical vision",
+        "Accountable for multimodal AI safety and quality across products",
+        "Public technical voice of the organization in multimodal AI"
+      ]
+    }
+  }
+}

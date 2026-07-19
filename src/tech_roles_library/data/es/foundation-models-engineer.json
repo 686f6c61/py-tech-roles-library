@@ -1,0 +1,249 @@
+{
+  "role": "Ingeniero de Modelos Fundacionales",
+  "category": "IA/ML",
+  "levels": {
+    "FME-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de qué es un modelo fundacional y de cómo se preentrena sobre grandes corpus",
+        "Nociones elementales de la tokenización y de cómo el texto se convierte en entradas del modelo",
+        "Capaz de ejecutar pasos de un pipeline de preprocesamiento de datos bajo supervisión",
+        "Comprensión básica de la arquitectura transformer y de la predicción del siguiente token",
+        "Capaz de inspeccionar y limpiar una porción de un conjunto de datos de entrenamiento siguiendo una guía",
+        "Práctica elemental de la lectura de la pérdida de entrenamiento y de métricas básicas",
+        "Comprensión básica de por qué la escala importa en los modelos fundacionales"
+      ],
+      "complementaryCompetencies": [
+        "Soltura con Python y el procesamiento distribuido de datos",
+        "Familiaridad con la ejecución de trabajos en un clúster de GPU",
+        "Noción elemental de la probabilidad y del modelado del lenguaje"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede ejecutar pasos del pipeline con guía detallada",
+        "Necesita 3-6 meses para ser productivo"
+      ]
+    },
+    "FME-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capaz de construir etapas de un pipeline de datos para filtrar y deduplicar texto",
+        "Comprensión del entrenamiento de tokenizadores y de la construcción del vocabulario",
+        "Capaz de ejecutar trabajos de preentrenamiento en paralelo de datos siguiendo una receta establecida",
+        "Medición práctica de la calidad de los datos y de la contaminación",
+        "Capaz de vigilar una ejecución de entrenamiento ante picos de pérdida y divergencia",
+        "Comprensión del checkpointing y de la reanudación de trabajos de entrenamiento largos",
+        "Familiaridad con el cálculo de métricas de evaluación como la perplejidad sobre datos reservados"
+      ],
+      "complementaryCompetencies": [
+        "Soltura con herramientas de datos distribuidas como Spark o Ray",
+        "Familiaridad con los formatos de conjuntos de datos y con el streaming de grandes corpus",
+        "Práctica básica de la pasada hacia delante y hacia atrás del transformer"
+      ],
+      "indicators": [
+        "Contribuye a los pipelines de preentrenamiento con supervisión",
+        "Resuelve problemas de complejidad media en los trabajos de datos y entrenamiento",
+        "Participa activamente en revisiones de código y datos"
+      ]
+    },
+    "FME-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Solvencia en la construcción de pipelines de deduplicación y filtrado de calidad a gran escala",
+        "Capaz de configurar paralelismo de tensor y de datos para una ejecución de preentrenamiento",
+        "Capaz de diagnosticar y recuperarse de la inestabilidad del entrenamiento, como los picos de pérdida",
+        "Buen manejo de las decisiones de tokenización y de su efecto en la calidad del modelo",
+        "Capaz de implementar checkpointing y reanudación robustos para ejecuciones largas",
+        "Comprensión de las leyes de escalado y de cómo se relacionan el cómputo, los datos y los parámetros",
+        "Capaz de construir conjuntos de evaluación que miden las capacidades del modelo base"
+      ],
+      "complementaryCompetencies": [
+        "Consciente de la detección de contaminación de datos frente a los bancos de pruebas de evaluación",
+        "Capaz de implementar fine-tuning supervisado sobre un modelo base",
+        "Práctica básica de la comunicación colectiva en el entrenamiento distribuido"
+      ],
+      "indicators": [
+        "Completa tareas complejas de ingeniería de preentrenamiento con mínima supervisión",
+        "Identifica y resuelve fallos en los pipelines de datos y entrenamiento",
+        "Contribuye activamente al diseño de recetas de preentrenamiento"
+      ]
+    },
+    "FME-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capaz de diseñar pipelines de datos que curan billones de tokens con deduplicación y filtrado",
+        "Solvencia en la combinación de paralelismo de tensor, de pipeline y de datos para entrenar modelos grandes",
+        "Capaz de mantener estable el entrenamiento mediante una inicialización cuidadosa y el control de la tasa de aprendizaje",
+        "Buen manejo del checkpointing, la tolerancia a fallos y el entrenamiento elástico a escala",
+        "Capaz de usar las leyes de escalado para planificar tamaños de modelo y de datos óptimos en cómputo",
+        "Solvencia con la evaluación de modelos base en bancos de pruebas de capacidad y de seguridad",
+        "Capaz de implementar métodos de alineación como RLHF o DPO sobre un modelo base"
+      ],
+      "complementaryCompetencies": [
+        "Consciente de la gobernanza de datos, incluidas la licencia y la procedencia de los datos de entrenamiento",
+        "Capaz de perfilar y optimizar el rendimiento del entrenamiento distribuido a gran escala",
+        "Comprensión de los compromisos de los tokenizadores entre idiomas y dominios"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de componentes críticos de preentrenamiento",
+        "Mentoriza eficazmente a ingenieros junior",
+        "Toma decisiones informadas sobre el diseño de sistemas de preentrenamiento"
+      ]
+    },
+    "FME-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experto en el diseño de sistemas de preentrenamiento que se ejecutan de forma estable en miles de GPU",
+        "Capaz de arquitectar pipelines de datos que filtran, deduplican y tokenizan corpus a escala web",
+        "Solvencia con las estrategias de paralelismo ajustadas a la forma del modelo y a la topología del clúster",
+        "Capaz de diseñar recetas de entrenamiento informadas por experimentos de leyes de escalado",
+        "Buen manejo del diagnóstico y la prevención de la inestabilidad en grandes ejecuciones de entrenamiento",
+        "Capaz de construir pipelines de alineación con RLHF, DPO y modelado de recompensas",
+        "Experto en la evaluación de modelos base, incluidas la capacidad, la robustez y la seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Consciente de la procedencia, la licencia y el filtrado de seguridad de los datos a escala",
+        "Capaz de diseñar ablaciones eficientes en cómputo antes de las ejecuciones a escala completa",
+        "Comprensión del equipo rojo y de la evaluación de seguridad de los modelos base"
+      ],
+      "indicators": [
+        "Diseña sistemas de preentrenamiento para programas completos de entrenamiento de modelos",
+        "Define los estándares técnicos de los pipelines de datos y entrenamiento",
+        "Lidera iniciativas entre equipos sobre infraestructura de preentrenamiento"
+      ]
+    },
+    "FME-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capaz de arquitectar la pila de preentrenamiento de principio a fin, desde los datos hasta el modelo alineado",
+        "Experto en la ejecución fiable de programas de entrenamiento en grandes clústeres de GPU",
+        "Solvencia con la estrategia de curación de datos, incluidas la calidad, la diversidad y la seguridad",
+        "Capaz de diseñar sistemas resilientes al fallo de hardware durante ejecuciones de un mes",
+        "Buen manejo de las leyes de escalado aplicadas a la planificación de presupuestos de entrenamiento de frontera",
+        "Capaz de liderar la adopción de nuevas técnicas de paralelismo y de entrenamiento en la organización",
+        "Experto en ingeniería de fiabilidad para el preentrenamiento distribuido a gran escala"
+      ],
+      "complementaryCompetencies": [
+        "Consciente de la evaluación de la seguridad del modelo y de su mitigación antes del lanzamiento",
+        "Capaz de diseñar infraestructura compartida de datos y evaluación para el entrenamiento de modelos",
+        "Comprensión de la economía del cómputo del entrenamiento de modelos de frontera"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de infraestructura de preentrenamiento para múltiples esfuerzos de modelos",
+        "Influye en las decisiones organizacionales sobre la estrategia de entrenamiento de modelos",
+        "Representa a la empresa técnicamente en el ámbito de los modelos fundacionales"
+      ]
+    },
+    "FME-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Aporta liderazgo técnico de los programas de entrenamiento de modelos fundacionales en toda la organización",
+        "Capaz de diseñar arquitecturas de preentrenamiento para sucesivas generaciones de modelos",
+        "Experto en estrategias para extraer la máxima capacidad por unidad de cómputo de entrenamiento",
+        "Buen manejo de la estrategia de datos que abarca adquisición, curación, seguridad y gobernanza",
+        "Capaz de definir hojas de ruta de varios años para el entrenamiento y la alineación de modelos",
+        "Comprensión profunda de los compromisos de coste, riesgo y capacidad del entrenamiento de frontera",
+        "Experto en la construcción y el escalamiento de equipos de ingeniería de modelos fundacionales"
+      ],
+      "complementaryCompetencies": [
+        "Capaz de evaluar arquitecturas y métodos de entrenamiento emergentes para su adopción",
+        "Capaz de orientar las decisiones de seguridad y lanzamiento de modelos con las partes interesadas",
+        "Consciente de las tendencias en investigación de escalado, datos y alineación"
+      ],
+      "indicators": [
+        "Define la estrategia organizacional para el preentrenamiento de modelos",
+        "Reconocido como autoridad técnica en el entrenamiento de modelos fundacionales",
+        "Ponente en conferencias de aprendizaje automático"
+      ]
+    },
+    "FME-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Fija la visión estratégica del programa de entrenamiento de modelos fundacionales de la organización",
+        "Capaz de liderar cambios importantes en la forma de entrenar, alinear y evaluar modelos",
+        "Experto en diligencia debida técnica para la inversión en entrenamiento de modelos y en cómputo",
+        "Impulsa el cambio organizacional hacia un entrenamiento de frontera seguro y eficiente",
+        "Capaz de construir y liderar organizaciones de ingeniería de modelos fundacionales",
+        "Comprensión profunda del impacto de las decisiones de datos, escala y alineación en la calidad del modelo",
+        "Experto en la relación con partes interesadas en torno al riesgo de capacidad y seguridad del modelo"
+      ],
+      "complementaryCompetencies": [
+        "Capaz de influir en la práctica del sector sobre el entrenamiento responsable de modelos",
+        "Capaz de orientar la inversión en cómputo para programas de entrenamiento de modelos",
+        "Consciente del panorama de los modelos de frontera y de los aceleradores"
+      ],
+      "indicators": [
+        "Impacta en la dirección técnica del entrenamiento de modelos fundacionales en el campo",
+        "Asesora a la dirección sobre la estrategia de entrenamiento y seguridad de modelos",
+        "Mentoriza a líderes técnicos senior"
+      ]
+    },
+    "FME-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Aporta liderazgo ejecutivo del entrenamiento de modelos fundacionales en toda la organización",
+        "Capaz de alinear la estrategia de entrenamiento de modelos con los compromisos de negocio y de seguridad",
+        "Experto en la gestión de presupuestos muy grandes para el cómputo y los datos de entrenamiento",
+        "Domina la comunicación con partes interesadas y con la junta directiva sobre el entrenamiento y la seguridad de modelos",
+        "Capaz de liderar la hoja de ruta de la organización para sucesivas generaciones de modelos",
+        "Comprensión profunda de la gestión de riesgos de la capacidad y el lanzamiento de modelos de frontera",
+        "Experto en la construcción de ventajas competitivas mediante la capacidad en modelos fundacionales"
+      ],
+      "complementaryCompetencies": [
+        "Capaz de dar forma a la política organizacional sobre seguridad de modelos y escalado responsable",
+        "Capaz de establecer alianzas para cómputo, datos y evaluación",
+        "Consciente de la economía de los programas de modelos de frontera"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión tecnológica de los modelos fundacionales",
+        "Responsable de la estrategia, el presupuesto y la seguridad del entrenamiento de modelos",
+        "Voz pública de la empresa en el desarrollo de modelos fundacionales"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Product Owner",
+  "category": "Product",
+  "levels": {
+    "PO-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of backlog management",
+        "Elementary understanding of Scrum framework",
+        "Ability to write basic user stories",
+        "Basic knowledge of acceptance criteria",
+        "Capability for simple prioritization",
+        "Understanding of basic sprint planning",
+        "Documentation of simple epics",
+        "Elementary knowledge of agile ceremonies"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with Jira/Azure DevOps",
+        "Basic knowledge of refinement",
+        "Understanding of velocity tracking"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Manages small backlogs",
+        "Is learning Scrum methodology"
+      ]
+    },
+    "PO-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to manage complex backlogs",
+        "Implementation of Definition of Done",
+        "Practical knowledge of story splitting",
+        "Ability to facilitate refinement sessions",
+        "Understanding of release planning",
+        "Capability for stakeholder communication",
+        "Knowledge of sprint goals definition",
+        "Ability for dependency management"
+      ],
+      "complementaryCompetencies": [
+        "Management of technical debt",
+        "Knowledge of capacity planning",
+        "Understanding of value delivery metrics"
+      ],
+      "indicators": [
+        "Manages products with supervision",
+        "Facilitates Scrum ceremonies",
+        "Collaborates with multiple teams"
+      ]
+    },
+    "PO-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of strategic product backlogs",
+        "Implementation of value-driven development",
+        "Mastery of advanced acceptance criteria",
+        "Capability for roadmap communication",
+        "Ability for trade-off decisions",
+        "Deep knowledge of release strategies",
+        "Implementation of continuous delivery",
+        "Management of multiple scrum teams"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of scaled agile frameworks",
+        "Ability for portfolio management",
+        "Understanding of DevOps practices"
+      ],
+      "indicators": [
+        "Leads product end-to-end",
+        "Defines product vision",
+        "Mentors other POs"
+      ]
+    },
+    "PO-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of product ownership at scale",
+        "Design of value streams optimization",
+        "Implementation of business agility",
+        "Mastery of enterprise backlog management",
+        "Capability for strategic alignment",
+        "Deep knowledge of lean portfolio",
+        "Ability for transformation leadership",
+        "Leadership in agile coaching"
+      ],
+      "complementaryCompetencies": [
+        "Experience in SAFe implementation",
+        "Knowledge of business architecture",
+        "Management of distributed teams"
+      ],
+      "indicators": [
+        "Defines agility strategy",
+        "Leads agile transformation",
+        "Influences organizational culture"
+      ]
+    },
+    "PO-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leadership of product owner organization",
+        "Design of agile operating models",
+        "Management of complex agile portfolios",
+        "Definition of product ownership standards",
+        "Capability for enterprise agility",
+        "Implementation of lean startup in enterprise",
+        "Mastery of innovation frameworks",
+        "Promotion of agile practices across teams"
+      ],
+      "complementaryCompetencies": [
+        "Experience in agile transformation",
+        "Knowledge of OKRs implementation",
+        "Management of agile vendors"
+      ],
+      "indicators": [
+        "Manages multiple POs",
+        "Defines agility framework",
+        "Represents agility to executives"
+      ]
+    },
+    "PO-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of organizational agility",
+        "Strategy for corporate agile transformation",
+        "Management of transformation budgets",
+        "Definition of business agility roadmaps",
+        "Leadership in cultural transformation",
+        "Implementation of agile at scale",
+        "Innovation in agile frameworks",
+        "Management of agile partnerships"
+      ],
+      "complementaryCompetencies": [
+        "Experience in agile merger integration",
+        "Knowledge of regulatory agility",
+        "Leadership in agile communities"
+      ],
+      "indicators": [
+        "Directs agility department",
+        "Participates in digital transformation",
+        "Defines agility investments"
+      ]
+    },
+    "PO-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in enterprise agility",
+        "Design of global agile strategies",
+        "Complete organizational transformation",
+        "Management of agile delivery across large organizations",
+        "Creation of competitive advantages via agility",
+        "Definition of the future of business agility",
+        "Communication of agile value to executive leadership",
+        "Influence in agile industry"
+      ],
+      "complementaryCompetencies": [
+        "Management of agility in IPO",
+        "Experience in enterprise agility",
+        "Leadership in agile alliances"
+      ],
+      "indicators": [
+        "Reports to C-suite",
+        "Manages agile transformation (50+ people)",
+        "Defines corporate agile strategy"
+      ]
+    },
+    "PO-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of agile enterprise",
+        "Leadership in industrial agile revolution",
+        "Definition of the product operating model",
+        "Management of global transformation",
+        "Innovation in agile delivery practices",
+        "Definition of post-agile frameworks",
+        "Promotion of adaptive operating models",
+        "Influence in agile economy"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CAO in enterprises",
+        "Advisory in agile unicorns",
+        "Thought leadership in agility"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines future of enterprise agility",
+        "Is world leader in agility"
+      ]
+    },
+    "PO-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in the future of organizations",
+        "Transformation of industries through agility",
+        "Design of product-centric operating models",
+        "Definition of liquid enterprises",
+        "Innovation in human-centric organizations",
+        "Promotion of value-driven agile culture",
+        "Architect of adaptive organizations",
+        "Influence in enterprise evolution"
+      ],
+      "complementaryCompetencies": [
+        "Creator of revolutionary frameworks",
+        "Recognition as father of modern agility",
+        "Influence in global management education"
+      ],
+      "indicators": [
+        "Leads enterprise-wide agile transformation",
+        "Defines organizational future",
+        "Is world authority in agility"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "AI Safety Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "AISAFE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of what can go wrong when language models are deployed, from harmful outputs to misuse",
+        "Elementary knowledge of alignment as making model behaviour match human intent",
+        "Ability to identify clearly unsafe responses in model outputs under supervision",
+        "Basic knowledge of how bias shows up in model completions",
+        "Ability to run predefined safety test cases against a model",
+        "Understanding of fairness and why representational harms matter",
+        "Documentation of safety issues with clear reproduction steps",
+        "Elementary knowledge of responsible AI principles and guidelines"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with model evaluation harnesses and benchmark suites",
+        "Basic knowledge of adversarial prompting and simple jailbreak attempts",
+        "Elementary understanding of interpretability as inspecting why a model responds"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Identifies clearly unsafe issues in model outputs",
+        "Is building foundational AI safety skills"
+      ]
+    },
+    "AISAFE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to evaluate a model against a safety rubric covering harmful and disallowed content",
+        "Implementation of bias detection across demographic slices of prompts",
+        "Practical knowledge of adversarial robustness and how prompts break safeguards",
+        "Ability to red team a language model to surface jailbreaks and unsafe behaviour",
+        "Understanding of safety benchmarks and what each one measures",
+        "Capability to propose mitigations such as prompt hardening and output filtering",
+        "Knowledge of alignment techniques like instruction tuning and preference feedback at a conceptual level",
+        "Ability to write clear safety evaluation reports"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of interpretability methods for inspecting model internals",
+        "Ability to build small harnesses for repeatable safety testing",
+        "Understanding of emerging AI regulations and their requirements"
+      ],
+      "indicators": [
+        "Evaluates model safety with supervision",
+        "Implements and tests mitigations",
+        "Documents risks with reproducible evidence"
+      ]
+    },
+    "AISAFE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of safety evaluation suites that cover a defined threat model",
+        "Implementation of practical alignment strategies such as tuning refusal behaviour and system prompts",
+        "Command of adversarial testing including systematic jailbreak discovery",
+        "Capability to measure and mitigate bias in model outputs",
+        "Ability to build safety monitoring for models running in production",
+        "Deep knowledge of AI failure modes from hallucination to prompt injection",
+        "Implementation of guardrails that constrain model inputs and outputs",
+        "Capability to communicate safety findings to engineering and product stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of applied interpretability to explain specific model behaviours",
+        "Ability to contribute to safety research and reproduce published results",
+        "Understanding of red teaming methodologies for frontier models"
+      ],
+      "indicators": [
+        "Leads safety evaluations for a model or feature",
+        "Designs guardrail and mitigation systems",
+        "Mentors others on AI safety practice"
+      ]
+    },
+    "AISAFE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of an AI safety program spanning evaluation, red teaming and monitoring",
+        "Design of practical alignment strategies validated with measurable outcomes",
+        "Implementation of safety evaluation at scale across many models and releases",
+        "Mastery of advanced red teaming including automated adversarial generation",
+        "Capability to define deployment gates and responsible release criteria",
+        "Deep knowledge of the risks specific to autonomous and high-capability systems",
+        "Ability to run applied safety research that informs product decisions",
+        "Leadership of responsible AI practices across teams"
+      ],
+      "complementaryCompetencies": [
+        "Experience contributing to published safety or alignment research",
+        "Knowledge of safety standards and evaluation frameworks in the field",
+        "Implementation of a safety culture within engineering teams"
+      ],
+      "indicators": [
+        "Defines the AI safety strategy for a product area",
+        "Leads applied safety research and red teaming",
+        "Is a technical reference for AI safety"
+      ]
+    },
+    "AISAFE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership across an AI safety practice covering evaluation, alignment and deployment",
+        "Design of safety evaluation infrastructure reused across models and teams",
+        "Management of a safety team including researchers and red teamers",
+        "Definition of safety standards and responsible deployment policies",
+        "Capability to run structured risk assessments for new model capabilities",
+        "Implementation of safety governance that gates high-risk releases",
+        "Command of alignment research and how to apply it in production systems",
+        "Communication of safety posture and residual risk to senior stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Experience shaping internal safety policy",
+        "Knowledge of AI governance frameworks and regulatory expectations",
+        "Management of the safety evaluation and tooling budget"
+      ],
+      "indicators": [
+        "Manages an AI safety team",
+        "Defines the vision for AI safety",
+        "Represents safety to executives"
+      ]
+    },
+    "AISAFE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of the AI safety strategy across the organization",
+        "Management of safety programs at scale across multiple models and products",
+        "Definition of the safety evaluation and red teaming architecture",
+        "Leadership of efforts to raise the safety bar across engineering",
+        "Management of safety incidents involving model behaviour in production",
+        "Implementation of organization-wide responsible deployment standards",
+        "Innovation in safety evaluation and alignment methodology",
+        "Management of compliance with emerging AI safety regulation"
+      ],
+      "complementaryCompetencies": [
+        "Experience engaging with AI regulation and policy discussions",
+        "Knowledge of where to invest across evaluation, research and tooling",
+        "Leadership within the AI safety community"
+      ],
+      "indicators": [
+        "Directs the AI safety function",
+        "Participates in executive strategy",
+        "Decides where AI safety investment goes"
+      ]
+    },
+    "AISAFE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership of AI safety across a large organization",
+        "Design of a global safety strategy across products and jurisdictions",
+        "Transformation of how the organization evaluates and gates model releases",
+        "Management of AI safety across a large, distributed engineering organization",
+        "Creation of a safety-conscious, responsible-deployment culture",
+        "Definition of the multi-year roadmap for AI safety capabilities",
+        "Communication of AI risk and safety posture to the board",
+        "Influence on how the industry approaches AI safety"
+      ],
+      "complementaryCompetencies": [
+        "Management of substantial AI safety budgets",
+        "Experience engaging with AI governance and policy bodies",
+        "Leadership within the broader responsible AI community"
+      ],
+      "indicators": [
+        "Reports to a technical or safety executive",
+        "Leads a large AI safety organization",
+        "Defines enterprise AI safety strategy"
+      ]
+    },
+    "AISAFE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for how the organization keeps increasingly capable models safe",
+        "Leadership of responsible AI as a company-wide discipline",
+        "Creation of a safety advantage through rigorous evaluation and alignment",
+        "Management of the ecosystem of evaluations, red teams and external partners",
+        "Innovation in alignment and interpretability that advances the field",
+        "Definition of safety practices for the most capable systems the organization builds",
+        "Championing of responsible deployment across leadership",
+        "Influence on internal AI policy grounded in safety evidence"
+      ],
+      "complementaryCompetencies": [
+        "Experience shaping AI safety at leading technology organizations",
+        "Advisory relationships with safety researchers and institutions",
+        "Recognized technical authority in AI safety"
+      ],
+      "indicators": [
+        "Sits on the technical leadership team",
+        "Sets the direction for AI safety across the company",
+        "Is a recognized leader in the AI safety field"
+      ]
+    },
+    "AISAFE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership of AI safety as a core organizational capability",
+        "Transformation of how the enterprise evaluates, aligns and deploys models responsibly",
+        "Definition of a responsible-by-default approach to building AI systems",
+        "Establishment of rigorous safety evaluation as a precondition for release",
+        "Innovation in alignment and safety evaluation that shapes industry practice",
+        "Advocacy for responsible AI as a driver of durable trust",
+        "Architecture of the organization's overall AI safety program",
+        "Influence on AI safety standards and regulation beyond the company"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming AI safety at enterprise scale",
+        "Recognition as a leading figure in AI safety",
+        "Influence on AI safety policy and standards"
+      ],
+      "indicators": [
+        "Leads AI safety at the executive level",
+        "Sets the long-term direction for the discipline",
+        "Is regarded as an authority in AI safety"
+      ]
+    }
+  }
+}

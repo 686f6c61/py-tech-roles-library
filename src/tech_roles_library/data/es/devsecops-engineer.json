@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero DevSecOps",
+  "category": "Seguridad",
+  "levels": {
+    "DSO-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de canalizaciones de integración y despliegue continuos",
+        "Conocimiento elemental de control de versiones y flujos de trabajo con Git",
+        "Capacidad de ejecutar análisis de seguridad con supervisión",
+        "Conocimiento básico de los conceptos de análisis estático, dinámico y de composición de software",
+        "Comprensión de los fundamentos de contenedores (Docker)",
+        "Capacidad de leer e interpretar registros de canalización",
+        "Documentación de hallazgos de seguridad en las canalizaciones",
+        "Conciencia de los fundamentos de gestión de secretos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de integración continua habituales (GitHub Actions, GitLab CI)",
+        "Programación básica de scripts en Bash o Python",
+        "Comprensión elemental de las diez principales vulnerabilidades de OWASP"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta comprobaciones de seguridad predefinidas",
+        "Está aprendiendo los fundamentos de DevSecOps"
+      ]
+    },
+    "DSO-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de integrar analizadores estáticos y de composición de software en las canalizaciones",
+        "Configuración de barreras de seguridad básicas en la integración y el despliegue continuos",
+        "Conocimiento práctico del análisis de imágenes de contenedor",
+        "Capacidad de clasificar los resultados de los análisis de vulnerabilidades",
+        "Comprensión de los riesgos de dependencias y de la cadena de suministro",
+        "Implementación de análisis básico de secretos",
+        "Capacidad de automatizar tareas de seguridad sencillas",
+        "Conocimiento de la configuración segura de canalizaciones"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con la infraestructura como código (Terraform)",
+        "Conocimiento básico de los conceptos de políticas como código",
+        "Comprensión de los fundamentos de Kubernetes"
+      ],
+      "indicators": [
+        "Trabaja con supervisión habitual",
+        "Integra herramientas de seguridad en canalizaciones existentes",
+        "Contribuye a la remediación de hallazgos"
+      ]
+    },
+    "DSO-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de barreras de seguridad con umbrales definidos",
+        "Integración del análisis dinámico en las canalizaciones de despliegue",
+        "Capacidad de reforzar imágenes de contenedor y capas base",
+        "Implementación de políticas como código con OPA o herramientas similares",
+        "Configuración de plataformas de gestión de secretos (Vault)",
+        "Capacidad de analizar y priorizar vulnerabilidades por riesgo",
+        "Conocimiento de la seguridad de la cadena de suministro (generación de SBOM)",
+        "Capacidad de orientar a los desarrolladores en la remediación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la gestión de la postura de seguridad en la nube",
+        "Capacidad de escribir plantillas de canalización reutilizables",
+        "Comprensión de los requisitos de cumplimiento normativo"
+      ],
+      "indicators": [
+        "Trabaja con supervisión ocasional",
+        "Es responsable de la integración de seguridad de una canalización",
+        "Mentoriza a los aprendices en el uso de herramientas"
+      ]
+    },
+    "DSO-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Diseño autónomo de arquitecturas seguras de integración y despliegue continuos",
+        "Implementación de seguridad de la cadena de suministro de extremo a extremo",
+        "Dominio de los controles de seguridad de contenedores y Kubernetes",
+        "Diseño de marcos de políticas como código entre equipos",
+        "Automatización de flujos de gestión de vulnerabilidades",
+        "Capacidad de implementar artefactos firmados y trazabilidad de origen",
+        "Integración de la seguridad en los flujos de trabajo de GitOps",
+        "Capacidad de definir requisitos de seguridad para las canalizaciones"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con herramientas de seguridad nativas de la nube",
+        "Conocimiento de modelado de amenazas para canalizaciones",
+        "Implementación de métricas y paneles de seguridad"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma",
+        "Diseña canalizaciones de entrega seguras",
+        "Es referente en seguridad de integración y despliegue continuos"
+      ]
+    },
+    "DSO-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño experto de plataformas DevSecOps a escala",
+        "Definición de la estrategia de seguridad anticipada",
+        "Dominio de los marcos de seguridad de la cadena de suministro (SLSA)",
+        "Liderazgo en el ciclo de vida de entrega segura de software",
+        "Diseño de herramientas de seguridad de autoservicio para desarrolladores",
+        "Optimización de las barreras de seguridad para la velocidad de desarrollo",
+        "Implementación de seguridad en tiempo de ejecución en Kubernetes",
+        "Capacidad de reducir los falsos positivos entre analizadores"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en automatización del cumplimiento normativo (SOC2, ISO27001)",
+        "Conocimiento de confianza cero en las canalizaciones de entrega",
+        "Mentoría de ingenieros DevSecOps"
+      ],
+      "indicators": [
+        "Es totalmente autónomo y experto",
+        "Define las prácticas DevSecOps de la organización",
+        "Lidera iniciativas de automatización de seguridad"
+      ]
+    },
+    "DSO-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la función DevSecOps",
+        "Diseño de la estrategia de entrega segura para toda la empresa",
+        "Definición de estándares de seguridad para ingeniería",
+        "Liderazgo de equipos de seguridad de plataforma",
+        "Gobierno del riesgo de la cadena de suministro en toda la organización",
+        "Implementación de barreras de seguridad a escala",
+        "Capacidad de alinear DevSecOps con el apetito de riesgo del negocio",
+        "Impulso de la cultura de seguridad en los equipos de ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en evaluación de proveedores y herramientas",
+        "Conocimiento de marcos de cumplimiento regulatorio",
+        "Gestión de presupuestos de herramientas de seguridad"
+      ],
+      "indicators": [
+        "Lidera DevSecOps en varios equipos",
+        "Define la visión de entrega segura",
+        "Influye en las prácticas de toda la ingeniería"
+      ]
+    },
+    "DSO-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Dirección estratégica de los programas DevSecOps",
+        "Definición de la entrega segura de software a escala",
+        "Liderazgo de la transformación de seguridad organizativa",
+        "Diseño del gobierno de seguridad para ingeniería",
+        "Gestión de la seguridad de la cadena de suministro a nivel empresarial",
+        "Innovación en tecnologías de automatización de seguridad",
+        "Capacidad de representar la seguridad ante la alta dirección",
+        "Definición de la hoja de ruta de ingeniería de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia influyendo en estándares del sector",
+        "Conocimiento de priorización de inversiones en seguridad",
+        "Liderazgo en programas de seguridad interfuncionales"
+      ],
+      "indicators": [
+        "Dirige DevSecOps a escala organizativa",
+        "Participa en la estrategia de seguridad",
+        "Es una autoridad reconocida en DevSecOps"
+      ]
+    },
+    "DSO-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para la entrega segura de software",
+        "Liderazgo en la transformación de seguridad empresarial",
+        "Definición de las prácticas y estándares DevSecOps a largo plazo de la organización",
+        "Creación de ventaja competitiva mediante la entrega segura",
+        "Gestión de la seguridad en ecosistemas complejos",
+        "Avance de los controles y el instrumental de seguridad de la cadena de suministro de software",
+        "Influencia en las políticas de seguridad de ingeniería",
+        "Adopción de los principios de seguridad desde el diseño en ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como líder de ingeniería de seguridad en empresas en crecimiento",
+        "Asesoría en empresas emergentes de herramientas DevSecOps",
+        "Liderazgo de pensamiento en entrega segura"
+      ],
+      "indicators": [
+        "Marca la dirección técnica de toda la organización",
+        "Define la estrategia DevSecOps al más alto nivel",
+        "Es un líder reconocido en el sector"
+      ]
+    },
+    "DSO-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en la entrega segura de software",
+        "Transformación de la cultura de seguridad de ingeniería",
+        "Definición de organizaciones de entrega centradas en la seguridad",
+        "Estrategia ejecutiva de DevSecOps a escala empresarial",
+        "Innovación en gobierno y automatización de seguridad",
+        "Influencia en los estándares de cadena de suministro del sector",
+        "Arquitecto de ecosistemas de ingeniería segura",
+        "Alineación de la seguridad con la estrategia corporativa"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando la seguridad en grandes corporaciones",
+        "Reconocimiento como líder de ingeniería de seguridad",
+        "Influencia en los estándares de entrega segura"
+      ],
+      "indicators": [
+        "Opera a nivel de vicepresidente o director de tecnología",
+        "Define el futuro de la entrega segura",
+        "Es autoridad mundial en DevSecOps"
+      ]
+    }
+  }
+}

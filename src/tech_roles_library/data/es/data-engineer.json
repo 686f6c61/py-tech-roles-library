@@ -1,0 +1,266 @@
+{
+  "role": "Ingeniero de Datos",
+  "category": "Datos",
+  "levels": {
+    "DE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de bases de datos relacionales y SQL",
+        "Conocimiento elemental de tipos de datos y estructuras",
+        "Habilidad para escribir consultas SQL simples",
+        "Comprensión básica de ETL y movimiento de datos",
+        "Capacidad de trabajar con archivos CSV, JSON, XML",
+        "Conocimiento elemental de calidad de datos",
+        "Comprensión básica de almacenamiento de datos",
+        "Habilidad para usar herramientas de visualización básicas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de Python para datos",
+        "Familiaridad con Excel avanzado",
+        "Comprensión elemental de estadística"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en tareas de datos",
+        "Puede ejecutar scripts de carga de datos simples",
+        "Necesita 3-6 meses de mentoría en ingeniería de datos"
+      ]
+    },
+    "DE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar e implementar pipelines ETL básicos",
+        "Habilidad para optimizar consultas SQL y crear índices",
+        "Conocimiento práctico de modelado dimensional básico",
+        "Comprensión de particionamiento y fragmentación básica",
+        "Capacidad de implementar validación y limpieza de datos",
+        "Habilidad para trabajar con APIs y extracción web",
+        "Conocimiento de programación y orquestación básica",
+        "Comprensión de versionado de datos y esquemas",
+        "Capacidad de documentar pipelines y procesos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de NoSQL",
+        "Habilidad para usar herramientas de inteligencia de negocios",
+        "Comprensión de almacenamiento en la nube"
+      ],
+      "indicators": [
+        "Puede construir pipelines simples con supervisión",
+        "Resuelve problemas de calidad de datos comunes",
+        "Mantiene pipelines existentes efectivamente"
+      ]
+    },
+    "DE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de múltiples tecnologías de bases de datos (SQL, NoSQL)",
+        "Capacidad de implementar pipelines de transmisión básicos",
+        "Habilidad para diseñar almacenes de datos y mercados de datos",
+        "Conocimiento profundo de optimización de rendimiento",
+        "Capacidad de implementar captura de cambios y replicación de datos",
+        "Comprensión sólida de gobernanza de datos y linaje",
+        "Habilidad para trabajar con herramientas de grandes volúmenes (Spark, Hadoop)",
+        "Conocimiento de contenedorización para pipelines",
+        "Capacidad de implementar monitorización y alertas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de pipelines de aprendizaje automático",
+        "Habilidad para trabajar con lagos de datos",
+        "Comprensión de análisis en tiempo real"
+      ],
+      "indicators": [
+        "Diseña soluciones de datos de extremo a extremo",
+        "Optimiza pipelines existentes significativamente",
+        "Contribuye a arquitectura de datos"
+      ]
+    },
+    "DE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas de datos escalables",
+        "Dominio de procesamiento distribuido y sistemas MPP",
+        "Habilidad para implementar arquitecturas basadas en eventos",
+        "Conocimiento profundo de malla de datos y tejido de datos",
+        "Capacidad de implementar almacenes de características para aprendizaje automático",
+        "Dominio de optimización de costes en la nube",
+        "Habilidad para diseñar sistemas de metadatos",
+        "Conocimiento de catalogación y descubrimiento de datos",
+        "Capacidad de implementar cumplimiento técnico del RGPD"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de bases de datos de grafos",
+        "Habilidad para optimización de series temporales",
+        "Comprensión de análisis en el borde"
+      ],
+      "indicators": [
+        "Lidera proyectos de datos complejos",
+        "Define estándares de ingeniería de datos",
+        "Mentoriza a ingenieros de datos junior"
+      ]
+    },
+    "DE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en arquitecturas lambda y kappa",
+        "Capacidad de diseñar plataformas de datos empresariales",
+        "Dominio de transmisión en tiempo real a escala (Kafka, Pulsar)",
+        "Habilidad para implementar virtualización de datos",
+        "Conocimiento profundo de marcos de computación distribuida",
+        "Capacidad de implementar estrategias de datos multinube",
+        "Experiencia en marcos de calidad de datos empresariales",
+        "Dominio de operaciones de datos y automatización",
+        "Capacidad de diseñar recuperación ante desastres para datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de procesamiento de datos cuántico",
+        "Habilidad para integración de datos en blockchain",
+        "Comprensión de generación de datos sintéticos"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones de datos empresariales",
+        "Lidera migración de plataformas de datos",
+        "Define hoja de ruta técnica de datos"
+      ]
+    },
+    "DE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar ecosistemas de datos globales",
+        "Experiencia en aprendizaje federado y análisis que preserva la privacidad",
+        "Dominio de productos de datos y datos como servicio",
+        "Habilidad para implementar observabilidad de datos completa",
+        "Conocimiento profundo de operaciones financieras para datos",
+        "Capacidad de diseñar arquitecturas para escala de petabytes",
+        "Experiencia en replicación entre regiones y geodistribución",
+        "Dominio de capa semántica y capa de métricas",
+        "Capacidad de liderar equipos de plataforma de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de computación neuromórfica",
+        "Habilidad para datos en computación en el borde",
+        "Comprensión de ingeniería de datos sostenible"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de plataformas de datos para múltiples productos",
+        "Lidera transformación organizacional basada en datos",
+        "Define estrategia de datos a largo plazo"
+      ]
+    },
+    "DE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en democratización de datos empresarial",
+        "Capacidad de diseñar intercambios de datos y mercados",
+        "Experiencia en análisis aumentado y plataformas de aprendizaje automático automatizado",
+        "Dominio de grafos de conocimiento empresariales",
+        "Capacidad de implementar tejido de datos a escala global",
+        "Conocimiento profundo de cumplimiento normativo global",
+        "Experiencia en valoración y monetización de datos",
+        "Capacidad de diseñar plataformas de análisis de autoservicio",
+        "Dominio de innovación en tecnologías de datos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en estándares de datos",
+        "Habilidad para crear empresas emergentes de datos",
+        "Conocimiento de capital de riesgo en datos"
+      ],
+      "indicators": [
+        "Define estrategia de datos corporativa",
+        "Lidera comunidades de datos externas",
+        "Líder de pensamiento reconocido en ingeniería de datos"
+      ]
+    },
+    "DE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para el futuro de los datos",
+        "Capacidad de transformar empresas en organizaciones basadas en datos",
+        "Experiencia en estrategia de datos para fusiones y adquisiciones",
+        "Dominio de construcción de centros de excelencia de datos",
+        "Capacidad de definir gobernanza de datos corporativa",
+        "Conocimiento profundo de economía de datos y retorno de inversión",
+        "Experiencia en asociaciones estratégicas de datos",
+        "Capacidad de liderar proyectos de código abierto de datos",
+        "Dominio de ética de datos e inteligencia artificial responsable"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones de datos",
+        "Habilidad para consejos asesores",
+        "Conocimiento de inversión en tecnología de datos"
+      ],
+      "indicators": [
+        "Define arquitectura de datos para conglomerados",
+        "Influye en dirección de la industria",
+        "Ponente principal en conferencias globales"
+      ]
+    },
+    "DE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia de datos",
+        "Capacidad de monetizar datos como activo empresarial",
+        "Experiencia en transformación digital basada en datos",
+        "Dominio de presupuestos de datos multimillonarios",
+        "Capacidad de construir organizaciones de datos globales",
+        "Conocimiento profundo de gobernanza de datos y cumplimiento",
+        "Experiencia en asociaciones de datos y ecosistemas",
+        "Capacidad de definir cultura basada en datos",
+        "Dominio de innovación e investigación en datos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar regulación de datos",
+        "Habilidad para crear ecosistemas de datos",
+        "Conocimiento de estrategias de inversión en datos"
+      ],
+      "indicators": [
+        "Define y ejecuta visión de datos empresarial",
+        "Responsable de estrategia de datos corporativa",
+        "Líder reconocido en industria de datos global"
+      ]
+    }
+  }
+}

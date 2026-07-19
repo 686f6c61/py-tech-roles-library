@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Robótica",
+  "category": "IA/ML",
+  "levels": {
+    "RBE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de los componentes del robot, los sensores y los actuadores",
+        "Manejo elemental de la cinemática directa y de los sistemas de referencia",
+        "Capacidad de programar comportamientos de robot sencillos con supervisión",
+        "Práctica básica en la lectura de datos de sensores como codificadores y telémetros",
+        "Capacidad de ejecutar bucles de control básicos para motores y articulaciones",
+        "Manejo elemental del sistema operativo robótico ROS, con sus nodos y tópicos",
+        "Comprensión básica de los entornos de simulación de robots",
+        "Capacidad de documentar los montajes robóticos y su cableado"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con las plataformas de microcontrolador para prototipado",
+        "Familiaridad con simuladores básicos como Gazebo",
+        "Noción elemental del control de pinzas y efectores finales"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Programa comportamientos de robot sencillos",
+        "Está aprendiendo ingeniería robótica"
+      ]
+    },
+    "RBE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar control por realimentación, como los controladores PID",
+        "Capacidad de construir planificación de trayectorias básica para robots móviles",
+        "Manejo práctico de la dinámica de cuerpos rígidos y de las fuerzas",
+        "Capacidad de fusionar datos de varios sensores para la estimación del estado",
+        "Comprensión de los métodos de localización para robots móviles",
+        "Capacidad de realizar tareas básicas de manipulación y de coger y colocar",
+        "Práctica con la percepción del robot mediante cámaras y sensores de profundidad",
+        "Capacidad de trabajar dentro de paquetes de ROS e interfaces de mensajes"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con las pilas de navegación de robots móviles",
+        "Noción de la programación de robots industriales",
+        "Familiaridad con las transformaciones de coordenadas y la calibración"
+      ],
+      "indicators": [
+        "Desarrolla aplicaciones robóticas con supervisión",
+        "Implementa comportamientos y controladores de robot",
+        "Integra sensores y actuadores"
+      ]
+    },
+    "RBE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio del diseño de sistemas robóticos completos, desde la percepción hasta la actuación",
+        "Capacidad de implementar localización y mapeo simultáneos",
+        "Capacidad de construir planificación de movimiento con evitación de obstáculos",
+        "Dominio sólido de la teoría de control, incluidos los métodos en espacio de estados",
+        "Capacidad de implementar navegación autónoma en entornos reales",
+        "Capacidad de diseñar interacción persona-robot para espacios de trabajo compartidos",
+        "Práctica en la coordinación de varios robots en una tarea",
+        "Capacidad de aplicar métodos basados en aprendizaje al control del robot"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con la transferencia de políticas de la simulación al robot real",
+        "Capacidad de trabajar con manipuladores y cinemática inversa",
+        "Noción de la autonomía de drones o robots con patas"
+      ],
+      "indicators": [
+        "Lidera proyectos de robótica con supervisión mínima",
+        "Diseña comportamientos de robot autónomos",
+        "Mentoriza a ingenieros de robótica junior"
+      ]
+    },
+    "RBE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar plataformas robóticas que integran hardware y software",
+        "Dominio de los flujos de percepción que fusionan SLAM, visión y profundidad",
+        "Capacidad de diseñar control de cuerpo completo y coordinado de varias articulaciones",
+        "Dominio sólido de la planificación de movimiento y de tareas bajo restricciones",
+        "Capacidad de salvar la brecha entre la simulación y la realidad en el despliegue",
+        "Capacidad de aplicar el aprendizaje por demostración a las habilidades del robot",
+        "Práctica con los requisitos de seguridad funcional para robots que operan junto a personas",
+        "Capacidad de mentorizar a ingenieros en diseño e integración de robótica"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con la manipulación en entornos no estructurados",
+        "Familiaridad con los sistemas de tiempo real para el control del robot",
+        "Noción de la certificación para robots críticos para la seguridad"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de plataformas robóticas",
+        "Mentoriza a equipos en ingeniería robótica",
+        "Toma decisiones de arquitectura sobre los sistemas robóticos"
+      ]
+    },
+    "RBE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Pericia en liderar programas de robótica del prototipo al producto",
+        "Capacidad de diseñar y operar flotas de robots coordinados",
+        "Dominio de los estándares de seguridad funcional y de la evaluación de riesgos de los robots",
+        "Capacidad de definir la estrategia de automatización de una línea de productos robóticos",
+        "Dominio sólido de la ingeniería de fiabilidad para sistemas físicos",
+        "Capacidad de diseñar percepción y control que generalizan entre condiciones",
+        "Pericia en la economía de coste y mantenimiento de los despliegues robóticos",
+        "Capacidad de establecer pruebas y validación para robots críticos para la seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con robots en entornos de campo exigentes",
+        "Familiaridad con la teleoperación y la autonomía compartida",
+        "Gestión de las relaciones con proveedores de hardware y componentes"
+      ],
+      "indicators": [
+        "Diseña arquitecturas de robótica para productos completos",
+        "Define los estándares del equipo para el desarrollo de robots",
+        "Lidera iniciativas de robótica entre equipos"
+      ]
+    },
+    "RBE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar plataformas de robótica que sirven a varias líneas de producto",
+        "Pericia en la certificación de seguridad y el cumplimiento de los robots desplegados",
+        "Dominio de la supervisión de la fiabilidad y la calidad de las flotas de robots",
+        "Capacidad de diseñar sistemas autónomos que cumplen objetivos de seguridad",
+        "Dominio sólido de los riesgos propios de los robots que operan entre personas",
+        "Capacidad de liderar la adopción de la automatización robótica en las operaciones",
+        "Pericia en la gestión del coste total de la operación de flotas de robots",
+        "Capacidad de fijar estándares de percepción, control y seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con el hardware y la actuación robótica emergentes",
+        "Capacidad de diseñar servicios compartidos de percepción y navegación",
+        "Noción de la computación en el borde para el procesamiento a bordo del robot"
+      ],
+      "indicators": [
+        "Diseña soluciones de robótica para varios equipos",
+        "Influye en las decisiones organizativas sobre automatización",
+        "Representa a la empresa técnicamente en robótica"
+      ]
+    },
+    "RBE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la estrategia de robótica en toda la organización",
+        "Capacidad de diseñar arquitecturas de robot independientes del hardware concreto",
+        "Pericia en pilas de software de robótica independientes de la plataforma",
+        "Capacidad de definir hojas de ruta plurianuales para las capacidades robóticas",
+        "Dominio sólido del coste total y de la economía de los programas de robótica",
+        "Pericia en la construcción y el escalado de equipos de ingeniería robótica",
+        "Capacidad de fijar estándares de seguridad y validación adoptados en toda la organización",
+        "Capacidad de guiar las decisiones de construir o comprar sistemas robóticos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de evaluar proveedores y componentes de robótica",
+        "Familiaridad con las tendencias de investigación en aprendizaje y control de robots",
+        "Capacidad de representar el trabajo de robótica en congresos del sector"
+      ],
+      "indicators": [
+        "Define la estrategia organizativa de robótica",
+        "Reconocido como autoridad técnica en robótica",
+        "Ponente en congresos del sector sobre robótica"
+      ]
+    },
+    "RBE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Dirección estratégica de cómo la organización construye sus sistemas robóticos",
+        "Capacidad de alinear las inversiones en robótica con los objetivos de producto y negocio",
+        "Pericia en la diligencia debida técnica de productos y adquisiciones de robótica",
+        "Capacidad de fijar el listón de ingeniería para la seguridad y la fiabilidad del robot",
+        "Dominio sólido del paso de la investigación en robótica a sistemas de producción",
+        "Capacidad de construir y dirigir organizaciones de ingeniería robótica",
+        "Pericia en equilibrar las ambiciones de autonomía con la seguridad y la entrega",
+        "Capacidad de asesorar a la dirección sobre el riesgo y la oportunidad en robótica"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de dar forma a la estrategia de hardware y plataforma para la robótica",
+        "Familiaridad con la regulación y la responsabilidad de las máquinas autónomas",
+        "Capacidad de mentorizar a ingenieros principales y responsables técnicos"
+      ],
+      "indicators": [
+        "Da forma a la dirección técnica de la robótica en la empresa",
+        "Asesora a la dirección en decisiones sobre robótica",
+        "Mentoriza a responsables técnicos senior"
+      ]
+    },
+    "RBE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la estrategia de robótica y automatización",
+        "Capacidad de alinear las capacidades robóticas con la estrategia de la empresa",
+        "Pericia en la planificación y gestión de presupuestos para programas de robótica",
+        "Capacidad de fijar la política organizativa de sistemas autónomos seguros",
+        "Dominio sólido de la seguridad, la responsabilidad y el riesgo de los robots desplegados",
+        "Capacidad de construir ventaja competitiva a través de las capacidades robóticas",
+        "Pericia en la colaboración con proveedores de hardware y plataformas",
+        "Capacidad de guiar a la organización a través de los cambios en la tecnología robótica"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de representar a la empresa en asuntos de robótica y automatización",
+        "Familiaridad con el panorama de proveedores e investigación en robótica",
+        "Capacidad de dar forma a la contratación y al diseño organizativo de los equipos de robótica"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de tecnología robótica",
+        "Responsable de los resultados de las inversiones en robótica",
+        "Representa a la empresa externamente en robótica"
+      ]
+    }
+  }
+}

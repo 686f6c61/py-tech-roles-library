@@ -1,0 +1,258 @@
+{
+  "role": "Agile Coach",
+  "category": "Producto",
+  "levels": {
+    "AC-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión de la diferencia entre hacer coaching a un equipo y facilitar sus eventos",
+        "Conocimiento básico de las posturas de coaching como enseñar, mentorizar y facilitar",
+        "Capacidad de observar a un equipo y registrar patrones sin intervenir",
+        "Familiaridad con la distinción entre métricas de salida y métricas de resultado",
+        "Comprensión de por qué un proceso impuesto rara vez produce un cambio duradero",
+        "Habilidad para preparar materiales de una sesión de formación sobre fundamentos ágiles",
+        "Nociones básicas de escucha activa y preguntas poderosas",
+        "Documentación de observaciones de las interacciones con el equipo y con management"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con los marcos ágiles habituales y su vocabulario",
+        "Conocimiento básico de técnicas de facilitación",
+        "Comprensión del papel de un Scrum Master frente al de un coach"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Apoya a un coach senior en las intervenciones",
+        "Está aprendiendo el oficio del coaching"
+      ]
+    },
+    "AC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Coaching de un único equipo más allá del proceso, sobre colaboración y apropiación",
+        "Impartición de sesiones de formación en prácticas ágiles a equipos y nuevas incorporaciones",
+        "Diagnóstico de si el problema de un equipo es de proceso, de habilidad o de entorno",
+        "Distinción entre métricas de vanidad y métricas que reflejan resultados reales",
+        "Facilitación del backlog de mejora de un equipo hacia un cambio medible",
+        "Coaching de un Scrum Master en facilitación y eliminación de impedimentos",
+        "Observación del comportamiento de management y su efecto sobre el equipo",
+        "Apoyo a una pequeña iniciativa de cambio dentro de un equipo"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de modelos de madurez y desarrollo de equipos",
+        "Comprensión del flujo Kanban más allá de un único marco",
+        "Familiaridad con formatos de retrospectiva y patrones de facilitación"
+      ],
+      "indicators": [
+        "Hace coaching a un equipo más allá de facilitar ceremonias",
+        "Imparte formación ágil con apoyo",
+        "Distingue las métricas de resultado del teatro"
+      ]
+    },
+    "AC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Coaching de varios equipos y sus líderes en un grupo de entrega",
+        "Diagnóstico de impedimentos organizativos que quedan por encima de cualquier equipo",
+        "Diseño de una vía de formación que hace crecer a los Scrum Masters de la organización",
+        "Coaching de mandos de primera línea sobre delegar y habilitar la autonomía",
+        "Definición de métricas de resultado que resisten ser manipuladas como objetivos",
+        "Facilitación de una iniciativa de cambio que abarca más de un equipo",
+        "Coaching de equipos y mandos en sistemas de mejora continua",
+        "Evaluación de la salud de los equipos de un grupo para priorizar el esfuerzo de coaching"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento del mapeo de flujo de valor entre equipos",
+        "Comprensión de los fundamentos de la gestión del cambio",
+        "Familiaridad con el pensamiento sistémico aplicado a la entrega"
+      ],
+      "indicators": [
+        "Hace coaching a varios equipos y sus líderes",
+        "Forma y hace crecer a los Scrum Masters",
+        "Diagnostica impedimentos por encima del nivel de equipo"
+      ]
+    },
+    "AC-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Coaching de mandos intermedios sobre los comportamientos que habilitan la autonomía de los equipos",
+        "Diagnóstico organizativo que identifica las causas estructurales de un flujo deficiente",
+        "Diseño de un sistema de mejora continua que perdura más allá de cualquier coach",
+        "Establecimiento de las métricas de resultado como base para juzgar el éxito del cambio",
+        "Facilitación de una transformación de varios equipos con criterios de éxito claros",
+        "Coaching de los Scrum Masters como comunidad de práctica, no uno a uno",
+        "Gestión de la resistencia al cambio entre mandos y equipos",
+        "Separación de la agilidad genuina del teatro de proceso en una organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia rediseñando topologías de equipo para reducir dependencias",
+        "Conocimiento de las estructuras de incentivos que moldean el comportamiento",
+        "Comprensión de los métodos de evaluación de la cultura organizativa"
+      ],
+      "indicators": [
+        "Hace coaching a mandos intermedios, no solo a equipos",
+        "Diseña sistemas de mejora continua",
+        "Lidera un cambio de varios equipos con métricas claras"
+      ]
+    },
+    "AC-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño de una transformación a nivel de organización con resultados escalonados y medibles",
+        "Coaching de mandos senior sobre los cambios de liderazgo que exige una transformación",
+        "Diagnóstico de las causas sistémicas de los problemas de entrega entre departamentos",
+        "Definición de las métricas que la dirección usa para distinguir el cambio real del teatro",
+        "Establecimiento de una capacidad de coaching que la organización puede sostener por sí misma",
+        "Gestión del cambio entre equipos que dependen de líderes distintos",
+        "Facilitación de la alineación entre los objetivos de agilidad y la estrategia de negocio",
+        "Desarrollo de Scrum Masters y coaches mediante vías de crecimiento estructuradas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con el diseño organizativo para la eficiencia del flujo",
+        "Conocimiento de modelos de cambio como Kotter o ADKAR",
+        "Comprensión de cómo los ciclos de presupuesto restringen la agilidad"
+      ],
+      "indicators": [
+        "Diseña transformaciones a nivel de organización",
+        "Hace coaching a mandos senior",
+        "Construye una capacidad de coaching autosostenible"
+      ]
+    },
+    "AC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo de la transformación ágil en una unidad de negocio o división",
+        "Coaching de directivos sobre los cambios de modelo operativo que desbloquean la entrega",
+        "Diagnóstico de cómo la estructura, la financiación y los incentivos bloquean o habilitan la agilidad",
+        "Definición de las métricas de resultado con las que la dirección dirige el cambio",
+        "Diseño del modelo operativo de coaching para muchos equipos y mandos",
+        "Gestión de la resistencia al cambio a gran escala en la capa de liderazgo",
+        "Establecimiento de la mejora continua como hábito organizativo",
+        "Exposición del teatro de proceso y redirección hacia resultados reales de negocio"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia alineando la transformación con la estrategia de la organización",
+        "Conocimiento del flujo y los modelos de financiación a nivel de cartera",
+        "Comprensión del desarrollo de liderazgo a escala"
+      ],
+      "indicators": [
+        "Lidera la transformación en una división",
+        "Hace coaching a directivos sobre el cambio de modelo operativo",
+        "Dirige el cambio con métricas de resultado"
+      ]
+    },
+    "AC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Dirección de la transformación ágil de toda la empresa en la organización",
+        "Coaching del equipo ejecutivo sobre el cambio de cultura y estructura que exige la agilidad",
+        "Diagnóstico organizativo que alcanza el modelo operativo y de gobernanza",
+        "Definición de las métricas corporativas que separan la agilidad real del ritual",
+        "Diseño de la estrategia de transformación con resultados escalonados y verificables",
+        "Gestión de la resistencia arraigada en la estructura de la empresa y su dinámica de poder",
+        "Establecimiento de una organización de coaching que perdura más allá de cada intervención",
+        "Alineación de la transformación con la dirección estratégica de la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia liderando la transformación de una gran empresa",
+        "Conocimiento de cómo la gobernanza se remodela para apoyar el flujo",
+        "Comprensión del coaching ejecutivo en la cúpula de una organización"
+      ],
+      "indicators": [
+        "Dirige la transformación de la empresa",
+        "Hace coaching al equipo ejecutivo",
+        "Es responsable de la estrategia de transformación y sus métricas"
+      ]
+    },
+    "AC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición de la tesis corporativa de cómo la organización se vuelve ágil y se mantiene así",
+        "Coaching del equipo ejecutivo sobre los cambios estructurales que la agilidad les exige",
+        "Diagnóstico de las restricciones sistémicas más profundas del modelo operativo",
+        "Establecimiento de las métricas que responsabilizan a toda la organización de resultados reales",
+        "Diseño de transformaciones que cambian cómo la empresa financia y gobierna el trabajo",
+        "Construcción de una disciplina de coaching que la organización sostiene sin sus fundadores",
+        "Exposición y desmantelamiento del teatro de proceso a escala organizativa",
+        "Alineación de la agenda de cambio con la estrategia a largo plazo de la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Asesoramiento a directivos sobre modelos operativos ágiles en todo el sector",
+        "Influencia en la práctica de la transformación más allá de la empresa",
+        "Trayectoria de transformaciones que se sostuvieron años después de la intervención"
+      ],
+      "indicators": [
+        "Da forma a la tesis de transformación de la empresa",
+        "Asesora al equipo ejecutivo sobre el cambio estructural",
+        "Es una autoridad reconocida en transformación ágil"
+      ]
+    },
+    "AC-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre la estrategia de agilidad organizativa de la empresa y su evolución",
+        "Coaching de los líderes más senior sobre los comportamientos que sostienen el cambio",
+        "Diagnóstico y eliminación de las restricciones estructurales incrustadas en el modelo operativo",
+        "Definición de las métricas de resultado que gobiernan la mejora de la organización",
+        "Dirección de la transformación como capacidad permanente, no como programa puntual",
+        "Establecimiento de una organización de coaching que se renueva con el tiempo",
+        "Fijación de la postura de principios de la empresa contra el ritual y el teatro",
+        "Alineación de la agilidad organizativa con la estrategia de negocio a largo plazo"
+      ],
+      "complementaryCompetencies": [
+        "Reconocimiento como referente en agilidad organizativa en el sector",
+        "Influencia en la práctica de la transformación y el coaching más allá de la empresa",
+        "Trayectoria construyendo organizaciones de coaching duraderas a escala"
+      ],
+      "indicators": [
+        "Lidera la agilidad organizativa de toda la empresa",
+        "Define la estrategia de transformación de la empresa",
+        "Es autoridad de referencia en transformación ágil"
+      ]
+    }
+  }
+}

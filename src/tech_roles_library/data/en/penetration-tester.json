@@ -1,0 +1,258 @@
+{
+  "role": "Penetration Tester",
+  "category": "Security",
+  "levels": {
+    "PT-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of the penetration testing process and the rules of engagement that authorize an assessment",
+        "Elementary knowledge of the OWASP Top 10 web vulnerability categories",
+        "Ability to run passive and active reconnaissance with tools like Nmap under supervision",
+        "Basic knowledge of common web flaws such as reflected XSS and simple SQL injection",
+        "Ability to follow a guided exploitation walkthrough against intentionally vulnerable labs",
+        "Understanding of how findings are recorded with evidence and reproduction steps",
+        "Documentation of vulnerabilities with severity noted from a provided rubric",
+        "Elementary knowledge of remediation advice for the flaws that were found"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with a security-focused Linux distribution and its common tooling",
+        "Basic knowledge of Metasploit modules for known exploits",
+        "Elementary understanding of Bash or Python scripting to automate small tasks"
+      ],
+      "indicators": [
+        "Requires constant supervision on every engagement",
+        "Executes basic scans and reconnaissance against a defined scope",
+        "Is building foundational offensive security skills"
+      ]
+    },
+    "PT-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to carry out a full web application pentest against a defined scope with light supervision",
+        "Implementation of thorough reconnaissance including subdomain enumeration and service fingerprinting",
+        "Practical knowledge of exploiting the OWASP Top 10 including injection, broken access control and authentication flaws",
+        "Ability to escalate privileges on Linux and Windows hosts using common misconfigurations",
+        "Understanding of post-exploitation basics such as looting credentials and pivoting",
+        "Ability to intercept and manipulate traffic with a proxy like Burp Suite",
+        "Knowledge of the OWASP Testing Guide methodology for structured coverage",
+        "Ability to perform internal and external network penetration testing"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of testing frameworks such as PTES and OSSTMM",
+        "Ability to write reusable scripts to speed up repetitive testing",
+        "Understanding of wireless network security assessment"
+      ],
+      "indicators": [
+        "Executes standard pentests with supervision at key milestones",
+        "Identifies and confirms critical vulnerabilities with proof of concept",
+        "Writes clear technical findings with reproduction steps"
+      ]
+    },
+    "PT-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of a testing plan and methodology tailored to each target's technology stack",
+        "Implementation of advanced exploitation chaining multiple weaknesses into a full compromise",
+        "Ability to run focused red team activities such as initial access and lateral movement",
+        "Capability to emulate a defined adversary's behaviour during an assessment",
+        "Ability to develop and adapt custom exploits and payloads for a specific target",
+        "Deep knowledge of Active Directory attack paths like Kerberoasting and credential relaying",
+        "Implementation of social engineering pretexts including phishing campaigns within scope",
+        "Capability to write executive summaries that translate technical risk for leadership"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of basic malware analysis to understand captured samples",
+        "Ability to build small offensive tools to fill gaps in existing tooling",
+        "Understanding of threat intelligence to inform realistic attack scenarios"
+      ],
+      "indicators": [
+        "Leads complex application and network pentests",
+        "Develops custom exploits when public ones are unavailable",
+        "Mentors junior testers on methodology and tooling"
+      ]
+    },
+    "PT-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of a repeatable penetration testing program with consistent methodology and quality gates",
+        "Design of a red team engagement strategy distinct from time-boxed vulnerability-focused pentests",
+        "Implementation of purple team exercises that pair offensive actions with detection engineering feedback",
+        "Mastery of adversary emulation against mature environments including EDR-monitored endpoints",
+        "Capability to run full-scope engagements spanning external, internal, wireless and physical vectors",
+        "Deep knowledge of vulnerability research and analysing CVEs for exploitability",
+        "Ability to weaponise and safely demonstrate exploitation of previously unknown flaws",
+        "Leadership of assessments end to end from scoping through remediation validation"
+      ],
+      "complementaryCompetencies": [
+        "Experience participating in bug bounty programs",
+        "Knowledge of command-and-control frameworks such as Cobalt Strike at an operational level",
+        "Implementation of automation to scale reconnaissance and scanning"
+      ],
+      "indicators": [
+        "Defines the testing strategy for engagements",
+        "Leads a red team through a coordinated operation",
+        "Is a technical reference for offensive security"
+      ]
+    },
+    "PT-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership across an offensive security practice covering pentest and red team services",
+        "Design of long-running red team operations with realistic threat scenarios and objectives",
+        "Management of a testing team including scheduling, quality review and skills development",
+        "Definition of testing methodologies and reporting standards used across the team",
+        "Capability to plan multi-week campaigns aligned to specific threat actors",
+        "Implementation of recurring purple team exercises to measurably improve detection",
+        "Mastery of threat emulation grounded in the MITRE ATT&CK framework",
+        "Communication of offensive findings and residual risk to senior stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Experience simulating advanced persistent threat tradecraft",
+        "Knowledge of threat actor profiles and their typical tooling",
+        "Management of the offensive tooling budget and licensing"
+      ],
+      "indicators": [
+        "Manages a red team and its engagement pipeline",
+        "Defines the vision for offensive security services",
+        "Presents offensive security outcomes to executives"
+      ]
+    },
+    "PT-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of the offensive security strategy across the organization",
+        "Management of red team operations at scale across multiple business units",
+        "Definition of an adversary emulation program mapped to the organization's threat model",
+        "Leadership of continuous security validation rather than point-in-time testing",
+        "Management of a bug bounty or vulnerability disclosure program",
+        "Implementation of continuous and automated penetration testing capabilities",
+        "Innovation in attack techniques and tradecraft to stay ahead of defenses",
+        "Management of an offensive security research effort"
+      ],
+      "complementaryCompetencies": [
+        "Experience attributing intrusions to known threat actor groups",
+        "Knowledge of building and running an offensive research and development function",
+        "Leadership within the wider security research community"
+      ],
+      "indicators": [
+        "Directs the offensive security function",
+        "Participates in the broader security strategy",
+        "Decides where offensive security investment goes"
+      ]
+    },
+    "PT-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership of offensive security across a large organization",
+        "Design of a global red team operating model spanning regions and regulations",
+        "Transformation of security assurance from periodic testing to continuous validation",
+        "Management of offensive security across a large, distributed enterprise",
+        "Creation of an adversary-focused, assume-breach mindset across engineering and defense",
+        "Definition of the multi-year roadmap for offensive security capabilities",
+        "Communication of offensive security value and risk to the board",
+        "Influence on how the industry approaches security testing"
+      ],
+      "complementaryCompetencies": [
+        "Management of substantial offensive security budgets",
+        "Experience scaling offensive teams in high-growth companies",
+        "Leadership within the professional hacking community"
+      ],
+      "indicators": [
+        "Reports to the CISO",
+        "Leads an offensive security organization of many practitioners",
+        "Defines enterprise offensive security strategy"
+      ]
+    },
+    "PT-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for how offensive security validates enterprise defenses",
+        "Leadership of continuous security validation as a company-wide discipline",
+        "Creation of threat-informed defense by feeding offensive findings into detection and controls",
+        "Management of relationships across offensive vendors, researchers and internal teams",
+        "Innovation in exploitation and evasion techniques that raise the bar for the field",
+        "Definition of next-generation red teaming practices for the organization",
+        "Championing of an assume-breach philosophy across leadership",
+        "Influence on internal security policy through demonstrated offensive results"
+      ],
+      "complementaryCompetencies": [
+        "Experience shaping offensive security at large technology organizations",
+        "Advisory relationships with offensive security startups and tooling vendors",
+        "Recognized technical authority in penetration testing"
+      ],
+      "indicators": [
+        "Sits on the security leadership team",
+        "Sets the direction for offensive security across the company",
+        "Is a recognized leader in the offensive security field"
+      ]
+    },
+    "PT-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership of offensive security as a core assurance capability",
+        "Transformation of how the enterprise validates its security posture",
+        "Definition of an adversary-centric security operating model",
+        "Establishment of continuous validation as the default across the organization",
+        "Innovation in offensive tradecraft that shapes industry practice",
+        "Advocacy for offensive testing as a driver of measurable defensive improvement",
+        "Architecture of the organization's overall offensive security program",
+        "Influence on security testing standards beyond the company"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming security validation at enterprise scale",
+        "Recognition as a leading figure in offensive security",
+        "Influence on the culture and ethics of ethical hacking"
+      ],
+      "indicators": [
+        "Leads offensive security at the executive level",
+        "Sets the long-term direction for the discipline",
+        "Is regarded as an authority in offensive security"
+      ]
+    }
+  }
+}

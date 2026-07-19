@@ -1,0 +1,259 @@
+{
+  "role": "Data Scientist",
+  "category": "Data",
+  "levels": {
+    "DS-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of descriptive and inferential statistics",
+        "Elementary knowledge of probability and distributions",
+        "Ability for basic exploratory data analysis",
+        "Basic understanding of hypothesis testing",
+        "Ability to create simple visualizations",
+        "Elementary knowledge of correlation and regression",
+        "Basic understanding of data cleaning and preprocessing",
+        "Ability to use basic statistical tools"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of SQL",
+        "Familiarity with notebooks and analytical environments",
+        "Elementary understanding of business metrics"
+      ],
+      "indicators": [
+        "Requires constant supervision in analysis",
+        "Can execute predefined analyses",
+        "Needs 6-12 months of mentoring"
+      ]
+    },
+    "DS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to perform complete statistical analysis",
+        "Ability to build basic predictive models",
+        "Practical knowledge of feature engineering",
+        "Understanding of validation techniques and overfitting",
+        "Ability to perform A/B testing and experimentation",
+        "Ability for storytelling with data",
+        "Knowledge of segmentation and clustering",
+        "Understanding of basic time series analysis"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of big data tools",
+        "Ability for web scraping",
+        "Understanding of data ethics"
+      ],
+      "indicators": [
+        "Develops models with moderate supervision",
+        "Generates basic actionable insights",
+        "Communicates results effectively"
+      ]
+    },
+    "DS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of classical machine learning algorithms",
+        "Ability for model optimization and tuning",
+        "Ability for causal analysis and inference",
+        "Deep knowledge of experimental design",
+        "Ability to work with unstructured data",
+        "Solid understanding of dimensionality reduction",
+        "Ability for ensemble methods and stacking",
+        "Knowledge of model interpretability"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of basic deep learning",
+        "Ability for basic NLP",
+        "Understanding of recommender systems"
+      ],
+      "indicators": [
+        "Leads end-to-end analytical projects",
+        "Improves business metrics through insights",
+        "Proposes new analytical methodologies"
+      ]
+    },
+    "DS-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design complete analytical strategies",
+        "Mastery of advanced machine learning techniques",
+        "Ability for modeling complex systems",
+        "Deep knowledge of optimization algorithms",
+        "Ability to implement deep learning models",
+        "Mastery of advanced statistical inference",
+        "Ability for survival analysis and hazard modeling",
+        "Knowledge of Bayesian methods and probabilistic programming"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of reinforcement learning",
+        "Ability for computer vision",
+        "Understanding of graph analytics"
+      ],
+      "indicators": [
+        "Defines analytical strategy for products",
+        "Mentors junior data scientists",
+        "Publishes analyses and methodologies"
+      ]
+    },
+    "DS-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise-scale modeling",
+        "Ability to design complex experiments",
+        "Mastery of causal inference and econometrics",
+        "Ability for simulation and Monte Carlo methods",
+        "Deep knowledge of time series forecasting",
+        "Ability to implement AutoML solutions",
+        "Expertise in advanced anomaly detection",
+        "Mastery of multi-objective optimization"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of quantum algorithms",
+        "Ability for federated analytics",
+        "Understanding of differential privacy"
+      ],
+      "indicators": [
+        "Leads data science for business lines",
+        "Defines corporate analytical methodologies",
+        "Impacts strategic decisions with analysis"
+      ]
+    },
+    "DS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define enterprise data science strategy",
+        "Expertise in advanced analytics and AI",
+        "Mastery of decision science and prescriptive analytics",
+        "Ability to build data products",
+        "Deep knowledge of industry-specific modeling",
+        "Ability to lead applied research",
+        "Expertise in explainable AI and fairness",
+        "Mastery of advanced experimentation platforms"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cognitive computing",
+        "Ability for synthetic data generation",
+        "Understanding of edge analytics"
+      ],
+      "indicators": [
+        "Architects enterprise analytical solutions",
+        "Leads data-driven transformation",
+        "Recognized as domain expert"
+      ]
+    },
+    "DS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in organizational analytical innovation",
+        "Ability to create competitive advantage through analytics",
+        "Expertise in AI strategy and roadmapping",
+        "Mastery of advanced research methods",
+        "Ability to define data science governance",
+        "Deep knowledge of analytics economics",
+        "Expertise in building data science teams",
+        "Ability to lead open science initiatives"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent methodologies",
+        "Ability for academic collaboration",
+        "Knowledge of analytics ventures"
+      ],
+      "indicators": [
+        "Defines corporate analytical philosophy",
+        "Speaker at top-tier conferences",
+        "Influences industry practices"
+      ]
+    },
+    "DS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of data science",
+        "Ability to transform companies through analytics",
+        "Expertise in data science for strategic advantage",
+        "Mastery of research leadership and innovation",
+        "Ability to define scientific governance",
+        "Deep knowledge of data science ethics",
+        "Expertise in academic-industry partnerships",
+        "Ability to lead breakthrough research"
+      ],
+      "complementaryCompetencies": [
+        "Ability for scientific advisory boards",
+        "Ability for analytical spin-offs",
+        "Knowledge of research funding"
+      ],
+      "indicators": [
+        "Defines corporate scientific strategy",
+        "Publishes in top-tier journals",
+        "Influences direction of the discipline"
+      ]
+    },
+    "DS-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in data science",
+        "Ability to monetize analytics as asset",
+        "Expertise in enterprise analytical transformation",
+        "Mastery of strategic research budgets",
+        "Ability to build scientific organizations",
+        "Deep knowledge of IP and patents management",
+        "Expertise in global scientific partnerships",
+        "Ability to define analytical culture",
+        "Mastery of innovation through data science"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence data policy",
+        "Ability to create research institutes",
+        "Knowledge of scientific investments"
+      ],
+      "indicators": [
+        "Defines and executes enterprise scientific vision",
+        "Responsible for all corporate analytics",
+        "Recognized leader in global data science"
+      ]
+    }
+  }
+}

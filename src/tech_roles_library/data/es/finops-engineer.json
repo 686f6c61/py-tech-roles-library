@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero FinOps",
+  "category": "Infraestructura",
+  "levels": {
+    "FOE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de la facturación de nube y los modelos de precios",
+        "Lectura de informes de coste y uso en las consolas de AWS, Azure o GCP",
+        "Asignación de costes elemental mediante etiquetado de recursos",
+        "Identificación de recursos ociosos e infrautilizados",
+        "Elaboración de paneles e informes de coste simples",
+        "Distinción entre precios bajo demanda, reservados y spot",
+        "Documentación de oportunidades de ahorro y su impacto",
+        "Definición de presupuestos básicos y alertas de gasto"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas nativas de coste (Cost Explorer, Cost Management)",
+        "Convenciones básicas de etiquetado y estructura de cuentas",
+        "Nociones elementales de showback"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Genera informes de coste básicos",
+        "Está aprendiendo las prácticas FinOps"
+      ]
+    },
+    "FOE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Análisis de coste por servicio, equipo y entorno",
+        "Asignación de costes con etiquetas y estructura de cuentas",
+        "Dimensionamiento correcto de cómputo y almacenamiento según uso",
+        "Evaluación de la cobertura de Reserved Instances y Savings Plans",
+        "Previsión básica del gasto mensual y trimestral",
+        "Configuración de informes de showback y chargeback",
+        "Investigación de anomalías y picos de coste",
+        "Elaboración de recomendaciones de coste accionables"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con CloudHealth o Cloudability",
+        "Scripting de consultas de coste contra las APIs de facturación",
+        "Nociones de detección de anomalías en el gasto"
+      ],
+      "indicators": [
+        "Optimiza costes con supervisión",
+        "Implementa planes de ahorro y compromisos",
+        "Entrega análisis de coste a los equipos"
+      ]
+    },
+    "FOE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de estrategias de optimización de coste entre cuentas",
+        "Automatización del dimensionamiento y la limpieza de recursos ociosos",
+        "Dominio de los precios de nube y los descuentos por compromiso",
+        "Modelado de coste y análisis de coste unitario por servicio",
+        "Implantación de showback y chargeback entre equipos",
+        "Gestión de carteras de Savings Plans y Reserved Instances",
+        "Establecimiento del gobierno de etiquetado y su cumplimiento",
+        "Colaboración con las partes interesadas de ingeniería y finanzas"
+      ],
+      "complementaryCompetencies": [
+        "Planificación de descuentos por compromiso y objetivos de cobertura",
+        "Uso de plataformas FinOps y sus APIs",
+        "Comparación de coste entre varias nubes"
+      ],
+      "indicators": [
+        "Lidera proyectos de optimización de coste",
+        "Diseña marcos de asignación de costes",
+        "Mentoriza a otros en FinOps"
+      ]
+    },
+    "FOE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de un programa FinOps para toda la organización",
+        "Diseño de la estrategia empresarial de asignación de costes y etiquetado",
+        "Despliegue de las prácticas FinOps a numerosos equipos de ingeniería",
+        "Dominio de la economía unitaria y del coste por transacción",
+        "Gestión de la asignación de costes compartidos y su amortización",
+        "Interpretación de contratos y compromisos de nube empresariales",
+        "Análisis de retorno de inversión de iniciativas de optimización y migración",
+        "Liderazgo de una cultura de ingeniería consciente del coste"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con herramientas FinOps multinube",
+        "Apoyo a las negociaciones con proveedores y acuerdos empresariales",
+        "Automatización del gobierno de coste y de las barreras de protección"
+      ],
+      "indicators": [
+        "Define la estrategia FinOps",
+        "Lidera la optimización de coste entre equipos",
+        "Es referente en economía de la nube"
+      ]
+    },
+    "FOE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo del diseño técnico de la práctica FinOps",
+        "Estandarización del etiquetado, la asignación y los informes entre equipos",
+        "Definición de métricas, KPIs y objetivos de madurez FinOps",
+        "Construcción de plataformas de inteligencia de coste y detección de anomalías",
+        "Gobierno de carteras de Savings Plans y compromisos a escala",
+        "Optimización de la economía unitaria entre productos y servicios",
+        "Establecimiento de procesos de gobierno financiero y previsión",
+        "Integración de la responsabilidad de coste en los flujos de ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con plataformas de gestión financiera de la nube",
+        "Aplicación de los marcos de la Fundación FinOps",
+        "Gestión del presupuesto de herramientas de optimización"
+      ],
+      "indicators": [
+        "Lidera un equipo FinOps",
+        "Define la visión de optimización de coste",
+        "Representa FinOps ante finanzas y la oficina del director financiero"
+      ]
+    },
+    "FOE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Propiedad de la estrategia plurianual de FinOps de la organización",
+        "Gestión de las operaciones financieras de nube y la estrategia de compromisos",
+        "Definición del modelo operativo y la arquitectura FinOps",
+        "Dirección de programas de transformación y responsabilidad de coste",
+        "Gobierno de la estrategia de Savings Plans y Reserved Instances",
+        "Despliegue de FinOps entre regiones y unidades de negocio",
+        "Impulso de la innovación en optimización de coste y automatización",
+        "Gestión de las relaciones y compromisos con proveedores de nube"
+      ],
+      "complementaryCompetencies": [
+        "Avance de la madurez FinOps de la organización",
+        "Experiencia profunda en economía de la nube",
+        "Liderazgo en la comunidad FinOps"
+      ],
+      "indicators": [
+        "Dirige la función FinOps",
+        "Participa en la estrategia financiera y de nube",
+        "Gobierna las decisiones de gasto en nube"
+      ]
+    },
+    "FOE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia corporativa de FinOps y coste de nube",
+        "Diseño de modelos globales de asignación y gobierno de costes",
+        "Transformación de la economía de la nube entre unidades de negocio",
+        "Gestión del gasto en nube a escala empresarial",
+        "Creación de una cultura consciente del coste en ingeniería y finanzas",
+        "Definición de la hoja de ruta y los objetivos de madurez FinOps",
+        "Influencia en las compras y los acuerdos de nube empresariales",
+        "Crecimiento y estructuración de los equipos FinOps"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos de nube multimillonarios",
+        "Aplicación de los marcos de certificación FinOps",
+        "Liderazgo de programas de optimización de coste empresariales"
+      ],
+      "indicators": [
+        "Depende del CTO o al director financiero",
+        "Lidera una organización FinOps de 15 o más personas",
+        "Es dueño de la estrategia de gasto corporativa"
+      ]
+    },
+    "FOE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición del rumbo a largo plazo de la gestión financiera de la nube",
+        "Liderazgo de la estrategia de economía unitaria y coste de toda la empresa",
+        "Conversión de FinOps en una ventaja de coste duradera",
+        "Gobierno de la asignación y la responsabilidad de coste en todo el negocio",
+        "Impulso de la adopción de prácticas y automatización FinOps emergentes",
+        "Definición de la estrategia de compromisos, previsión y gobierno",
+        "Asesoramiento a la dirección sobre inversión en nube y compromisos de coste",
+        "Configuración de la disciplina FinOps y sus itinerarios de carrera"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia profunda en liderazgo financiero de la nube",
+        "Asesoría en FinOps más allá de la empresa",
+        "Autoridad reconocida en economía de la nube"
+      ],
+      "indicators": [
+        "Forma parte del grupo de liderazgo técnico o financiero",
+        "Fija la estrategia FinOps",
+        "Es un líder reconocido en economía de la nube"
+      ]
+    },
+    "FOE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Propiedad de la estrategia financiera de nube a nivel ejecutivo",
+        "Alineación de FinOps con la estrategia de negocio y financiera",
+        "Dirección de la inversión y los compromisos de nube empresariales",
+        "Definición de objetivos de coste, eficiencia y economía unitaria",
+        "Liderazgo de la transformación de coste de toda la organización",
+        "Gobierno del riesgo financiero de nube y la estrategia de proveedores",
+        "Creación de ventaja competitiva mediante la eficiencia de coste",
+        "Definición de cómo gestiona y prevé la organización su gasto en nube"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos y compromisos de nube empresariales",
+        "Dirección de negociaciones estratégicas con proveedores de nube",
+        "Influencia en el rumbo de la disciplina FinOps"
+      ],
+      "indicators": [
+        "Es dueño de la estrategia financiera de nube de la empresa",
+        "Responde por el gasto y la eficiencia de nube",
+        "Representa a la empresa en economía de la nube"
+      ]
+    }
+  }
+}

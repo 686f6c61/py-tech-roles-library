@@ -1,0 +1,258 @@
+{
+  "role": "LLMOps Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "LLM-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of how large language models are served through APIs",
+        "Elementary knowledge of prompts and how they affect model responses",
+        "Ability to call a hosted model from a script with supervision",
+        "Basic understanding of tokens and how they relate to cost and limits",
+        "Ability to log model inputs and outputs following examples",
+        "Elementary knowledge of reading dashboards and basic metrics",
+        "Basic understanding of what an evaluation is and why it matters",
+        "Ability to use version control and notebooks for experimentation"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of Python or a scripting language",
+        "Familiarity with JSON and configuration files",
+        "Elementary understanding of API keys and rate limits"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can complete simple tasks with detailed guidance",
+        "Needs 3-6 months to be productive"
+      ]
+    },
+    "LLM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to build simple LLM-powered features with minimal supervision",
+        "Understanding of prompt versioning and keeping prompts in source control",
+        "Ability to create small evaluation datasets and run them against a model",
+        "Practical knowledge of measuring latency, token usage and cost per request",
+        "Ability to add structured logging and tracing to LLM calls",
+        "Understanding of retrieval-augmented generation at a basic level",
+        "Ability to configure retries, timeouts and basic error handling",
+        "Knowledge of comparing outputs across models and prompt variants"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of vector databases and embeddings",
+        "Ability to use containers to package an LLM service",
+        "Basic understanding of continuous integration for prompts"
+      ],
+      "indicators": [
+        "Can build simple LLM features independently",
+        "Resolves medium complexity issues in LLM pipelines",
+        "Actively participates in code and prompt reviews"
+      ]
+    },
+    "LLM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of prompt management with versioning, testing and rollout",
+        "Ability to design evaluation pipelines with automated and model-based scoring",
+        "Ability to build observability for LLM systems including quality and drift signals",
+        "Deep knowledge of retrieval pipelines including chunking and indexing strategies",
+        "Ability to optimize cost and latency through caching and model routing",
+        "Understanding of guardrails for input and output filtering",
+        "Ability to set up A/B tests and offline comparisons for prompt changes",
+        "Knowledge of monitoring token consumption and setting budgets"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of prompt injection and data leakage risks",
+        "Ability to build feedback collection loops from users",
+        "Basic understanding of fine-tuning workflows"
+      ],
+      "indicators": [
+        "Completes complex LLM operations tasks with minimal supervision",
+        "Identifies and resolves quality and performance regressions",
+        "Actively contributes to technical design of LLM systems"
+      ]
+    },
+    "LLM-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design end-to-end LLM pipelines from ingestion to serving",
+        "Mastery of evaluation frameworks combining automated, model and human scoring",
+        "Ability to build production retrieval systems with reindexing and freshness controls",
+        "Deep knowledge of observability covering quality, cost, latency and safety",
+        "Ability to design and operate fine-tuning and model adaptation workflows",
+        "Mastery of prompt lifecycle management with staged rollout and rollback",
+        "Ability to implement guardrails and content safety across the pipeline",
+        "Knowledge of capacity planning and cost governance for LLM workloads"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of orchestration for training and batch inference jobs",
+        "Ability to design canary and shadow deployments for model changes",
+        "Understanding of self-hosted model serving and optimization"
+      ],
+      "indicators": [
+        "Leads development of critical LLM infrastructure components",
+        "Effectively mentors junior engineers",
+        "Makes informed architectural decisions on LLM operations"
+      ]
+    },
+    "LLM-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in designing scalable LLM serving platforms",
+        "Ability to architect evaluation infrastructure as a shared service",
+        "Mastery of continuous evaluation with online monitoring and alerting",
+        "Ability to design retrieval systems that scale across large corpora",
+        "Deep knowledge of cost optimization through routing, batching and quantization",
+        "Ability to build fine-tuning operations with reproducible pipelines",
+        "Expertise in safety and compliance controls for LLM systems in production",
+        "Mastery of incident response for non-deterministic model behavior"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of GPU infrastructure and inference optimization",
+        "Ability to design multi-model and multi-provider strategies",
+        "Understanding of data governance for training and evaluation sets"
+      ],
+      "indicators": [
+        "Designs LLM operations architectures for complete products",
+        "Defines team technical standards for LLM systems",
+        "Leads cross-team initiatives on LLM infrastructure"
+      ]
+    },
+    "LLM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise LLM platforms serving many teams",
+        "Expertise in governance and compliance frameworks for generative AI",
+        "Mastery of evaluation and monitoring at organizational scale",
+        "Ability to design globally distributed LLM serving with high availability",
+        "Deep knowledge of security threats specific to LLM systems",
+        "Ability to lead large migrations toward standardized LLM infrastructure",
+        "Expertise in cost governance across large-scale LLM usage",
+        "Mastery of reliability engineering for generative AI systems"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging standards for model interoperability",
+        "Ability to design internal model and prompt registries",
+        "Understanding of edge and on-device inference deployment"
+      ],
+      "indicators": [
+        "Architects LLM solutions for multiple teams",
+        "Influences organizational technical decisions on generative AI",
+        "Represents the company technically in the LLMOps domain"
+      ]
+    },
+    "LLM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership in enterprise-wide generative AI adoption",
+        "Ability to design LLM platforms for large corporations",
+        "Expertise in strategies for modernizing systems with generative AI",
+        "Mastery of provider-agnostic and portable LLM architectures",
+        "Ability to define multi-year roadmaps for LLM capabilities",
+        "Deep knowledge of the economics and total cost of LLM systems",
+        "Expertise in building and scaling LLM operations teams",
+        "Ability to influence the industry with LLM infrastructure innovations"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent innovations in model operations",
+        "Ability to technically evaluate generative AI vendors and tools",
+        "Knowledge of research trends in efficient inference and evaluation"
+      ],
+      "indicators": [
+        "Defines organizational technical strategy for generative AI",
+        "Recognized as thought leader in LLMOps",
+        "Speaker at international conferences"
+      ]
+    },
+    "LLM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of the evolution of generative AI infrastructure",
+        "Ability to set the direction for emerging LLM operations practices and tooling",
+        "Expertise in technical due diligence for generative AI products",
+        "Mastery of organizational transformation through generative AI",
+        "Ability to build and lead LLM engineering organizations",
+        "Deep knowledge of the business impact of generative AI decisions",
+        "Expertise in executive stakeholder relations around AI risk and cost",
+        "Ability to define engineering culture for responsible generative AI"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence industry policy on generative AI",
+        "Ability to create technology spin-offs from LLM infrastructure",
+        "Knowledge of investment in generative AI technology"
+      ],
+      "indicators": [
+        "Impacts the technical direction of the generative AI industry",
+        "Advisor to C-suite and boards on generative AI",
+        "Mentor to senior technical leaders"
+      ]
+    },
+    "LLM-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in generative AI technology",
+        "Ability to align generative AI strategy with business strategy",
+        "Expertise in managing multi-million dollar AI infrastructure budgets",
+        "Mastery of investor relations and board management for AI initiatives",
+        "Ability to lead AI-driven mergers, acquisitions and integration",
+        "Deep knowledge of risk management for generative AI systems",
+        "Expertise in building competitive advantages through generative AI",
+        "Ability to drive enterprise transformation through generative AI"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence AI regulation and standards",
+        "Ability to create technology ecosystems around generative AI",
+        "Knowledge of private equity and exits in AI"
+      ],
+      "indicators": [
+        "Defines and executes enterprise generative AI technology vision",
+        "Responsible for AI technology profit and loss",
+        "Public face of the company in generative AI"
+      ]
+    }
+  }
+}

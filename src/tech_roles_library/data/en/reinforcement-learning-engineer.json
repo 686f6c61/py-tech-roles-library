@@ -1,0 +1,255 @@
+{
+  "role": "Reinforcement Learning Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "RLE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Understanding of Markov decision processes: states, actions, rewards and transitions",
+        "Supervised implementation of bandit algorithms and value iteration",
+        "Use of simulation environments such as Gymnasium to train simple agents",
+        "Understanding of the exploration-exploitation trade-off with epsilon-greedy policies",
+        "Computation of cumulative returns and value functions via Monte Carlo methods",
+        "Logging of reward curves and training progress",
+        "Reproducible documentation of experiments with fixed random seeds"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with Python and NumPy for vector operations",
+        "Notions of neural networks and gradient descent",
+        "Use of Git to version experiment configurations"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Completes guided training tasks in simple environments",
+        "Needs 3-6 months to become productive"
+      ]
+    },
+    "RLE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Implementation of Q-learning and SARSA with action-value tables",
+        "Application of temporal-difference methods and eligibility traces",
+        "Approximation of value functions with neural networks",
+        "Design of reward functions for simple control tasks",
+        "Comparison of policies through average cumulative return",
+        "Training of agents in discrete and classic control environments",
+        "Writing tests for update and policy functions"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of experience replay and target networks",
+        "Implementation of basic policy gradients such as REINFORCE",
+        "Familiarity with actor-critic methods"
+      ],
+      "indicators": [
+        "Builds complete RL agents with occasional supervision",
+        "Resolves medium-complexity issues in training loops",
+        "Actively participates in code and experiment reviews"
+      ]
+    },
+    "RLE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of end-to-end reinforcement learning systems",
+        "Implementation of deep algorithms such as DQN, A3C and PPO",
+        "Training stabilization with gradient clipping and advantage normalization",
+        "Hyperparameter optimization and policy sensitivity analysis",
+        "Design of policy and value network architectures for continuous spaces",
+        "Application of policy gradients with generalized advantage estimation",
+        "Instrumentation of training stability and reproducibility metrics"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of inverse reinforcement learning and learned rewards",
+        "Implementation of imitation learning from demonstrations",
+        "Technical mentoring of entry-level engineers"
+      ],
+      "indicators": [
+        "Completes complex agent features with minimal supervision",
+        "Identifies and fixes instabilities in training loops",
+        "Actively contributes to the technical design of agent systems"
+      ]
+    },
+    "RLE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of distributed reinforcement learning training platforms with multiple actors",
+        "Implementation of off-policy algorithms such as SAC, TD3 and DDPG",
+        "Design of reward shaping schemes that avoid degenerate behaviors",
+        "Hierarchical reinforcement learning for long-horizon tasks",
+        "Design of sim-to-real transfer experiments with domain randomization",
+        "Offline reinforcement learning from logged datasets",
+        "Variance reduction and acceleration of training convergence",
+        "Definition of evaluation protocols with multiple seeds and confidence bands"
+      ],
+      "complementaryCompetencies": [
+        "Experience in reinforcement learning applied to robotics or control",
+        "Automated hyperparameter optimization at scale",
+        "Implementation of meta-reinforcement learning"
+      ],
+      "indicators": [
+        "Leads development of critical training components",
+        "Mentors junior engineers and reviews their designs",
+        "Makes informed architectural decisions on algorithms and environments"
+      ]
+    },
+    "RLE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Design of production-grade autonomous agent platforms",
+        "Evaluation-driven development with faithful simulators and offline metrics",
+        "Implementation of reinforcement learning from human feedback (RLHF)",
+        "Design of safety constraints that bound agent actions",
+        "Architecture of training reproducibility on shared infrastructure",
+        "Diagnosis of instability, policy collapse and overfitting to the simulator",
+        "Definition of quality and safety standards for deployed agents",
+        "Governance of the compute cost of large-scale training"
+      ],
+      "complementaryCompetencies": [
+        "Design of agent evaluation benchmarks from scratch",
+        "Knowledge of constrained reinforcement learning and safe regions",
+        "Definition of service-level agreements for agents in production"
+      ],
+      "indicators": [
+        "Designs the agent architecture of complete products",
+        "Defines the technical standards of the reinforcement learning team",
+        "Leads agent initiatives spanning multiple teams"
+      ]
+    },
+    "RLE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Architecture of a reinforcement learning platform serving multiple teams",
+        "Definition of evaluation frameworks and continuous policy monitoring",
+        "Technical leadership in the safe deployment of autonomous decision-making",
+        "Design of containment and human-intervention mechanisms for high-risk agents",
+        "Governance of the safety and reliability of non-deterministic systems",
+        "Direction of migrations from legacy rules toward learned policies",
+        "Engineering of training reproducibility and traceability at scale",
+        "Governance of the compute cost of training fleets"
+      ],
+      "complementaryCompetencies": [
+        "Technical evaluation of simulators and reinforcement learning libraries",
+        "Knowledge of emerging agent safety standards",
+        "Technical representation of the company in the reinforcement learning community"
+      ],
+      "indicators": [
+        "Designs agent solutions for multiple teams at once",
+        "Influences organizational technical decisions on autonomy",
+        "Is the company's technical reference in reinforcement learning"
+      ]
+    },
+    "RLE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definition of the technical direction of reinforcement learning across the organization",
+        "Design of algorithm-agnostic and simulator-agnostic agent architectures",
+        "Development of multi-year roadmaps for autonomous decision capabilities",
+        "Strategies to safely scale autonomy to critical processes",
+        "Definition of the economics and total cost of ownership of the training platform",
+        "Direction of the balance between agent performance and safety guarantees",
+        "Building and growing reinforcement learning engineering teams",
+        "Anticipation of the product impact of new decision algorithms"
+      ],
+      "complementaryCompetencies": [
+        "Technical evaluation of reinforcement learning startups and tools",
+        "Publication of results or patents on autonomous decision techniques",
+        "Knowledge of research trends in reinforcement learning"
+      ],
+      "indicators": [
+        "Defines the organization's technical reinforcement learning strategy",
+        "Is recognized as a reference in autonomous decision systems",
+        "Speaks at industry conferences"
+      ]
+    },
+    "RLE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the evolution of autonomous decision-making",
+        "Definition of the role of reinforcement learning in the company's product strategy",
+        "Technical due diligence of products and acquisitions based on autonomous agents",
+        "Design of the decision architecture that supports multiple business lines",
+        "Direction of the technical response to autonomous systems regulation",
+        "Definition of responsible autonomy principles and agent safety",
+        "Building and leading reinforcement learning engineering organizations",
+        "Analysis of the business impact of automation decisions"
+      ],
+      "complementaryCompetencies": [
+        "Influence on industry policy for autonomous systems",
+        "Creation of product lines derived from reinforcement learning research",
+        "Technical advisory to leadership on autonomy investment"
+      ],
+      "indicators": [
+        "Influences the technical direction of the autonomous decision field",
+        "Advises executive leadership on automation strategy",
+        "Mentors senior technical leaders"
+      ]
+    },
+    "RLE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership of the company's autonomous decision strategy",
+        "Alignment of reinforcement learning strategy with business strategy",
+        "Direction of investment in agent platforms and specialized talent",
+        "Definition of the company's stance on autonomous systems regulation",
+        "Management of the balance between autonomy, safety and trust",
+        "Direction of competitive advantage built on decision-making agents",
+        "Governance of the risk of large-scale autonomous systems",
+        "Driving product transformation through automated decision-making"
+      ],
+      "complementaryCompetencies": [
+        "Influence on regulation and standards for autonomous systems",
+        "Direction of strategic partnerships around autonomous decision-making",
+        "Public representation of the company on responsible autonomy"
+      ],
+      "indicators": [
+        "Defines and executes the company's autonomous decision vision",
+        "Is accountable for the business results of automation",
+        "Is the public face of the company in reinforcement learning"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Analista de Datos",
+  "category": "Datos",
+  "levels": {
+    "DA-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de estadística descriptiva",
+        "Comprensión elemental de bases de datos",
+        "Habilidad para consultas SQL simples",
+        "Conocimiento básico de Excel avanzado",
+        "Capacidad de crear visualizaciones simples",
+        "Comprensión de limpieza de datos básica",
+        "Documentación de procesos de análisis",
+        "Conocimiento elemental de tipos de datos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de inteligencia de negocio básicas",
+        "Conocimiento de matemáticas fundamentales",
+        "Comprensión de métricas de negocio"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta análisis predefinidos",
+        "Está aprendiendo metodologías de análisis"
+      ]
+    },
+    "DA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de análisis exploratorio de datos",
+        "Implementación de tableros interactivos",
+        "Conocimiento práctico de pruebas estadísticas",
+        "Habilidad para tratamiento de datos complejo",
+        "Comprensión de segmentación y agrupamiento básico",
+        "Capacidad de narrativa con datos",
+        "Conocimiento de procesos de extracción, transformación y carga",
+        "Habilidad para identificar tendencias"
+      ],
+      "complementaryCompetencies": [
+        "Análisis de series temporales básico",
+        "Conocimiento de pruebas comparativas",
+        "Comprensión de analítica de clientes"
+      ],
+      "indicators": [
+        "Realiza análisis independientes",
+        "Crea informes periódicos",
+        "Identifica perspectivas accionables"
+      ]
+    },
+    "DA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de marcos analíticos completos",
+        "Implementación de modelos predictivos básicos",
+        "Dominio de SQL avanzado y optimización",
+        "Capacidad de análisis multivariable",
+        "Habilidad para gobernanza de datos",
+        "Conocimiento profundo de indicadores clave de rendimiento y métricas",
+        "Implementación de informes automatizados",
+        "Diseño de experimentos y validación"
+      ],
+      "complementaryCompetencies": [
+        "Aprendizaje automático básico para análisis",
+        "Conocimiento de herramientas de grandes volúmenes de datos",
+        "Habilidad para analítica prescriptiva"
+      ],
+      "indicators": [
+        "Lidera proyectos analíticos complejos",
+        "Define metodologías de análisis",
+        "Tutoriza analistas junior"
+      ]
+    },
+    "DA-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de soluciones analíticas empresariales",
+        "Diseño de estrategias de datos departamentales",
+        "Implementación de analítica avanzada",
+        "Dominio de inteligencia de negocio completo",
+        "Capacidad de análisis de retorno de inversión y pronóstico",
+        "Conocimiento profundo de calidad de datos",
+        "Habilidad para analítica interfuncional",
+        "Liderazgo en democratización de datos"
+      ],
+      "complementaryCompetencies": [
+        "Implementación de analítica en tiempo real",
+        "Conocimiento de flujos de ciencia de datos",
+        "Experiencia en analítica específica de industria"
+      ],
+      "indicators": [
+        "Define estrategia analítica departamental",
+        "Lidera equipos de analistas",
+        "Es referente en perspectivas de negocio"
+      ]
+    },
+    "DA-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo en analítica organizacional",
+        "Diseño de cultura basada en datos",
+        "Gestión de equipos de analítica",
+        "Definición de hojas de ruta analíticas",
+        "Capacidad de planificación estratégica con datos",
+        "Implementación de centros de excelencia",
+        "Dominio de gestión del cambio mediante datos",
+        "Promoción de la alfabetización de datos en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación analítica",
+        "Conocimiento de plataformas analíticas empresariales",
+        "Gestión de relaciones con proveedores"
+      ],
+      "indicators": [
+        "Gestiona múltiples equipos de analítica",
+        "Define visión analítica empresarial",
+        "Representa analítica ante alta dirección"
+      ]
+    },
+    "DA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de analítica a nivel corporativo",
+        "Estrategia de inteligencia competitiva",
+        "Gestión de presupuestos analíticos grandes",
+        "Definición de estrategias de monetización de datos",
+        "Liderazgo en transformación de analítica digital",
+        "Implementación de capacidades de analítica avanzada",
+        "Innovación en metodologías analíticas",
+        "Gestión de alianzas analíticas"
+      ],
+      "complementaryCompetencies": [
+        "Analítica en fusiones y adquisiciones y debida diligencia",
+        "Experiencia en consultoría analítica",
+        "Conocimiento de analítica regulatoria"
+      ],
+      "indicators": [
+        "Dirige departamento de analítica (20+ personas)",
+        "Participa en estrategia corporativa",
+        "Define inversiones en analítica"
+      ]
+    },
+    "DA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en analítica de datos",
+        "Diseño de estrategias analíticas globales",
+        "Transformación de empresas mediante perspectivas",
+        "Gestión de analítica a escala multinacional",
+        "Creación de ventajas competitivas mediante analítica",
+        "Definición de futuro de inteligencia de negocio",
+        "Comunicación de la estrategia analítica a la dirección ejecutiva",
+        "Influencia en estándares analíticos"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de laboratorios de innovación analítica",
+        "Experiencia en proyectos basados en datos",
+        "Liderazgo en comunidades analíticas"
+      ],
+      "indicators": [
+        "Depende del Director Ejecutivo o Director Financiero",
+        "Gestiona organizaciones analíticas (50+ personas)",
+        "Define estrategia de perspectivas corporativa"
+      ]
+    },
+    "DA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de analítica como negocio principal",
+        "Liderazgo en transformación analítica de industrias",
+        "Definición de marcos analíticos de referencia",
+        "Gestión de ecosistemas analíticos globales",
+        "Adopción de métodos avanzados de inteligencia de decisión",
+        "Definición de futuro de analítica aumentada",
+        "Definición de la dirección tecnológica analítica a largo plazo",
+        "Influencia en políticas de datos globales"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como Director de Analítica o Director de Datos en grandes empresas",
+        "Asesoría en empresas emergentes de analítica",
+        "Liderazgo intelectual en analítica"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia analítica empresarial",
+        "Es líder reconocido en analítica"
+      ]
+    },
+    "DA-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de toma de decisiones",
+        "Transformación de cómo las empresas entienden datos",
+        "Definición de marcos analíticos de nueva generación",
+        "Definición de evolución de analítica cognitiva",
+        "Innovación en simbiosis humano-datos",
+        "Promoción de una cultura organizativa orientada a datos",
+        "Arquitecto de plataformas de analítica para toda la organización",
+        "Influencia en evolución de inteligencia de negocio"
+      ],
+      "complementaryCompetencies": [
+        "Pionero en metodologías analíticas revolucionarias",
+        "Reconocimiento como gurú de analítica",
+        "Influencia en educación analítica global"
+      ],
+      "indicators": [
+        "Es una autoridad reconocida en analítica",
+        "Define futuro de inteligencia de negocio",
+        "Es autoridad mundial en analítica"
+      ]
+    }
+  }
+}

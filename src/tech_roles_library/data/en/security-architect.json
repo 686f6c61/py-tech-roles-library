@@ -1,0 +1,258 @@
+{
+  "role": "Security Architect",
+  "category": "Security",
+  "levels": {
+    "SARC-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of security architecture concepts",
+        "Elementary knowledge of network and application security",
+        "Ability to document architecture diagrams with supervision",
+        "Basic knowledge of common security controls",
+        "Understanding of authentication and authorization basics",
+        "Familiarity with the OWASP Top 10 and common threats",
+        "Ability to assist in design reviews",
+        "Awareness of security frameworks and standards"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of cloud platforms (AWS, Azure, GCP)",
+        "Familiarity with threat modeling concepts",
+        "Elementary understanding of cryptography"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Assists in documenting security designs",
+        "Is learning security architecture fundamentals"
+      ]
+    },
+    "SARC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to perform basic threat modeling",
+        "Understanding of defense in depth principles",
+        "Ability to review designs for common security flaws",
+        "Practical knowledge of identity and access management",
+        "Application of security patterns to simple systems",
+        "Understanding of network segmentation concepts",
+        "Ability to document security requirements",
+        "Knowledge of encryption at rest and in transit"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with cloud security services",
+        "Basic knowledge of compliance frameworks",
+        "Understanding of secure SDLC"
+      ],
+      "indicators": [
+        "Works with regular supervision",
+        "Contributes to threat models",
+        "Reviews designs with guidance"
+      ]
+    },
+    "SARC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Ability to lead threat modeling for a component",
+        "Design of security controls for standard systems",
+        "Understanding of zero trust architecture principles",
+        "Ability to conduct security design reviews",
+        "Knowledge of identity federation and single sign-on",
+        "Application of security standards and baselines",
+        "Ability to assess architectural risk",
+        "Documentation of reference architectures"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cloud security architecture",
+        "Familiarity with security governance concepts",
+        "Understanding of data protection requirements"
+      ],
+      "indicators": [
+        "Works with occasional supervision",
+        "Owns security design for a component",
+        "Mentors trainees on architecture practices"
+      ]
+    },
+    "SARC-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Autonomous design of secure system architectures",
+        "Mastery of threat modeling methodologies (STRIDE, PASTA)",
+        "Design of zero trust architectures",
+        "Leadership of security design reviews across teams",
+        "Definition of security patterns and reference designs",
+        "Ability to architect identity and access solutions",
+        "Integration of security into system architecture",
+        "Ability to translate risk into architectural decisions"
+      ],
+      "complementaryCompetencies": [
+        "Experience with cloud security architecture at scale",
+        "Knowledge of compliance and regulatory mapping",
+        "Implementation of security architecture metrics"
+      ],
+      "indicators": [
+        "Works autonomously",
+        "Designs secure architectures for major systems",
+        "Is a reference for security architecture"
+      ]
+    },
+    "SARC-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expert design of enterprise security architectures",
+        "Definition of zero trust strategy across the organization",
+        "Mastery of security governance and standards",
+        "Leadership in architecture risk assessment",
+        "Design of security reference architectures for the org",
+        "Ability to balance security with business objectives",
+        "Definition of security architecture principles",
+        "Guidance of engineering teams on secure design"
+      ],
+      "complementaryCompetencies": [
+        "Experience in regulatory compliance architecture",
+        "Knowledge of security frameworks (SABSA, TOGAF)",
+        "Mentorship of security architects"
+      ],
+      "indicators": [
+        "Is fully autonomous and expert",
+        "Defines security architecture for the org",
+        "Leads architecture standards and governance"
+      ]
+    },
+    "SARC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Technical leadership of the security architecture function",
+        "Design of enterprise-wide security strategy",
+        "Definition of architecture standards and governance",
+        "Leadership of security architecture teams",
+        "Governance of architectural risk across the organization",
+        "Alignment of security architecture with business strategy",
+        "Definition of security roadmaps and target architectures",
+        "Promotion of a secure by design culture across engineering"
+      ],
+      "complementaryCompetencies": [
+        "Experience in vendor and technology evaluation",
+        "Knowledge of regulatory compliance frameworks",
+        "Management of security architecture budgets"
+      ],
+      "indicators": [
+        "Leads security architecture across the organization",
+        "Defines security architecture vision",
+        "Influences enterprise-wide practices"
+      ]
+    },
+    "SARC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Strategic direction of security architecture programs",
+        "Definition of enterprise security target architecture",
+        "Leadership of organizational security transformation",
+        "Design of security governance at scale",
+        "Management of architectural risk at enterprise level",
+        "Innovation in security architecture approaches",
+        "Ability to advise executive leadership on security",
+        "Definition of the security architecture roadmap"
+      ],
+      "complementaryCompetencies": [
+        "Experience influencing industry security standards",
+        "Knowledge of security investment prioritization",
+        "Leadership in cross-functional security programs"
+      ],
+      "indicators": [
+        "Directs security architecture at organizational scale",
+        "Participates in enterprise security strategy",
+        "Is a recognized authority in security architecture"
+      ]
+    },
+    "SARC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for enterprise security architecture",
+        "Leadership in security transformation at scale",
+        "Definition of the organization's long-term security architecture standards",
+        "Creation of competitive advantage through architecture",
+        "Management of security across complex ecosystems",
+        "Advancement of security architecture patterns and reference designs",
+        "Influence on enterprise security policy",
+        "Adoption of zero trust and secure by design across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience as security architecture leader in scale-ups",
+        "Advisory in security architecture and governance",
+        "Thought leadership in security architecture"
+      ],
+      "indicators": [
+        "Sets technical direction across the organization",
+        "Defines security architecture strategy at the highest level",
+        "Is a recognized industry leader"
+      ]
+    },
+    "SARC-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership as CISO or chief security officer",
+        "Definition of the enterprise security strategy and posture",
+        "Transformation of organizational security culture",
+        "Executive ownership of security risk and governance",
+        "Alignment of security with corporate strategy and board",
+        "Innovation in security governance and architecture",
+        "Influence on industry security regulation and standards",
+        "Architect of security-first organizations"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming security in large corporations",
+        "Recognition as a security leader at board level",
+        "Influence on global security standards"
+      ],
+      "indicators": [
+        "Operates at CISO, VP or CTO level",
+        "Defines the future of enterprise security",
+        "Is a world authority in security architecture"
+      ]
+    }
+  }
+}

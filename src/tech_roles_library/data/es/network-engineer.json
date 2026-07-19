@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Redes",
+  "category": "Infraestructura",
+  "levels": {
+    "NE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de fundamentos de redes",
+        "Comprensión elemental de modelo OSI y TCP/IP",
+        "Habilidad para configuración básica de enrutadores",
+        "Conocimiento básico de subredes",
+        "Capacidad de resolución de problemas de conectividad",
+        "Comprensión de redes de área local virtuales básicas",
+        "Documentación de topologías de red",
+        "Conocimiento elemental de seguridad de red"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con conmutadores y enrutadores",
+        "Conocimiento de protocolo de configuración dinámica de host y sistema de nombres de dominio",
+        "Comprensión de redes inalámbricas básicas"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Configura redes simples",
+        "Está aprendiendo ingeniería de redes"
+      ]
+    },
+    "NE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar redes departamentales",
+        "Implementación de protocolos de enrutamiento",
+        "Conocimiento práctico de conmutación avanzada",
+        "Habilidad para configuración de redes privadas virtuales",
+        "Comprensión de calidad de servicio básica",
+        "Capacidad de monitorización de red",
+        "Conocimiento de reglas de cortafuegos",
+        "Habilidad para gestión de ancho de banda"
+      ],
+      "complementaryCompetencies": [
+        "Configuración de balanceadores de carga",
+        "Conocimiento básico de conmutación multiprotocolo mediante etiquetas",
+        "Comprensión de protocolo de Internet versión 6"
+      ],
+      "indicators": [
+        "Diseña redes con supervisión",
+        "Implementa seguridad de red",
+        "Optimiza rendimiento de red"
+      ]
+    },
+    "NE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas de red empresariales",
+        "Implementación de redes de área extensa definidas por software",
+        "Dominio de seguridad de red",
+        "Capacidad de diseño de alta disponibilidad",
+        "Habilidad para redes de centros de datos",
+        "Conocimiento profundo de protocolo de pasarela fronteriza",
+        "Implementación de automatización de redes",
+        "Diseño de redes de recuperación ante desastres"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de redes definidas por software",
+        "Habilidad para virtualización de redes",
+        "Comprensión de redes en la nube"
+      ],
+      "indicators": [
+        "Lidera proyectos de red",
+        "Diseña infraestructura crítica",
+        "Mentoriza ingenieros de redes"
+      ]
+    },
+    "NE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de redes a gran escala",
+        "Diseño de redes de múltiples centros de datos",
+        "Implementación de redes de confianza cero",
+        "Dominio de optimización de redes",
+        "Capacidad de balanceo de carga global",
+        "Conocimiento profundo de diseño de redes de distribución de contenidos",
+        "Habilidad para análisis forense de redes",
+        "Liderazgo en innovación de redes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en redes de proveedores de servicios de Internet",
+        "Conocimiento de cables submarinos",
+        "Implementación de redes de quinta generación"
+      ],
+      "indicators": [
+        "Define arquitectura de red empresarial",
+        "Lidera equipos de redes",
+        "Es referente en infraestructura de red"
+      ]
+    },
+    "NE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en infraestructura de red",
+        "Diseño de estrategias de conectividad",
+        "Gestión de equipos de ingeniería de redes",
+        "Definición de hojas de ruta de arquitectura de red",
+        "Capacidad de transformación de redes",
+        "Implementación de redes basadas en intenciones",
+        "Dominio de economía de redes",
+        "Promoción de estándares de ingeniería de conectividad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en redes de operadores",
+        "Conocimiento de segmentación de redes",
+        "Gestión de acuerdos de intercambio de tráfico"
+      ],
+      "indicators": [
+        "Gestiona equipos de redes",
+        "Define visión de conectividad",
+        "Representa redes ante ejecutivos"
+      ]
+    },
+    "NE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de ingeniería de redes organizacional",
+        "Estrategia de infraestructura de red global",
+        "Gestión de inversiones en redes",
+        "Definición de estrategia de conectividad",
+        "Liderazgo en transformación de redes",
+        "Implementación de redes autónomas",
+        "Adopción de arquitecturas de red emergentes",
+        "Gestión de asociaciones con operadores"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en redes de hiperescala",
+        "Conocimiento de redes cuánticas",
+        "Liderazgo en estándares de redes"
+      ],
+      "indicators": [
+        "Dirige departamento de redes (20 o más personas)",
+        "Participa en estrategia de infraestructura",
+        "Define inversiones en conectividad"
+      ]
+    },
+    "NE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en infraestructura de red",
+        "Diseño de estrategias de red globales",
+        "Transformación de conectividad empresarial",
+        "Gestión de redes a escala de gran empresa",
+        "Definición de arquitecturas de referencia de red empresarial",
+        "Definición de futuro de conectividad",
+        "Comunicación de la estrategia de red a la dirección ejecutiva",
+        "Influencia en industria de telecomunicaciones"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de redes troncales",
+        "Experiencia en proveedores de redes",
+        "Liderazgo en gobernanza de Internet"
+      ],
+      "indicators": [
+        "Depende de Director Técnico o Director de Información",
+        "Gestiona organización de redes (50 o más personas)",
+        "Define estrategia de conectividad corporativa"
+      ]
+    },
+    "NE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de hiperconectividad global",
+        "Liderazgo en revolución de redes",
+        "Diseño de conectividad siempre disponible y de alta resiliencia",
+        "Gestión de infraestructura de red global",
+        "Investigación en tecnologías de redes cuánticas",
+        "Definición de estándares de arquitectura de red para toda la organización",
+        "Definición de la dirección tecnológica de conectividad a largo plazo",
+        "Influencia en políticas de Internet global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como arquitecto de redes en operador de primer nivel",
+        "Asesoría en fondos de redes",
+        "Liderazgo de pensamiento en conectividad"
+      ],
+      "indicators": [
+        "Es parte del comité de infraestructura",
+        "Define futuro de redes",
+        "Es líder mundial en conectividad"
+      ]
+    },
+    "NE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de interconexión universal",
+        "Transformación de comunicación global",
+        "Definición de arquitecturas de red de nueva generación de baja latencia",
+        "Definición de conectividad instantánea",
+        "Innovación en redes biológicas",
+        "Promoción de estándares abiertos de redes en malla",
+        "Arquitecto de redes troncales a escala global",
+        "Influencia en evolución de comunicación"
+      ],
+      "complementaryCompetencies": [
+        "Creador de protocolos revolucionarios",
+        "Reconocimiento como padre de las redes modernas",
+        "Influencia en futuro de Internet"
+      ],
+      "indicators": [
+        "Es una autoridad reconocida en ingeniería de redes",
+        "Define futuro de conectividad",
+        "Es autoridad mundial en redes"
+      ]
+    }
+  }
+}

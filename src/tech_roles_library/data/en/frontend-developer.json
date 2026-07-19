@@ -1,0 +1,258 @@
+{
+  "role": "Frontend Developer",
+  "category": "Software Engineering",
+  "levels": {
+    "FE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of semantic HTML and document structure",
+        "Elementary knowledge of CSS and basic styles",
+        "Ability to create simple static web pages",
+        "Basic understanding of JavaScript and DOM manipulation",
+        "Ability to use browser development tools",
+        "Elementary knowledge of responsive design basic concepts",
+        "Basic understanding of web accessibility",
+        "Ability to work with basic version control systems"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of web design",
+        "Familiarity with code editors",
+        "Elementary understanding of HTTP"
+      ],
+      "indicators": [
+        "Requires constant frontend supervision",
+        "Can implement simple interfaces with guidance",
+        "Needs 3-6 months of intensive mentoring"
+      ]
+    },
+    "FE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement complex layouts with CSS/Flexbox/Grid",
+        "Ability to create basic reusable components",
+        "Practical knowledge of basic modern frameworks/libraries",
+        "Understanding of state management in applications",
+        "Ability to consume REST APIs and handle asynchronous data",
+        "Ability to implement forms with validation",
+        "Knowledge of CSS preprocessors and methodologies (BEM, SMACSS)",
+        "Understanding of basic asset optimization"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of frontend testing",
+        "Ability to use basic build tools",
+        "Understanding of basic SEO"
+      ],
+      "indicators": [
+        "Can develop UI features with moderate supervision",
+        "Implements components following established patterns",
+        "Collaborates effectively with designers"
+      ]
+    },
+    "FE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of modern JavaScript (ES6+) and asynchronous programming",
+        "Ability to implement complex state management",
+        "Ability to optimize frontend application performance",
+        "Deep knowledge of component lifecycle and hooks",
+        "Ability to implement complex routing and navigation",
+        "Solid understanding of bundlers and build optimization",
+        "Ability to implement basic Progressive Web Apps",
+        "Knowledge of unit and integration testing for frontend"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of TypeScript",
+        "Ability to implement complex animations",
+        "Understanding of basic WebAssembly"
+      ],
+      "indicators": [
+        "Completes complex frontend features independently",
+        "Optimizes applications for performance",
+        "Contributes to frontend architecture decisions"
+      ]
+    },
+    "FE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design scalable frontend architectures",
+        "Mastery of advanced state management patterns",
+        "Ability to implement micro-frontends",
+        "Deep knowledge of performance optimization and metrics",
+        "Ability to implement Server-Side Rendering and Static Generation",
+        "Mastery of accessibility (WCAG) and best practices",
+        "Ability to create and maintain design systems",
+        "Knowledge of monorepos and dependency management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of Web Components",
+        "Ability to work with WebRTC",
+        "Understanding of GraphQL client"
+      ],
+      "indicators": [
+        "Leads development of complex frontend applications",
+        "Defines team standards and tools",
+        "Mentors junior developers effectively"
+      ]
+    },
+    "FE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise application architectures",
+        "Ability to design corporate component systems",
+        "Mastery of advanced lazy loading and code splitting strategies",
+        "Ability to implement complex real-time features",
+        "Deep knowledge of frontend security and OWASP",
+        "Ability to implement AB testing and frontend feature flags",
+        "Expertise in internationalization and localization",
+        "Mastery of optimization for limited devices and networks"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cross-platform development",
+        "Ability to implement complex data visualizations",
+        "Understanding of machine learning in the browser"
+      ],
+      "indicators": [
+        "Architects frontend solutions for complete products",
+        "Leads adoption of new frontend technologies",
+        "Defines frontend technical roadmap"
+      ]
+    },
+    "FE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect omnichannel digital experiences",
+        "Expertise in optimizing Core Web Vitals at scale",
+        "Mastery of caching and offline-first strategies",
+        "Ability to design enterprise component platforms",
+        "Deep knowledge of browser APIs and capabilities",
+        "Ability to lead massive frontend migrations",
+        "Expertise in building design systems from scratch",
+        "Mastery of developer experience and tooling"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AR/VR web",
+        "Ability to contribute to web standards",
+        "Understanding of edge computing for frontend"
+      ],
+      "indicators": [
+        "Architects frontend experiences for multiple products",
+        "Leads organizational frontend transformation",
+        "Influences external frontend community"
+      ]
+    },
+    "FE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in digital experience innovation",
+        "Ability to design frontend architectures for millions of users",
+        "Expertise in platform engineering for frontend",
+        "Mastery of global experience optimization",
+        "Ability to define technical user experience strategies",
+        "Deep knowledge of emerging web technologies",
+        "Expertise in building proprietary frameworks and tools",
+        "Ability to influence industry standards"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent UI/UX innovations",
+        "Ability to create frontend-focused startups",
+        "Knowledge of investment in frontend tech"
+      ],
+      "indicators": [
+        "Defines enterprise digital experience strategy",
+        "Principal speaker at frontend conferences",
+        "Recognized thought leader in frontend"
+      ]
+    },
+    "FE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of digital interfaces",
+        "Ability to transform companies through digital experiences",
+        "Expertise in frontend technology due diligence",
+        "Mastery of building frontend engineering organizations",
+        "Ability to define digital experience governance",
+        "Deep knowledge of user experience ROI",
+        "Expertise in partnerships with browser vendors",
+        "Ability to lead open source frontend projects"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence W3C and WHATWG",
+        "Ability for technical advisory boards",
+        "Knowledge of frontend venture capital"
+      ],
+      "indicators": [
+        "Defines experience architecture for conglomerates",
+        "Influences direction of web technologies",
+        "Mentor of senior frontend leaders"
+      ]
+    },
+    "FE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in digital experience",
+        "Ability to convert UX into competitive advantage",
+        "Expertise in customer-facing digital transformation",
+        "Mastery of digital product portfolio management",
+        "Ability to build global frontend organizations",
+        "Deep knowledge of UX impact on business metrics",
+        "Expertise in product stakeholder relationships",
+        "Ability to define user experience culture"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence UX/UI industry",
+        "Ability to create experience ecosystems",
+        "Knowledge of UX-focused company exits"
+      ],
+      "indicators": [
+        "Defines and executes digital experience vision",
+        "Responsible for digital customer satisfaction",
+        "Recognized leader in digital experience"
+      ]
+    }
+  }
+}

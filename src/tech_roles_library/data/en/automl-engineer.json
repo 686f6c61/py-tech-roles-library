@@ -1,0 +1,258 @@
+{
+  "role": "AutoML Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "AMLE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of what automated machine learning automates in modeling",
+        "Ability to run an AutoML library on a tabular dataset following examples",
+        "Elementary knowledge of splitting data into train, validation and test sets",
+        "Ability to launch a hyperparameter search over a small grid under supervision",
+        "Basic understanding of what a hyperparameter is and how it affects a model",
+        "Ability to read a leaderboard of candidate models and pick the top one",
+        "Elementary knowledge of common metrics such as accuracy and error",
+        "Basic understanding of overfitting and why a held-out set matters"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of Python and pandas",
+        "Familiarity with scikit-learn estimators",
+        "Elementary understanding of cross-validation"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can run existing AutoML scripts with detailed guidance",
+        "Needs 3-6 months to be productive"
+      ]
+    },
+    "AMLE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to configure a hyperparameter search with defined ranges and budgets",
+        "Practical knowledge of random search and grid search trade-offs",
+        "Ability to run automated feature preprocessing and encoding pipelines",
+        "Understanding of early stopping to cut off unpromising trials",
+        "Ability to compare AutoML results against a simple manual baseline",
+        "Knowledge of cross-validation strategies to estimate generalization",
+        "Ability to handle categorical, numerical and missing values automatically",
+        "Understanding of compute budgets and how they bound a search"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of tree-based models such as gradient boosting",
+        "Familiarity with AutoML tools such as Auto-sklearn or FLAML",
+        "Basic understanding of experiment tracking"
+      ],
+      "indicators": [
+        "Can run AutoML experiments independently",
+        "Resolves medium complexity issues in search configuration",
+        "Actively participates in code reviews"
+      ]
+    },
+    "AMLE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Ability to run Bayesian optimization for hyperparameter tuning",
+        "Ability to apply Hyperband and successive halving to allocate compute efficiently",
+        "Deep knowledge of automated feature engineering and selection techniques",
+        "Ability to design honest evaluation protocols against manual baselines",
+        "Understanding of data leakage and how to prevent it in automated pipelines",
+        "Ability to set compute budgets and early stopping across many trials",
+        "Knowledge of nested cross-validation for unbiased model selection",
+        "Ability to instrument AutoML runs with experiment tracking and metrics"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of neural architecture search fundamentals",
+        "Ability to build reusable preprocessing and feature pipelines",
+        "Basic understanding of meta-learning for warm-starting search"
+      ],
+      "indicators": [
+        "Completes complex AutoML tasks with minimal supervision",
+        "Identifies and resolves failures in search and evaluation",
+        "Actively contributes to technical design of AutoML pipelines"
+      ]
+    },
+    "AMLE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design end-to-end AutoML pipelines from data to deployed model",
+        "Mastery of hyperparameter optimization with Bayesian methods and Hyperband",
+        "Ability to build neural architecture search within a bounded compute budget",
+        "Deep knowledge of automated feature engineering, selection and encoding",
+        "Ability to design evaluation that honestly compares against strong manual baselines",
+        "Mastery of budget allocation, early stopping and resource-aware scheduling",
+        "Ability to build meta-learning to warm-start search from prior tasks",
+        "Knowledge of preventing leakage and overfitting in automated search"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of multi-fidelity optimization and surrogate models",
+        "Ability to design experiment tracking and reproducibility standards",
+        "Understanding of model selection under distribution shift"
+      ],
+      "indicators": [
+        "Leads development of critical AutoML components",
+        "Effectively mentors junior engineers",
+        "Makes informed architectural decisions on AutoML design"
+      ]
+    },
+    "AMLE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in designing production AutoML platforms for many teams and datasets",
+        "Ability to architect scalable distributed hyperparameter and architecture search",
+        "Mastery of evaluation-driven development with honest baselines and leakage checks",
+        "Deep knowledge of meta-learning across tasks to accelerate search",
+        "Ability to design compute-budget governance across concurrent search jobs",
+        "Expertise in optimizing the accuracy, compute and time trade-off of search",
+        "Ability to build observability for trials, resource use and model quality",
+        "Mastery of reproducibility and versioning for automated experiments"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of neural architecture search at scale with weight sharing",
+        "Ability to design AutoML benchmarks against manual expert baselines",
+        "Understanding of fairness and robustness checks in automated selection"
+      ],
+      "indicators": [
+        "Designs AutoML architectures for complete products",
+        "Defines team technical standards for AutoML development",
+        "Leads cross-team initiatives on AutoML infrastructure"
+      ]
+    },
+    "AMLE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise AutoML platforms shared across many teams",
+        "Expertise in governance frameworks for automated model selection and deployment",
+        "Mastery of evaluation infrastructure that guards against leakage and inflated metrics",
+        "Ability to lead build-versus-buy decisions for AutoML tooling",
+        "Deep knowledge of compute cost governance for large-scale search",
+        "Ability to lead adoption of AutoML to complement expert data science teams",
+        "Expertise in reproducibility and audit trails for automated modeling",
+        "Mastery of reliability engineering for long-running distributed search"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging optimization methods and open AutoML ecosystems",
+        "Ability to design reusable search spaces and baseline catalogs",
+        "Understanding of regulatory constraints on automated decision models"
+      ],
+      "indicators": [
+        "Architects AutoML solutions for multiple teams",
+        "Influences organizational technical decisions on AutoML",
+        "Represents the company technically in the AutoML domain"
+      ]
+    },
+    "AMLE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership of organization-wide AutoML adoption",
+        "Ability to design AutoML architectures resilient to tooling and vendor change",
+        "Expertise in strategies for scaling automated modeling across many domains",
+        "Mastery of framework-agnostic abstractions across search and optimization tools",
+        "Ability to define multi-year roadmaps for AutoML capabilities",
+        "Deep knowledge of the economics and compute cost of automated search",
+        "Expertise in building and scaling AutoML engineering teams",
+        "Ability to set standards for honest evaluation and baseline comparison"
+      ],
+      "complementaryCompetencies": [
+        "Ability to evaluate AutoML vendors and open-source frameworks technically",
+        "Knowledge of research trends in optimization, NAS and meta-learning",
+        "Ability to shape internal policy on automated model governance"
+      ],
+      "indicators": [
+        "Defines organizational technical strategy for AutoML",
+        "Recognized as an authority in applied AutoML",
+        "Speaker at industry conferences on automated machine learning"
+      ]
+    },
+    "AMLE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Ability to set the long-term technical direction for AutoML in the organization",
+        "Expertise in aligning AutoML investment with data science and product priorities",
+        "Mastery of technical due diligence for AutoML products and acquisitions",
+        "Ability to anticipate shifts in optimization methods and adapt platform strategy",
+        "Deep knowledge of the risk and compliance landscape for automated decisions",
+        "Ability to build and lead AutoML engineering organizations",
+        "Expertise in defining honest evaluation and governance practices at scale",
+        "Ability to guide trade-offs between automated search and expert modeling"
+      ],
+      "complementaryCompetencies": [
+        "Ability to inform industry standards for automated model documentation",
+        "Knowledge of the AutoML tooling and compute vendor landscape",
+        "Ability to advise leadership on AutoML risk and opportunity"
+      ],
+      "indicators": [
+        "Shapes the technical direction of AutoML in the organization",
+        "Advises senior leadership on AutoML strategy and risk",
+        "Mentors senior technical leaders in AutoML"
+      ]
+    },
+    "AMLE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Ability to define the organization's AutoML technical vision and governance posture",
+        "Expertise in aligning AutoML strategy with product direction and regulation",
+        "Mastery of governing compute investment for large-scale automated search",
+        "Ability to steer sourcing of AutoML tooling across vendors and open source",
+        "Deep knowledge of managing risk and accountability of automated model decisions",
+        "Ability to build organizational capability for trustworthy AutoML at scale",
+        "Expertise in setting standards for evaluation, documentation and audit of models",
+        "Ability to sustain competitive advantage through automated modeling"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence regulation and standards for automated decision systems",
+        "Knowledge of the AutoML vendor, compute and talent ecosystem",
+        "Ability to represent the organization on responsible AutoML externally"
+      ],
+      "indicators": [
+        "Sets and executes the AutoML technical vision",
+        "Accountable for the quality and governance of automated models",
+        "Public technical voice of the organization in AutoML"
+      ]
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "role": "Solutions Architect",
+  "category": "Software Engineering",
+  "levels": {
+    "SOA-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of solutions architecture",
+        "Elementary knowledge of requirements gathering",
+        "Ability to document simple solutions",
+        "Basic understanding of customer needs analysis",
+        "Capacity to create basic diagrams",
+        "Elementary knowledge of technical presales",
+        "Basic understanding of demos and POCs",
+        "Ability for basic client communication"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of cloud solutions",
+        "Familiarity with methodologies",
+        "Elementary understanding of pricing"
+      ],
+      "indicators": [
+        "Requires supervision with clients",
+        "Can assist in simple solutions",
+        "Needs 1-2 years prior experience"
+      ]
+    },
+    "SOA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacity to design solutions for small clients",
+        "Ability to conduct technical workshops",
+        "Practical knowledge of integration patterns",
+        "Understanding of sizing and capacity planning",
+        "Capacity to create technical proposals",
+        "Ability for effective demos",
+        "Knowledge of competitive analysis",
+        "Understanding of project scoping"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of industry verticals",
+        "Ability for cost estimation",
+        "Understanding of partnerships"
+      ],
+      "indicators": [
+        "Designs solutions with moderate supervision",
+        "Handles small clients independently",
+        "Closes simple technical deals"
+      ]
+    },
+    "SOA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of end-to-end solution design",
+        "Capacity to handle complex RFPs",
+        "Ability to architect integrations",
+        "Deep knowledge of industry best practices",
+        "Capacity to lead POCs and pilots",
+        "Solid understanding of security and compliance",
+        "Ability for value engineering",
+        "Knowledge of migration strategies"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging technologies",
+        "Ability for partnership solutions",
+        "Understanding of professional services"
+      ],
+      "indicators": [
+        "Handles enterprise accounts independently",
+        "Designs multi-product solutions",
+        "Influences purchasing decisions"
+      ]
+    },
+    "SOA-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacity to architect enterprise solutions",
+        "Mastery of complex integration scenarios",
+        "Ability for transformation roadmaps",
+        "Deep knowledge of TCO and ROI analysis",
+        "Capacity to lead architecture in large deals",
+        "Mastery of regulatory compliance solutions",
+        "Ability for strategic account planning",
+        "Knowledge of ecosystem solutions"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of M&A integration",
+        "Ability for global deployments",
+        "Understanding of channel strategies"
+      ],
+      "indicators": [
+        "Leads solutions for strategic accounts",
+        "Defines reference architectures",
+        "Mentors junior solutions architects"
+      ]
+    },
+    "SOA-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise digital transformation",
+        "Capacity to design industry solutions",
+        "Mastery of corporate solution frameworks",
+        "Ability for C-level engagement",
+        "Deep knowledge of business value mapping",
+        "Capacity to lead solution teams",
+        "Expertise in competitive displacement",
+        "Mastery of partner ecosystem solutions"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of platform strategies",
+        "Ability for solution innovation",
+        "Understanding of venture solutions"
+      ],
+      "indicators": [
+        "Architects solutions for portfolios",
+        "Leads strategic wins",
+        "Defines solution methodologies"
+      ]
+    },
+    "SOA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacity to define regional solution strategy",
+        "Expertise in mega-deals and transformations",
+        "Mastery of industry thought leadership",
+        "Ability for executive advisory",
+        "Deep knowledge of solution economics",
+        "Capacity to build practices",
+        "Expertise in alliance solutions",
+        "Mastery of solution governance"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of solution investments",
+        "Ability for IP creation",
+        "Understanding of solution ventures"
+      ],
+      "indicators": [
+        "Defines regional solution strategy",
+        "Leads solution practices",
+        "Trusted advisor to C-suite"
+      ]
+    },
+    "SOA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in global solution innovation",
+        "Capacity to create market-making solutions",
+        "Expertise in industry transformation",
+        "Mastery of global solution partnerships",
+        "Capacity to define solution methodologies",
+        "Deep knowledge of solution trends",
+        "Expertise in solution thought leadership",
+        "Capacity to lead solution research"
+      ],
+      "complementaryCompetencies": [
+        "Capacity to patent solutions",
+        "Ability to promote solution adoption with clients and teams",
+        "Knowledge of solution M&A"
+      ],
+      "indicators": [
+        "Defines global solution philosophy",
+        "Keynote speaker at industry events",
+        "Influences solution standards"
+      ]
+    },
+    "SOA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for future solutions",
+        "Capacity to transform industries through solutions",
+        "Expertise in corporate solution strategy",
+        "Mastery of solution portfolio management",
+        "Capacity to define solution excellence",
+        "Deep knowledge of global solution governance",
+        "Expertise in solution ecosystem building",
+        "Capacity to lead solution innovation"
+      ],
+      "complementaryCompetencies": [
+        "Capacity to influence industry solutions",
+        "Ability for solution ventures",
+        "Knowledge of solution IPOs"
+      ],
+      "indicators": [
+        "Defines enterprise-wide solution strategy",
+        "Influences industry direction",
+        "Global executive advisor"
+      ]
+    },
+    "SOA-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in solution strategy",
+        "Capacity for solutions as differentiator",
+        "Expertise in solution-led growth",
+        "Mastery of solution investment strategies",
+        "Capacity to build solution empires",
+        "Deep knowledge of solution value creation",
+        "Expertise in executive solution partnerships",
+        "Capacity to define solution culture",
+        "Mastery of solution business impact"
+      ],
+      "complementaryCompetencies": [
+        "Capacity for solution policy influence",
+        "Ability for solution ecosystem dominance",
+        "Knowledge of solution-based exits"
+      ],
+      "indicators": [
+        "Defines and executes enterprise solution vision",
+        "Responsible for entire solution portfolio",
+        "Recognized global leader in solutions"
+      ]
+    }
+  }
+}

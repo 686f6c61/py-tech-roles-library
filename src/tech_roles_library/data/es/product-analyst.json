@@ -1,0 +1,258 @@
+{
+  "role": "Analista de Producto",
+  "category": "Producto",
+  "levels": {
+    "PA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de análisis de funcionalidades técnicas",
+        "Implementación de seguimiento de eventos en aplicaciones",
+        "Conocimiento práctico de análisis de cohortes",
+        "Habilidad para segmentación de usuarios tecnológicos",
+        "Comprensión de retención en productos de servicio",
+        "Capacidad de optimización de embudos",
+        "Conocimiento de significancia estadística",
+        "Habilidad para evaluación comparativa competitiva"
+      ],
+      "complementaryCompetencies": [
+        "Análisis de flujos de usuario en aplicaciones",
+        "Conocimiento de herramientas de reproducción de sesiones",
+        "Comprensión de atribución en productos tecnológicos"
+      ],
+      "indicators": [
+        "Realiza análisis de producto con supervisión",
+        "Define métricas de funcionalidades técnicas",
+        "Genera perspectivas de comportamiento de usuarios"
+      ]
+    },
+    "PA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de marcos analíticos para productos tecnológicos",
+        "Implementación de programas de experimentación",
+        "Dominio de análisis predictivo para productos de servicio",
+        "Capacidad de análisis de monetización",
+        "Habilidad para predicción de abandono",
+        "Conocimiento profundo de valor del ciclo de vida del cliente",
+        "Implementación de cuadros de mando de salud del producto",
+        "Diseño de análisis de autoservicio"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de aprendizaje automático para producto",
+        "Habilidad para análisis de crecimiento",
+        "Comprensión de optimización de precios"
+      ],
+      "indicators": [
+        "Lidera análisis de producto tecnológico",
+        "Define estrategia analítica de funcionalidades",
+        "Mentoriza analistas junior de producto"
+      ]
+    },
+    "PA-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de análisis para productos tecnológicos",
+        "Diseño de sistemas de perspectivas automatizados",
+        "Implementación de análisis de producto en tiempo real",
+        "Dominio de análisis multi-producto",
+        "Capacidad de experimentación avanzada",
+        "Conocimiento profundo de inferencia causal",
+        "Habilidad para modelado de crecimiento",
+        "Liderazgo en cultura basada en datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en sistemas de recomendación",
+        "Conocimiento de análisis profundo",
+        "Gestión de equipos de ciencia de datos"
+      ],
+      "indicators": [
+        "Define estrategia analítica de producto",
+        "Lidera decisiones basadas en datos",
+        "Influencia hoja de ruta de producto"
+      ]
+    },
+    "PA-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de análisis de producto en empresa tecnológica",
+        "Diseño de organizaciones analíticas",
+        "Gestión de equipos de analistas",
+        "Definición de marcos de medición",
+        "Capacidad de análisis estratégico",
+        "Implementación de plataformas de autoservicio",
+        "Dominio de automatización analítica",
+        "Impulso del pensamiento analítico entre equipos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación analítica",
+        "Conocimiento de ingeniería de datos",
+        "Gestión de proveedores de análisis"
+      ],
+      "indicators": [
+        "Gestiona equipo de análisis de producto",
+        "Define visión analítica de producto",
+        "Representa análisis ante producto"
+      ]
+    },
+    "PA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de análisis de producto tecnológico",
+        "Estrategia de productos inteligentes",
+        "Gestión de presupuestos analíticos grandes",
+        "Definición de monetización basada en datos",
+        "Liderazgo en transformación analítica",
+        "Implementación de inteligencia artificial en producto",
+        "Innovación en métodos analíticos",
+        "Gestión de análisis global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en productos predictivos",
+        "Conocimiento de análisis avanzado",
+        "Liderazgo en comunidades de análisis"
+      ],
+      "indicators": [
+        "Dirige departamento de análisis (20+ personas)",
+        "Participa en estrategia de producto",
+        "Define inversiones en análisis"
+      ]
+    },
+    "PA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en inteligencia de producto",
+        "Diseño de estrategias analíticas para empresas en crecimiento",
+        "Transformación de productos mediante datos",
+        "Gestión de análisis en empresas de alto crecimiento",
+        "Creación de ventajas competitivas mediante perspectivas",
+        "Definición del futuro del análisis de producto",
+        "Comunicación de la estrategia analítica a la dirección ejecutiva",
+        "Influencia en industria tecnológica"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de grandes volúmenes de datos para producto",
+        "Experiencia en análisis de producto mediante inteligencia artificial",
+        "Liderazgo en estándares de análisis"
+      ],
+      "indicators": [
+        "Depende del director de producto o datos",
+        "Gestiona organización analítica (50+ personas)",
+        "Define estrategia de datos de producto"
+      ]
+    },
+    "PA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de productos basados en datos",
+        "Liderazgo en revolución analítica tecnológica",
+        "Definición de prácticas de análisis predictivo de producto",
+        "Gestión de plataformas de inteligencia",
+        "Innovación en análisis y perspectivas de producto",
+        "Definición de análisis autónomo",
+        "Impulso de la toma de decisiones basada en datos",
+        "Influencia en evolución de productos tecnológicos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de análisis en empresas de gran valor",
+        "Asesoramiento en empresas emergentes analíticas",
+        "Liderazgo de pensamiento en inteligencia de producto"
+      ],
+      "indicators": [
+        "Es parte del liderazgo de producto",
+        "Define futuro de análisis tecnológico",
+        "Es líder mundial en análisis de producto"
+      ]
+    },
+    "PA-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en inteligencia de producto",
+        "Avance del desarrollo de producto basado en datos",
+        "Definición de la estrategia de análisis de producto de la organización",
+        "Definición de capacidades de análisis predictivo",
+        "Innovación en análisis de comportamiento y producto",
+        "Impulso de una cultura de producto guiada por perspectivas",
+        "Arquitectura de plataformas de análisis de producto",
+        "Influencia en evolución de inteligencia de producto"
+      ],
+      "complementaryCompetencies": [
+        "Trayectoria en la mejora de las prácticas de análisis de producto",
+        "Reconocimiento como referente en análisis de producto",
+        "Influencia en futuro de decisiones de producto"
+      ],
+      "indicators": [
+        "Lidera la función de análisis de producto de la empresa",
+        "Define futuro de inteligencia de producto",
+        "Es autoridad mundial en análisis tecnológico"
+      ]
+    },
+    "PA-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de análisis de producto tecnológico",
+        "Comprensión elemental de métricas de productos de servicio",
+        "Habilidad para consultas básicas de bases de datos",
+        "Conocimiento básico de embudos de conversión",
+        "Capacidad de crear informes de uso de funcionalidades",
+        "Comprensión de pruebas comparativas básicas",
+        "Documentación de perspectivas de producto",
+        "Conocimiento elemental de comportamiento de usuario en aplicaciones"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de análisis de producto",
+        "Conocimiento básico de herramientas de análisis",
+        "Comprensión de métricas de producto"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Genera informes de producto básicos",
+        "Está aprendiendo análisis de producto"
+      ]
+    }
+  }
+}

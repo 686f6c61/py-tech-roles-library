@@ -1,0 +1,258 @@
+{
+  "role": "Product Designer",
+  "category": "Design",
+  "levels": {
+    "PD-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of design fundamentals and visual hierarchy",
+        "Elementary understanding of the product design process",
+        "Ability to build simple screens in a design tool",
+        "Basic knowledge of typography, color, and spacing",
+        "Capability to follow an existing design system",
+        "Understanding of the difference between UX and UI",
+        "Documentation of design decisions with guidance",
+        "Elementary knowledge of user-centered design"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with tools such as Figma",
+        "Basic knowledge of frontend concepts",
+        "Understanding of accessibility basics"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Supports senior designers on simple tasks",
+        "Is learning product design"
+      ]
+    },
+    "PD-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to design complete screens from a brief",
+        "Application of design system components consistently",
+        "Practical knowledge of prototyping techniques",
+        "Ability to translate requirements into wireframes",
+        "Understanding of interaction patterns",
+        "Capability to iterate designs based on feedback",
+        "Knowledge of responsive design basics",
+        "Ability to collaborate with product and engineering"
+      ],
+      "complementaryCompetencies": [
+        "Analysis of basic usability heuristics",
+        "Knowledge of design handoff practices",
+        "Understanding of user flows"
+      ],
+      "indicators": [
+        "Designs features with supervision",
+        "Produces wireframes and mockups independently",
+        "Collaborates effectively with the product team"
+      ]
+    },
+    "PD-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of end-to-end product flows",
+        "Contribution to the design system with new components",
+        "Mastery of interactive prototyping",
+        "Capability to conduct basic usability reviews",
+        "Ability to balance user needs and business goals",
+        "Knowledge of visual and interaction design in depth",
+        "Application of accessibility standards in designs",
+        "Ownership of medium-complexity features"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of design tokens",
+        "Ability to run design critiques",
+        "Understanding of frontend implementation constraints"
+      ],
+      "indicators": [
+        "Owns features end-to-end",
+        "Contributes to the design system",
+        "Presents design work with confidence"
+      ]
+    },
+    "PD-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Design of complex product experiences autonomously",
+        "Definition of design patterns for the product",
+        "Mastery of design systems architecture",
+        "Capability to lead design for a product area",
+        "Ability to align design with product strategy",
+        "Deep knowledge of interaction and motion design",
+        "Facilitation of design workshops",
+        "End-to-end ownership of significant product initiatives"
+      ],
+      "complementaryCompetencies": [
+        "Experience in cross-functional collaboration",
+        "Knowledge of data-informed design decisions",
+        "Management of design debt"
+      ],
+      "indicators": [
+        "Works autonomously on complex problems",
+        "Shapes design direction for a product area",
+        "Mentors junior designers"
+      ]
+    },
+    "PD-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Design of product strategy through experience",
+        "Evolution of the design system at scale",
+        "Mastery of end-to-end product design craft",
+        "Capability to define design vision for products",
+        "Ability to influence product roadmap through design",
+        "Deep expertise in usability and accessibility",
+        "Leadership of design initiatives across teams",
+        "Establishment of design quality standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience in design operations",
+        "Knowledge of service design",
+        "Management of complex stakeholder relationships"
+      ],
+      "indicators": [
+        "Is a recognized expert in product design",
+        "Defines design vision for multiple features",
+        "Elevates the craft of the design team"
+      ]
+    },
+    "PD-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Leadership of design across a product line",
+        "Definition of design principles and culture",
+        "Management of design systems as a strategic asset",
+        "Capability to drive design strategy at product level",
+        "Ability to shape product vision alongside leadership",
+        "Deep knowledge of design impact on business outcomes",
+        "Mentoring and growth of design teams",
+        "Promotion of design thinking practices across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience in scaling design practices",
+        "Knowledge of design hiring and team building",
+        "Leadership in cross-product design consistency"
+      ],
+      "indicators": [
+        "Leads design for a product line",
+        "Influences product strategy through design",
+        "Grows and mentors senior designers"
+      ]
+    },
+    "PD-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive influence on product design strategy",
+        "Definition of design vision across multiple products",
+        "Transformation of product experience at scale",
+        "Management of design at organization level",
+        "Creation of design frameworks for the company",
+        "Alignment of design with long-term business strategy",
+        "Design leadership at the leadership table",
+        "Influence on the product design discipline externally"
+      ],
+      "complementaryCompetencies": [
+        "Management of design in complex organizations",
+        "Experience in design for enterprise-scale products",
+        "Leadership in design communities"
+      ],
+      "indicators": [
+        "Sets design direction across products",
+        "Partners with product and engineering leadership",
+        "Represents design at the executive level"
+      ]
+    },
+    "PD-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of design as a core business driver",
+        "Leadership in product design transformation",
+        "Creation of design ecosystems across the organization",
+        "Management of design vision at company scale",
+        "Introduction of new approaches to product experience",
+        "Definition of the organization's long-term design practices and standards",
+        "Advocacy for design's role in product decisions company-wide",
+        "Influence on the future of product design"
+      ],
+      "complementaryCompetencies": [
+        "Experience as a principal designer in leading companies",
+        "Advisory in design-driven startups",
+        "Thought leadership in product design"
+      ],
+      "indicators": [
+        "Shapes design strategy at company level",
+        "Defines design vision for the organization",
+        "Is a recognized authority in product design"
+      ]
+    },
+    "PD-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership as VP of Design",
+        "Transformation of the organization through design",
+        "Creation of a design-first company culture",
+        "Definition of design strategy at the executive level",
+        "Innovation in the intersection of design and business",
+        "Championing design quality standards across all product teams",
+        "Architect of the organization's design vision",
+        "Influence on the evolution of product design"
+      ],
+      "complementaryCompetencies": [
+        "Creator of industry-shaping design practices",
+        "Recognition as a design leader in the industry",
+        "Influence in global design education"
+      ],
+      "indicators": [
+        "Is VP of Design or equivalent",
+        "Defines the design vision of the company",
+        "Is a world authority in product design"
+      ]
+    }
+  }
+}

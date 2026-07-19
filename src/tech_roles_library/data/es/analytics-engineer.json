@@ -1,0 +1,266 @@
+{
+  "role": "Ingeniero de Analítica",
+  "category": "Datos",
+  "levels": {
+    "ANE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de SQL y bases de datos relacionales",
+        "Conocimiento elemental de conceptos de modelado de datos",
+        "Habilidad para escribir consultas SELECT simples con uniones",
+        "Comprensión básica del enfoque ETL y ELT",
+        "Familiaridad con el control de versiones con Git",
+        "Conocimiento elemental de calidad y validación de datos",
+        "Comprensión básica de casos de uso analíticos",
+        "Habilidad para leer e interpretar modelos de datos existentes"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de una herramienta de inteligencia de negocios (Looker, Tableau, Power BI)",
+        "Familiaridad con hojas de cálculo y tablas dinámicas",
+        "Comprensión elemental de estadística descriptiva"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en tareas de modelado",
+        "Puede ejecutar y modificar transformaciones SQL existentes",
+        "Necesita 3-6 meses de mentoría en ingeniería de analítica"
+      ]
+    },
+    "ANE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de construir modelos de datos con dbt o herramientas similares",
+        "Conocimiento práctico de modelado dimensional (esquema en estrella)",
+        "Habilidad para escribir SQL intermedio con CTE y funciones de ventana",
+        "Comprensión de las capas de preparación, intermedia y de consumo",
+        "Capacidad de implementar pruebas de datos y aserciones básicas",
+        "Conocimiento de frescura de fuentes y documentación de datos",
+        "Comprensión de modelos incrementales y materializaciones",
+        "Capacidad de colaborar con analistas en la toma de requisitos",
+        "Conocimiento básico de revisión de código para transformaciones SQL"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con almacenes de datos en la nube (BigQuery, Snowflake)",
+        "Habilidad para construir cuadros de mando simples",
+        "Comprensión de programaciones de orquestación básicas"
+      ],
+      "indicators": [
+        "Puede construir transformaciones modulares con supervisión",
+        "Resuelve problemas de calidad de datos comunes en los modelos",
+        "Mantiene proyectos dbt existentes efectivamente"
+      ]
+    },
+    "ANE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de la arquitectura de modelado por capas y convenciones de nomenclatura",
+        "Capacidad de diseñar transformaciones reutilizables y sin repetición con macros",
+        "Habilidad para optimizar el rendimiento de SQL y los costes del almacén",
+        "Conocimiento profundo de estrategias de pruebas (unitarias, genéricas, personalizadas)",
+        "Capacidad de implementar dimensiones de cambio lento",
+        "Comprensión sólida del linaje de datos y el análisis de impacto",
+        "Capacidad de diseñar métricas y lógica de negocio reutilizable",
+        "Conocimiento de integración y despliegue continuos para código analítico",
+        "Capacidad de documentar modelos para consumo de autoservicio"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de conceptos de capa semántica",
+        "Habilidad para trabajar con datos de eventos y comportamiento",
+        "Comprensión de flujos de ETL inverso"
+      ],
+      "indicators": [
+        "Diseña modelos de datos analíticos de extremo a extremo",
+        "Optimiza transformaciones existentes significativamente",
+        "Contribuye a estándares y convenciones de modelado"
+      ]
+    },
+    "ANE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas de datos analíticos escalables",
+        "Dominio de la capa semántica y las definiciones de métricas",
+        "Habilidad para establecer marcos de pruebas y calidad",
+        "Conocimiento profundo de modularidad y gestión de dependencias",
+        "Capacidad de implementar pipelines de integración y despliegue continuos para analítica",
+        "Dominio de optimización de costes en almacenes de datos en la nube",
+        "Habilidad para diseñar productos de datos de autoservicio",
+        "Conocimiento de contratos de datos entre productores y consumidores",
+        "Capacidad de implementar observabilidad y monitorización de analítica"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de analítica en tiempo real y casi en tiempo real",
+        "Habilidad para integrar características de aprendizaje automático",
+        "Comprensión de gobernanza de datos para analítica"
+      ],
+      "indicators": [
+        "Lidera proyectos complejos de ingeniería de analítica",
+        "Define estándares de modelado y pruebas",
+        "Mentoriza a ingenieros de analítica junior"
+      ]
+    },
+    "ANE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en capas semánticas y de métricas empresariales",
+        "Capacidad de diseñar plataformas de analítica para toda la organización",
+        "Dominio de modelado a gran escala y arquitecturas multiproyecto",
+        "Habilidad para implementar marcos de calidad de datos empresariales",
+        "Conocimiento profundo de ajuste de rendimiento del almacén",
+        "Capacidad de definir contratos de datos y acuerdos de nivel de servicio para analítica",
+        "Experiencia en operaciones de datos y automatización analíticas",
+        "Dominio de gobernanza y control de acceso para datos analíticos",
+        "Capacidad de diseñar productos de datos certificados y de confianza"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de almacenes de características para analítica y aprendizaje automático",
+        "Habilidad para habilitar analítica de experimentación y pruebas A/B",
+        "Comprensión de analítica que preserva la privacidad"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones de analítica empresariales",
+        "Lidera migraciones de plataformas de analítica",
+        "Define la hoja de ruta técnica de analítica"
+      ]
+    },
+    "ANE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar ecosistemas de analítica globales",
+        "Experiencia en la capa de métricas como fuente única de verdad",
+        "Dominio de productos de datos y analítica como servicio",
+        "Habilidad para implementar observabilidad de analítica completa",
+        "Conocimiento profundo de operaciones financieras para cargas analíticas",
+        "Capacidad de diseñar arquitecturas de autoservicio para toda la organización",
+        "Experiencia en malla de datos aplicada a dominios analíticos",
+        "Dominio de programas de confianza, certificación y calidad de datos",
+        "Capacidad de liderar equipos de ingeniería de analítica"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de analítica asistida por inteligencia artificial y búsqueda semántica",
+        "Habilidad para impulsar la adopción de analítica entre dominios",
+        "Comprensión de prácticas de datos sostenibles y eficientes"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de plataformas de analítica para múltiples dominios",
+        "Lidera la transformación de la madurez analítica organizacional",
+        "Define estrategia de analítica a largo plazo"
+      ]
+    },
+    "ANE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en democratización de analítica empresarial",
+        "Capacidad de diseñar modelos de gobernanza analítica federada",
+        "Experiencia en plataformas de analítica de autoservicio a escala",
+        "Dominio de marcos de métricas y conocimiento empresariales",
+        "Capacidad de implementar malla de datos a escala global",
+        "Conocimiento profundo de cumplimiento normativo de analítica",
+        "Experiencia en medición del valor y retorno de inversión de la analítica",
+        "Capacidad de definir prácticas de ingeniería de analítica en toda la empresa",
+        "Dominio de innovación en herramientas y métodos de analítica"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en estándares de la industria de analítica",
+        "Habilidad para construir plataformas internas de analítica como productos",
+        "Conocimiento de tendencias emergentes del ecosistema de analítica"
+      ],
+      "indicators": [
+        "Define estrategia corporativa de ingeniería de analítica",
+        "Lidera comunidades externas de ingeniería de analítica",
+        "Líder de pensamiento reconocido en ingeniería de analítica"
+      ]
+    },
+    "ANE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para el futuro de la analítica",
+        "Capacidad de transformar empresas en organizaciones guiadas por métricas",
+        "Experiencia en estrategia de analítica para fusiones e integraciones",
+        "Dominio de construcción de centros de excelencia de analítica",
+        "Capacidad de definir gobernanza de analítica empresarial",
+        "Conocimiento profundo de economía de la analítica y retorno de inversión",
+        "Experiencia en asociaciones estratégicas de analítica y decisiones de herramientas",
+        "Capacidad de liderar proyectos de código abierto de analítica",
+        "Dominio de prácticas de analítica fiables y responsables"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de dar forma a metodologías de ingeniería de analítica",
+        "Habilidad para asesorar sobre inversiones en plataformas de analítica",
+        "Conocimiento de inversión en tecnología de analítica"
+      ],
+      "indicators": [
+        "Define arquitectura de analítica para conglomerados",
+        "Influye en la dirección de la disciplina de analítica",
+        "Ponente principal en conferencias globales"
+      ]
+    },
+    "ANE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en estrategia de analítica y datos",
+        "Capacidad de convertir la analítica en un diferenciador de negocio",
+        "Experiencia en transformación digital impulsada por analítica",
+        "Dominio de presupuestos de analítica multimillonarios",
+        "Capacidad de construir organizaciones de analítica globales",
+        "Conocimiento profundo de gobernanza y cumplimiento de analítica",
+        "Experiencia en asociaciones y ecosistemas de analítica",
+        "Capacidad de definir una cultura organizacional guiada por métricas",
+        "Dominio de innovación e investigación en analítica"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en la regulación y los estándares de analítica",
+        "Habilidad para crear ecosistemas de analítica",
+        "Conocimiento de estrategias de inversión en analítica"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de analítica empresarial",
+        "Responsable de la estrategia de analítica corporativa",
+        "Líder reconocido en la industria global de analítica"
+      ]
+    }
+  }
+}

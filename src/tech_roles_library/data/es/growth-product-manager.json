@@ -1,0 +1,249 @@
+{
+  "role": "Gestor de Producto de Crecimiento",
+  "category": "Producto",
+  "levels": {
+    "GPM-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Nociones básicas del embudo AARRR (adquisición, activación, retención, ingresos, recomendación)",
+        "Lectura de analítica de producto e informe de tasas de conversión del embudo",
+        "Documentación de hipótesis y resultados de experimentos",
+        "Ejecución de una prueba A/B simple con guía",
+        "Nociones de métricas de activación y retención",
+        "Construcción de vistas de cohortes básicas para ver la retención en el tiempo",
+        "Comprensión del concepto de métrica estrella polar"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de analítica (Amplitude, Mixpanel, GA)",
+        "SQL básico para extraer datos de eventos",
+        "Nociones de mecánicas de recomendación y viralidad"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta experimentos simples",
+        "Necesita entre 6 y 12 meses de mentoría en crecimiento"
+      ]
+    },
+    "GPM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Diseño de experimentos de crecimiento con hipótesis y métricas claras",
+        "Ejecución de pruebas A/B e interpretación de la significación estadística",
+        "Análisis de abandono en el embudo y propuesta de mejoras de activación",
+        "Construcción de análisis de cohortes para medir retención e interacción",
+        "Instrumentación de eventos y definición de métricas de conversión",
+        "Pruebas de flujos de recomendación y de incorporación",
+        "Priorización de experimentos por impacto esperado y esfuerzo"
+      ],
+      "complementaryCompetencies": [
+        "Manejo práctico de una herramienta de experimentación",
+        "SQL para análisis de embudo y cohortes",
+        "Nociones de crecimiento liderado por producto"
+      ],
+      "indicators": [
+        "Ejecuta iniciativas de crecimiento con supervisión",
+        "Analiza métricas y optimiza embudos",
+        "Realiza pruebas A/B válidas"
+      ]
+    },
+    "GPM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de estrategias de crecimiento para una etapa del embudo AARRR",
+        "Construcción e instrumentación de bucles de crecimiento (recomendación, contenido, viral)",
+        "Ejecución de experimentos A/B y multivariados rigurosos con lecturas limpias",
+        "Mejora de la activación y la retención con análisis por cohortes",
+        "Definición y seguimiento de la métrica estrella polar y sus métricas de entrada",
+        "Diseño de experimentos de monetización y precios",
+        "Trabajo transversal con ingeniería, diseño y datos"
+      ],
+      "complementaryCompetencies": [
+        "Estrategias de crecimiento liderado por producto e incorporación de autoservicio",
+        "Diseño de experimentos y rigor estadístico",
+        "Nociones de expansión de mercado y canales"
+      ],
+      "indicators": [
+        "Lidera iniciativas de crecimiento de una etapa del embudo",
+        "Diseña experimentos complejos",
+        "Tutoriza a gestores de crecimiento junior"
+      ]
+    },
+    "GPM-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Responsable de la estrategia de crecimiento de adquisición, activación o retención",
+        "Diseño de la estrategia de crecimiento liderado por producto de extremo a extremo",
+        "Construcción de una cartera de bucles de crecimiento y mecánicas compuestas",
+        "Definición de la métrica estrella polar y del modelo de crecimiento",
+        "Dirección de un programa de experimentación riguroso con métricas de salvaguarda",
+        "Liderazgo de experimentos de monetización, precios y empaquetado",
+        "Impulso de una cultura de crecimiento basada en datos entre los equipos"
+      ],
+      "complementaryCompetencies": [
+        "Efectos de red y mecánicas de crecimiento viral",
+        "Infraestructura de crecimiento y plataformas de experimentación",
+        "Expansión internacional y de mercado"
+      ],
+      "indicators": [
+        "Define la estrategia de crecimiento del producto",
+        "Lidera un equipo de crecimiento",
+        "Es referente en crecimiento liderado por producto"
+      ]
+    },
+    "GPM-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo del crecimiento en varias etapas del embudo y equipos",
+        "Definición del modelo de crecimiento, la métrica estrella polar y sus entradas",
+        "Dirección del programa de experimentación con rigor estadístico y salvaguardas",
+        "Escalado de iniciativas de activación, retención y monetización",
+        "Construcción y mantenimiento de bucles de crecimiento y motores de recomendación",
+        "Establecimiento de operaciones de crecimiento y velocidad de experimentación",
+        "Alineación de la estrategia de crecimiento con los objetivos de producto y negocio"
+      ],
+      "complementaryCompetencies": [
+        "Manuales de hipercrecimiento y escalado",
+        "Economía del crecimiento: valor de vida del cliente, coste de adquisición y recuperación",
+        "Gestión del presupuesto y los recursos de crecimiento"
+      ],
+      "indicators": [
+        "Gestiona un equipo de crecimiento",
+        "Define la visión de crecimiento",
+        "Representa el crecimiento ante la dirección"
+      ]
+    },
+    "GPM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de la estrategia de crecimiento de una línea de producto",
+        "Gestión de programas de crecimiento y de la cartera de experimentación",
+        "Definición de la arquitectura y los bucles de crecimiento liderado por producto",
+        "Liderazgo de la activación, la retención y la monetización a escala",
+        "Gobierno de la métrica estrella polar y la responsabilidad de crecimiento",
+        "Gestión de la expansión internacional y la estrategia de canales",
+        "Liderazgo y mentoría de un grupo de gestores de crecimiento"
+      ],
+      "complementaryCompetencies": [
+        "Crecimiento en fusiones y entrada en nuevos mercados",
+        "Estrategia de precios y monetización",
+        "Liderazgo en comunidades de crecimiento"
+      ],
+      "indicators": [
+        "Dirige una función de crecimiento",
+        "Fija las prioridades de inversión en crecimiento",
+        "Contribuye a la estrategia de producto"
+      ]
+    },
+    "GPM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia plurianual de crecimiento de la empresa",
+        "Establecimiento del modelo operativo de crecimiento liderado por producto",
+        "Estandarización del programa de experimentación y el marco de métricas",
+        "Gobierno de la métrica estrella polar y el modelo de crecimiento en toda la empresa",
+        "Liderazgo de la estrategia de activación, retención y monetización entre productos",
+        "Definición de la estrategia de expansión y canales para nuevos mercados",
+        "Asesoría a la dirección sobre crecimiento, precios y economía unitaria"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en las prácticas y estándares de crecimiento",
+        "Crecimiento para empresas en fase de escalado y expansión",
+        "Mentoría de gestores de crecimiento principales"
+      ],
+      "indicators": [
+        "Fija la dirección corporativa de crecimiento",
+        "Depende del director de producto o al director general sobre crecimiento",
+        "Autoridad interna reconocida en crecimiento"
+      ]
+    },
+    "GPM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Responsable de la visión de crecimiento empresarial en todos los productos",
+        "Alineación de la estrategia de crecimiento con los objetivos de negocio e ingresos",
+        "Definición de modelos y manuales de crecimiento de referencia adoptados en toda la empresa",
+        "Liderazgo de la estrategia de crecimiento para nuevos productos y expansión",
+        "Establecimiento de estándares de experimentación, métricas y salvaguardas a escala",
+        "Fijación de marcos de monetización, precios y economía unitaria",
+        "Patrocinio de comunidades de crecimiento y capacitación"
+      ],
+      "complementaryCompetencies": [
+        "Configuración de relaciones externas de crecimiento y alianzas",
+        "Asesoría a la dirección sobre estrategia de crecimiento y monetización",
+        "Liderazgo de pensamiento en crecimiento liderado por producto"
+      ],
+      "indicators": [
+        "Forma parte del comité de liderazgo de producto",
+        "Define la estrategia de crecimiento empresarial",
+        "Líder reconocido en crecimiento"
+      ]
+    },
+    "GPM-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Definición y ejecución de la visión de crecimiento empresarial",
+        "Alineación del crecimiento con la estrategia corporativa y los objetivos de ingresos",
+        "Responsabilidad del modelo de crecimiento, la métrica estrella polar y la economía unitaria de la empresa",
+        "Construcción y liderazgo de la organización de crecimiento",
+        "Definición del modelo operativo y los bucles de crecimiento liderado por producto",
+        "Establecimiento de la estrategia de activación, retención y monetización a escala",
+        "Gobierno de la experimentación, las métricas y la responsabilidad de crecimiento"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en las prácticas de crecimiento del sector",
+        "Dirección de alianzas estratégicas de crecimiento y canales",
+        "Impulso del talento y la sucesión en crecimiento"
+      ],
+      "indicators": [
+        "Responsable de la estrategia de crecimiento empresarial",
+        "Ejecuta la visión de crecimiento a largo plazo",
+        "Líder reconocido en crecimiento"
+      ]
+    }
+  }
+}

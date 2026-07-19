@@ -1,0 +1,258 @@
+{
+  "role": "Especialista en Respuesta a Incidentes",
+  "category": "Seguridad",
+  "levels": {
+    "IR-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica del ciclo de vida de respuesta a incidentes",
+        "Conocimiento elemental de la supervisión de seguridad y las alertas",
+        "Capacidad de realizar la clasificación inicial de alertas con supervisión",
+        "Conocimiento básico de las técnicas de ataque habituales",
+        "Comprensión de los registros y las fuentes de eventos",
+        "Capacidad de seguir los manuales de respuesta a incidentes",
+        "Documentación de los detalles y las cronologías de los incidentes",
+        "Conciencia de los principios de la cadena de custodia"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de gestión de eventos e información de seguridad",
+        "Conocimiento básico de redes y sistemas operativos",
+        "Comprensión elemental de los conceptos de código malicioso"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Clasifica alertas básicas",
+        "Está aprendiendo los fundamentos de la respuesta a incidentes"
+      ]
+    },
+    "IR-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de clasificar y escalar incidentes de seguridad",
+        "Ejecución de los manuales de respuesta a incidentes",
+        "Conocimiento práctico del análisis y la correlación de registros",
+        "Capacidad de recopilar evidencia volátil y forense",
+        "Comprensión de los indicadores de compromiso habituales",
+        "Capacidad de contener incidentes de seguridad básicos",
+        "Conocimiento de las herramientas de detección y respuesta en el endpoint",
+        "Documentación de los pasos de investigación de incidentes"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con las fuentes de inteligencia de amenazas",
+        "Conocimiento básico de análisis forense de memoria y disco",
+        "Comprensión del marco MITRE ATT&CK"
+      ],
+      "indicators": [
+        "Trabaja con supervisión habitual",
+        "Gestiona incidentes siguiendo los manuales",
+        "Contribuye a la investigación y la contención"
+      ]
+    },
+    "IR-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Capacidad de liderar la investigación de incidentes moderados",
+        "Análisis forense digital de endpoints y artefactos de disco",
+        "Capacidad de realizar búsqueda proactiva de amenazas básica",
+        "Análisis del comportamiento de código malicioso a nivel básico",
+        "Aplicación del marco MITRE ATT&CK a las investigaciones",
+        "Capacidad de reconstruir las cronologías de los incidentes",
+        "Desarrollo de reglas y consultas de detección",
+        "Capacidad de documentar la causa raíz y la remediación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de respuesta a incidentes en la nube",
+        "Familiaridad con herramientas forenses (Volatility, Autopsy)",
+        "Comprensión del análisis forense de redes"
+      ],
+      "indicators": [
+        "Trabaja con supervisión ocasional",
+        "Es responsable de la investigación de incidentes moderados",
+        "Mentoriza a los aprendices en clasificación y análisis forense"
+      ]
+    },
+    "IR-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Gestión autónoma de incidentes de seguridad complejos",
+        "Dominio del análisis forense digital y la respuesta a incidentes",
+        "Búsqueda proactiva de amenazas en todo el entorno",
+        "Análisis de código malicioso avanzado y técnicas de los atacantes",
+        "Diseño de ingeniería de detección para amenazas emergentes",
+        "Liderazgo de las tareas de contención y erradicación",
+        "Capacidad de coordinar la respuesta entre equipos",
+        "Desarrollo de manuales de respuesta a incidentes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con análisis forense en la nube y en contenedores",
+        "Conocimiento de emulación de adversarios y ejercicios de equipo morado",
+        "Implementación de métricas de respuesta a incidentes"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma",
+        "Lidera la respuesta a incidentes complejos",
+        "Es referente en prácticas de análisis forense y respuesta"
+      ]
+    },
+    "IR-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo experto de la respuesta a incidentes graves",
+        "Definición de la estrategia de búsqueda de amenazas y detección",
+        "Dominio del análisis forense avanzado en múltiples plataformas",
+        "Liderazgo de la gestión de crisis durante las brechas de seguridad",
+        "Diseño de programas y procesos de respuesta a incidentes",
+        "Capacidad de coordinarse con los equipos legal, de comunicación y directivos",
+        "Desarrollo de capacidades de inteligencia de amenazas",
+        "Orientación de los equipos de respuesta en investigaciones complejas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en notificación de brechas y respuesta regulatoria",
+        "Conocimiento de ejercicios de simulación y preparación",
+        "Mentoría de especialistas en respuesta a incidentes"
+      ],
+      "indicators": [
+        "Es totalmente autónomo y experto",
+        "Define las prácticas de respuesta a incidentes",
+        "Lidera los incidentes graves y la respuesta a crisis"
+      ]
+    },
+    "IR-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la función de respuesta a incidentes",
+        "Diseño de la estrategia de respuesta a incidentes para toda la empresa",
+        "Definición de estándares de detección y respuesta",
+        "Liderazgo de los equipos de operaciones de seguridad y respuesta",
+        "Gobierno de la preparación de respuesta a incidentes en toda la organización",
+        "Coordinación de la gestión de crisis a nivel organizativo",
+        "Alineación de las capacidades de respuesta con el riesgo del negocio",
+        "Impulso de una cultura de resiliencia y preparación en los equipos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en evaluación de proveedores y herramientas",
+        "Conocimiento de los requisitos regulatorios y de notificación de brechas",
+        "Gestión de presupuestos de respuesta a incidentes"
+      ],
+      "indicators": [
+        "Lidera la respuesta a incidentes en toda la organización",
+        "Define la visión de respuesta y detección",
+        "Influye en las operaciones de seguridad de toda la empresa"
+      ]
+    },
+    "IR-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Dirección estratégica de los programas de respuesta a incidentes",
+        "Definición de la estrategia empresarial de detección y respuesta",
+        "Liderazgo de la transformación de resiliencia organizativa",
+        "Diseño del gobierno de la gestión de crisis",
+        "Gestión de las operaciones de seguridad a nivel empresarial",
+        "Innovación en tecnologías de detección y respuesta",
+        "Capacidad de asesorar a la alta dirección durante las crisis",
+        "Definición de la hoja de ruta de respuesta a incidentes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia influyendo en los estándares de respuesta del sector",
+        "Conocimiento de priorización de inversiones en seguridad",
+        "Liderazgo en programas de crisis interfuncionales"
+      ],
+      "indicators": [
+        "Dirige la respuesta a incidentes a escala organizativa",
+        "Participa en la estrategia de seguridad empresarial",
+        "Es una autoridad reconocida en respuesta a incidentes"
+      ]
+    },
+    "IR-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para la ciberresiliencia empresarial",
+        "Liderazgo en la transformación de las operaciones de seguridad",
+        "Definición de las prácticas de detección y respuesta a largo plazo de la organización",
+        "Creación de ventaja competitiva mediante la resiliencia",
+        "Gestión de la respuesta en ecosistemas complejos",
+        "Avance de las capacidades y el instrumental de detección y respuesta",
+        "Influencia en las políticas de operaciones de seguridad empresariales",
+        "Adopción de la defensa proactiva y la preparación en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como líder de operaciones de seguridad en empresas en crecimiento",
+        "Asesoría en respuesta a incidentes e inteligencia de amenazas",
+        "Liderazgo de pensamiento en ciberresiliencia"
+      ],
+      "indicators": [
+        "Marca la dirección técnica de toda la organización",
+        "Define la estrategia de respuesta a incidentes al más alto nivel",
+        "Es un líder reconocido en el sector"
+      ]
+    },
+    "IR-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en ciberresiliencia empresarial",
+        "Transformación de la cultura de operaciones de seguridad",
+        "Definición de organizaciones resilientes y preparadas para la respuesta",
+        "Responsabilidad ejecutiva de la gestión de crisis y la preparación",
+        "Alineación de la resiliencia con la estrategia corporativa y la junta directiva",
+        "Innovación en detección, respuesta e inteligencia de amenazas",
+        "Influencia en los estándares de respuesta a incidentes del sector",
+        "Arquitecto de ecosistemas proactivos de operaciones de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando la resiliencia en grandes corporaciones",
+        "Reconocimiento como líder de operaciones de seguridad a nivel de junta directiva",
+        "Influencia en los estándares globales de respuesta"
+      ],
+      "indicators": [
+        "Opera a nivel de vicepresidente o director de tecnología",
+        "Define el futuro de la ciberresiliencia",
+        "Es autoridad mundial en respuesta a incidentes"
+      ]
+    }
+  }
+}

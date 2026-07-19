@@ -1,0 +1,258 @@
+{
+  "role": "Forward Deployed Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "FDE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of how software is deployed in a customer environment",
+        "Elementary knowledge of reading and following integration documentation",
+        "Ability to build small scripts and prototypes with supervision",
+        "Basic understanding of APIs and connecting to external systems",
+        "Ability to take notes and translate customer requests into simple tasks",
+        "Elementary knowledge of debugging in unfamiliar environments with logs",
+        "Basic understanding of professional communication with customers",
+        "Ability to use collaboration and ticketing tools"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of the command line and remote access",
+        "Familiarity with data formats such as CSV and JSON",
+        "Elementary understanding of the product being deployed"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can complete simple tasks with detailed guidance",
+        "Needs 3-6 months to be productive"
+      ]
+    },
+    "FDE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to build working prototypes for customer scenarios with minimal supervision",
+        "Understanding of integrating the product with common customer systems",
+        "Ability to write data connectors and transformation scripts",
+        "Practical knowledge of gathering requirements directly from customer teams",
+        "Ability to reproduce and diagnose issues in customer environments",
+        "Understanding of configuration and environment differences across deployments",
+        "Ability to demo functionality and gather feedback on site",
+        "Knowledge of documenting integrations and handover notes"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of containers and deployment tooling",
+        "Ability to use SQL to explore customer data",
+        "Basic understanding of security and access in customer systems"
+      ],
+      "indicators": [
+        "Can build simple integrations independently",
+        "Resolves medium complexity issues on site",
+        "Actively participates in customer-facing meetings"
+      ]
+    },
+    "FDE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of rapid prototyping to validate solutions with customers quickly",
+        "Ability to design integrations with complex customer systems and data sources",
+        "Ability to translate ambiguous business needs into technical solutions",
+        "Deep knowledge of debugging across the full stack in constrained environments",
+        "Ability to manage day-to-day communication with customer stakeholders",
+        "Understanding of balancing custom work against reusable product features",
+        "Ability to lead a small deployment from kickoff to go-live",
+        "Knowledge of feeding field learnings back to the product team"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of authentication and single sign-on integrations",
+        "Ability to work within customer security and compliance constraints",
+        "Basic understanding of project scoping and estimation"
+      ],
+      "indicators": [
+        "Completes complex deployments with minimal supervision",
+        "Identifies and resolves integration blockers on site",
+        "Actively contributes to solution design with customers"
+      ]
+    },
+    "FDE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to own the end-to-end delivery of a customer deployment",
+        "Mastery of designing integrations across heterogeneous customer landscapes",
+        "Ability to manage stakeholder relationships from operators to executives",
+        "Deep knowledge of turning field learnings into product requirements",
+        "Ability to scope engagements and set realistic delivery expectations",
+        "Mastery of building resilient solutions that survive customer edge cases",
+        "Ability to handle escalations and unblock stalled deployments",
+        "Knowledge of establishing repeatable deployment patterns"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of infrastructure and networking in enterprise environments",
+        "Ability to lead technical workshops and enablement sessions",
+        "Understanding of data privacy obligations in customer contexts"
+      ],
+      "indicators": [
+        "Leads delivery of critical customer engagements",
+        "Effectively mentors junior engineers",
+        "Makes informed decisions balancing customer and product needs"
+      ]
+    },
+    "FDE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in delivering complex deployments for strategic customers",
+        "Ability to design solution architectures that fit customer constraints",
+        "Mastery of managing multiple concurrent engagements and priorities",
+        "Ability to influence the product roadmap based on field patterns",
+        "Deep knowledge of navigating organizational and political dynamics at customers",
+        "Ability to convert bespoke work into productized, reusable capabilities",
+        "Expertise in de-risking deployments through early validation",
+        "Mastery of acting as the technical bridge between field and product teams"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of pre-sales technical support and solution demos",
+        "Ability to design for scale across many similar customer deployments",
+        "Understanding of contractual and commercial constraints on delivery"
+      ],
+      "indicators": [
+        "Designs solutions for complete customer programs",
+        "Defines team practices for customer delivery",
+        "Leads cross-team initiatives connecting field and product"
+      ]
+    },
+    "FDE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect delivery approaches for enterprise customer portfolios",
+        "Expertise in building playbooks that scale deployments across customers",
+        "Mastery of managing executive relationships and strategic accounts",
+        "Ability to design solutions that shape the product direction",
+        "Deep knowledge of delivery risk management and mitigation",
+        "Ability to lead large, multi-team customer transformation programs",
+        "Expertise in building the tooling that accelerates field delivery",
+        "Mastery of translating market needs into product strategy"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of industry-specific regulations and compliance",
+        "Ability to design partner and integrator enablement",
+        "Understanding of commercial models for delivery services"
+      ],
+      "indicators": [
+        "Architects delivery for multiple strategic customers",
+        "Influences organizational decisions on product and delivery",
+        "Represents the company technically with key accounts"
+      ]
+    },
+    "FDE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership in large-scale customer transformation programs",
+        "Ability to design delivery models for global enterprise customers",
+        "Expertise in strategies for modernizing customer legacy landscapes",
+        "Mastery of building the bridge between engineering and go-to-market",
+        "Ability to define multi-year delivery and productization roadmaps",
+        "Deep knowledge of the economics of field delivery and services",
+        "Expertise in building and scaling forward deployed teams",
+        "Ability to influence the industry through delivery innovation"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape partnerships with systems integrators",
+        "Ability to technically evaluate acquisition and expansion opportunities",
+        "Knowledge of the competitive landscape in the customer segment"
+      ],
+      "indicators": [
+        "Defines organizational strategy for customer delivery",
+        "Recognized as thought leader in field engineering",
+        "Speaker at international conferences"
+      ]
+    },
+    "FDE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of how field delivery drives product and market fit",
+        "Ability to shape new customer delivery models based on field experience",
+        "Expertise in technical due diligence for customer-facing products",
+        "Mastery of organizational transformation through field-driven feedback",
+        "Ability to build and lead forward deployed engineering organizations",
+        "Deep knowledge of the business impact of delivery and product decisions",
+        "Expertise in executive stakeholder relations across customers and partners",
+        "Ability to define the culture of a field engineering organization"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence industry practices in solution delivery",
+        "Ability to create new service lines from field capabilities",
+        "Knowledge of investment in delivery and services businesses"
+      ],
+      "indicators": [
+        "Impacts the technical direction of customer delivery in the industry",
+        "Advisor to C-suite and boards on go-to-market and delivery",
+        "Mentor to senior technical leaders"
+      ]
+    },
+    "FDE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in field engineering and customer delivery",
+        "Ability to align delivery strategy with business and product strategy",
+        "Expertise in managing multi-million dollar delivery organizations",
+        "Mastery of investor relations and board management for delivery outcomes",
+        "Ability to lead delivery-driven mergers, acquisitions and integration",
+        "Deep knowledge of risk management across a customer delivery portfolio",
+        "Expertise in building competitive advantages through delivery excellence",
+        "Ability to drive enterprise growth through customer success at scale"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence industry standards for solution delivery",
+        "Ability to create ecosystems of partners and integrators",
+        "Knowledge of private equity and exits in services businesses"
+      ],
+      "indicators": [
+        "Defines and executes enterprise delivery vision",
+        "Responsible for delivery organization profit and loss",
+        "Public face of the company with strategic customers"
+      ]
+    }
+  }
+}

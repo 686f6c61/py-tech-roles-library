@@ -1,0 +1,258 @@
+{
+  "role": "Scrum Master",
+  "category": "Producto",
+  "levels": {
+    "SM-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión del propósito de cada evento de Scrum",
+        "Habilidad para tomar notas y registrar acciones durante las ceremonias",
+        "Conocimiento básico de cómo mantener actualizado un tablero de tareas",
+        "Familiaridad con la diferencia entre velocity y capacidad",
+        "Capacidad de reconocer un impedimento cuando un miembro del equipo lo plantea",
+        "Comprensión de los roles de product owner, personas desarrolladoras y Scrum Master",
+        "Nociones básicas de timeboxing y de por qué los eventos tienen duración fija",
+        "Documentación de las conclusiones de la retrospectiva y sus acciones de seguimiento"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con una herramienta de seguimiento de trabajo como Jira",
+        "Conocimiento básico de gráficos de trabajo pendiente",
+        "Comprensión de la definición de terminado"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Apoya en la facilitación de las ceremonias",
+        "Está aprendiendo los fundamentos de Scrum"
+      ]
+    },
+    "SM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Facilitación de las reuniones diarias manteniéndolas dentro del timebox",
+        "Seguimiento de impedimentos hasta su resolución y escalado cuando quedan bloqueados",
+        "Preparación y facilitación de la planificación de sprint con el product owner",
+        "Lectura de las tendencias de trabajo pendiente y velocity para detectar riesgo de entrega",
+        "Apoyo al refinamiento del backlog para que los elementos lleguen listos a la planificación",
+        "Facilitación de retrospectivas que producen acciones concretas",
+        "Protección del equipo frente a cambios de alcance a mitad de sprint",
+        "Refuerzo de la definición de terminado como puerta de calidad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento del cycle time como complemento de la velocity",
+        "Comprensión de los límites de trabajo en curso",
+        "Familiaridad con técnicas de división de historias"
+      ],
+      "indicators": [
+        "Facilita los eventos de un único equipo con apoyo",
+        "Elimina impedimentos rutinarios de forma autónoma",
+        "Hace seguimiento de las métricas de flujo del equipo"
+      ]
+    },
+    "SM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Facilitación del ciclo completo de eventos de Scrum de un equipo sin apoyo",
+        "Eliminación sistemática de impedimentos, incluidas las dependencias entre equipos",
+        "Uso del cycle time y los límites de trabajo en curso para mejorar el flujo",
+        "Coaching del equipo en autoorganización y conflicto sano",
+        "Diagnóstico de antipatrones de retrospectiva y facilitación de mejora real",
+        "Lectura de señales de salud del equipo más allá de las cifras de velocity",
+        "Coaching del product owner sobre preparación y dimensionamiento del backlog",
+        "Facilitación de la estimación sin dejar que la velocity se convierta en un objetivo"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de técnicas de facilitación para pensamiento divergente y convergente",
+        "Comprensión del mapeo de dependencias entre equipos",
+        "Familiaridad con modelos de madurez de equipos"
+      ],
+      "indicators": [
+        "Es responsable del proceso de un equipo de principio a fin",
+        "Mejora las métricas de flujo de forma medible a lo largo de los sprints",
+        "Guía al equipo hacia la autoorganización"
+      ]
+    },
+    "SM-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Coaching de un equipo maduro hacia una autoorganización sostenida",
+        "Resolución de impedimentos sistémicos que se repiten a lo largo de varios sprints",
+        "Facilitación de la gestión de dependencias entre dos o tres equipos que interactúan",
+        "Uso de las métricas de flujo para exponer cuellos de botella y reequilibrar el trabajo en curso",
+        "Facilitación de conversaciones difíciles y resolución de conflictos del equipo",
+        "Coaching del product owner sobre priorización y alineación de partes interesadas",
+        "Diseño de retrospectivas que impulsan un cambio medible con el tiempo",
+        "Protección de la salud del equipo y del ritmo sostenible bajo presión de entrega"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia facilitando sesiones de planificación entre equipos",
+        "Conocimiento de Kanban como complemento de Scrum",
+        "Comprensión de la seguridad psicológica como factor de rendimiento del equipo"
+      ],
+      "indicators": [
+        "Guía a un equipo de alto rendimiento",
+        "Resuelve impedimentos sistémicos a lo largo de los sprints",
+        "Facilita las dependencias con equipos vecinos"
+      ]
+    },
+    "SM-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Coaching de varios equipos manteniendo intacta la autonomía de cada uno",
+        "Facilitación de la planificación escalada entre un grupo de equipos interdependientes",
+        "Aplicación crítica de un marco de escalado como Nexus o LeSS donde encaja",
+        "Diseño de un panel de métricas de flujo que revela el riesgo de entrega de forma temprana",
+        "Mentoría de Scrum Masters junior en facilitación y eliminación de impedimentos",
+        "Resolución de impedimentos que requieren negociación con otros departamentos",
+        "Establecimiento de comunidades de práctica en torno a las formas ágiles de trabajar",
+        "Facilitación de retrospectivas de equipo de equipos que mejoran todo el flujo"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con la gestión de dependencias a nivel de programa",
+        "Conocimiento de las concesiones entre Nexus, LeSS y SAFe",
+        "Comprensión de la resistencia al cambio a nivel de equipo"
+      ],
+      "indicators": [
+        "Guía a varios equipos a la vez",
+        "Mentoriza a Scrum Masters junior",
+        "Facilita los eventos escalados entre equipos"
+      ]
+    },
+    "SM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo de la disciplina de Scrum Master en un área de negocio",
+        "Diseño del modelo de métricas de flujo que se usa para dirigir la entrega entre equipos",
+        "Evaluación crítica de cuándo escalar con un marco y cuándo no hacerlo",
+        "Coaching de líderes de equipo y responsables de ingeniería en liderazgo ágil",
+        "Eliminación de impedimentos organizativos arraigados en la estructura o las políticas",
+        "Facilitación de la alineación entre producto e ingeniería a nivel de programa",
+        "Definición de las vías de contratación y crecimiento de los Scrum Masters",
+        "Establecimiento del ritmo sostenible como norma en varios equipos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia rediseñando topologías de equipo para reducir dependencias",
+        "Conocimiento del mapeo de flujo de valor en una organización de entrega",
+        "Comprensión de las estructuras de incentivos que socavan la agilidad"
+      ],
+      "indicators": [
+        "Lidera la práctica de Scrum Master de un área",
+        "Elimina impedimentos organizativos más allá del nivel de equipo",
+        "Guía a responsables de ingeniería y líderes de equipo"
+      ]
+    },
+    "SM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Dirección de las formas ágiles de trabajar en una gran organización de entrega",
+        "Definición de las métricas que la dirección usa para juzgar la salud de la entrega",
+        "Custodia crítica de los marcos de escalado frente a las necesidades reales de la organización",
+        "Coaching de líderes senior en los comportamientos que habilitan la autonomía de los equipos",
+        "Eliminación de impedimentos incrustados en los procesos de presupuesto y gobernanza",
+        "Facilitación de la planificación a gran escala entre muchos equipos interdependientes",
+        "Establecimiento de la vía de crecimiento y certificación de la disciplina",
+        "Alineación de la cadencia de entrega con la planificación estratégica a nivel de empresa"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia dando forma a la planificación trimestral de un programa de equipos",
+        "Conocimiento del diseño organizativo para la eficiencia del flujo",
+        "Comprensión de cómo la gobernanza afecta a la cadencia de entrega"
+      ],
+      "indicators": [
+        "Dirige la entrega ágil en una organización",
+        "Asesora a la dirección senior sobre la salud de la entrega",
+        "Es responsable de la vía de crecimiento de la disciplina"
+      ]
+    },
+    "SM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición de cómo se mide y dirige la entrega ágil en toda la empresa",
+        "Encuadre de la autonomía de los equipos y la eficiencia del flujo como decisiones operativas estratégicas",
+        "Posición crítica sobre los marcos de escalado que resiste la adopción por imitación",
+        "Coaching de directivos sobre los cambios estructurales que desbloquean la entrega",
+        "Eliminación de impedimentos arraigados en el modelo operativo y de financiación de la empresa",
+        "Definición del estándar corporativo de una entrega sana y sostenible",
+        "Establecimiento de la disciplina de Scrum Master como una carrera reconocida",
+        "Alineación de los sistemas de entrega con la cadencia estratégica de la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Asesoramiento sobre modelos operativos ágiles en toda la organización",
+        "Influencia en cómo la empresa financia y gobierna la entrega",
+        "Trayectoria mejorando el flujo a escala organizativa"
+      ],
+      "indicators": [
+        "Da forma a las formas de trabajar de la entrega en la empresa",
+        "Asesora a los directivos sobre entrega y flujo",
+        "Es una autoridad reconocida en entrega ágil"
+      ]
+    },
+    "SM-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre el modelo operativo de entrega ágil de la empresa",
+        "Definición de las métricas de salud de entrega que gobiernan la organización",
+        "Fijación de la postura de principios de la empresa sobre escalado y autonomía de los equipos",
+        "Coaching del equipo ejecutivo en los comportamientos de liderazgo que habilitan el flujo",
+        "Eliminación de los impedimentos estructurales más profundos a la entrega a nivel de empresa",
+        "Establecimiento de la entrega sostenible como norma organizativa duradera",
+        "Dirección del papel y el crecimiento de la disciplina en toda la empresa",
+        "Alineación del sistema de entrega con la estrategia de negocio a largo plazo"
+      ],
+      "complementaryCompetencies": [
+        "Reconocimiento como referente en entrega ágil en el sector",
+        "Influencia en las prácticas de entrega más allá de la empresa",
+        "Trayectoria liderando grandes transformaciones ágiles con efecto duradero"
+      ],
+      "indicators": [
+        "Lidera la entrega ágil de toda la empresa",
+        "Define el modelo operativo de entrega de la organización",
+        "Es autoridad de referencia en entrega ágil"
+      ]
+    }
+  }
+}

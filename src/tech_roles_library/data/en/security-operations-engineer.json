@@ -1,0 +1,258 @@
+{
+  "role": "Security Operations Engineer",
+  "category": "Security",
+  "levels": {
+    "SOE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of how a security operations center monitors and responds to threats",
+        "Elementary knowledge of a SIEM and how events and alerts are surfaced",
+        "Ability to monitor an alert queue and flag notable events under supervision",
+        "Basic knowledge of the incident handling lifecycle from detection to closure",
+        "Ability to triage low-severity alerts against a provided runbook",
+        "Understanding of common security event sources such as endpoint, network and authentication logs",
+        "Documentation of alerts and incidents with clear timelines",
+        "Elementary knowledge of digital forensics concepts and evidence handling"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with common SOC tooling and ticketing systems",
+        "Basic knowledge of TCP/IP networking and common protocols",
+        "Elementary understanding of malware behaviour and its indicators"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Monitors and flags basic alerts within a defined scope",
+        "Is building foundational security operations skills"
+      ]
+    },
+    "SOE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to respond to security incidents through containment and recovery with light supervision",
+        "Implementation of monitoring use cases and dashboards in the SIEM",
+        "Practical knowledge of a SIEM and SOAR for correlation and automated response",
+        "Ability to run basic threat hunts against a hypothesis",
+        "Understanding of log analysis to reconstruct what happened during an alert",
+        "Ability to contain a compromised host or account following procedure",
+        "Knowledge of incident response playbooks and when to apply them",
+        "Ability to escalate incidents with the right context to senior analysts"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of endpoint detection and response tooling",
+        "Ability to write scripts to enrich alerts and automate small tasks",
+        "Understanding of threat intelligence feeds and indicators of compromise"
+      ],
+      "indicators": [
+        "Responds to incidents with supervision at decision points",
+        "Executes response playbooks reliably",
+        "Contributes findings to threat hunting efforts"
+      ]
+    },
+    "SOE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of monitoring coverage that maps log sources to relevant threats",
+        "Implementation and tuning of detection rules to reduce false positives",
+        "Command of the incident response process across the full lifecycle",
+        "Ability to conduct proactive threat hunts across endpoint and network data",
+        "Ability to perform host and log forensic analysis to determine root cause",
+        "Deep knowledge of attacker techniques mapped to the MITRE ATT&CK framework",
+        "Implementation of SOAR playbooks that automate enrichment and response",
+        "Ability to define and track SOC metrics such as mean time to detect and respond"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of malware analysis to extract behavioural indicators",
+        "Ability to produce actionable threat intelligence from incidents",
+        "Understanding of cyber threat intelligence sources and their reliability"
+      ],
+      "indicators": [
+        "Leads response on individual incidents",
+        "Designs and tunes detection logic",
+        "Mentors junior analysts on triage and investigation"
+      ]
+    },
+    "SOE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of SOC operations including tooling, staffing tiers and workflows",
+        "Design of an incident response strategy with defined severities and escalation paths",
+        "Implementation of a structured threat hunting program with repeatable hypotheses",
+        "Mastery of advanced forensics across memory, disk and network artifacts",
+        "Ability to build security orchestration that connects detection, enrichment and response",
+        "Deep knowledge of advanced persistent threat tactics and how to detect them",
+        "Ability to coordinate crisis response during major incidents",
+        "Leadership of significant security incidents from detection through recovery"
+      ],
+      "complementaryCompetencies": [
+        "Experience handling major breaches under pressure",
+        "Knowledge of threat actor tradecraft and campaign patterns",
+        "Implementation of automation to reduce analyst toil"
+      ],
+      "indicators": [
+        "Defines SOC operating procedures and strategy",
+        "Leads major incident response",
+        "Is a technical reference for security operations"
+      ]
+    },
+    "SOE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership across a security operations function spanning detection and response",
+        "Design of the SOC platform and its detection and response tooling",
+        "Management of SOC analyst teams across shifts and tiers",
+        "Definition of incident response procedures and detection engineering standards",
+        "Capability to run a threat intelligence program that feeds detection priorities",
+        "Implementation of automation that scales monitoring and response",
+        "Command of SOC metrics and reporting to demonstrate effectiveness",
+        "Communication of operational risk and incident impact to senior stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Experience running continuous around-the-clock operations",
+        "Knowledge of managed security service provider models",
+        "Management of the detection and response tooling budget"
+      ],
+      "indicators": [
+        "Manages the SOC team and its performance",
+        "Defines the vision for security operations",
+        "Represents the SOC to executives"
+      ]
+    },
+    "SOE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of the security operations strategy across the organization",
+        "Management of security operations at scale across regions and business units",
+        "Definition of the SOC architecture and detection engineering practice",
+        "Leadership of SOC modernization and transformation efforts",
+        "Management of major security incidents with organization-wide impact",
+        "Implementation of a distributed or follow-the-sun SOC model",
+        "Innovation in detection engineering and hunting methodology",
+        "Management of the threat intelligence capability and its integration"
+      ],
+      "complementaryCompetencies": [
+        "Experience designing SOCs from the ground up",
+        "Knowledge of where to invest across people, process and tooling",
+        "Leadership within the security operations community"
+      ],
+      "indicators": [
+        "Directs the security operations function",
+        "Participates in executive security strategy",
+        "Decides where security operations investment goes"
+      ]
+    },
+    "SOE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership of security operations across a large enterprise",
+        "Design of a global SOC operating model across regions and regulations",
+        "Transformation of incident response into a resilient, well-rehearsed capability",
+        "Management of security operations across a large, distributed organization",
+        "Creation of a detection-focused, threat-informed operations culture",
+        "Definition of the multi-year roadmap for security operations capabilities",
+        "Communication of operational security posture and major incidents to the board",
+        "Influence on how the industry runs modern security operations"
+      ],
+      "complementaryCompetencies": [
+        "Management of substantial security operations budgets",
+        "Experience running global, multi-site SOCs",
+        "Leadership within the broader security community"
+      ],
+      "indicators": [
+        "Reports to the CISO",
+        "Leads a large security operations organization",
+        "Defines enterprise security operations strategy"
+      ]
+    },
+    "SOE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for how security operations detect and respond to evolving threats",
+        "Leadership of SOC transformation as a company-wide discipline",
+        "Creation of a detection advantage through superior engineering and intelligence",
+        "Management of the ecosystem of tools, feeds and partners that power operations",
+        "Innovation in threat hunting and detection that advances the field",
+        "Definition of next-generation SOC practices for the organization",
+        "Championing of proactive, threat-informed defense across leadership",
+        "Influence on internal security policy grounded in operational evidence"
+      ],
+      "complementaryCompetencies": [
+        "Experience shaping security operations at large technology organizations",
+        "Advisory relationships with security operations startups and vendors",
+        "Recognized technical authority in security operations"
+      ],
+      "indicators": [
+        "Sits on the security leadership team",
+        "Sets the direction for security operations across the company",
+        "Is a recognized leader in the security operations field"
+      ]
+    },
+    "SOE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership of security operations as a core defensive capability",
+        "Transformation of how the enterprise detects and responds to threats",
+        "Definition of a proactive, threat-informed operations model",
+        "Establishment of continuous monitoring and rapid response as organizational defaults",
+        "Innovation in detection and response that shapes industry practice",
+        "Advocacy for security operations as a driver of measurable resilience",
+        "Architecture of the organization's overall detection and response program",
+        "Influence on security operations standards beyond the company"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming security operations at enterprise scale",
+        "Recognition as a leading figure in security operations",
+        "Influence on the practice and culture of modern defense"
+      ],
+      "indicators": [
+        "Leads security operations at the executive level",
+        "Sets the long-term direction for the discipline",
+        "Is regarded as an authority in security operations"
+      ]
+    }
+  }
+}

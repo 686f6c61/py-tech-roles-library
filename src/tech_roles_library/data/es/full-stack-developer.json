@@ -1,0 +1,266 @@
+{
+  "role": "Desarrollador Full-Stack",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "FS-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de arquitectura cliente-servidor y protocolo HTTP",
+        "Conocimiento elemental de HTML, CSS y estructuras de datos básicas",
+        "Capacidad de crear formularios simples con validación básica",
+        "Comprensión básica de bases de datos relacionales y consultas simples",
+        "Habilidad para crear páginas web estáticas con interactividad básica",
+        "Conocimiento elemental de versionado de código y trabajo en equipo",
+        "Comprensión básica del flujo completo de una aplicación web",
+        "Capacidad de configurar entornos de desarrollo locales simples"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de línea de comandos",
+        "Familiaridad con herramientas de desarrollo web",
+        "Comprensión elemental de depuración básica"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en todas las tareas",
+        "Puede completar tareas completas muy simples con guía detallada",
+        "Necesita 3-6 meses de mentoría intensiva"
+      ]
+    },
+    "FS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar funcionalidades CRUD completas con supervisión",
+        "Habilidad para crear interfaces adaptativas básicas conectadas a APIs",
+        "Conocimiento práctico de autenticación y autorización básica",
+        "Comprensión de patrones MVC o arquitecturas similares",
+        "Capacidad de trabajar con APIs RESTful tanto del lado cliente como servidor",
+        "Habilidad para manejar estado básico en aplicaciones web",
+        "Conocimiento de validación de datos en frontend y backend",
+        "Comprensión de seguridad web básica (CORS, XSS, inyección SQL)",
+        "Capacidad de realizar depuración en cliente y servidor"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de optimización de consultas",
+        "Habilidad para crear pruebas unitarias simples",
+        "Comprensión básica de integración y despliegue continuo"
+      ],
+      "indicators": [
+        "Puede completar funcionalidades simples completas con supervisión moderada",
+        "Resuelve problemas básicos de integración entre frontend y backend",
+        "Necesita revisión de código frecuente"
+      ]
+    },
+    "FS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de flujos completos de autenticación y gestión de sesiones",
+        "Capacidad de implementar APIs RESTful completas con documentación",
+        "Habilidad para optimizar rendimiento básico en frontend y backend",
+        "Conocimiento práctico de caché en múltiples capas (navegador, servidor, base de datos)",
+        "Capacidad de manejar subidas de archivos y procesamiento asíncrono",
+        "Comprensión sólida de patrones de diseño full-stack",
+        "Habilidad para implementar validación compleja y manejo de errores robusto",
+        "Conocimiento de websockets y comunicación en tiempo real",
+        "Capacidad de trabajar con múltiples bases de datos simultáneamente"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de GraphQL y alternativas a REST",
+        "Habilidad para implementar aplicaciones web progresivas básicas",
+        "Comprensión de microservicios básicos"
+      ],
+      "indicators": [
+        "Completa funcionalidades medianas completas con mínima supervisión",
+        "Puede depurar problemas complejos de integración",
+        "Contribuye activamente a decisiones técnicas de la pila"
+      ]
+    },
+    "FS-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas full-stack escalables para aplicaciones medianas",
+        "Dominio de optimización de rendimiento en todas las capas de la pila",
+        "Habilidad para implementar sistemas de mensajería y colas de trabajo",
+        "Conocimiento profundo de seguridad en aplicaciones web completas",
+        "Capacidad de implementar renderizado del lado del servidor, del lado del cliente y estrategias híbridas",
+        "Dominio de gestión de estado complejo en aplicaciones grandes",
+        "Habilidad para diseñar e implementar APIs GraphQL complejas",
+        "Conocimiento práctico de contenedorización y orquestación básica",
+        "Capacidad de implementar flujos completos de integración y despliegue continuo"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas sin servidor",
+        "Habilidad para trabajar con servicios en la nube",
+        "Comprensión de monitorización y observabilidad"
+      ],
+      "indicators": [
+        "Lidera desarrollo de funcionalidades complejas completas",
+        "Toma decisiones arquitecturales para componentes medianos",
+        "Mentoriza a desarrolladores junior en full-stack"
+      ]
+    },
+    "FS-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en arquitecturas de microservicios y su implementación completa",
+        "Capacidad de diseñar sistemas distribuidos con alta disponibilidad",
+        "Dominio de patrones de integración empresarial y sistemas heredados",
+        "Habilidad para implementar arquitecturas completas basadas en eventos",
+        "Conocimiento profundo de optimización de bases de datos y fragmentación",
+        "Capacidad de implementar sistemas de caché distribuido y redes de distribución de contenido",
+        "Experiencia en implementación de aplicaciones multiinquilino",
+        "Dominio de estrategias de despliegue y reversión seguros",
+        "Capacidad de diseñar APIs públicas escalables y versionadas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de cadena de bloques y tecnologías descentralizadas",
+        "Habilidad para trabajar con internet de las cosas y computación en el borde",
+        "Comprensión de integración de aprendizaje automático e inteligencia artificial en aplicaciones"
+      ],
+      "indicators": [
+        "Diseña soluciones técnicas para problemas de negocio complejos",
+        "Lidera migración de arquitecturas monolíticas a distribuidas",
+        "Define estándares técnicos para equipos full-stack"
+      ]
+    },
+    "FS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas completas desde cero",
+        "Experiencia en diseño de sistemas resilientes y tolerantes a fallos",
+        "Dominio de estrategias de escalabilidad horizontal y vertical",
+        "Habilidad para implementar observabilidad completa y rastreo distribuido",
+        "Conocimiento profundo de cumplimiento y regulaciones (GDPR, PCI-DSS)",
+        "Capacidad de diseñar arquitecturas multinube y agnósticas de nube",
+        "Experiencia en optimización de costes de infraestructura",
+        "Dominio de patrones de migración de datos y sistemas",
+        "Capacidad de implementar recuperación ante desastres y continuidad del negocio"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de preparación para computación cuántica",
+        "Habilidad para diseñar sistemas de realidad aumentada y virtual",
+        "Comprensión de computación avanzada en el borde"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones para productos completos",
+        "Lidera equipos técnicos multidisciplinarios",
+        "Define hoja de ruta técnica a largo plazo"
+      ]
+    },
+    "FS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en transformaciones digitales completas",
+        "Capacidad de diseñar arquitecturas para ecosistemas de productos",
+        "Experiencia en integración de sistemas heterogéneos a gran escala",
+        "Dominio de arquitecturas para procesamiento de macrodatos en tiempo real",
+        "Capacidad de diseñar plataformas de desarrollo internas (ingeniería de plataformas)",
+        "Conocimiento profundo de modelos de consistencia en sistemas distribuidos",
+        "Experiencia en diseño de federación de APIs y unión de esquemas",
+        "Capacidad de implementar arquitecturas de seguridad de confianza cero",
+        "Dominio de optimización de recursos a escala global"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de evaluar y adoptar tecnologías emergentes",
+        "Habilidad para diseñar arquitecturas para metaverso",
+        "Conocimiento de computación cuántica aplicada"
+      ],
+      "indicators": [
+        "Define arquitectura técnica para múltiples productos",
+        "Lidera comunidades técnicas y define mejores prácticas",
+        "Influencia decisiones técnicas a nivel organizacional"
+      ]
+    },
+    "FS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para evolución tecnológica de la empresa",
+        "Capacidad de diseñar arquitecturas para sistemas empresariales de gran escala",
+        "Experiencia en diligencia debida técnica y evaluación de adquisiciones",
+        "Dominio de estrategias de modernización de sistemas heredados a escala masiva",
+        "Capacidad de definir gobernanza técnica y arquitecturas de referencia",
+        "Conocimiento profundo de optimización de pérdidas y ganancias técnicas",
+        "Experiencia en construcción y escalado de equipos de ingeniería globales",
+        "Capacidad de diseñar ecosistemas de APIs y mercados",
+        "Dominio de estrategias de código abierto y construcción de comunidades"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de representar la empresa en conferencias técnicas",
+        "Habilidad para patentar innovaciones técnicas",
+        "Conocimiento de construcción de empresas técnicas"
+      ],
+      "indicators": [
+        "Define estrategia técnica multianual para la organización",
+        "Representa la empresa como líder de pensamiento",
+        "Impacta industria con innovaciones técnicas"
+      ]
+    },
+    "FS-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en tecnología y transformación digital",
+        "Capacidad de alinear estrategia técnica con objetivos de negocio",
+        "Experiencia en fusiones y adquisiciones técnicas e integración posterior",
+        "Dominio de gestión de presupuestos tecnológicos multimillonarios",
+        "Capacidad de construir y escalar organizaciones de ingeniería",
+        "Conocimiento profundo de cumplimiento y gestión de riesgos tecnológicos",
+        "Experiencia en relaciones con inversores y gestión de junta directiva",
+        "Capacidad de definir cultura de ingeniería y valores técnicos",
+        "Dominio de gestión de innovación e investigación y desarrollo estratégico"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar políticas de industria",
+        "Habilidad para crear empresas derivadas tecnológicas",
+        "Conocimiento de inversión en empresas emergentes técnicas"
+      ],
+      "indicators": [
+        "Define y ejecuta visión técnica de la empresa",
+        "Responsable de pérdidas y ganancias de tecnología completo",
+        "Reconocido como líder en la industria tecnológica"
+      ]
+    }
+  }
+}

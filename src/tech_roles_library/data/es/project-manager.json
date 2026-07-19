@@ -1,0 +1,258 @@
+{
+  "role": "Gestor de Proyectos",
+  "category": "Producto",
+  "levels": {
+    "PJM-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de gestión de proyectos de software",
+        "Comprensión elemental de PMBOK/Prince2",
+        "Habilidad para crear cronogramas simples",
+        "Conocimiento básico de gestión de recursos",
+        "Capacidad de seguimiento de tareas",
+        "Comprensión básica de gestión de riesgos",
+        "Documentación de actas de constitución de proyectos",
+        "Conocimiento elemental de gestión de partes interesadas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con MS Project/Monday",
+        "Conocimiento básico de elaboración de presupuestos",
+        "Comprensión de planes de comunicación"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Gestiona proyectos pequeños",
+        "Está aprendiendo gestión de proyectos"
+      ]
+    },
+    "PJM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de gestionar proyectos medianos",
+        "Implementación de planes de proyecto completos",
+        "Conocimiento práctico de asignación de recursos",
+        "Habilidad para mitigación de riesgos",
+        "Comprensión de gestión del valor ganado",
+        "Capacidad de gestión de proveedores",
+        "Conocimiento de aseguramiento de calidad",
+        "Habilidad para informes de estado"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de proyectos ágiles",
+        "Conocimiento de gestión del cambio",
+        "Comprensión de procesos de adquisición"
+      ],
+      "indicators": [
+        "Gestiona proyectos con supervisión",
+        "Coordina equipos pequeños",
+        "Mantiene documentación actualizada"
+      ]
+    },
+    "PJM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de marcos de gestión de proyectos",
+        "Implementación de estándares de oficina de gestión de proyectos",
+        "Dominio de gestión de portafolio",
+        "Capacidad de gestión compleja de partes interesadas",
+        "Habilidad para gestión de crisis",
+        "Conocimiento profundo de gobernanza",
+        "Implementación de mejora continua",
+        "Gestión de proyectos críticos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de gestión de programas",
+        "Habilidad para realización de beneficios",
+        "Comprensión de alineación estratégica"
+      ],
+      "indicators": [
+        "Lidera proyectos estratégicos",
+        "Define metodologías de gestión de proyectos",
+        "Mentoriza a gestores de proyectos"
+      ]
+    },
+    "PJM-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de oficina de gestión de proyectos empresarial",
+        "Diseño de optimización de portafolio",
+        "Implementación de gestión de proyectos empresariales",
+        "Dominio de programas de transformación",
+        "Capacidad de planificación estratégica",
+        "Conocimiento profundo de entrega de valor",
+        "Habilidad para cambio organizacional",
+        "Liderazgo en adopción de metodologías"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en integración de fusiones",
+        "Conocimiento de cumplimiento normativo",
+        "Gestión de programas globales"
+      ],
+      "indicators": [
+        "Define estrategia de oficina de gestión de proyectos",
+        "Lidera programas transformacionales",
+        "Influencia decisiones ejecutivas"
+      ]
+    },
+    "PJM-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de oficina de gestión de proyectos organizacional",
+        "Diseño de marcos de excelencia en entrega",
+        "Gestión de portafolios empresariales",
+        "Definición de gobernanza de proyectos",
+        "Capacidad de ejecución estratégica",
+        "Implementación de programas de innovación",
+        "Dominio de gestión de beneficios",
+        "Impulso de la excelencia en la entrega de proyectos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación digital",
+        "Conocimiento de modelos híbridos ágil-cascada",
+        "Gestión de socios de entrega"
+      ],
+      "indicators": [
+        "Gestiona oficina de gestión de proyectos completa",
+        "Define marco de entrega",
+        "Representa la oficina ante ejecutivos"
+      ]
+    },
+    "PJM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de entrega organizacional",
+        "Estrategia de excelencia en ejecución",
+        "Gestión de presupuestos de transformación",
+        "Definición de modelos operativos de entrega",
+        "Liderazgo en capacidades organizacionales",
+        "Implementación de optimización de portafolio",
+        "Innovación en métodos de entrega",
+        "Gestión de iniciativas estratégicas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en programas de recuperación",
+        "Conocimiento de gestión de valor",
+        "Liderazgo en comunidades de gestión de proyectos"
+      ],
+      "indicators": [
+        "Dirige departamento de entrega",
+        "Participa en planificación estratégica",
+        "Define inversiones en capacidades"
+      ]
+    },
+    "PJM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en excelencia de ejecución",
+        "Diseño de estrategias de entrega globales",
+        "Transformación de capacidades de ejecución",
+        "Gestión de grandes portafolios de proyectos",
+        "Creación de ventajas mediante ejecución",
+        "Definición del futuro de gestión de proyectos",
+        "Comunicación del rendimiento de la entrega a la dirección ejecutiva",
+        "Influencia en la industria de gestión de proyectos"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de megaprogramas",
+        "Experiencia en proyectos de infraestructura",
+        "Liderazgo en organismos de estándares de gestión de proyectos"
+      ],
+      "indicators": [
+        "Depende de director de operaciones o director ejecutivo",
+        "Gestiona organización de entrega (más de 50 personas)",
+        "Define estrategia de ejecución"
+      ]
+    },
+    "PJM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de maestría en ejecución",
+        "Liderazgo en revolución de entrega",
+        "Definición del modelo operativo de entrega de la organización",
+        "Gestión de programas de transformación de toda la empresa",
+        "Innovación en prácticas de gestión de programas",
+        "Definición de entrega autónoma",
+        "Impulso de prácticas de excelencia en la entrega",
+        "Influencia en economía de proyectos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de operaciones en empresas",
+        "Asesoría en excelencia de ejecución",
+        "Liderazgo de pensamiento en entrega"
+      ],
+      "indicators": [
+        "Es parte de la alta dirección ejecutiva",
+        "Define estrategia de ejecución global",
+        "Es líder mundial en entrega"
+      ]
+    },
+    "PJM-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en el futuro de la ejecución",
+        "Transformación de industrias mediante excelencia en entrega",
+        "Definición de los estándares de entrega de la organización",
+        "Definición de procesos de entrega optimizados",
+        "Innovación en herramientas y métodos de gestión de proyectos",
+        "Impulso de la coordinación eficaz entre equipos",
+        "Arquitectura de marcos de entrega escalables",
+        "Influencia en evolución del trabajo"
+      ],
+      "complementaryCompetencies": [
+        "Trayectoria en el desarrollo de metodologías de entrega",
+        "Reconocimiento como referente en entrega de proyectos",
+        "Influencia en educación global de gestión de proyectos"
+      ],
+      "indicators": [
+        "Lidera la función de entrega de proyectos de la empresa",
+        "Define el futuro de la ejecución",
+        "Es autoridad mundial en gestión de proyectos"
+      ]
+    }
+  }
+}

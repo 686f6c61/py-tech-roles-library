@@ -1,0 +1,266 @@
+{
+  "role": "Customer Success Engineer",
+  "category": "Sales",
+  "levels": {
+    "CUS-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of the product and its use cases",
+        "Elementary knowledge of customer support processes",
+        "Ability to answer common technical questions with guidance",
+        "Basic understanding of troubleshooting methodology",
+        "Familiarity with ticketing and CRM tools",
+        "Elementary knowledge of clear customer communication",
+        "Basic understanding of onboarding steps",
+        "Ability to reproduce and document customer issues"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of APIs and integrations",
+        "Familiarity with reading logs and error messages",
+        "Elementary understanding of SQL for data checks"
+      ],
+      "indicators": [
+        "Requires constant supervision in customer interactions",
+        "Can resolve simple, documented issues",
+        "Needs 3-6 months of mentoring in customer success engineering"
+      ]
+    },
+    "CUS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to lead basic technical onboarding sessions",
+        "Practical knowledge of troubleshooting integrations and APIs",
+        "Ability to reproduce and diagnose common issues independently",
+        "Understanding of adoption metrics and customer health",
+        "Ability to write clear resolution steps and follow-ups",
+        "Knowledge of escalation paths to product and engineering",
+        "Understanding of customer configuration and setup",
+        "Ability to create knowledge base articles",
+        "Ability to manage a queue of customer requests"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with monitoring and observability tools",
+        "Ability to write simple scripts to diagnose issues",
+        "Understanding of basic account management"
+      ],
+      "indicators": [
+        "Can handle onboarding and issues with supervision",
+        "Resolves common technical problems independently",
+        "Maintains customer relationships effectively"
+      ]
+    },
+    "CUS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of technical onboarding for complex customers",
+        "Ability to diagnose advanced integration and performance issues",
+        "Ability to drive product adoption with technical guidance",
+        "Deep knowledge of the product architecture and APIs",
+        "Ability to act as a technical bridge between customer and product",
+        "Solid understanding of customer health scoring and churn signals",
+        "Ability to design solutions and workarounds for customers",
+        "Knowledge of proactive monitoring and issue prevention",
+        "Ability to influence the roadmap with customer feedback"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of scripting and automation for support",
+        "Ability to run technical enablement and training",
+        "Understanding of renewal and expansion dynamics"
+      ],
+      "indicators": [
+        "Owns technical success for a portfolio of accounts",
+        "Significantly improves adoption and satisfaction",
+        "Contributes to success playbooks and best practices"
+      ]
+    },
+    "CUS-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design technical onboarding programs at scale",
+        "Mastery of complex troubleshooting and root cause analysis",
+        "Ability to establish adoption and health measurement frameworks",
+        "Deep knowledge of the full product and integration ecosystem",
+        "Ability to lead strategic accounts and technical relationships",
+        "Mastery of translating customer needs into product feedback",
+        "Ability to design self-service enablement and documentation",
+        "Knowledge of automation for proactive customer success",
+        "Ability to define and track technical success metrics"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of solution architecture for customers",
+        "Ability to drive expansion through technical value",
+        "Understanding of data-driven customer success"
+      ],
+      "indicators": [
+        "Leads complex customer success initiatives",
+        "Defines technical success standards and playbooks",
+        "Mentors junior customer success engineers"
+      ]
+    },
+    "CUS-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise customer success engineering",
+        "Ability to design success programs for the whole customer base",
+        "Mastery of technical relationship management at scale",
+        "Ability to implement customer health and adoption frameworks",
+        "Deep knowledge of product, platform and integration limits",
+        "Ability to define escalation and incident response processes",
+        "Expertise in proactive success and churn prevention",
+        "Mastery of cross-functional collaboration with product and engineering",
+        "Ability to design certified enablement and training programs"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of customer success automation platforms",
+        "Ability to lead technical account planning",
+        "Understanding of value realization and business outcomes"
+      ],
+      "indicators": [
+        "Architects enterprise customer success solutions",
+        "Leads success program transformation",
+        "Defines the technical success roadmap"
+      ]
+    },
+    "CUS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect global customer success programs",
+        "Expertise in customer success as a strategic growth driver",
+        "Mastery of technical success across regions and segments",
+        "Ability to implement complete customer health observability",
+        "Deep knowledge of retention economics and expansion levers",
+        "Ability to design self-service success experiences at scale",
+        "Expertise in federated success models across teams",
+        "Mastery of value realization and outcome programs",
+        "Ability to lead and grow customer success teams"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AI-driven customer success and predictive churn",
+        "Ability to drive adoption across products and segments",
+        "Understanding of sustainable customer success practices"
+      ],
+      "indicators": [
+        "Architects success programs for multiple segments",
+        "Leads organizational customer-centric transformation",
+        "Defines long-term customer success strategy"
+      ]
+    },
+    "CUS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in enterprise customer success at scale",
+        "Ability to design customer success platforms and models",
+        "Expertise in self-service success experiences at global scale",
+        "Mastery of retention, expansion and advocacy programs",
+        "Ability to implement federated success models globally",
+        "Deep knowledge of customer success in regulated industries",
+        "Expertise in value measurement and success ROI",
+        "Ability to define success practices across the company",
+        "Mastery of innovation in customer success methodologies"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence customer success industry standards",
+        "Ability to build customer success platforms as products",
+        "Knowledge of emerging customer success ecosystem trends"
+      ],
+      "indicators": [
+        "Defines corporate customer success strategy",
+        "Leads external customer success communities",
+        "Recognized thought leader in customer success engineering"
+      ]
+    },
+    "CUS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of customer success",
+        "Ability to transform companies into customer-centric organizations",
+        "Expertise in success strategy for M&A and integrations",
+        "Mastery of building customer success centers of excellence",
+        "Ability to define enterprise customer success governance",
+        "Deep knowledge of retention economics and lifetime value",
+        "Expertise in strategic customer partnerships",
+        "Ability to lead cross-industry customer success initiatives",
+        "Mastery of ethical and responsible customer engagement"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape customer success methodologies",
+        "Ability to advise on customer success platform investments",
+        "Knowledge of investment in customer success technology"
+      ],
+      "indicators": [
+        "Defines customer success strategy for conglomerates",
+        "Influences the direction of the customer success discipline",
+        "Principal speaker at global conferences"
+      ]
+    },
+    "CUS-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in customer success strategy",
+        "Ability to turn customer success into a business differentiator",
+        "Expertise in customer-driven digital transformation",
+        "Mastery of multi-million dollar customer success budgets",
+        "Ability to build global customer success organizations",
+        "Deep knowledge of retention, expansion and advocacy at scale",
+        "Expertise in customer partnerships and ecosystems",
+        "Ability to define a customer-centric organizational culture",
+        "Mastery of innovation and R&D in customer success"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence customer success standards",
+        "Ability to create customer success ecosystems",
+        "Knowledge of customer success investment strategies"
+      ],
+      "indicators": [
+        "Defines and executes the enterprise customer success vision",
+        "Responsible for corporate customer success strategy",
+        "Recognized leader in the global customer success industry"
+      ]
+    }
+  }
+}

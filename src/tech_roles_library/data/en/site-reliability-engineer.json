@@ -1,0 +1,259 @@
+{
+  "role": "Site Reliability Engineer",
+  "category": "Infrastructure",
+  "levels": {
+    "SRE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of SRE principles and SLI/SLO/SLA",
+        "Elementary knowledge of monitoring and observability",
+        "Ability to respond to incidents with runbooks",
+        "Basic understanding of availability and reliability",
+        "Ability to use basic monitoring tools",
+        "Elementary knowledge of incident management",
+        "Basic understanding of automation and scripting",
+        "Ability to document operational procedures"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of cloud platforms",
+        "Familiarity with containerization",
+        "Elementary understanding of networking"
+      ],
+      "indicators": [
+        "Requires constant supervision in SRE tasks",
+        "Participates in on-call with senior support",
+        "Needs 6-12 months of SRE mentoring"
+      ]
+    },
+    "SRE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to define and monitor basic SLIs",
+        "Ability to implement effective alerting",
+        "Practical knowledge of basic capacity planning",
+        "Understanding of error budgets and their management",
+        "Ability to perform basic post-mortems",
+        "Ability to automate simple operational tasks",
+        "Knowledge of load balancing and failover",
+        "Understanding of backup and recovery procedures"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of Infrastructure as Code",
+        "Ability for basic performance tuning",
+        "Understanding of security operations"
+      ],
+      "indicators": [
+        "Handles medium severity incidents independently",
+        "Improves runbooks and documentation proactively",
+        "Participates effectively in on-call rotation"
+      ]
+    },
+    "SRE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of complete observability (metrics, logs, traces)",
+        "Ability to design comprehensive SLOs",
+        "Ability to implement basic chaos engineering",
+        "Deep knowledge of distributed systems reliability",
+        "Ability to perform advanced capacity planning",
+        "Solid understanding of toil reduction and automation",
+        "Ability to implement self-healing systems",
+        "Knowledge of disaster recovery planning"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of service mesh",
+        "Ability for cost optimization",
+        "Understanding of compliance automation"
+      ],
+      "indicators": [
+        "Leads response to complex incidents",
+        "Designs monitoring systems for new services",
+        "Reduces toil significantly through automation"
+      ]
+    },
+    "SRE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design architectures for high availability",
+        "Mastery of incident command and crisis management",
+        "Ability to implement SRE practices at scale",
+        "Deep knowledge of performance engineering",
+        "Ability to define organizational reliability standards",
+        "Mastery of blameless post-mortem culture",
+        "Ability to design disaster recovery strategies",
+        "Knowledge of multi-region failover and geo-redundancy"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of machine learning for SRE",
+        "Ability for game days and drills",
+        "Understanding of edge reliability"
+      ],
+      "indicators": [
+        "Defines SRE strategy for critical products",
+        "Mentors junior SREs effectively",
+        "Improves MTTR and MTBF consistently"
+      ]
+    },
+    "SRE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in reliability engineering for massive systems",
+        "Ability to implement AIOps and predictive analytics",
+        "Mastery of global load balancing and traffic management",
+        "Ability to design observability platforms",
+        "Deep knowledge of advanced chaos engineering",
+        "Ability to lead SRE transformations",
+        "Expertise in production readiness reviews",
+        "Mastery of reliability testing and validation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of quantum-safe reliability",
+        "Ability for reliability economics",
+        "Understanding of sustainability in SRE"
+      ],
+      "indicators": [
+        "Architects reliability for multiple products",
+        "Leads cross-organizational SRE initiatives",
+        "Defines technical reliability roadmap"
+      ]
+    },
+    "SRE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define enterprise SRE strategy",
+        "Expertise in reliability for complex architectures",
+        "Mastery of incident management at global scale",
+        "Ability to build SRE platforms and tooling",
+        "Deep knowledge of reliability economics and ROI",
+        "Ability to lead cultural transformation towards SRE",
+        "Expertise in vendor reliability management",
+        "Mastery of regulatory compliance for availability"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of reliability for AI/ML systems",
+        "Ability for reliability consulting",
+        "Understanding of reliability insurance"
+      ],
+      "indicators": [
+        "Defines corporate reliability standards",
+        "Leads SRE organization building",
+        "Influences industry SRE practices"
+      ]
+    },
+    "SRE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in reliability engineering innovation",
+        "Ability to design reliability for ecosystems",
+        "Expertise in zero-downtime transformation",
+        "Mastery of reliability automation platforms",
+        "Ability to define SRE methodologies",
+        "Deep knowledge of reliability impact on revenue",
+        "Expertise in building SRE centers of excellence",
+        "Ability to lead reliability research"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent reliability innovations",
+        "Ability to drive SRE adoption across a global organization",
+        "Knowledge of reliability ventures"
+      ],
+      "indicators": [
+        "Defines organizational SRE philosophy",
+        "Keynote speaker at SREcon",
+        "Author of SRE frameworks"
+      ]
+    },
+    "SRE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of reliability engineering",
+        "Ability to transform industries through reliability",
+        "Expertise in reliability for critical infrastructure",
+        "Mastery of executive reliability governance",
+        "Ability to define reliability economics models",
+        "Deep knowledge of global reliability standards",
+        "Expertise in strategic reliability partnerships",
+        "Ability to lead open source SRE initiatives"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence reliability regulations",
+        "Ability for reliability advisory boards",
+        "Knowledge of reliability investments"
+      ],
+      "indicators": [
+        "Defines multi-year reliability strategy",
+        "Influences global reliability standards",
+        "Advisor to C-suite on reliability"
+      ]
+    },
+    "SRE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in reliability and operations",
+        "Ability to convert reliability into competitive advantage",
+        "Expertise in enterprise reliability transformation",
+        "Mastery of strategic reliability budgets",
+        "Ability to build global SRE organizations",
+        "Deep knowledge of reliability risk management",
+        "Expertise in reliability as market differentiator",
+        "Ability to define reliability culture",
+        "Mastery of reliability metrics for boards"
+      ],
+      "complementaryCompetencies": [
+        "Ability to create reliability companies",
+        "Ability for reliability M&A",
+        "Knowledge of reliability IPOs"
+      ],
+      "indicators": [
+        "Defines and executes enterprise reliability vision",
+        "Responsible for all corporate reliability",
+        "Recognized global leader in reliability engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "role": "Data Visualization Specialist",
+  "category": "Data",
+  "levels": {
+    "DVS-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic chart types and when to use them (bar, line, scatter)",
+        "Notions of visual encoding: position, length, color",
+        "Builds simple charts from a prepared dataset",
+        "Applies color and labeling for readability",
+        "Uses dashboard templates in a BI tool",
+        "Notions of data-ink and avoiding chart clutter",
+        "Documents the metric and source behind a chart"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with a BI tool (Tableau, Power BI, Looker)",
+        "Basic spreadsheet charting",
+        "Awareness of accessibility and contrast"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Builds simple visualizations",
+        "Needs 6-12 months of mentoring"
+      ]
+    },
+    "DVS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Chooses the right chart for the question and the data type",
+        "Builds interactive dashboards with filters and drill-downs",
+        "Prepares and shapes data for visualization",
+        "Applies grammar of graphics principles (encodings, scales)",
+        "Designs for accessibility: color-blind-safe palettes and labels",
+        "Optimizes dashboard layout for readability",
+        "Documents definitions and keeps a metric consistent"
+      ],
+      "complementaryCompetencies": [
+        "Notions of a charting library (D3, Vega-Lite)",
+        "Basic SQL for data preparation",
+        "Responsive and mobile dashboard design"
+      ],
+      "indicators": [
+        "Builds dashboards with supervision",
+        "Applies visualization best practices",
+        "Maintains corporate dashboards"
+      ]
+    },
+    "DVS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Masters grammar of graphics and visual perception principles",
+        "Designs dashboards that answer specific business questions",
+        "Applies data storytelling to guide the reader to insight",
+        "Builds custom visualizations beyond default chart types",
+        "Optimizes dashboard performance (queries, extracts, caching)",
+        "Ensures accessibility and consistent visual standards",
+        "Designs geospatial and time-series visualizations"
+      ],
+      "complementaryCompetencies": [
+        "Creative coding with a charting library (D3, Vega)",
+        "Data journalism and narrative techniques",
+        "Notions of a semantic layer for consistent metrics"
+      ],
+      "indicators": [
+        "Designs visualization systems for a team",
+        "Leads visualization projects",
+        "Mentors junior specialists"
+      ]
+    },
+    "DVS-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Defines the visualization strategy and design system for a domain",
+        "Standardizes chart patterns, palettes and accessibility guidelines",
+        "Architects self-service dashboards and certified metrics",
+        "Optimizes performance across large dashboards and datasets",
+        "Leads data storytelling for executive and operational audiences",
+        "Manages the semantic layer for consistent, reusable metrics",
+        "Reduces cognitive load through layout and interaction design"
+      ],
+      "complementaryCompetencies": [
+        "BI governance and content certification",
+        "Design tokens and reusable visualization components",
+        "Notions of embedded analytics"
+      ],
+      "indicators": [
+        "Defines visualization standards for the organization",
+        "Leads a visualization or BI team",
+        "Mentors specialists"
+      ]
+    },
+    "DVS-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leads the enterprise visualization platform and design system",
+        "Drives self-service analytics adoption across teams",
+        "Governs metric definitions and certified dashboards",
+        "Sets accessibility and performance standards at scale",
+        "Establishes data storytelling practices and templates",
+        "Defines interaction patterns for human-data exploration",
+        "Runs visualization enablement and training programs"
+      ],
+      "complementaryCompetencies": [
+        "Embedded and white-label analytics",
+        "Visualization research and usability testing",
+        "Partnerships with product and design teams"
+      ],
+      "indicators": [
+        "Architects the visualization platform",
+        "Defines the visualization roadmap",
+        "Leads a visualization organization"
+      ]
+    },
+    "DVS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Directs the visualization strategy for a business unit",
+        "Manages the design system and self-service platform at scale",
+        "Defines governance for metrics, certification and accessibility",
+        "Leads storytelling standards for executive decision-making",
+        "Sets performance and reliability standards for dashboards",
+        "Drives adoption metrics and self-service maturity",
+        "Leads and mentors a group of visualization specialists"
+      ],
+      "complementaryCompetencies": [
+        "Embedded analytics and product data experiences",
+        "Cross-functional data literacy programs",
+        "Sustainable and efficient dashboard practices"
+      ],
+      "indicators": [
+        "Directs a visualization function",
+        "Sets long-term visualization strategy",
+        "Resolves cross-team design trade-offs"
+      ]
+    },
+    "DVS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Sets the multi-year visualization strategy for the company",
+        "Establishes the enterprise design system and self-service model",
+        "Standardizes metric certification, accessibility and performance",
+        "Governs data storytelling and decision-support standards",
+        "Defines visualization tooling and platform strategy",
+        "Drives data literacy and self-service adoption enterprise-wide",
+        "Advises executives on data presentation and decision-making"
+      ],
+      "complementaryCompetencies": [
+        "Influence on visualization standards and practices",
+        "Product analytics and embedded visualization strategy",
+        "Mentors principal specialists"
+      ],
+      "indicators": [
+        "Sets corporate visualization direction",
+        "Arbitrates high-impact design decisions",
+        "Recognized internal authority on data visualization"
+      ]
+    },
+    "DVS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Owns the enterprise visualization vision across all domains",
+        "Aligns visualization strategy with business decision-making",
+        "Defines reference design systems adopted company-wide",
+        "Leads visualization strategy for integrations and new products",
+        "Establishes accessibility, performance and certification standards",
+        "Sets self-service and data literacy frameworks",
+        "Sponsors visualization guilds and enablement communities"
+      ],
+      "complementaryCompetencies": [
+        "Shapes external tooling and design relationships",
+        "Advises leadership on data presentation strategy",
+        "Thought leadership in data visualization"
+      ],
+      "indicators": [
+        "Defines visualization across business units",
+        "Influences the direction of the discipline",
+        "Principal authority for data visualization"
+      ]
+    },
+    "DVS-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Sets and executes the enterprise data visualization vision",
+        "Aligns visualization with corporate decision-making strategy",
+        "Owns the design system and self-service strategy across the company",
+        "Builds and leads the visualization organization",
+        "Defines accessibility, performance and certification standards globally",
+        "Establishes data storytelling and literacy programs at scale",
+        "Governs visualization tooling and platform strategy"
+      ],
+      "complementaryCompetencies": [
+        "Influences industry visualization practices",
+        "Steers strategic tooling and design partnerships",
+        "Sponsors visualization talent and succession"
+      ],
+      "indicators": [
+        "Accountable for enterprise visualization strategy",
+        "Executes the long-term visualization vision",
+        "Recognized leader in data visualization"
+      ]
+    }
+  }
+}

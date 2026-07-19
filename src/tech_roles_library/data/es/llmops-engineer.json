@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero LLMOps",
+  "category": "IA/ML",
+  "levels": {
+    "LLM-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de cómo se sirven los modelos de lenguaje a través de API",
+        "Conocimiento elemental de los prompts y de cómo afectan a las respuestas del modelo",
+        "Capacidad de invocar un modelo alojado desde un script con supervisión",
+        "Comprensión básica de los tokens y de su relación con el coste y los límites",
+        "Habilidad para registrar las entradas y salidas del modelo siguiendo ejemplos",
+        "Conocimiento elemental de lectura de paneles y métricas básicas",
+        "Comprensión básica de qué es una evaluación y por qué importa",
+        "Habilidad para usar control de versiones y cuadernos para experimentar"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de Python o de un lenguaje de scripting",
+        "Familiaridad con JSON y ficheros de configuración",
+        "Comprensión elemental de claves de API y límites de tasa"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede completar tareas simples con guía detallada",
+        "Necesita 3-6 meses para ser productivo"
+      ]
+    },
+    "LLM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de construir funcionalidades simples basadas en modelos de lenguaje con supervisión mínima",
+        "Comprensión del versionado de prompts y de mantenerlos en el control de versiones",
+        "Habilidad para crear pequeños conjuntos de datos de evaluación y ejecutarlos contra un modelo",
+        "Conocimiento práctico de la medición de latencia, uso de tokens y coste por petición",
+        "Capacidad de añadir registro estructurado y trazado a las llamadas al modelo",
+        "Comprensión de la generación aumentada por recuperación a nivel básico",
+        "Capacidad de configurar reintentos, tiempos de espera y manejo básico de errores",
+        "Conocimiento de la comparación de salidas entre modelos y variantes de prompts"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de bases de datos vectoriales e incrustaciones",
+        "Habilidad para usar contenedores para empaquetar un servicio de modelo",
+        "Comprensión básica de la integración continua para prompts"
+      ],
+      "indicators": [
+        "Puede construir funcionalidades simples de modelos de lenguaje de forma independiente",
+        "Resuelve problemas de complejidad media en los conductos de modelos de lenguaje",
+        "Participa activamente en revisiones de código y prompts"
+      ]
+    },
+    "LLM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de la gestión de prompts con versionado, pruebas y despliegue",
+        "Capacidad de diseñar conductos de evaluación con puntuación automática y basada en modelo",
+        "Habilidad para construir observabilidad de sistemas de modelos de lenguaje incluyendo señales de calidad y deriva",
+        "Conocimiento profundo de los conductos de recuperación, incluyendo estrategias de fragmentación e indexación",
+        "Capacidad de optimizar coste y latencia mediante almacenamiento en caché y enrutamiento de modelos",
+        "Comprensión de mecanismos de protección para el filtrado de entradas y salidas",
+        "Capacidad de configurar pruebas A/B y comparaciones fuera de línea para cambios de prompts",
+        "Conocimiento de la supervisión del consumo de tokens y del establecimiento de presupuestos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de los riesgos de inyección de prompts y de fuga de datos",
+        "Habilidad para construir bucles de recogida de retroalimentación de los usuarios",
+        "Comprensión básica de los flujos de trabajo de ajuste fino"
+      ],
+      "indicators": [
+        "Completa tareas complejas de operaciones de modelos de lenguaje con mínima supervisión",
+        "Identifica y resuelve regresiones de calidad y rendimiento",
+        "Contribuye activamente al diseño técnico de sistemas de modelos de lenguaje"
+      ]
+    },
+    "LLM-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar conductos de modelos de lenguaje de extremo a extremo, desde la ingesta hasta el servicio",
+        "Dominio de marcos de evaluación que combinan puntuación automática, por modelo y humana",
+        "Habilidad para construir sistemas de recuperación en producción con reindexación y controles de frescura",
+        "Conocimiento profundo de la observabilidad que cubre calidad, coste, latencia y seguridad",
+        "Capacidad de diseñar y operar flujos de trabajo de ajuste fino y adaptación de modelos",
+        "Dominio de la gestión del ciclo de vida de los prompts con despliegue por fases y reversión",
+        "Capacidad de implementar mecanismos de protección y seguridad de contenidos en todo el conducto",
+        "Conocimiento de la planificación de capacidad y la gobernanza de costes para cargas de modelos de lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de la orquestación de trabajos de entrenamiento e inferencia por lotes",
+        "Habilidad para diseñar despliegues canario y en sombra para cambios de modelos",
+        "Comprensión del servicio y la optimización de modelos autoalojados"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de componentes críticos de infraestructura de modelos de lenguaje",
+        "Mentoriza eficazmente a ingenieros junior",
+        "Toma decisiones arquitecturales informadas sobre operaciones de modelos de lenguaje"
+      ]
+    },
+    "LLM-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en el diseño de plataformas escalables de servicio de modelos de lenguaje",
+        "Capacidad de arquitectar la infraestructura de evaluación como un servicio compartido",
+        "Dominio de la evaluación continua con supervisión en línea y alertas",
+        "Capacidad de diseñar sistemas de recuperación que escalan sobre grandes corpus",
+        "Conocimiento profundo de la optimización de costes mediante enrutamiento, agrupación por lotes y cuantización",
+        "Capacidad de construir operaciones de ajuste fino con conductos reproducibles",
+        "Experiencia en controles de seguridad y cumplimiento para sistemas de modelos de lenguaje en producción",
+        "Dominio de la respuesta a incidentes ante el comportamiento no determinista de los modelos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de infraestructura de GPU y optimización de inferencia",
+        "Habilidad para diseñar estrategias multimodelo y multiproveedor",
+        "Comprensión de la gobernanza de datos para conjuntos de entrenamiento y evaluación"
+      ],
+      "indicators": [
+        "Diseña arquitecturas de operaciones de modelos de lenguaje para productos completos",
+        "Define los estándares técnicos del equipo para sistemas de modelos de lenguaje",
+        "Lidera iniciativas entre equipos sobre infraestructura de modelos de lenguaje"
+      ]
+    },
+    "LLM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas empresariales de modelos de lenguaje que dan servicio a muchos equipos",
+        "Experiencia en marcos de gobernanza y cumplimiento para la IA generativa",
+        "Dominio de la evaluación y la supervisión a escala organizacional",
+        "Capacidad de diseñar servicio de modelos de lenguaje globalmente distribuido con alta disponibilidad",
+        "Conocimiento profundo de las amenazas de seguridad específicas de los sistemas de modelos de lenguaje",
+        "Capacidad de liderar grandes migraciones hacia una infraestructura estandarizada de modelos de lenguaje",
+        "Experiencia en la gobernanza de costes en el uso de modelos de lenguaje a gran escala",
+        "Dominio de la ingeniería de fiabilidad para sistemas de IA generativa"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de estándares emergentes de interoperabilidad de modelos",
+        "Habilidad para diseñar registros internos de modelos y prompts",
+        "Comprensión del despliegue de inferencia en el borde y en dispositivo"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones de modelos de lenguaje para múltiples equipos",
+        "Influye en las decisiones técnicas organizacionales sobre IA generativa",
+        "Representa a la empresa técnicamente en el ámbito de LLMOps"
+      ]
+    },
+    "LLM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en la adopción de la IA generativa a escala empresarial",
+        "Capacidad de diseñar plataformas de modelos de lenguaje para grandes corporaciones",
+        "Experiencia en estrategias para modernizar sistemas con IA generativa",
+        "Dominio de arquitecturas de modelos de lenguaje agnósticas al proveedor y portables",
+        "Capacidad de definir hojas de ruta de varios años para capacidades de modelos de lenguaje",
+        "Conocimiento profundo de la economía y del coste total de los sistemas de modelos de lenguaje",
+        "Experiencia en la construcción y el escalamiento de equipos de operaciones de modelos de lenguaje",
+        "Capacidad de influir en la industria con innovaciones en infraestructura de modelos de lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones en operaciones de modelos",
+        "Habilidad para evaluar técnicamente proveedores y herramientas de IA generativa",
+        "Conocimiento de las tendencias de investigación en inferencia y evaluación eficientes"
+      ],
+      "indicators": [
+        "Define la estrategia técnica organizacional para la IA generativa",
+        "Reconocido como líder de pensamiento en LLMOps",
+        "Ponente en conferencias internacionales"
+      ]
+    },
+    "LLM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la evolución de la infraestructura de IA generativa",
+        "Capacidad de marcar la dirección de las prácticas y el instrumental emergentes en operaciones de modelos de lenguaje",
+        "Experiencia en diligencia debida técnica para productos de IA generativa",
+        "Dominio de la transformación organizacional mediante la IA generativa",
+        "Capacidad de construir y liderar organizaciones de ingeniería de modelos de lenguaje",
+        "Conocimiento profundo del impacto de negocio de las decisiones sobre IA generativa",
+        "Experiencia en relaciones con partes interesadas ejecutivas en torno al riesgo y el coste de la IA",
+        "Capacidad de definir una cultura de ingeniería para una IA generativa responsable"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en las políticas de la industria sobre IA generativa",
+        "Habilidad para crear empresas derivadas a partir de la infraestructura de modelos de lenguaje",
+        "Conocimiento de la inversión en tecnología de IA generativa"
+      ],
+      "indicators": [
+        "Impacta en la dirección técnica de la industria de la IA generativa",
+        "Asesor de alta dirección ejecutiva y juntas directivas sobre IA generativa",
+        "Mentor de líderes técnicos senior"
+      ]
+    },
+    "LLM-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en tecnología de IA generativa",
+        "Capacidad de alinear la estrategia de IA generativa con la estrategia de negocio",
+        "Experiencia en gestión de presupuestos de infraestructura de IA multimillonarios",
+        "Dominio de las relaciones con inversores y la gestión de juntas directivas para iniciativas de IA",
+        "Capacidad de liderar fusiones, adquisiciones e integración impulsadas por la IA",
+        "Conocimiento profundo de la gestión de riesgos de los sistemas de IA generativa",
+        "Experiencia en la construcción de ventajas competitivas mediante la IA generativa",
+        "Capacidad de impulsar la transformación empresarial mediante la IA generativa"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en la regulación y los estándares de la IA",
+        "Habilidad para crear ecosistemas tecnológicos en torno a la IA generativa",
+        "Conocimiento de capital privado y salidas en el ámbito de la IA"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión tecnológica empresarial de IA generativa",
+        "Responsable de las pérdidas y ganancias de la tecnología de IA",
+        "Figura pública de la empresa en la IA generativa"
+      ]
+    }
+  }
+}

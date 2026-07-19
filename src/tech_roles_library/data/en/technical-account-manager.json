@@ -1,0 +1,258 @@
+{
+  "role": "Technical Account Manager",
+  "category": "Sales",
+  "levels": {
+    "TAM-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of the technical account management role",
+        "Familiarity with the product architecture and its integration points",
+        "Ability to shadow account reviews and take structured notes",
+        "Elementary knowledge of ticketing and CRM tools",
+        "Support in preparing technical success plans under supervision",
+        "Understanding of service level agreements and their commitments",
+        "Ability to track open technical issues for an account",
+        "Awareness of the customer lifecycle after the sale"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of cloud and SaaS deployment models",
+        "Familiarity with reading API documentation",
+        "Understanding of escalation paths within support"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Assists senior TAMs on account tasks",
+        "Is learning technical account management"
+      ]
+    },
+    "TAM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ownership of technical success plans for smaller accounts",
+        "Preparation and delivery of technical account reviews",
+        "Coordination of technical escalations with support and engineering",
+        "Translation of customer technical requirements to internal teams",
+        "Tracking of account health through adoption and usage signals",
+        "Documentation of the customer technical environment and architecture",
+        "Support in renewal preparation from a technical value perspective",
+        "Ability to explain product capabilities to technical stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with observability and monitoring of customer integrations",
+        "Knowledge of the product roadmap and release process",
+        "Understanding of basic commercial account metrics"
+      ],
+      "indicators": [
+        "Works with regular supervision",
+        "Owns technical success plans for small accounts",
+        "Coordinates escalations with guidance"
+      ]
+    },
+    "TAM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Ownership of the technical relationship for a portfolio of accounts",
+        "Definition and execution of technical success plans against outcomes",
+        "Leadership of technical account reviews with customer stakeholders",
+        "Management of complex escalations to resolution across teams",
+        "Conducting architecture reviews to align the product with customer goals",
+        "Identification of expansion opportunities from technical value",
+        "Channelling of customer feedback into product prioritization",
+        "Contribution to renewal strategy with technical risk assessment"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of integration patterns for the customer stack",
+        "Familiarity with success metrics and adoption dashboards",
+        "Understanding of contract terms and service commitments"
+      ],
+      "indicators": [
+        "Works with occasional supervision",
+        "Owns the technical relationship for a portfolio",
+        "Mentors junior TAMs on account practices"
+      ]
+    },
+    "TAM-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Autonomous ownership of strategic accounts as trusted technical advisor",
+        "Definition of multi-quarter technical success plans tied to business value",
+        "Leadership of architecture reviews and technical roadmap sessions with customers",
+        "Ownership of critical escalations as the customer technical advocate",
+        "Driving renewals and expansion through demonstrated technical value",
+        "Building relationships with customer technical decision makers",
+        "Representing the voice of the customer to product and engineering",
+        "Quantification of realized value and return on investment for the account"
+      ],
+      "complementaryCompetencies": [
+        "Experience with the customer's industry and technical constraints",
+        "Knowledge of the competitive landscape from a technical angle",
+        "Ability to forecast account risk and renewal likelihood"
+      ],
+      "indicators": [
+        "Works autonomously",
+        "Owns strategic accounts end-to-end",
+        "Is a reference for technical account management"
+      ]
+    },
+    "TAM-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Ownership of the most complex and highest-value strategic accounts",
+        "Definition of the technical success strategy across an account portfolio",
+        "Leadership of executive technical reviews with customer leadership",
+        "Management of enterprise-wide escalations and their commercial impact",
+        "Driving significant expansion and renewal outcomes from technical value",
+        "Influence on the product roadmap through structured customer advocacy",
+        "Mentoring of TAMs on success planning and escalation management",
+        "Definition of account engagement models and technical playbooks"
+      ],
+      "complementaryCompetencies": [
+        "Experience aligning technical value with commercial account strategy",
+        "Knowledge of value realization frameworks and business cases",
+        "Understanding of multi-year contract negotiation dynamics"
+      ],
+      "indicators": [
+        "Is fully autonomous and expert",
+        "Owns the highest-value strategic accounts",
+        "Leads success planning practices across the team"
+      ]
+    },
+    "TAM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Leadership of the technical account management function",
+        "Definition of the engagement model and success methodology for the team",
+        "Ownership of the technical health of the strategic account portfolio",
+        "Governance of escalation management and executive relationships",
+        "Alignment of technical account strategy with revenue and retention goals",
+        "Definition of expansion and renewal playbooks grounded in technical value",
+        "Establishment of the customer feedback loop into product strategy",
+        "Mentoring and growth of the technical account management team"
+      ],
+      "complementaryCompetencies": [
+        "Experience scaling technical account practices across segments",
+        "Knowledge of hiring and enabling technical account managers",
+        "Management of the relationship with sales and product leadership"
+      ],
+      "indicators": [
+        "Leads the technical account management function",
+        "Defines the engagement model and success methodology",
+        "Influences retention and expansion strategy"
+      ]
+    },
+    "TAM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Strategic direction of the technical account management organization",
+        "Definition of the post-sales technical value strategy across segments",
+        "Leadership of the executive relationship with the most strategic accounts",
+        "Governance of escalation and value realization at organizational scale",
+        "Alignment of technical account management with the revenue strategy",
+        "Innovation in success planning and value quantification methodologies",
+        "Advising leadership on retention, expansion and customer risk",
+        "Definition of the multi-year roadmap for the technical account function"
+      ],
+      "complementaryCompetencies": [
+        "Experience influencing the operating model for post-sales functions",
+        "Knowledge of segmentation and coverage models for strategic accounts",
+        "Leadership of cross-functional retention and growth programmes"
+      ],
+      "indicators": [
+        "Directs the technical account function at organizational scale",
+        "Participates in post-sales and revenue strategy",
+        "Is a recognized authority in technical account management"
+      ]
+    },
+    "TAM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for post-sales technical value as a growth driver",
+        "Leadership of technical account transformation at scale",
+        "Definition of the organization's long-term customer engagement standards",
+        "Positioning of technical advocacy as a competitive advantage",
+        "Management of strategic customer relationships across complex portfolios",
+        "Advancement of value realization and success planning practices",
+        "Influence on the product and revenue strategy through customer insight",
+        "Embedding of a customer-outcome culture across post-sales teams"
+      ],
+      "complementaryCompetencies": [
+        "Experience as a technical account leader in scale-ups",
+        "Advisory on post-sales operating models and retention strategy",
+        "Thought leadership in technical account management"
+      ],
+      "indicators": [
+        "Sets the direction of technical account management",
+        "Defines post-sales technical strategy at the highest level",
+        "Is a recognized industry leader"
+      ]
+    },
+    "TAM-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership as VP of customer or post-sales",
+        "Definition of the enterprise strategy for retention and technical value",
+        "Executive ownership of net revenue retention and customer outcomes",
+        "Alignment of the post-sales organization with corporate strategy",
+        "Transformation of the customer engagement culture across the company",
+        "Innovation in the operating model for strategic account management",
+        "Influence on the discipline of technical account management externally",
+        "Accountability for the technical health of the strategic customer base"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming post-sales in large organizations",
+        "Recognition as a customer leader at board level",
+        "Influence on industry practices for post-sales engagement"
+      ],
+      "indicators": [
+        "Operates at VP of customer or post-sales level",
+        "Defines the future of technical account management",
+        "Is a world authority in customer value and retention"
+      ]
+    }
+  }
+}

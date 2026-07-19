@@ -1,0 +1,249 @@
+{
+  "role": "Data Quality Engineer",
+  "category": "Data",
+  "levels": {
+    "DQE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic quality dimensions: completeness, accuracy, consistency, timeliness",
+        "Profiles a dataset to spot nulls, duplicates and outliers",
+        "Runs simple validation checks on a table",
+        "Documents data quality issues with clear reproduction steps",
+        "Notions of data cleansing and standardization",
+        "Reads existing data tests and interprets their results",
+        "Basic SQL to inspect data and count anomalies"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with a data quality tool",
+        "Elementary descriptive statistics",
+        "Awareness of data lineage"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Identifies basic quality issues",
+        "Needs 6-12 months of mentoring in data quality"
+      ]
+    },
+    "DQE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Writes quality rules for completeness, uniqueness and value ranges",
+        "Implements automated tests with dbt tests or Great Expectations",
+        "Profiles datasets and documents expected value distributions",
+        "Sets up freshness and volume checks on pipelines",
+        "Detects anomalies and raises alerts on failed checks",
+        "Triages data quality incidents and documents findings",
+        "Produces data quality reports and dashboards"
+      ],
+      "complementaryCompetencies": [
+        "Hands-on with Great Expectations or dbt tests",
+        "Scripting for validation (Python, SQL)",
+        "Notions of data observability"
+      ],
+      "indicators": [
+        "Implements quality rules with supervision",
+        "Detects anomalies and maintains quality metrics",
+        "Maintains existing test suites"
+      ]
+    },
+    "DQE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Designs data quality test suites across a domain's pipelines",
+        "Builds automated quality gates in the pipeline (dbt tests, Great Expectations)",
+        "Profiles data and defines expectations for critical datasets",
+        "Implements freshness, completeness and consistency monitoring with alerts",
+        "Sets up data quarantine for records that fail validation",
+        "Runs root cause analysis on data quality incidents",
+        "Reports quality SLAs and communicates with stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with a data catalog and lineage for impact analysis",
+        "Metadata management for quality rules",
+        "Notions of data contracts"
+      ],
+      "indicators": [
+        "Leads quality work for a domain",
+        "Designs test suites and monitoring",
+        "Mentors junior quality engineers"
+      ]
+    },
+    "DQE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architects the data quality platform for multiple domains",
+        "Defines the enterprise quality framework and rule catalog",
+        "Implements quality gates, quarantine and remediation at scale",
+        "Builds freshness, completeness and consistency monitoring with SLAs",
+        "Introduces anomaly detection for quality signals",
+        "Leads root cause analysis and prevention for recurring incidents",
+        "Drives a data quality culture and cost-benefit prioritization"
+      ],
+      "complementaryCompetencies": [
+        "Data observability platforms (Monte Carlo, Soda)",
+        "DataOps and continuous integration for quality",
+        "Self-service quality checks for teams"
+      ],
+      "indicators": [
+        "Defines quality strategy for the organization",
+        "Leads a quality engineering team",
+        "Is a data quality reference"
+      ]
+    },
+    "DQE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leads data quality engineering across domains",
+        "Defines quality standards, rules and ownership",
+        "Governs quality SLAs for freshness, completeness and consistency",
+        "Scales quarantine, remediation and incident response processes",
+        "Sets up observability with anomaly detection and alerting",
+        "Establishes root cause analysis practices and prevention",
+        "Measures quality ROI and prioritizes the roadmap"
+      ],
+      "complementaryCompetencies": [
+        "Quality in a data mesh operating model",
+        "Data contracts as quality guarantees",
+        "Quality tooling selection and rollout"
+      ],
+      "indicators": [
+        "Manages a quality engineering team",
+        "Defines quality vision and standards",
+        "Represents data quality to stakeholders"
+      ]
+    },
+    "DQE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Directs the data quality strategy for a business unit",
+        "Manages quality programs and incident response at scale",
+        "Defines quality architecture: rules engine, monitoring, quarantine",
+        "Leads global quality SLAs across regions and pipelines",
+        "Establishes anomaly detection and observability standards",
+        "Governs root cause analysis, prevention and postmortems",
+        "Reports quality KPIs and reliability to leadership"
+      ],
+      "complementaryCompetencies": [
+        "Quality in mergers and platform integrations",
+        "Investment in quality tooling",
+        "Leadership in data reliability communities"
+      ],
+      "indicators": [
+        "Directs a quality function",
+        "Sets quality investment priorities",
+        "Contributes to the data strategy"
+      ]
+    },
+    "DQE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Sets the multi-year data quality strategy for the company",
+        "Establishes the quality operating model and reliability standards",
+        "Standardizes quality gates, SLAs and quarantine enterprise-wide",
+        "Governs freshness, completeness and consistency monitoring at scale",
+        "Defines anomaly detection and observability across all pipelines",
+        "Institutionalizes root cause analysis and incident prevention",
+        "Advises executives on data trust and reliability"
+      ],
+      "complementaryCompetencies": [
+        "Influence on data reliability standards",
+        "Quality for regulated data and reporting",
+        "Leadership in industry reliability forums"
+      ],
+      "indicators": [
+        "Sets corporate data quality strategy",
+        "Reports to the CDO on data reliability",
+        "Recognized internal authority on data quality"
+      ]
+    },
+    "DQE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Owns the enterprise data quality vision across all domains",
+        "Aligns quality with business reliability and risk",
+        "Defines reference quality models adopted company-wide",
+        "Leads quality for mergers, acquisitions and integrations",
+        "Establishes SLA, monitoring and quarantine standards at scale",
+        "Sets anomaly detection and observability frameworks",
+        "Sponsors reliability engineering and quality communities"
+      ],
+      "complementaryCompetencies": [
+        "Shapes external tooling and standards relationships",
+        "Advises the board on data reliability and trust",
+        "Thought leadership in data quality"
+      ],
+      "indicators": [
+        "Sits on the data leadership committee",
+        "Defines enterprise quality strategy",
+        "Recognized leader in data quality"
+      ]
+    },
+    "DQE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Sets and executes the enterprise data quality and reliability vision",
+        "Aligns quality with corporate strategy and risk posture",
+        "Owns the data trust and reliability framework across the company",
+        "Builds and leads the quality engineering organization",
+        "Defines the quality operating model, SLAs and observability",
+        "Establishes incident response and root cause practices globally",
+        "Governs quarantine, remediation and prevention at scale"
+      ],
+      "complementaryCompetencies": [
+        "Influences data reliability standards in the industry",
+        "Steers strategic tooling partnerships",
+        "Sponsors quality talent and succession"
+      ],
+      "indicators": [
+        "Accountable for enterprise data quality",
+        "Executes the long-term reliability vision",
+        "Recognized leader in data quality"
+      ]
+    }
+  }
+}

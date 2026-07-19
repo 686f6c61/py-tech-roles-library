@@ -1,0 +1,266 @@
+{
+  "role": "Software Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "SE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of programming fundamentals and algorithms",
+        "Elementary knowledge of basic data structures (arrays, lists, stacks)",
+        "Ability to write simple code following examples and guides",
+        "Basic understanding of procedural and object-oriented programming",
+        "Ability to solve simple problems with supervision",
+        "Elementary knowledge of debugging and manual testing",
+        "Basic understanding of software lifecycle",
+        "Ability to use basic development tools and version control"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of operating systems",
+        "Familiarity with agile methodologies",
+        "Elementary understanding of databases"
+      ],
+      "indicators": [
+        "Requires constant supervision on all tasks",
+        "Can complete basic programming exercises",
+        "Needs 3-6 months of intensive mentoring"
+      ]
+    },
+    "SE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement simple features with supervision",
+        "Ability to work with common data structures and algorithms",
+        "Practical knowledge of basic design patterns",
+        "Understanding of SOLID principles and basic clean code",
+        "Ability to write simple unit tests",
+        "Ability to perform basic code reviews",
+        "Knowledge of systematic debugging and basic profiling",
+        "Understanding of basic software architecture",
+        "Ability to work in a team and communicate technically"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of CI/CD",
+        "Ability to estimate simple tasks",
+        "Understanding of basic security"
+      ],
+      "indicators": [
+        "Can develop simple features with moderate guidance",
+        "Participates actively in team ceremonies",
+        "Resolves low-medium complexity bugs"
+      ]
+    },
+    "SE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of multiple programming approaches (procedural, functional, OOP)",
+        "Ability to design and implement complex modules",
+        "Ability to optimize code and improve performance",
+        "Deep knowledge of design patterns and their application",
+        "Ability to implement comprehensive testing (unit, integration)",
+        "Solid understanding of algorithmic complexity and optimization",
+        "Ability to refactor legacy code",
+        "Knowledge of common software architectures",
+        "Ability to document technical decisions"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of multiple programming languages",
+        "Ability to work with basic distributed systems",
+        "Understanding of basic DevOps"
+      ],
+      "indicators": [
+        "Completes medium features independently",
+        "Proposes technical improvements proactively",
+        "Contributes to architecture decisions"
+      ]
+    },
+    "SE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design complex systems and components",
+        "Mastery of scalable and maintainable architectures",
+        "Ability to lead medium technical initiatives",
+        "Deep knowledge of engineering best practices",
+        "Ability to make informed technical trade-offs",
+        "Mastery of advanced debugging and profiling techniques",
+        "Ability to mentor junior developers",
+        "Knowledge of domain-driven design and clean architecture",
+        "Ability to write detailed technical specifications"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of microservices architectures",
+        "Ability for system optimization",
+        "Understanding of basic machine learning"
+      ],
+      "indicators": [
+        "Leads development of critical components",
+        "Defines team technical standards",
+        "Solves complex technical problems"
+      ]
+    },
+    "SE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in designing distributed and scalable systems",
+        "Ability to lead large technical projects",
+        "Mastery of enterprise architectures and patterns",
+        "Ability to perform technical evaluations and audits",
+        "Deep knowledge of system optimization and tuning",
+        "Ability to design reusable frameworks and libraries",
+        "Expertise in system migration and modernization",
+        "Mastery of security and compliance best practices",
+        "Ability to influence cross-team technical decisions"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cloud-native architectures",
+        "Ability to work with big data",
+        "Understanding of applied AI/ML"
+      ],
+      "indicators": [
+        "Architects solutions for complete products",
+        "Leads cross-team technical initiatives",
+        "Recognized as internal technical expert"
+      ]
+    },
+    "SE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define technical strategy for products",
+        "Expertise in high complexity and scale architectures",
+        "Mastery of technical innovation and applied R&D",
+        "Ability to lead technical transformations",
+        "Deep knowledge of emerging technologies",
+        "Ability to build and lead technical teams",
+        "Expertise in engineering process optimization",
+        "Mastery of strategic technical debt management",
+        "Ability to represent the company technically"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of industry standards",
+        "Ability to contribute to open source",
+        "Understanding of business impact"
+      ],
+      "indicators": [
+        "Defines architecture for multiple products",
+        "Leads internal technical communities",
+        "Mentor to senior engineers"
+      ]
+    },
+    "SE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in organizational technical innovation",
+        "Ability to design architectures for ecosystems",
+        "Expertise in platform engineering strategies",
+        "Mastery of enterprise technical transformation",
+        "Ability to define industry-wide best practices",
+        "Deep knowledge of future technology trends",
+        "Expertise in building engineering excellence",
+        "Ability to influence corporate technology roadmap",
+        "Mastery of technical portfolio management"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent innovations",
+        "Ability to evaluate startups technically",
+        "Knowledge of venture building"
+      ],
+      "indicators": [
+        "Defines multi-year technical strategy",
+        "Speaker at international conferences",
+        "Recognized thought leader"
+      ]
+    },
+    "SE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of technological future",
+        "Ability to lead technical innovation",
+        "Expertise in enterprise digital transformation",
+        "Mastery of architectures for large-scale systems",
+        "Ability to define engineering culture",
+        "Deep knowledge of software economics",
+        "Expertise in building engineering organizations",
+        "Ability to lead major open source initiatives",
+        "Mastery of technical due diligence and M&A"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence global standards",
+        "Ability to create technical spin-offs",
+        "Knowledge of technology investment"
+      ],
+      "indicators": [
+        "Defines corporate technical direction",
+        "Advisor to C-suite and boards",
+        "Influences the technology industry"
+      ]
+    },
+    "SE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in technology and innovation",
+        "Ability to align technology with business strategy",
+        "Expertise in managing massive technology budgets",
+        "Mastery of organizational transformation through technology",
+        "Ability to build competitive technological advantages",
+        "Deep knowledge of technology governance",
+        "Expertise in technology ecosystems and partnerships",
+        "Ability to define disruptive technological vision",
+        "Mastery of enterprise technology risk management"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence technology policies",
+        "Ability to lead technical consortiums",
+        "Knowledge of technology exits and IPOs"
+      ],
+      "indicators": [
+        "Defines and executes enterprise technology vision",
+        "Responsible for all corporate technology",
+        "Globally recognized leader in technology"
+      ]
+    }
+  }
+}

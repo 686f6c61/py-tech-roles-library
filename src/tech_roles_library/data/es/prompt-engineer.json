@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Prompts",
+  "category": "IA/ML",
+  "levels": {
+    "PRE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de cómo los modelos de lenguaje de gran escala generan texto a partir de un prompt",
+        "Conocimiento elemental de la estructura de un prompt, con instrucciones, contexto y ejemplos",
+        "Capacidad de escribir prompts sencillos y claros para una tarea definida",
+        "Familiaridad básica con productos asistentes como Claude y ChatGPT",
+        "Capacidad de probar un prompt y comparar salidas entre intentos",
+        "Comprensión básica del prompting con pocos ejemplos",
+        "Documentación de los prompts que funcionan bien y del porqué",
+        "Conocimiento elemental de las limitaciones del modelo, como la alucinación"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con la invocación de un modelo mediante una API o un SDK",
+        "Conocimiento básico de las representaciones vectoriales y de qué representan",
+        "Comprensión elemental de la tokenización y la longitud de contexto"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Escribe prompts efectivos para tareas sencillas",
+        "Está construyendo competencias fundamentales de ingeniería de prompts"
+      ]
+    },
+    "PRE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar prompts para tareas de varios pasos con una estructura clara",
+        "Implementación de prompting con cadena de razonamiento para mejorar la calidad del razonamiento",
+        "Conocimiento práctico de iterar sobre los prompts frente a entradas de ejemplo",
+        "Capacidad de aplicar técnicas con pocos ejemplos y sin ejemplos según convenga",
+        "Comprensión de la temperatura y el muestreo y de su efecto en la salida",
+        "Capacidad de montar un pequeño conjunto de pruebas automatizado para comparar versiones de un prompt",
+        "Conocimiento de la generación aumentada mediante recuperación para fundamentar las respuestas en datos aportados",
+        "Capacidad de evaluar la calidad de la salida frente a criterios definidos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de librerías de orquestación para aplicaciones de modelos de lenguaje",
+        "Capacidad de trabajar con bases de datos vectoriales para la recuperación",
+        "Comprensión de la búsqueda semántica sobre representaciones vectoriales"
+      ],
+      "indicators": [
+        "Diseña prompts efectivos con supervisión",
+        "Mejora la calidad de la tarea mediante la iteración de prompts",
+        "Evalúa la calidad de la salida con una rúbrica sencilla"
+      ]
+    },
+    "PRE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de sistemas de prompts que descomponen una tarea en pasos encadenados",
+        "Implementación de salida estructurada y llamada a funciones con esquemas validados",
+        "Dominio del encadenamiento de prompts y de cuándo dividir o combinar pasos",
+        "Capacidad de orientar el ajuste fino preparando y depurando ejemplos",
+        "Capacidad de proteger los prompts frente a la inyección de instrucciones y las entradas inseguras",
+        "Conocimiento profundo de las limitaciones del modelo y de cómo diseñar sorteándolas",
+        "Implementación de arneses de evaluación que puntúan las salidas de forma automática",
+        "Capacidad de versionar los prompts y seguir su calidad entre cambios"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de cuándo conviene el entrenamiento de un modelo personalizado frente al prompting",
+        "Capacidad de optimizar la recuperación y la calidad de las representaciones vectoriales",
+        "Comprensión de los equilibrios entre coste y latencia en el diseño de prompts"
+      ],
+      "indicators": [
+        "Lidera el trabajo de prompts en funciones basadas en modelos de lenguaje",
+        "Diseña arquitecturas de prompts para un producto",
+        "Mentoriza a otros en ingeniería de prompts"
+      ]
+    },
+    "PRE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de funciones basadas en prompts en toda una aplicación",
+        "Diseño de estrategias de prompting que se mantienen fiables a medida que crece el uso",
+        "Implementación de orquestación de modelos de lenguaje entre varias llamadas y herramientas",
+        "Dominio de técnicas avanzadas de prompting para razonamiento complejo y tareas estructuradas",
+        "Capacidad de seleccionar modelos ajustando calidad, coste y latencia a la tarea",
+        "Conocimiento profundo de la mitigación de sesgos en el diseño de prompts y salidas",
+        "Capacidad de incorporar medidas de seguridad y alineación en los sistemas basados en prompts",
+        "Liderazgo de los estándares de calidad y evaluación de prompts en un equipo"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia preparando conjuntos de datos para el ajuste fino de modelos de aplicación",
+        "Conocimiento de la construcción de tuberías de evaluación con puntuación mediante LLM como juez",
+        "Implementación de monitorización de la calidad de los prompts en producción"
+      ],
+      "indicators": [
+        "Define la estrategia de prompting de un área de producto",
+        "Lidera un grupo que trabaja en funciones basadas en modelos de lenguaje",
+        "Es referente técnico en ingeniería de prompts"
+      ]
+    },
+    "PRE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la ingeniería de prompts en una plataforma de aplicaciones de modelos de lenguaje",
+        "Diseño de plantillas de prompts reutilizables e infraestructura de evaluación compartida",
+        "Gestión de un equipo que construye y mantiene sistemas basados en prompts",
+        "Definición de estándares de calidad, versionado y evaluación de prompts",
+        "Capacidad de optimizar el coste y la latencia de las funciones de modelos de lenguaje a escala",
+        "Implementación de gobernanza sobre cómo se revisan y despliegan los prompts",
+        "Dominio de estrategias multimodelo que encaminan cada tarea al modelo adecuado",
+        "Comunicación de la calidad y los equilibrios de las funciones de modelos de lenguaje a responsables senior"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia llevando funciones de modelos de lenguaje del prototipo a producción",
+        "Conocimiento de la economía del uso de modelos de lenguaje y de cómo controlar el gasto",
+        "Gestión de las relaciones con los proveedores de modelos"
+      ],
+      "indicators": [
+        "Gestiona un equipo de ingeniería de prompts",
+        "Define la visión de la calidad de las aplicaciones de modelos de lenguaje",
+        "Representa las funciones de modelos de lenguaje ante las partes interesadas"
+      ]
+    },
+    "PRE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de la estrategia de ingeniería de prompts y aplicaciones de modelos de lenguaje en toda la organización",
+        "Gestión de productos basados en modelos de lenguaje a escala entre equipos",
+        "Definición de estándares de diseño, evaluación y despliegue seguro de prompts",
+        "Liderazgo de la adopción de funciones de modelos de lenguaje en la cartera de productos",
+        "Gestión de las relaciones y los contratos con los proveedores de modelos",
+        "Implementación de gobernanza para un desarrollo responsable de aplicaciones de modelos de lenguaje",
+        "Innovación en la metodología de prompting y evaluación",
+        "Gestión de la calidad y el coste en numerosas funciones de modelos de lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia integrando capacidades de modelos de lenguaje en productos existentes",
+        "Conocimiento de las regulaciones de IA que afectan a las aplicaciones de modelos de lenguaje",
+        "Liderazgo del uso responsable dentro de la organización"
+      ],
+      "indicators": [
+        "Dirige la función de aplicaciones de modelos de lenguaje",
+        "Participa en la estrategia de producto y tecnología más amplia",
+        "Decide dónde invertir en capacidades de modelos de lenguaje"
+      ]
+    },
+    "PRE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la ingeniería de aplicaciones de modelos de lenguaje en una organización grande",
+        "Diseño de una estrategia para construir funciones fiables de modelos de lenguaje en varios productos",
+        "Transformación de cómo los equipos diseñan, evalúan y publican sistemas basados en prompts",
+        "Gestión del trabajo de aplicaciones de modelos de lenguaje en una organización grande y distribuida",
+        "Creación de una cultura de evaluación rigurosa de prompts y uso responsable",
+        "Definición de la hoja de ruta plurianual de las capacidades de aplicaciones de modelos de lenguaje",
+        "Comunicación de la oportunidad, la calidad y el riesgo de los modelos de lenguaje a la junta directiva",
+        "Influencia en cómo el sector construye productos basados en modelos de lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos considerables de aplicaciones de modelos de lenguaje",
+        "Experiencia escalando equipos de aplicaciones de modelos de lenguaje en empresas de alto crecimiento",
+        "Liderazgo dentro de la comunidad de modelos de lenguaje aplicados"
+      ],
+      "indicators": [
+        "Depende de un directivo de tecnología o de producto",
+        "Dirige una organización grande de aplicaciones de modelos de lenguaje",
+        "Define la estrategia de aplicaciones de modelos de lenguaje de la empresa"
+      ]
+    },
+    "PRE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de cómo la organización construye productos fiables basados en modelos de lenguaje",
+        "Liderazgo de la ingeniería y la evaluación de prompts como disciplina transversal",
+        "Creación de una ventaja de calidad mediante evaluación rigurosa y diseño de prompts",
+        "Gestión del ecosistema de modelos, instrumental y evaluación que usan los equipos",
+        "Innovación en prompting, evaluación y orquestación que hace avanzar el campo",
+        "Definición de prácticas de nueva generación para construir funciones de modelos de lenguaje",
+        "Impulso de un uso fiable y responsable de los modelos de lenguaje en la dirección",
+        "Influencia en la política interna de producto fundamentada en evidencia de evaluación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia dando forma a la práctica de aplicaciones de modelos de lenguaje en organizaciones tecnológicas de referencia",
+        "Relaciones de asesoría con empresas emergentes y proveedores de instrumental de modelos de lenguaje",
+        "Autoridad técnica reconocida en ingeniería de prompts"
+      ],
+      "indicators": [
+        "Forma parte del equipo de liderazgo técnico",
+        "Marca el rumbo de la ingeniería de aplicaciones de modelos de lenguaje en toda la empresa",
+        "Es líder reconocido en el campo de la ingeniería de prompts"
+      ]
+    },
+    "PRE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario de la ingeniería de aplicaciones de modelos de lenguaje como capacidad esencial",
+        "Transformación de cómo la empresa diseña, evalúa y publica sistemas basados en prompts",
+        "Definición de un enfoque que antepone la evaluación al construir funciones de modelos de lenguaje",
+        "Establecimiento de la evaluación rigurosa de prompts como práctica predeterminada de la organización",
+        "Innovación en prompting y evaluación que da forma a la práctica del sector",
+        "Defensa de las aplicaciones de modelos de lenguaje fiables y responsables como fuente de valor duradero",
+        "Arquitectura del programa global de aplicaciones de modelos de lenguaje de la organización",
+        "Influencia en la práctica y los estándares de aplicaciones de modelos de lenguaje más allá de la empresa"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando la ingeniería de aplicaciones de modelos de lenguaje a escala empresarial",
+        "Reconocimiento como figura destacada de la ingeniería de modelos de lenguaje aplicados",
+        "Influencia en la práctica y los estándares de la ingeniería de prompts"
+      ],
+      "indicators": [
+        "Lidera la ingeniería de aplicaciones de modelos de lenguaje a nivel ejecutivo",
+        "Marca el rumbo a largo plazo de la disciplina",
+        "Es considerado una autoridad en ingeniería de prompts"
+      ]
+    }
+  }
+}

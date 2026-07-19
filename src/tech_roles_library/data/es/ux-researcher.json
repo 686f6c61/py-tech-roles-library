@@ -1,0 +1,258 @@
+{
+  "role": "Investigador de Experiencia de Usuario",
+  "category": "Diseño",
+  "levels": {
+    "UXR-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de métodos de investigación de usuarios",
+        "Comprensión elemental de investigación cualitativa y cuantitativa",
+        "Habilidad para tomar notas durante entrevistas con usuarios",
+        "Conocimiento básico de pruebas de usabilidad",
+        "Capacidad de apoyar en sesiones de investigación",
+        "Comprensión de nociones básicas de ética en investigación",
+        "Documentación de hallazgos de investigación con acompañamiento",
+        "Conocimiento elemental de diseño centrado en el usuario"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de investigación",
+        "Conocimiento básico de diseño de encuestas",
+        "Comprensión de nociones básicas de análisis de datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Apoya a investigadores senior en tareas simples",
+        "Está aprendiendo investigación de experiencia de usuario"
+      ]
+    },
+    "UXR-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de realizar entrevistas con usuarios a partir de un guion",
+        "Ejecución de pruebas de usabilidad con acompañamiento",
+        "Conocimiento práctico de métodos de investigación cualitativa",
+        "Habilidad para sintetizar hallazgos en informes simples",
+        "Comprensión de nociones básicas de reclutamiento de participantes",
+        "Capacidad de diseñar encuestas básicas",
+        "Conocimiento de técnicas de toma de notas y etiquetado",
+        "Habilidad para colaborar con diseñadores y producto"
+      ],
+      "complementaryCompetencies": [
+        "Análisis de métricas básicas de usabilidad",
+        "Conocimiento de mapas de afinidad",
+        "Comprensión de repositorios de investigación"
+      ],
+      "indicators": [
+        "Conduce sesiones de investigación con supervisión",
+        "Sintetiza hallazgos de forma independiente",
+        "Colabora efectivamente con el equipo de diseño"
+      ]
+    },
+    "UXR-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño y ejecución de estudios de investigación de extremo a extremo",
+        "Dominio de métodos de investigación cualitativa",
+        "Capacidad de conducir pruebas de usabilidad moderadas",
+        "Habilidad para traducir hallazgos en conclusiones accionables",
+        "Conocimiento de nociones básicas de investigación cuantitativa",
+        "Síntesis de hallazgos en informes claros",
+        "Aplicación de la ética de investigación en los estudios",
+        "Responsabilidad sobre proyectos de investigación de complejidad media"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de análisis de encuestas",
+        "Habilidad para presentar la investigación a las partes interesadas",
+        "Comprensión de analítica de comportamiento"
+      ],
+      "indicators": [
+        "Asume estudios de investigación de extremo a extremo",
+        "Entrega conclusiones accionables",
+        "Presenta la investigación con confianza"
+      ]
+    },
+    "UXR-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Diseño de investigación compleja de métodos mixtos de forma autónoma",
+        "Dominio de métodos cualitativos y cuantitativos",
+        "Capacidad de liderar la investigación de un área de producto",
+        "Habilidad para alinear la investigación con la estrategia de producto",
+        "Conocimiento profundo de técnicas de síntesis de investigación",
+        "Facilitación de talleres y sesiones de presentación de resultados",
+        "Definición de planes de investigación para las iniciativas",
+        "Responsabilidad de extremo a extremo sobre programas de investigación relevantes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en colaboración multifuncional",
+        "Conocimiento de análisis estadístico",
+        "Gestión de repositorios de investigación a escala"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma en estudios complejos",
+        "Marca la dirección de investigación de un área de producto",
+        "Mentoriza a investigadores junior"
+      ]
+    },
+    "UXR-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño de estrategia de investigación para los productos",
+        "Dominio del oficio de investigación de extremo a extremo",
+        "Capacidad de definir la visión de investigación de los productos",
+        "Habilidad para influir en la hoja de ruta de producto mediante la investigación",
+        "Experiencia profunda en métodos cualitativos y cuantitativos",
+        "Liderazgo de iniciativas de investigación entre equipos",
+        "Establecimiento de estándares de calidad de investigación",
+        "Democratización de la investigación en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en operaciones de investigación",
+        "Conocimiento de métodos estadísticos avanzados",
+        "Gestión de relaciones complejas con partes interesadas"
+      ],
+      "indicators": [
+        "Es un experto reconocido en investigación de experiencia de usuario",
+        "Define la visión de investigación de múltiples productos",
+        "Eleva el oficio del equipo de investigación"
+      ]
+    },
+    "UXR-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo de la investigación en una línea de producto",
+        "Definición de principios y cultura de investigación",
+        "Gestión de las operaciones de investigación como activo estratégico",
+        "Capacidad de impulsar la estrategia de investigación a nivel de producto",
+        "Habilidad para dar forma a la visión de producto con conclusiones de investigación",
+        "Conocimiento profundo del impacto de la investigación en los resultados de negocio",
+        "Mentoría y crecimiento de equipos de investigación",
+        "Impulso de la toma de decisiones basada en investigación en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en el escalado de prácticas de investigación",
+        "Conocimiento de contratación y formación de equipos de investigación",
+        "Liderazgo en la consistencia de investigación entre productos"
+      ],
+      "indicators": [
+        "Lidera la investigación de una línea de producto",
+        "Influye en la estrategia de producto mediante la investigación",
+        "Hace crecer y mentoriza a investigadores senior"
+      ]
+    },
+    "UXR-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Influencia ejecutiva en la estrategia de investigación",
+        "Definición de la visión de investigación entre múltiples productos",
+        "Transformación de la toma de decisiones con investigación a escala",
+        "Gestión de la investigación a nivel de organización",
+        "Creación de marcos de investigación para la compañía",
+        "Alineación de la investigación con la estrategia de negocio a largo plazo",
+        "Liderazgo de investigación en la mesa de dirección",
+        "Influencia en la disciplina de investigación de experiencia de usuario de forma externa"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de la investigación en organizaciones complejas",
+        "Experiencia en investigación para productos de escala empresarial",
+        "Liderazgo en comunidades de investigación"
+      ],
+      "indicators": [
+        "Marca la dirección de investigación entre productos",
+        "Colabora con la dirección de producto y diseño",
+        "Representa a la investigación a nivel ejecutivo"
+      ]
+    },
+    "UXR-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la investigación como motor central del negocio",
+        "Liderazgo en la transformación impulsada por la investigación",
+        "Creación de ecosistemas de investigación en la organización",
+        "Gestión de la visión de investigación a escala de compañía",
+        "Introducción de nuevos métodos y prácticas de investigación",
+        "Definición de las prácticas y estándares de investigación a largo plazo de la organización",
+        "Defensa de la toma de decisiones basada en conclusiones en toda la organización",
+        "Influencia en el futuro de la investigación de experiencia de usuario"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como investigador principal en compañías de referencia",
+        "Asesoramiento en empresas emergentes orientadas a las conclusiones de investigación",
+        "Liderazgo de pensamiento en investigación de experiencia de usuario"
+      ],
+      "indicators": [
+        "Da forma a la estrategia de investigación a nivel de compañía",
+        "Define la visión de investigación de la organización",
+        "Es una autoridad reconocida en investigación de experiencia de usuario"
+      ]
+    },
+    "UXR-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario como vicepresidente de diseño",
+        "Transformación de la organización a través de las conclusiones de investigación",
+        "Creación de una cultura de compañía orientada a las conclusiones de investigación",
+        "Definición de la estrategia de investigación a nivel ejecutivo",
+        "Innovación en la intersección de la investigación y el negocio",
+        "Defensa de los estándares de calidad de investigación en todos los equipos de producto",
+        "Arquitecto de la visión de investigación de la organización",
+        "Influencia en la evolución de la investigación de experiencia de usuario"
+      ],
+      "complementaryCompetencies": [
+        "Creador de prácticas de investigación que marcan la industria",
+        "Reconocimiento como líder de investigación en el sector",
+        "Influencia en la educación de investigación global"
+      ],
+      "indicators": [
+        "Es vicepresidente de diseño o equivalente",
+        "Define la visión de investigación de la compañía",
+        "Es una autoridad mundial en investigación de experiencia de usuario"
+      ]
+    }
+  }
+}

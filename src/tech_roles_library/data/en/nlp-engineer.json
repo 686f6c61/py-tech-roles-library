@@ -1,0 +1,258 @@
+{
+  "role": "NLP Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "NLP-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of how text is represented numerically for machine learning",
+        "Elementary grasp of tokenization, splitting text into words and subword units",
+        "Ability to clean and preprocess text, handling casing, punctuation and stopwords",
+        "Basic notion of word embeddings and why similar words sit close together",
+        "Ability to use libraries such as spaCy and Hugging Face under supervision",
+        "Elementary practice running sentiment analysis and text classification examples",
+        "Basic familiarity with part-of-speech tags and named entities",
+        "Ability to read model outputs and inspect predictions on sample text"
+      ],
+      "complementaryCompetencies": [
+        "Basic Python and comfort working with text files",
+        "Familiarity with regular expressions for pattern matching",
+        "Elementary sense of linguistic corpora and datasets"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can implement basic text preprocessing with guidance",
+        "Needs 6-12 months of mentoring"
+      ]
+    },
+    "NLP-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to fine-tune pretrained language models for classification tasks",
+        "Practical grasp of the transformer architecture and self-attention",
+        "Ability to build named entity recognition and part-of-speech tagging pipelines",
+        "Familiarity with subword tokenization such as byte-pair encoding and WordPiece",
+        "Ability to train and evaluate text classifiers with precision, recall and F1",
+        "Practice with topic modeling and clustering of documents",
+        "Ability to set up basic machine translation and speech-to-text from existing models",
+        "Grasp of train, validation and test splits and overfitting in text tasks"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with pretrained models such as the BERT and GPT families",
+        "Ability to work with multilingual datasets and tokenizers",
+        "Sense of dialogue and question-answering datasets"
+      ],
+      "indicators": [
+        "Develops NLP components with supervision",
+        "Implements standard models on well-defined tasks",
+        "Optimizes basic preprocessing and training pipelines"
+      ]
+    },
+    "NLP-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Command of transformer architectures and how attention captures context",
+        "Ability to fine-tune and adapt large language models for domain tasks",
+        "Ability to build embedding-based semantic search and retrieval",
+        "Solid command of evaluation metrics including BLEU, ROUGE and perplexity",
+        "Ability to design text generation systems with different decoding strategies",
+        "Practice handling long documents and context length limits",
+        "Ability to build entity and relation extraction pipelines",
+        "Awareness of bias and fairness concerns in language data and models"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with neural machine translation architectures",
+        "Ability to work with speech recognition and synthesis",
+        "Sense of data annotation workflows and inter-annotator agreement"
+      ],
+      "indicators": [
+        "Designs complete NLP systems with minimal supervision",
+        "Leads focused language processing projects",
+        "Improves model quality through systematic evaluation"
+      ]
+    },
+    "NLP-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to architect production NLP pipelines from ingestion to serving",
+        "Command of model efficiency techniques such as distillation and quantization",
+        "Ability to deploy large language models with acceptable latency and cost",
+        "Solid command of retrieval-augmented generation grounded in enterprise data",
+        "Ability to build multilingual systems that share models across languages",
+        "Ability to design offline and online evaluation for language models",
+        "Practice monitoring for data drift and quality regressions in production",
+        "Ability to mentor engineers on NLP design and evaluation"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with vector databases and approximate nearest neighbor search",
+        "Ability to design annotation and data curation strategies at scale",
+        "Sense of prompt design and in-context learning for language models"
+      ],
+      "indicators": [
+        "Leads development of production NLP features",
+        "Mentors junior engineers on language systems",
+        "Makes informed architectural decisions on NLP pipelines"
+      ]
+    },
+    "NLP-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in designing NLP platforms shared across multiple products",
+        "Ability to establish evaluation-driven development for language models",
+        "Command of model selection between open and proprietary language models",
+        "Ability to build data pipelines that feed continuous model improvement",
+        "Solid command of scaling inference for high-volume text workloads",
+        "Ability to design guardrails against hallucination and unsafe generation",
+        "Expertise in cost and latency optimization across the NLP stack",
+        "Ability to define evaluation benchmarks tailored to business tasks"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with reinforcement learning from human feedback for alignment",
+        "Ability to design human-in-the-loop review for generated text",
+        "Sense of privacy and compliance for text containing personal data"
+      ],
+      "indicators": [
+        "Designs NLP architectures for complete products",
+        "Defines team standards for language model development",
+        "Leads cross-team initiatives on NLP infrastructure"
+      ]
+    },
+    "NLP-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise NLP platforms serving many teams",
+        "Expertise in governance frameworks for deploying language models",
+        "Command of evaluation infrastructure and continuous quality monitoring",
+        "Ability to design language systems that meet reliability and safety targets",
+        "Solid command of security threats specific to language models such as prompt injection",
+        "Ability to lead adoption of NLP across products and business units",
+        "Expertise in managing the cost of large-scale language model serving",
+        "Ability to set data governance policy for text and training corpora"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with emerging model architectures and their trade-offs",
+        "Ability to design shared embedding and retrieval services",
+        "Sense of on-device and edge deployment of compact models"
+      ],
+      "indicators": [
+        "Architects NLP solutions for multiple teams",
+        "Influences organizational decisions on language technology",
+        "Represents the company technically in the NLP domain"
+      ]
+    },
+    "NLP-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership of NLP strategy across an organization",
+        "Ability to design language architectures that outlive individual models",
+        "Expertise in model-agnostic and vendor-agnostic NLP platforms",
+        "Ability to define multi-year roadmaps for language capabilities",
+        "Solid command of the total cost and economics of language systems",
+        "Expertise in building and scaling NLP engineering teams",
+        "Ability to set evaluation and safety standards adopted across the organization",
+        "Ability to guide build-versus-buy decisions for language models"
+      ],
+      "complementaryCompetencies": [
+        "Ability to evaluate NLP vendors and research for adoption",
+        "Familiarity with research trends in language modeling",
+        "Ability to represent NLP work at technical conferences"
+      ],
+      "indicators": [
+        "Defines organizational technical strategy for NLP",
+        "Recognized as a technical authority in language processing",
+        "Speaks at industry conferences on NLP"
+      ]
+    },
+    "NLP-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic direction for how the organization builds and operates language systems",
+        "Ability to align NLP investments with product and business goals",
+        "Expertise in technical due diligence for NLP products and acquisitions",
+        "Ability to set the engineering bar for language model quality and safety",
+        "Solid command of the trade-offs between in-house and external language models",
+        "Ability to build and lead NLP engineering organizations",
+        "Expertise in translating research advances into production language systems",
+        "Ability to advise leadership on risk and opportunity in language technology"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape data strategy for training and evaluating language models",
+        "Familiarity with regulatory considerations for automated language processing",
+        "Ability to mentor senior engineers and technical leads"
+      ],
+      "indicators": [
+        "Shapes the technical direction of NLP across the company",
+        "Advises leadership on language technology decisions",
+        "Mentors senior technical leaders"
+      ]
+    },
+    "NLP-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership of language technology strategy",
+        "Ability to align NLP capabilities with company strategy and roadmap",
+        "Expertise in planning and managing budgets for language model programs",
+        "Ability to set organizational policy for responsible language systems",
+        "Solid command of risk management for language models in regulated settings",
+        "Ability to build competitive advantage through NLP capabilities",
+        "Expertise in partnering with model and infrastructure providers",
+        "Ability to lead the organization through shifts in language model technology"
+      ],
+      "complementaryCompetencies": [
+        "Ability to represent the company on language technology matters",
+        "Familiarity with the vendor and research landscape for language models",
+        "Ability to shape hiring and organizational design for NLP teams"
+      ],
+      "indicators": [
+        "Defines and executes the organization's language technology vision",
+        "Accountable for the outcomes of NLP investments",
+        "Represents the company externally on NLP"
+      ]
+    }
+  }
+}

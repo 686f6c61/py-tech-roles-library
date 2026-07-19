@@ -1,0 +1,259 @@
+{
+  "role": "Database Administrator",
+  "category": "Infrastructure",
+  "levels": {
+    "DBA-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of database systems",
+        "Elementary knowledge of SQL and queries",
+        "Ability to perform basic backups and restores",
+        "Basic understanding of users and permissions",
+        "Basic database monitoring capability",
+        "Elementary knowledge of indexes",
+        "Basic understanding of data integrity",
+        "Ability to document configurations"
+      ],
+      "complementaryCompetencies": [
+        "Basic scripting knowledge",
+        "Familiarity with DBA tools",
+        "Elementary OS understanding"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can execute routine DBA tasks",
+        "Needs 6-12 months of mentoring"
+      ]
+    },
+    "DBA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to operationally administer databases",
+        "Basic query optimization skills",
+        "Practical knowledge of replication and clustering",
+        "Understanding of maintenance plans",
+        "Basic troubleshooting capability",
+        "Simple capacity planning skills",
+        "Knowledge of database security",
+        "Understanding of performance monitoring"
+      ],
+      "complementaryCompetencies": [
+        "Basic NoSQL knowledge",
+        "Basic automation skills",
+        "Understanding of cloud databases"
+      ],
+      "indicators": [
+        "Administers databases with moderate supervision",
+        "Resolves common operational issues",
+        "Maintains basic SLAs"
+      ]
+    },
+    "DBA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of advanced tuning and optimization",
+        "Ability to design HA/DR strategies",
+        "Ability to implement sharding",
+        "Deep knowledge of database internals",
+        "Ability to implement advanced security",
+        "Solid understanding of data modeling",
+        "Migration and upgrade skills",
+        "Knowledge of database compliance"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of multiple RDBMS",
+        "Database automation skills",
+        "Understanding of data warehousing"
+      ],
+      "indicators": [
+        "Manages critical databases independently",
+        "Significantly optimizes performance",
+        "Leads medium-sized database projects"
+      ]
+    },
+    "DBA-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise database solutions",
+        "Mastery of distributed databases",
+        "Ability to implement multi-master replication",
+        "Deep knowledge of storage optimization",
+        "Disaster recovery planning capability",
+        "Mastery of enterprise database security",
+        "Capacity forecasting skills",
+        "Knowledge of database consolidation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of in-memory databases",
+        "Big data platform skills",
+        "Understanding of database containers"
+      ],
+      "indicators": [
+        "Defines database strategy for applications",
+        "Leads complex database migrations",
+        "Mentors junior DBAs"
+      ]
+    },
+    "DBA-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in hybrid database architectures",
+        "Ability to design data platforms",
+        "Mastery of complete database automation",
+        "Ability to implement DBaaS",
+        "Deep knowledge of regulatory compliance",
+        "Ability to implement data governance",
+        "Expertise in cross-platform migrations",
+        "Mastery of database economics"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of blockchain databases",
+        "ML database skills",
+        "Understanding of edge databases"
+      ],
+      "indicators": [
+        "Architects corporate database solutions",
+        "Leads database transformation",
+        "Defines enterprise database standards"
+      ]
+    },
+    "DBA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define enterprise database strategy",
+        "Expertise in database platform engineering",
+        "Mastery of database modernization",
+        "Database center of excellence skills",
+        "Deep knowledge of data strategy",
+        "Ability to lead database teams",
+        "Expertise in vendor management",
+        "Mastery of database risk management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of database innovation",
+        "Database consulting skills",
+        "Understanding of data monetization"
+      ],
+      "indicators": [
+        "Defines multi-year database roadmap",
+        "Leads database organizations",
+        "Influences database industry"
+      ]
+    },
+    "DBA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in global database innovation",
+        "Enterprise database transformation capability",
+        "Expertise in data platform strategies",
+        "Mastery of database ecosystem building",
+        "Ability to define database philosophy",
+        "Deep knowledge of future databases",
+        "Expertise in database thought leadership",
+        "Ability to lead database research"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent database innovations",
+        "Database ventures skills",
+        "Knowledge of database investments"
+      ],
+      "indicators": [
+        "Defines corporate database philosophy",
+        "Speaker at global database conferences",
+        "Database thought leader"
+      ]
+    },
+    "DBA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of databases",
+        "Ability to transform companies through data platforms",
+        "Expertise in executive database strategy",
+        "Mastery of corporate data economics",
+        "Ability to define database excellence",
+        "Deep knowledge of global data governance",
+        "Expertise in database partnerships",
+        "Ability to lead database standards"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence database industry",
+        "Database M&A skills",
+        "Knowledge of database IPOs"
+      ],
+      "indicators": [
+        "Defines enterprise-wide database strategy",
+        "Influences database vendors",
+        "Executive database advisor"
+      ]
+    },
+    "DBA-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in data platforms",
+        "Ability to position data as business asset",
+        "Expertise in total data transformation",
+        "Mastery of data investment strategies",
+        "Ability to build data organizations",
+        "Deep knowledge of data value creation",
+        "Expertise in global data partnerships",
+        "Ability to define data culture",
+        "Mastery of data business models"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence data policy",
+        "Data ecosystem creation skills",
+        "Knowledge of data-driven exits"
+      ],
+      "indicators": [
+        "Defines and executes enterprise data vision",
+        "Responsible for entire data strategy",
+        "Recognized leader in global data management"
+      ]
+    }
+  }
+}

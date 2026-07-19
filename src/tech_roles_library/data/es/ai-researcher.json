@@ -1,0 +1,258 @@
+{
+  "role": "Investigador en IA",
+  "category": "IA/ML",
+  "levels": {
+    "AIR-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de los fundamentos del aprendizaje automático y de cómo los modelos aprenden de los datos",
+        "Manejo elemental del álgebra lineal, el cálculo y la probabilidad que se usan en IA",
+        "Capacidad de reproducir los resultados de experimentos publicados sencillos",
+        "Práctica básica en la lectura de un artículo científico y la extracción de su aportación",
+        "Capacidad de ejecutar y registrar experimentos con marcos como PyTorch",
+        "Práctica elemental en el seguimiento de experimentos y en mantener los resultados reproducibles",
+        "Comprensión básica de cómo se entrenan y evalúan los modelos de aprendizaje profundo",
+        "Capacidad de documentar métodos y hallazgos con claridad"
+      ],
+      "complementaryCompetencies": [
+        "Estadística básica y contraste de hipótesis",
+        "Familiaridad con Python y las bibliotecas de computación científica",
+        "Noción elemental de los recursos de cómputo necesarios para el entrenamiento"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede asistir a investigadores con experiencia",
+        "Necesita 1 a 2 años de formación de base"
+      ]
+    },
+    "AIR-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar desde cero los métodos descritos en artículos científicos",
+        "Capacidad de diseñar experimentos controlados con líneas base claras",
+        "Manejo práctico de las arquitecturas de redes neuronales y de la dinámica de entrenamiento",
+        "Familiaridad con los métodos de optimización y la búsqueda de hiperparámetros",
+        "Capacidad de realizar estudios de ablación para aislar qué determina los resultados",
+        "Capacidad de llevar a cabo una revisión bibliográfica estructurada sobre un tema",
+        "Práctica en reproducibilidad, semillas fijas y comunicación de la varianza",
+        "Comprensión de la ética de la investigación y de la experimentación responsable"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con el entrenamiento distribuido y en varias GPU",
+        "Capacidad de producir figuras claras y visualizaciones de resultados",
+        "Noción de la significación estadística en las comparaciones experimentales"
+      ],
+      "indicators": [
+        "Conduce experimentos con supervisión",
+        "Implementa y valida técnicas recientes",
+        "Publica en talleres o contribuye a artículos"
+      ]
+    },
+    "AIR-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de los métodos de vanguardia en una o varias áreas de investigación",
+        "Capacidad de formular hipótesis y proponer métodos novedosos para ponerlas a prueba",
+        "Capacidad de liderar de principio a fin una línea de investigación acotada",
+        "Dominio sólido de los fundamentos teóricos que sustentan los métodos empleados",
+        "Capacidad de colaborar con grupos académicos en trabajos conjuntos",
+        "Capacidad de revisar artículos y ofrecer retroalimentación técnica constructiva",
+        "Práctica en la redacción de artículos para congresos y talleres",
+        "Capacidad de mentorizar a investigadores junior en diseño experimental"
+      ],
+      "complementaryCompetencies": [
+        "Práctica en la redacción de propuestas de investigación y solicitudes de financiación",
+        "Capacidad de diseñar bancos de pruebas y protocolos de evaluación",
+        "Noción de la publicación responsable de código y conjuntos de datos"
+      ],
+      "indicators": [
+        "Lidera una línea de investigación con supervisión mínima",
+        "Publica en congresos revisados por pares",
+        "Colabora con la academia y revisa para congresos"
+      ]
+    },
+    "AIR-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de definir una agenda de investigación para un equipo a lo largo de varios proyectos",
+        "Dominio de una metodología experimental rigurosa entre estudios",
+        "Capacidad de liderar un equipo pequeño de investigación y coordinar su trabajo",
+        "Dominio sólido del panorama actual de las áreas de investigación del equipo",
+        "Capacidad de establecer colaboraciones con socios académicos e industriales",
+        "Capacidad de trasladar los hallazgos de investigación hacia aplicaciones de producto",
+        "Práctica en la protección y publicación de la propiedad intelectual",
+        "Capacidad de conseguir financiación mediante ayudas o propuestas internas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con los modelos fundacionales y sus regímenes de entrenamiento",
+        "Capacidad de dar forma a las consideraciones de seguridad y alineamiento en la investigación",
+        "Noción de las leyes de escalado y de la experimentación eficiente en cómputo"
+      ],
+      "indicators": [
+        "Define la dirección de un equipo de investigación",
+        "Lidera colaboraciones estratégicas",
+        "Publica trabajos influyentes revisados por pares"
+      ]
+    },
+    "AIR-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Pericia en la construcción y dirección de un grupo de investigación",
+        "Capacidad de llevar a cabo investigación interdisciplinar que abarca varios campos",
+        "Dominio de los estándares de reproducibilidad y rigor de todo el grupo",
+        "Capacidad de formar alianzas estratégicas con laboratorios y universidades",
+        "Dominio sólido del panorama de financiación y de cómo moverse en él",
+        "Capacidad de definir la cultura de investigación y las prácticas de revisión de un grupo",
+        "Pericia en el desarrollo del talento investigador y su progresión profesional",
+        "Capacidad de medir y comunicar el impacto de la investigación"
+      ],
+      "complementaryCompetencies": [
+        "Práctica en conectar los programas de investigación con las hojas de ruta de producto",
+        "Capacidad de organizar talleres y encuentros de investigación",
+        "Noción de la estrategia de publicación y de la elección de congresos"
+      ],
+      "indicators": [
+        "Diseña programas de investigación que abarcan varias líneas",
+        "Lidera múltiples líneas de investigación",
+        "Define la estrategia de investigación de un grupo"
+      ]
+    },
+    "AIR-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir una visión de investigación plurianual para un área",
+        "Pericia en producir resultados de investigación sostenidos y de alto impacto",
+        "Dominio de la construcción y el mantenimiento de redes externas de investigación",
+        "Capacidad de guiar la transferencia de la investigación a los productos",
+        "Dominio sólido de hacia dónde se dirige un campo de investigación",
+        "Capacidad de representar a la organización en la comunidad científica",
+        "Pericia en dar forma a los programas de investigación y a su evaluación",
+        "Capacidad de fijar estándares éticos y de seguridad para el trabajo de investigación"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con la colaboración entre instituciones y los consorcios",
+        "Capacidad de asesorar sobre decisiones de inversión en investigación",
+        "Noción de los compromisos entre la investigación a largo plazo y la aplicada"
+      ],
+      "indicators": [
+        "Define la visión de investigación de un área",
+        "Lidera grupos y programas de investigación",
+        "Influye en la dirección de un campo de investigación"
+      ]
+    },
+    "AIR-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la estrategia de investigación en toda la organización",
+        "Capacidad de equilibrar una cartera de investigación aplicada y a largo plazo",
+        "Pericia en la gobernanza y la revisión de los programas de investigación",
+        "Capacidad de definir la política de publicación y de ciencia abierta",
+        "Dominio sólido del valor científico y del riesgo de las apuestas de investigación",
+        "Pericia en la construcción y el escalado de organizaciones de investigación",
+        "Capacidad de fijar estándares de ética y seguridad de la investigación en toda la organización",
+        "Capacidad de atraer y retener talento investigador de primer nivel"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en la comunidad investigadora en general",
+        "Capacidad de crear o dirigir laboratorios de investigación",
+        "Familiaridad con la conexión entre los resultados de investigación y la estrategia de negocio"
+      ],
+      "indicators": [
+        "Define la estrategia ejecutiva de investigación",
+        "Representa a la empresa en la comunidad científica",
+        "Autoridad reconocida en el área de investigación"
+      ]
+    },
+    "AIR-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Dirección estratégica de la cartera de investigación de la organización",
+        "Capacidad de alinear las inversiones en investigación con los objetivos de la empresa a largo plazo",
+        "Pericia en la diligencia debida técnica de la investigación y de su madurez",
+        "Capacidad de fijar el listón científico de rigor y reproducibilidad",
+        "Dominio sólido de la conversión de avances de investigación en capacidades duraderas",
+        "Capacidad de construir y dirigir organizaciones de investigación",
+        "Pericia en equilibrar la ambición científica con la entrega práctica",
+        "Capacidad de asesorar a la dirección sobre oportunidades y riesgos científicos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de dar forma a la estrategia de datos y cómputo para la investigación",
+        "Familiaridad con la ética y la gobernanza de la investigación avanzada en IA",
+        "Capacidad de mentorizar a investigadores principales y responsables de investigación"
+      ],
+      "indicators": [
+        "Da forma a la dirección científica de la organización",
+        "Asesora a la dirección sobre las inversiones en investigación",
+        "Mentoriza a investigadores senior"
+      ]
+    },
+    "AIR-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la misión de investigación de la organización",
+        "Capacidad de alinear el programa de investigación con la estrategia de la empresa",
+        "Pericia en la planificación y gestión de los presupuestos de investigación",
+        "Capacidad de fijar la política de una investigación responsable y segura",
+        "Dominio sólido de la gestión del riesgo de las apuestas de investigación a largo plazo",
+        "Capacidad de construir reputación científica y alianzas",
+        "Pericia en dar forma a la cultura de investigación de la organización a gran escala",
+        "Capacidad de guiar a la organización a través de los cambios científicos del campo"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de representar a la organización en la comunidad científica",
+        "Familiaridad con el panorama de financiación y colaboración",
+        "Capacidad de dar forma al diseño organizativo de la investigación"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de investigación de la organización",
+        "Responsable de los resultados del programa de investigación",
+        "Representa a la empresa en la comunidad científica"
+      ]
+    }
+  }
+}

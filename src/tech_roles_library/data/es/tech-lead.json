@@ -1,0 +1,259 @@
+{
+  "role": "Líder Técnico",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "TL-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de liderazgo técnico y responsabilidades",
+        "Conocimiento elemental de gestión de tareas técnicas",
+        "Habilidad para coordinar trabajo técnico simple con supervisión",
+        "Comprensión básica de mentoría y capacitación",
+        "Capacidad de facilitar reuniones técnicas básicas",
+        "Conocimiento elemental de estimación y planificación",
+        "Comprensión básica de gestión de deuda técnica",
+        "Habilidad para comunicar decisiones técnicas simples"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de metodologías ágiles",
+        "Familiaridad con herramientas de gestión",
+        "Comprensión elemental de gestión de personas"
+      ],
+      "indicators": [
+        "Lidera equipos pequeños (2-3 personas) con supervisión",
+        "Necesita apoyo en decisiones técnicas críticas",
+        "3-5 años de experiencia técnica previa requerida"
+      ]
+    },
+    "TL-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de liderar equipos técnicos de 3-5 personas",
+        "Habilidad para priorizar trabajo técnico y gestionar backlog",
+        "Conocimiento práctico de facilitación de decisiones técnicas",
+        "Comprensión de balance entre deuda técnica y entrega",
+        "Capacidad de realizar revisiones de código efectivas",
+        "Habilidad para identificar y resolver bloqueadores técnicos",
+        "Conocimiento de delegación efectiva de tareas",
+        "Comprensión de comunicación con interesados no técnicos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de gestión de conflictos básica",
+        "Habilidad para reclutamiento técnico básico",
+        "Comprensión de presupuestos técnicos"
+      ],
+      "indicators": [
+        "Lidera equipos con autonomía moderada",
+        "Resuelve conflictos técnicos del equipo",
+        "Mantiene velocidad estable del equipo"
+      ]
+    },
+    "TL-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de liderazgo de equipos de 5-8 personas",
+        "Capacidad de definir estándares técnicos y mejores prácticas",
+        "Habilidad para balancear múltiples prioridades técnicas",
+        "Conocimiento profundo de desarrollo de carrera técnica",
+        "Capacidad de gestionar interesados técnicos y no técnicos",
+        "Comprensión sólida de arquitectura y su impacto",
+        "Habilidad para liderar iniciativas de mejora técnica",
+        "Conocimiento de gestión de riesgos técnicos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de presupuestación y planificación de recursos",
+        "Habilidad para colaboración entre equipos",
+        "Comprensión de gestión de proveedores"
+      ],
+      "indicators": [
+        "Lidera equipos complejos independientemente",
+        "Define procesos técnicos del equipo",
+        "Mejora consistentemente métricas del equipo"
+      ]
+    },
+    "TL-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de liderar múltiples equipos o equipos grandes (8-15)",
+        "Dominio de planificación técnica estratégica",
+        "Habilidad para impulsar decisiones arquitectónicas",
+        "Conocimiento profundo de construcción de equipos y cultura",
+        "Capacidad de gestionar hojas de ruta técnicas",
+        "Experiencia en resolución de conflictos y negociación",
+        "Dominio de gestión del desempeño técnico",
+        "Capacidad de influenciar sin autoridad formal"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de diseño organizacional",
+        "Capacidad de promover buenas prácticas técnicas entre equipos",
+        "Comprensión de estrategia de negocio"
+      ],
+      "indicators": [
+        "Lidera iniciativas entre equipos exitosamente",
+        "Desarrolla otros líderes técnicos",
+        "Impacta métricas organizacionales"
+      ]
+    },
+    "TL-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en liderazgo de equipos distribuidos y remotos",
+        "Capacidad de definir estrategia técnica departamental",
+        "Dominio de gestión del cambio técnico",
+        "Habilidad para construir equipos de alto rendimiento",
+        "Conocimiento profundo de escalamiento de equipos de ingeniería",
+        "Capacidad de gestionar crisis técnicas complejas",
+        "Experiencia en transformación de cultura técnica",
+        "Dominio de comunicación ejecutiva"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de integración técnica en fusiones y adquisiciones",
+        "Habilidad para presentaciones técnicas en público",
+        "Comprensión de tendencias de la industria"
+      ],
+      "indicators": [
+        "Lidera transformaciones técnicas departamentales",
+        "Reconocido como líder técnico organizacional",
+        "Mentor de múltiples líderes técnicos"
+      ]
+    },
+    "TL-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de liderar organizaciones técnicas (30-50 personas)",
+        "Experiencia en definición de excelencia en ingeniería",
+        "Dominio de desarrollo estratégico del talento",
+        "Habilidad para diseñar procesos de ingeniería escalables",
+        "Conocimiento profundo de métricas e indicadores de ingeniería",
+        "Capacidad de liderar iniciativas de innovación",
+        "Experiencia en construcción de marcas de ingeniería",
+        "Dominio de alianzas estratégicas técnicas"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar política técnica",
+        "Habilidad para liderazgo de pensamiento técnico",
+        "Conocimiento de creación de empresas"
+      ],
+      "indicators": [
+        "Define cultura técnica organizacional",
+        "Lidera iniciativas de innovación mayores",
+        "Ponente en conferencias sobre liderazgo técnico"
+      ]
+    },
+    "TL-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo de organizaciones técnicas grandes (50-100+)",
+        "Capacidad de transformación organizacional técnica",
+        "Experiencia en excelencia operativa de ingeniería",
+        "Dominio de liderazgo de equipos globales",
+        "Capacidad de definir filosofía de ingeniería",
+        "Conocimiento profundo de mejores prácticas de la industria",
+        "Experiencia en diversidad e inclusión técnica",
+        "Capacidad de liderar iniciativas de código abierto"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de asesoría para empresas emergentes",
+        "Habilidad para escribir sobre liderazgo técnico",
+        "Conocimiento de economía de la ingeniería"
+      ],
+      "indicators": [
+        "Transforma organizaciones técnicas completas",
+        "Influye en prácticas de la industria",
+        "Reconocido líder de pensamiento en liderazgo de ingeniería"
+      ]
+    },
+    "TL-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de liderazgo técnico organizacional",
+        "Capacidad de construir y escalar organizaciones globales",
+        "Experiencia en estrategia y ejecución de ingeniería",
+        "Dominio de gestión de presupuestos multimillonarios",
+        "Capacidad de definir gobernanza de ingeniería",
+        "Conocimiento profundo de cumplimiento normativo técnico",
+        "Experiencia en gestión de proveedores y alianzas",
+        "Capacidad de representación ejecutiva"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de reportar a la junta directiva",
+        "Habilidad para debida diligencia técnica en fusiones y adquisiciones",
+        "Conocimiento de preparación técnica para oferta pública inicial"
+      ],
+      "indicators": [
+        "Responsable de múltiples departamentos técnicos",
+        "Define estrategia de ingeniería corporativa",
+        "Impacta resultados financieros significativamente"
+      ]
+    },
+    "TL-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de toda la organización técnica",
+        "Capacidad de alinear ingeniería con estrategia de negocio",
+        "Experiencia en transformación digital empresarial",
+        "Dominio de gestión de carteras técnicas complejas",
+        "Capacidad de construir ventajas competitivas técnicas",
+        "Conocimiento profundo de gestión de riesgos técnicos",
+        "Experiencia en relaciones con inversores técnicas",
+        "Capacidad de definir visión tecnológica corporativa",
+        "Dominio de transformación organizacional"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar industria",
+        "Habilidad para crear empresas derivadas técnicas",
+        "Conocimiento de capital privado y salidas"
+      ],
+      "indicators": [
+        "Define y ejecuta estrategia técnica empresarial",
+        "Responsable de toda la organización de ingeniería",
+        "Líder reconocido en la industria tecnológica"
+      ]
+    }
+  }
+}

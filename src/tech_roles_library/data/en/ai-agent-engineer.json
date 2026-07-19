@@ -1,0 +1,258 @@
+{
+  "role": "AI Agent Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "AAG-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of large language models and how they generate responses",
+        "Elementary knowledge of prompt structure and instruction following",
+        "Ability to wire a single model call into a script with supervision",
+        "Basic understanding of tool use, where a model calls an external function",
+        "Ability to define simple function schemas following examples",
+        "Elementary knowledge of reading and interpreting model outputs and logs",
+        "Basic understanding of what an agent is versus a single model call",
+        "Ability to use SDKs and playgrounds for experimentation"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of Python or a scripting language",
+        "Familiarity with JSON and structured data",
+        "Elementary understanding of API keys and environment variables"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can complete simple prompting tasks with detailed guidance",
+        "Needs 3-6 months to be productive"
+      ]
+    },
+    "AAG-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to build a single-agent loop with tool calling and minimal supervision",
+        "Understanding of the reasoning and acting cycle where an agent plans and executes tools",
+        "Ability to design clear tool definitions with typed inputs and outputs",
+        "Practical knowledge of prompt templates and system instructions",
+        "Ability to handle tool errors and retries within an agent loop",
+        "Understanding of context windows and token limits",
+        "Ability to add basic conversational memory across turns",
+        "Knowledge of unit testing individual tools and prompts"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of vector databases and embeddings",
+        "Ability to use agent frameworks and their abstractions",
+        "Basic understanding of structured output and schema validation"
+      ],
+      "indicators": [
+        "Can build simple agents independently",
+        "Resolves medium complexity issues in agent behavior",
+        "Actively participates in code and prompt reviews"
+      ]
+    },
+    "AAG-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of single-agent design with robust tool orchestration",
+        "Ability to implement guardrails that constrain agent actions and outputs",
+        "Ability to design and run basic evaluations of agent task success",
+        "Deep knowledge of context management and prompt engineering techniques",
+        "Ability to implement short-term and long-term memory strategies",
+        "Understanding of retrieval to ground agent responses in external data",
+        "Ability to instrument agents with tracing to inspect each step",
+        "Knowledge of handling ambiguous inputs and clarifying questions"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of prompt injection risks and basic mitigations",
+        "Ability to implement human-in-the-loop approval steps",
+        "Basic understanding of multi-agent coordination"
+      ],
+      "indicators": [
+        "Completes complex agent features with minimal supervision",
+        "Identifies and resolves failures in agent reasoning loops",
+        "Actively contributes to technical design of agent systems"
+      ]
+    },
+    "AAG-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design multi-agent systems with clear roles and handoffs",
+        "Mastery of orchestration patterns such as planner-executor and supervisor-worker",
+        "Ability to build comprehensive evaluation suites with automated scoring",
+        "Deep knowledge of memory architectures including episodic and semantic memory",
+        "Ability to design layered guardrails covering inputs, tools and outputs",
+        "Mastery of retrieval-augmented generation integrated into agent workflows",
+        "Ability to manage cost and latency across multi-step agent runs",
+        "Knowledge of failure recovery, fallback strategies and safe termination"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of fine-tuning and model selection for agent tasks",
+        "Ability to design tool ecosystems and reusable tool libraries",
+        "Understanding of sandboxing for agent code execution"
+      ],
+      "indicators": [
+        "Leads development of critical agent components",
+        "Effectively mentors junior engineers",
+        "Makes informed architectural decisions on agent design"
+      ]
+    },
+    "AAG-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in designing production-grade autonomous agent platforms",
+        "Ability to architect scalable multi-agent orchestration across services",
+        "Mastery of evaluation-driven development with offline and online metrics",
+        "Ability to design memory systems that persist and scale across sessions",
+        "Deep knowledge of adversarial testing and red teaming of agents",
+        "Ability to build observability that captures reasoning, tools and outcomes",
+        "Expertise in optimizing the accuracy, cost and latency trade-off at scale",
+        "Mastery of safety mechanisms including containment and permission models"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of reinforcement learning from human feedback concepts",
+        "Ability to design agent evaluation benchmarks from scratch",
+        "Understanding of regulatory and compliance concerns for autonomous systems"
+      ],
+      "indicators": [
+        "Designs agent architectures for complete products",
+        "Defines team technical standards for agent development",
+        "Leads cross-team initiatives on agent infrastructure"
+      ]
+    },
+    "AAG-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect enterprise agent platforms serving many teams",
+        "Expertise in governance frameworks for autonomous agent deployment",
+        "Mastery of evaluation infrastructure and continuous quality monitoring",
+        "Ability to design agent systems that operate safely with high autonomy",
+        "Deep knowledge of security threats specific to agentic systems",
+        "Ability to lead migrations toward agent-based automation at scale",
+        "Expertise in reliability engineering for non-deterministic systems",
+        "Mastery of cost governance across large agent fleets"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging agent interoperability standards",
+        "Ability to design agent marketplaces and shared capability catalogs",
+        "Understanding of on-device and edge agent deployment"
+      ],
+      "indicators": [
+        "Architects agent solutions for multiple teams",
+        "Influences organizational technical decisions on autonomy",
+        "Represents the company technically in the agent domain"
+      ]
+    },
+    "AAG-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership in enterprise-wide agent transformation",
+        "Ability to design agent architectures for large corporations",
+        "Expertise in strategies for safely scaling autonomous decision-making",
+        "Mastery of vendor-agnostic and model-agnostic agent architectures",
+        "Ability to define multi-year roadmaps for agentic capabilities",
+        "Deep knowledge of the economics and total cost of agent systems",
+        "Expertise in building and scaling agent engineering teams",
+        "Ability to influence the industry with agent innovations"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent agent orchestration innovations",
+        "Ability to technically evaluate agent startups and tools",
+        "Knowledge of research trends in autonomous systems"
+      ],
+      "indicators": [
+        "Defines organizational technical strategy for agents",
+        "Recognized as thought leader in agentic systems",
+        "Speaker at international conferences"
+      ]
+    },
+    "AAG-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of the evolution of autonomous agent technology",
+        "Ability to set the technical direction for new agentic architectures and autonomy patterns",
+        "Expertise in technical due diligence for agent-driven products",
+        "Mastery of organizational transformation through autonomous agents",
+        "Ability to build and lead agent engineering organizations",
+        "Deep knowledge of the business impact of autonomy decisions",
+        "Expertise in executive stakeholder relations around AI risk",
+        "Ability to define engineering culture for responsible autonomy"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence industry policy on autonomous systems",
+        "Ability to create technology spin-offs from agent research",
+        "Knowledge of investment in agentic technology"
+      ],
+      "indicators": [
+        "Impacts the technical direction of the agent industry",
+        "Advisor to C-suite and boards on autonomy",
+        "Mentor to senior technical leaders"
+      ]
+    },
+    "AAG-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in autonomous and agentic technology",
+        "Ability to align agent strategy with business strategy",
+        "Expertise in managing multi-million dollar AI budgets",
+        "Mastery of investor relations and board management for AI initiatives",
+        "Ability to lead AI-driven mergers, acquisitions and integration",
+        "Deep knowledge of risk management for autonomous systems",
+        "Expertise in building competitive advantages through agentic AI",
+        "Ability to drive enterprise transformation through autonomous agents"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence AI regulation and standards",
+        "Ability to create technology ecosystems around agents",
+        "Knowledge of private equity and exits in AI"
+      ],
+      "indicators": [
+        "Defines and executes enterprise agent technology vision",
+        "Responsible for AI technology profit and loss",
+        "Public face of the company in autonomous AI"
+      ]
+    }
+  }
+}

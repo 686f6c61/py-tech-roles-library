@@ -1,0 +1,249 @@
+{
+  "role": "Ingeniero de Aseguramiento de Calidad",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "QA-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica del ciclo de vida del software y del lugar que ocupan las pruebas",
+        "Nociones elementales de diseño de casos de prueba y escenarios",
+        "Capaz de ejecutar guiones de prueba manuales y registrar resultados",
+        "Comprensión básica del informe de defectos y sus niveles de severidad",
+        "Familiaridad con una herramienta de gestión de defectos para registrar incidencias",
+        "Nociones elementales de los entornos de prueba (desarrollo, preproducción, producción)",
+        "Capaz de realizar sesiones exploratorias guiadas sobre funcionalidades sencillas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad básica con navegadores web y sus herramientas de desarrollo",
+        "Familiaridad con las ceremonias ágiles y su propósito",
+        "Nociones elementales de bases de datos para comprobar datos"
+      ],
+      "indicators": [
+        "Necesita supervisión estrecha en las tareas de prueba",
+        "Ejecuta casos de prueba documentados con guía",
+        "Aprende a distinguir la severidad de la prioridad"
+      ]
+    },
+    "QA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capaz de redactar casos de prueba claros y detallados a partir de criterios de aceptación",
+        "Ejecución de pasadas funcionales completas sobre una funcionalidad",
+        "Comprensión práctica de las pruebas de regresión y de cuándo aplicarlas",
+        "Capaz de reproducir, aislar y documentar defectos con precisión",
+        "Familiaridad con las suites de pruebas que mantienen los ingenieros de automatización",
+        "Capaz de validar datos con consultas SQL sencillas",
+        "Participación en el refinamiento para detectar requisitos no verificables"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión básica de las comprobaciones entre navegadores y dispositivos",
+        "Familiaridad con las heurísticas de usabilidad",
+        "Nociones elementales de comprobaciones de accesibilidad"
+      ],
+      "indicators": [
+        "Planifica y ejecuta pruebas de una funcionalidad con supervisión moderada",
+        "Reporta defectos que los desarrolladores pueden resolver sin idas y venidas",
+        "Colabora con los desarrolladores para confirmar las correcciones"
+      ]
+    },
+    "QA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de planes de prueba basados en riesgo para una funcionalidad o componente",
+        "Pruebas exploratorias y por sesiones estructuradas con cartas de sesión",
+        "Capaz de realizar análisis de causa raíz sobre defectos recurrentes",
+        "Definición de criterios de entrada y salida para los ciclos de prueba",
+        "Coordinación del triaje de defectos con desarrollo y producto",
+        "Capaz de interpretar los resultados de las suites automatizadas que mantiene el equipo de automatización",
+        "Estimación del esfuerzo de prueba del trabajo planificado"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de gestión de pruebas y trazabilidad",
+        "Comprensión de las comprobaciones de compatibilidad y localización",
+        "Nociones elementales de estándares de accesibilidad (WCAG)"
+      ],
+      "indicators": [
+        "Es responsable del enfoque de prueba de una funcionalidad de principio a fin",
+        "Anticipa riesgos de calidad durante la planificación",
+        "Aporta mejoras al proceso de calidad del equipo"
+      ]
+    },
+    "QA-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia de prueba de un producto o línea de trabajo principal",
+        "Priorización de las pruebas por riesgo, impacto y frecuencia de cambio",
+        "Impulso de prácticas de desplazamiento a la izquierda para detectar defectos antes",
+        "Coordinación de las pruebas de aceptación de usuario con las partes interesadas del negocio",
+        "Diseño de un flujo de gestión de defectos con severidades y acuerdos de servicio claros",
+        "Definición de métricas de calidad como la tasa de fuga de defectos y la cobertura de rutas críticas",
+        "Guía de las pruebas exploratorias en un equipo"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de las necesidades de pruebas de rendimiento y seguridad para dar contexto a especialistas",
+        "Familiaridad con la gestión de datos de prueba para escenarios realistas",
+        "Comprensión de los criterios de aceptación de accesibilidad"
+      ],
+      "indicators": [
+        "Lidera el enfoque de calidad de un producto de tamaño medio",
+        "Establece los estándares de prueba que sigue el equipo",
+        "Orienta a perfiles junior de calidad en diseño de pruebas y análisis de defectos"
+      ]
+    },
+    "QA-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre la estrategia de calidad de varios equipos o una línea de producto",
+        "Diseño de puertas de calidad integradas en la cadena de entrega",
+        "Definición de un programa de métricas de calidad que informa las decisiones de publicación",
+        "Facilitación de retrospectivas de defectos sin culpa y de su prevención",
+        "Coordinación de pruebas de aceptación de usuario y programas beta a escala de producto",
+        "Capaz de equilibrar la profundidad de las pruebas y los plazos de entrega con evidencia",
+        "Establecimiento de prácticas de gestión de datos y entornos de prueba"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de las señales de observabilidad para detectar problemas de calidad en producción",
+        "Familiaridad con los requisitos de pruebas de cumplimiento del dominio",
+        "Comprensión de cuándo invertir en automatización frente a cobertura manual"
+      ],
+      "indicators": [
+        "Diseña la estrategia de calidad de un producto completo de forma autónoma",
+        "Lidera iniciativas de mejora de calidad con resultados medibles",
+        "Define las métricas de calidad en las que se apoya la dirección"
+      ]
+    },
+    "QA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Definición de la estrategia de calidad de una cartera de productos",
+        "Establecimiento de las pruebas basadas en riesgo como práctica de la organización",
+        "Diseño de criterios de preparación para la publicación y de procesos de decisión",
+        "Integración de las señales de calidad de producción en la planificación de pruebas",
+        "Definición de los objetivos de calidad y sus métricas de apoyo",
+        "Alineación de las prácticas de calidad con las necesidades regulatorias y de cumplimiento",
+        "Liderazgo de la mejora de los procesos de calidad entre equipos"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de los equilibrios entre coste y cobertura en la cartera",
+        "Familiaridad con las necesidades de prueba de nuevas áreas de producto",
+        "Comprensión de prácticas de calidad sostenibles y mantenibles"
+      ],
+      "indicators": [
+        "Da forma a la calidad de varios productos",
+        "Lidera el cambio de los procesos de calidad en la organización",
+        "Define la dirección de calidad a largo plazo junto a la dirección"
+      ]
+    },
+    "QA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo de la cultura de calidad en la organización de ingeniería",
+        "Definición de los estándares de calidad y su gobierno",
+        "Establecimiento de prácticas de ingeniería de calidad más allá de la mera prueba",
+        "Uso de analítica predictiva de calidad para enfocar el esfuerzo de prueba",
+        "Diseño de programas de prevención de defectos, no solo de detección",
+        "Alineación de la función de calidad con los resultados para el cliente",
+        "Definición de prácticas de calidad que escalan con la organización"
+      ],
+      "complementaryCompetencies": [
+        "Contribución a los estándares y manuales internos de calidad",
+        "Comprensión de las prácticas de prueba adoptadas de forma transversal",
+        "Comprensión de cómo la inversión en calidad se traduce en valor de negocio"
+      ],
+      "indicators": [
+        "Establece la filosofía de calidad de la organización",
+        "Construye y lidera comunidades de práctica de calidad",
+        "Reconocido internamente como referente en calidad"
+      ]
+    },
+    "QA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definición de una estrategia de calidad plurianual para la organización",
+        "Posicionamiento de la calidad como motor de la confianza y la retención del cliente",
+        "Establecimiento de un centro de excelencia de calidad y su modelo operativo",
+        "Definición del gobierno de la calidad entre unidades de negocio",
+        "Evaluación del riesgo de calidad en adquisiciones e integraciones",
+        "Justificación de la inversión en calidad mediante retorno medible",
+        "Guía de las decisiones de herramientas y proveedores de la función de calidad"
+      ],
+      "complementaryCompetencies": [
+        "Definición de metodologías de calidad reutilizadas en toda la empresa",
+        "Comprensión del panorama de proveedores y herramientas de prueba",
+        "Comprensión de la comparación de calidad frente al sector"
+      ],
+      "indicators": [
+        "Es responsable de la estrategia de calidad plurianual",
+        "Representa a la empresa en materia de calidad en foros externos",
+        "Influye en la dirección de la calidad más allá de la organización"
+      ]
+    },
+    "QA-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Responsabilidad ejecutiva sobre la calidad y su alineación con los objetivos de negocio",
+        "Definición de la visión de calidad de la empresa y su modelo operativo",
+        "Rendición de cuentas por los resultados de calidad y las métricas que los siguen",
+        "Liderazgo de organizaciones de calidad entre regiones y productos",
+        "Gestión del presupuesto de la función de calidad y su retorno",
+        "Posicionamiento de la calidad como elemento diferenciador en el mercado",
+        "Definición de la postura de riesgo que imponen las prácticas de calidad"
+      ],
+      "complementaryCompetencies": [
+        "Influencia en las prácticas de calidad del sector en su conjunto",
+        "Comprensión del papel de la calidad en las relaciones con clientes y socios",
+        "Comprensión de la inversión a largo plazo en la función de calidad"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de calidad de la empresa",
+        "Responsable de los resultados de calidad a nivel de compañía",
+        "Reconocido como líder en calidad del software"
+      ]
+    }
+  }
+}

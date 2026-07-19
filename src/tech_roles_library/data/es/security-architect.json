@@ -1,0 +1,258 @@
+{
+  "role": "Arquitecto de Seguridad",
+  "category": "Seguridad",
+  "levels": {
+    "SARC-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de los conceptos de arquitectura de seguridad",
+        "Conocimiento elemental de seguridad de redes y aplicaciones",
+        "Capacidad de documentar diagramas de arquitectura con supervisión",
+        "Conocimiento básico de los controles de seguridad habituales",
+        "Comprensión de los fundamentos de autenticación y autorización",
+        "Familiaridad con las diez principales vulnerabilidades de OWASP y las amenazas comunes",
+        "Capacidad de asistir en las revisiones de diseño",
+        "Conciencia de los marcos y estándares de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de plataformas en la nube (AWS, Azure, GCP)",
+        "Familiaridad con los conceptos de modelado de amenazas",
+        "Comprensión elemental de criptografía"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Asiste en la documentación de diseños de seguridad",
+        "Está aprendiendo los fundamentos de la arquitectura de seguridad"
+      ]
+    },
+    "SARC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de realizar modelado de amenazas básico",
+        "Comprensión de los principios de defensa en profundidad",
+        "Capacidad de revisar diseños en busca de fallos de seguridad comunes",
+        "Conocimiento práctico de la gestión de identidades y accesos",
+        "Aplicación de patrones de seguridad a sistemas sencillos",
+        "Comprensión de los conceptos de segmentación de redes",
+        "Capacidad de documentar requisitos de seguridad",
+        "Conocimiento del cifrado en reposo y en tránsito"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con servicios de seguridad en la nube",
+        "Conocimiento básico de marcos de cumplimiento normativo",
+        "Comprensión del ciclo de desarrollo seguro"
+      ],
+      "indicators": [
+        "Trabaja con supervisión habitual",
+        "Contribuye a los modelos de amenazas",
+        "Revisa diseños con orientación"
+      ]
+    },
+    "SARC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Capacidad de liderar el modelado de amenazas de un componente",
+        "Diseño de controles de seguridad para sistemas estándar",
+        "Comprensión de los principios de la arquitectura de confianza cero",
+        "Capacidad de conducir revisiones de diseño de seguridad",
+        "Conocimiento de federación de identidades e inicio de sesión único",
+        "Aplicación de estándares y líneas base de seguridad",
+        "Capacidad de evaluar el riesgo arquitectónico",
+        "Documentación de arquitecturas de referencia"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitectura de seguridad en la nube",
+        "Familiaridad con los conceptos de gobierno de seguridad",
+        "Comprensión de los requisitos de protección de datos"
+      ],
+      "indicators": [
+        "Trabaja con supervisión ocasional",
+        "Es responsable del diseño de seguridad de un componente",
+        "Mentoriza a los aprendices en prácticas de arquitectura"
+      ]
+    },
+    "SARC-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Diseño autónomo de arquitecturas de sistemas seguras",
+        "Dominio de las metodologías de modelado de amenazas (STRIDE, PASTA)",
+        "Diseño de arquitecturas de confianza cero",
+        "Liderazgo de revisiones de diseño de seguridad entre equipos",
+        "Definición de patrones de seguridad y diseños de referencia",
+        "Capacidad de diseñar soluciones de gestión de identidades y accesos",
+        "Integración de la seguridad en la arquitectura de sistemas",
+        "Capacidad de traducir el riesgo en decisiones arquitectónicas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con arquitectura de seguridad en la nube a escala",
+        "Conocimiento de mapeo de cumplimiento y regulación",
+        "Implementación de métricas de arquitectura de seguridad"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma",
+        "Diseña arquitecturas seguras para sistemas importantes",
+        "Es referente en arquitectura de seguridad"
+      ]
+    },
+    "SARC-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño experto de arquitecturas de seguridad empresariales",
+        "Definición de la estrategia de confianza cero en toda la organización",
+        "Dominio del gobierno y los estándares de seguridad",
+        "Liderazgo en la evaluación de riesgos de arquitectura",
+        "Diseño de arquitecturas de seguridad de referencia para la organización",
+        "Capacidad de equilibrar la seguridad con los objetivos de negocio",
+        "Definición de los principios de arquitectura de seguridad",
+        "Orientación de los equipos de ingeniería en el diseño seguro"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en arquitectura de cumplimiento regulatorio",
+        "Conocimiento de marcos de seguridad (SABSA, TOGAF)",
+        "Mentoría de arquitectos de seguridad"
+      ],
+      "indicators": [
+        "Es totalmente autónomo y experto",
+        "Define la arquitectura de seguridad de la organización",
+        "Lidera los estándares y el gobierno de arquitectura"
+      ]
+    },
+    "SARC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la función de arquitectura de seguridad",
+        "Diseño de la estrategia de seguridad para toda la empresa",
+        "Definición de estándares y gobierno de arquitectura",
+        "Liderazgo de equipos de arquitectura de seguridad",
+        "Gobierno del riesgo arquitectónico en toda la organización",
+        "Alineación de la arquitectura de seguridad con la estrategia de negocio",
+        "Definición de hojas de ruta y arquitecturas objetivo de seguridad",
+        "Impulso de una cultura de seguridad desde el diseño en ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en evaluación de proveedores y tecnología",
+        "Conocimiento de marcos de cumplimiento regulatorio",
+        "Gestión de presupuestos de arquitectura de seguridad"
+      ],
+      "indicators": [
+        "Lidera la arquitectura de seguridad en toda la organización",
+        "Define la visión de arquitectura de seguridad",
+        "Influye en las prácticas de toda la empresa"
+      ]
+    },
+    "SARC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Dirección estratégica de los programas de arquitectura de seguridad",
+        "Definición de la arquitectura objetivo de seguridad empresarial",
+        "Liderazgo de la transformación de seguridad organizativa",
+        "Diseño del gobierno de seguridad a escala",
+        "Gestión del riesgo arquitectónico a nivel empresarial",
+        "Innovación en los enfoques de arquitectura de seguridad",
+        "Capacidad de asesorar a la alta dirección en materia de seguridad",
+        "Definición de la hoja de ruta de arquitectura de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia influyendo en los estándares de seguridad del sector",
+        "Conocimiento de priorización de inversiones en seguridad",
+        "Liderazgo en programas de seguridad interfuncionales"
+      ],
+      "indicators": [
+        "Dirige la arquitectura de seguridad a escala organizativa",
+        "Participa en la estrategia de seguridad empresarial",
+        "Es una autoridad reconocida en arquitectura de seguridad"
+      ]
+    },
+    "SARC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para la arquitectura de seguridad empresarial",
+        "Liderazgo en la transformación de seguridad a escala",
+        "Definición de los estándares de arquitectura de seguridad a largo plazo de la organización",
+        "Creación de ventaja competitiva mediante la arquitectura",
+        "Gestión de la seguridad en ecosistemas complejos",
+        "Avance de los patrones y diseños de referencia de arquitectura de seguridad",
+        "Influencia en las políticas de seguridad empresariales",
+        "Adopción de la confianza cero y la seguridad desde el diseño en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como líder de arquitectura de seguridad en empresas en crecimiento",
+        "Asesoría en arquitectura y gobierno de seguridad",
+        "Liderazgo de pensamiento en arquitectura de seguridad"
+      ],
+      "indicators": [
+        "Marca la dirección técnica de toda la organización",
+        "Define la estrategia de arquitectura de seguridad al más alto nivel",
+        "Es un líder reconocido en el sector"
+      ]
+    },
+    "SARC-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario como director general de seguridad de la información",
+        "Definición de la estrategia y la postura de seguridad empresarial",
+        "Transformación de la cultura de seguridad organizativa",
+        "Responsabilidad ejecutiva del riesgo y el gobierno de seguridad",
+        "Alineación de la seguridad con la estrategia corporativa y la junta directiva",
+        "Innovación en gobierno y arquitectura de seguridad",
+        "Influencia en la regulación y los estándares de seguridad del sector",
+        "Arquitecto de organizaciones centradas en la seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando la seguridad en grandes corporaciones",
+        "Reconocimiento como líder de seguridad a nivel de junta directiva",
+        "Influencia en los estándares globales de seguridad"
+      ],
+      "indicators": [
+        "Opera a nivel de director general de seguridad, vicepresidente o director de tecnología",
+        "Define el futuro de la seguridad empresarial",
+        "Es autoridad mundial en arquitectura de seguridad"
+      ]
+    }
+  }
+}

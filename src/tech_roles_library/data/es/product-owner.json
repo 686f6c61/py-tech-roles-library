@@ -1,0 +1,258 @@
+{
+  "role": "Responsable de Producto",
+  "category": "Producto",
+  "levels": {
+    "PO-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de gestión de acumulado",
+        "Comprensión elemental de marco metodológico ágil",
+        "Habilidad para escribir historias de usuario básicas",
+        "Conocimiento básico de criterios de aceptación",
+        "Capacidad de priorización simple",
+        "Comprensión de planificación de iteración básica",
+        "Documentación de épicas simples",
+        "Conocimiento elemental de ceremonias ágiles"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de gestión de proyectos",
+        "Conocimiento básico de refinamiento",
+        "Comprensión de seguimiento de velocidad"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Gestiona acumulados pequeños",
+        "Está aprendiendo metodología ágil"
+      ]
+    },
+    "PO-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de gestionar acumulados complejos",
+        "Implementación de definición de terminado",
+        "Conocimiento práctico de división de historias",
+        "Habilidad para facilitar sesiones de refinamiento",
+        "Comprensión de planificación de lanzamientos",
+        "Capacidad de comunicación con partes interesadas",
+        "Conocimiento de definición de objetivos de iteración",
+        "Habilidad para gestión de dependencias"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de deuda técnica",
+        "Conocimiento de planificación de capacidad",
+        "Comprensión de métricas de entrega de valor"
+      ],
+      "indicators": [
+        "Gestiona productos con supervisión",
+        "Facilita ceremonias ágiles",
+        "Colabora con múltiples equipos"
+      ]
+    },
+    "PO-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de acumulados de producto estratégicos",
+        "Implementación de desarrollo impulsado por valor",
+        "Dominio de criterios de aceptación avanzados",
+        "Capacidad de comunicación de hoja de ruta",
+        "Habilidad para decisiones de equilibrio",
+        "Conocimiento profundo de estrategias de lanzamiento",
+        "Implementación de entrega continua",
+        "Gestión de múltiples equipos ágiles"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de marcos ágiles escalados",
+        "Habilidad para gestión de cartera",
+        "Comprensión de prácticas de desarrollo y operaciones"
+      ],
+      "indicators": [
+        "Lidera producto completamente",
+        "Define visión de producto",
+        "Mentoriza otros responsables de producto"
+      ]
+    },
+    "PO-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de responsabilidad de producto a escala",
+        "Diseño de optimización de cadenas de valor",
+        "Implementación de agilidad empresarial",
+        "Dominio de gestión de acumulado empresarial",
+        "Capacidad de alineación estratégica",
+        "Conocimiento profundo de cartera optimizada",
+        "Habilidad para liderazgo de transformación",
+        "Liderazgo en mentoría ágil"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en implementación de marcos escalados",
+        "Conocimiento de arquitectura empresarial",
+        "Gestión de equipos distribuidos"
+      ],
+      "indicators": [
+        "Define estrategia de agilidad",
+        "Lidera transformación ágil",
+        "Influencia cultura organizacional"
+      ]
+    },
+    "PO-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de organización de responsables de producto",
+        "Diseño de modelos operativos ágiles",
+        "Gestión de carteras ágiles complejas",
+        "Definición de estándares de responsabilidad de producto",
+        "Capacidad de agilidad empresarial",
+        "Implementación de metodología optimizada en empresa",
+        "Dominio de marcos de innovación",
+        "Impulso de prácticas ágiles entre equipos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación ágil",
+        "Conocimiento de implementación de objetivos clave",
+        "Gestión de proveedores ágiles"
+      ],
+      "indicators": [
+        "Gestiona múltiples responsables de producto",
+        "Define marco de agilidad",
+        "Representa agilidad ante ejecutivos"
+      ]
+    },
+    "PO-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de agilidad organizacional",
+        "Estrategia de transformación ágil corporativa",
+        "Gestión de presupuestos de transformación",
+        "Definición de hojas de ruta de agilidad empresarial",
+        "Liderazgo en transformación cultural",
+        "Implementación de agilidad a escala",
+        "Innovación en marcos ágiles",
+        "Gestión de alianzas ágiles"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en integración ágil de fusiones",
+        "Conocimiento de agilidad regulatoria",
+        "Liderazgo en comunidades ágiles"
+      ],
+      "indicators": [
+        "Dirige departamento de agilidad",
+        "Participa en transformación digital",
+        "Define inversiones en agilidad"
+      ]
+    },
+    "PO-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en agilidad empresarial",
+        "Diseño de estrategias ágiles globales",
+        "Transformación organizacional completa",
+        "Gestión de la entrega ágil en grandes organizaciones",
+        "Creación de ventajas competitivas mediante agilidad",
+        "Definición del futuro de la agilidad empresarial",
+        "Comunicación del valor ágil a la dirección ejecutiva",
+        "Influencia en industria ágil"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de agilidad en salida a bolsa",
+        "Experiencia en agilidad empresarial",
+        "Liderazgo en alianzas ágiles"
+      ],
+      "indicators": [
+        "Depende de la alta dirección",
+        "Gestiona transformación ágil (50+ personas)",
+        "Define estrategia ágil corporativa"
+      ]
+    },
+    "PO-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de empresa ágil",
+        "Liderazgo en revolución ágil industrial",
+        "Definición del modelo operativo de producto",
+        "Gestión de transformación global",
+        "Innovación en prácticas de entrega ágil",
+        "Definición de marcos post-ágiles",
+        "Impulso de modelos operativos adaptativos",
+        "Influencia en economía ágil"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de agilidad en empresas",
+        "Asesoramiento en empresas emergentes ágiles",
+        "Liderazgo de pensamiento en agilidad"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define futuro de agilidad empresarial",
+        "Es líder mundial en agilidad"
+      ]
+    },
+    "PO-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de organizaciones",
+        "Transformación de industrias mediante agilidad",
+        "Diseño de modelos operativos centrados en producto",
+        "Definición de empresas adaptativas",
+        "Innovación en organizaciones centradas en personas",
+        "Impulso de una cultura ágil orientada al valor",
+        "Arquitecto de organizaciones adaptativas",
+        "Influencia en evolución empresarial"
+      ],
+      "complementaryCompetencies": [
+        "Creador de marcos revolucionarios",
+        "Reconocimiento como padre de agilidad moderna",
+        "Influencia en educación de gestión global"
+      ],
+      "indicators": [
+        "Lidera la transformación ágil de toda la empresa",
+        "Define futuro organizacional",
+        "Es autoridad mundial en agilidad"
+      ]
+    }
+  }
+}

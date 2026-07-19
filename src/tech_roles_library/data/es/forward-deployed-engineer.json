@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Despliegue en Cliente",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "FDE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de cómo se despliega el software en el entorno de un cliente",
+        "Conocimiento elemental de lectura y seguimiento de documentación de integración",
+        "Capacidad de construir pequeños scripts y prototipos con supervisión",
+        "Comprensión básica de las API y de la conexión con sistemas externos",
+        "Habilidad para tomar notas y traducir las peticiones del cliente en tareas simples",
+        "Conocimiento elemental de depuración en entornos desconocidos mediante registros",
+        "Comprensión básica de la comunicación profesional con clientes",
+        "Habilidad para usar herramientas de colaboración y de tiques"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de la línea de comandos y del acceso remoto",
+        "Familiaridad con formatos de datos como CSV y JSON",
+        "Comprensión elemental del producto que se despliega"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede completar tareas simples con guía detallada",
+        "Necesita 3-6 meses para ser productivo"
+      ]
+    },
+    "FDE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de construir prototipos funcionales para escenarios de cliente con supervisión mínima",
+        "Comprensión de la integración del producto con los sistemas habituales del cliente",
+        "Habilidad para escribir conectores de datos y scripts de transformación",
+        "Conocimiento práctico de la recogida de requisitos directamente de los equipos del cliente",
+        "Capacidad de reproducir y diagnosticar problemas en los entornos del cliente",
+        "Comprensión de las diferencias de configuración y de entorno entre despliegues",
+        "Capacidad de demostrar funcionalidades y recoger retroalimentación en el sitio",
+        "Conocimiento de la documentación de integraciones y notas de traspaso"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de contenedores y herramientas de despliegue",
+        "Habilidad para usar SQL para explorar los datos del cliente",
+        "Comprensión básica de la seguridad y el acceso en los sistemas del cliente"
+      ],
+      "indicators": [
+        "Puede construir integraciones simples de forma independiente",
+        "Resuelve problemas de complejidad media en el sitio",
+        "Participa activamente en reuniones de cara al cliente"
+      ]
+    },
+    "FDE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio del prototipado rápido para validar soluciones con los clientes con celeridad",
+        "Capacidad de diseñar integraciones con sistemas y fuentes de datos complejos del cliente",
+        "Habilidad para traducir necesidades de negocio ambiguas en soluciones técnicas",
+        "Conocimiento profundo de la depuración en toda la pila en entornos restringidos",
+        "Capacidad de gestionar la comunicación diaria con las partes interesadas del cliente",
+        "Comprensión del equilibrio entre el trabajo a medida y las funcionalidades reutilizables del producto",
+        "Capacidad de liderar un despliegue pequeño desde el arranque hasta la puesta en marcha",
+        "Conocimiento de la transmisión de los aprendizajes de campo al equipo de producto"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de integraciones de autenticación e inicio de sesión único",
+        "Habilidad para trabajar dentro de las restricciones de seguridad y cumplimiento del cliente",
+        "Comprensión básica del alcance y la estimación de proyectos"
+      ],
+      "indicators": [
+        "Completa despliegues complejos con mínima supervisión",
+        "Identifica y resuelve bloqueos de integración en el sitio",
+        "Contribuye activamente al diseño de soluciones con los clientes"
+      ]
+    },
+    "FDE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de hacerse responsable de la entrega de extremo a extremo de un despliegue en cliente",
+        "Dominio del diseño de integraciones en panoramas heterogéneos de clientes",
+        "Capacidad de gestionar las relaciones con partes interesadas, desde operadores hasta directivos",
+        "Conocimiento profundo de la conversión de los aprendizajes de campo en requisitos de producto",
+        "Capacidad de definir el alcance de los proyectos y fijar expectativas de entrega realistas",
+        "Dominio de la construcción de soluciones resilientes que sobreviven a los casos límite del cliente",
+        "Capacidad de gestionar escaladas y desbloquear despliegues estancados",
+        "Conocimiento del establecimiento de patrones de despliegue repetibles"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de infraestructura y redes en entornos empresariales",
+        "Habilidad para dirigir talleres técnicos y sesiones de capacitación",
+        "Comprensión de las obligaciones de privacidad de datos en contextos de cliente"
+      ],
+      "indicators": [
+        "Lidera la entrega de proyectos críticos con clientes",
+        "Mentoriza eficazmente a ingenieros junior",
+        "Toma decisiones informadas equilibrando las necesidades del cliente y del producto"
+      ]
+    },
+    "FDE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en la entrega de despliegues complejos para clientes estratégicos",
+        "Capacidad de diseñar arquitecturas de solución que encajan con las restricciones del cliente",
+        "Dominio de la gestión de múltiples proyectos y prioridades simultáneos",
+        "Capacidad de influir en la hoja de ruta del producto a partir de los patrones de campo",
+        "Conocimiento profundo de la navegación por las dinámicas organizacionales y políticas del cliente",
+        "Capacidad de convertir el trabajo a medida en capacidades productizadas y reutilizables",
+        "Experiencia en la reducción de riesgos de los despliegues mediante la validación temprana",
+        "Dominio del papel de puente técnico entre los equipos de campo y de producto"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento del soporte técnico preventa y de las demostraciones de solución",
+        "Habilidad para diseñar pensando en la escala en muchos despliegues de cliente similares",
+        "Comprensión de las restricciones contractuales y comerciales sobre la entrega"
+      ],
+      "indicators": [
+        "Diseña soluciones para programas completos de cliente",
+        "Define las prácticas del equipo para la entrega en cliente",
+        "Lidera iniciativas entre equipos que conectan el campo y el producto"
+      ]
+    },
+    "FDE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar enfoques de entrega para carteras de clientes empresariales",
+        "Experiencia en la construcción de guías operativas que escalan los despliegues entre clientes",
+        "Dominio de la gestión de relaciones ejecutivas y de cuentas estratégicas",
+        "Capacidad de diseñar soluciones que dan forma a la dirección del producto",
+        "Conocimiento profundo de la gestión y mitigación de riesgos de entrega",
+        "Capacidad de liderar grandes programas de transformación de cliente con múltiples equipos",
+        "Experiencia en la construcción de las herramientas que aceleran la entrega de campo",
+        "Dominio de la traducción de las necesidades del mercado en estrategia de producto"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de regulaciones y cumplimiento específicos del sector",
+        "Habilidad para diseñar la capacitación de socios e integradores",
+        "Comprensión de los modelos comerciales para servicios de entrega"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de la entrega para múltiples clientes estratégicos",
+        "Influye en las decisiones organizacionales sobre producto y entrega",
+        "Representa a la empresa técnicamente ante cuentas clave"
+      ]
+    },
+    "FDE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en grandes programas de transformación de cliente",
+        "Capacidad de diseñar modelos de entrega para clientes empresariales globales",
+        "Experiencia en estrategias para modernizar los panoramas heredados de los clientes",
+        "Dominio de la construcción del puente entre la ingeniería y la salida al mercado",
+        "Capacidad de definir hojas de ruta de entrega y productización de varios años",
+        "Conocimiento profundo de la economía de la entrega de campo y los servicios",
+        "Experiencia en la construcción y el escalamiento de equipos de despliegue en cliente",
+        "Capacidad de influir en la industria mediante la innovación en la entrega"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de dar forma a alianzas con integradores de sistemas",
+        "Habilidad para evaluar técnicamente oportunidades de adquisición y expansión",
+        "Conocimiento del panorama competitivo en el segmento de clientes"
+      ],
+      "indicators": [
+        "Define la estrategia organizacional para la entrega en cliente",
+        "Reconocido como líder de pensamiento en ingeniería de campo",
+        "Ponente en conferencias internacionales"
+      ]
+    },
+    "FDE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de cómo la entrega de campo impulsa el encaje del producto en el mercado",
+        "Capacidad de dar forma a nuevos modelos de entrega en cliente a partir de la experiencia en campo",
+        "Experiencia en diligencia debida técnica para productos de cara al cliente",
+        "Dominio de la transformación organizacional mediante la retroalimentación del campo",
+        "Capacidad de construir y liderar organizaciones de ingeniería de despliegue en cliente",
+        "Conocimiento profundo del impacto de negocio de las decisiones de entrega y producto",
+        "Experiencia en relaciones con partes interesadas ejecutivas de clientes y socios",
+        "Capacidad de definir la cultura de una organización de ingeniería de campo"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en las prácticas de la industria en la entrega de soluciones",
+        "Habilidad para crear nuevas líneas de servicio a partir de las capacidades de campo",
+        "Conocimiento de la inversión en negocios de entrega y servicios"
+      ],
+      "indicators": [
+        "Impacta en la dirección técnica de la entrega en cliente de la industria",
+        "Asesor de alta dirección ejecutiva y juntas directivas sobre salida al mercado y entrega",
+        "Mentor de líderes técnicos senior"
+      ]
+    },
+    "FDE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en ingeniería de campo y entrega en cliente",
+        "Capacidad de alinear la estrategia de entrega con la estrategia de negocio y producto",
+        "Experiencia en la gestión de organizaciones de entrega multimillonarias",
+        "Dominio de las relaciones con inversores y la gestión de juntas directivas para resultados de entrega",
+        "Capacidad de liderar fusiones, adquisiciones e integración impulsadas por la entrega",
+        "Conocimiento profundo de la gestión de riesgos en una cartera de entrega en cliente",
+        "Experiencia en la construcción de ventajas competitivas mediante la excelencia en la entrega",
+        "Capacidad de impulsar el crecimiento empresarial mediante el éxito del cliente a escala"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en los estándares de la industria para la entrega de soluciones",
+        "Habilidad para crear ecosistemas de socios e integradores",
+        "Conocimiento de capital privado y salidas en negocios de servicios"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de entrega empresarial",
+        "Responsable de las pérdidas y ganancias de la organización de entrega",
+        "Figura pública de la empresa ante los clientes estratégicos"
+      ]
+    }
+  }
+}

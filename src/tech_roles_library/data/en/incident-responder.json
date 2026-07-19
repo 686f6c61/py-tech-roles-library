@@ -1,0 +1,258 @@
+{
+  "role": "Incident Responder",
+  "category": "Security",
+  "levels": {
+    "IR-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of the incident response lifecycle",
+        "Elementary knowledge of security monitoring and alerts",
+        "Ability to perform initial alert triage with supervision",
+        "Basic knowledge of common attack techniques",
+        "Understanding of logs and event sources",
+        "Ability to follow incident response playbooks",
+        "Documentation of incident details and timelines",
+        "Awareness of chain of custody principles"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with SIEM tools",
+        "Basic knowledge of networking and operating systems",
+        "Elementary understanding of malware concepts"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Triages basic alerts",
+        "Is learning incident response fundamentals"
+      ]
+    },
+    "IR-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to triage and escalate security incidents",
+        "Execution of incident response playbooks",
+        "Practical knowledge of log analysis and correlation",
+        "Ability to collect volatile and forensic evidence",
+        "Understanding of common indicators of compromise",
+        "Ability to contain basic security incidents",
+        "Knowledge of endpoint detection and response tools",
+        "Documentation of incident investigation steps"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with threat intelligence feeds",
+        "Basic knowledge of memory and disk forensics",
+        "Understanding of the MITRE ATT&CK framework"
+      ],
+      "indicators": [
+        "Works with regular supervision",
+        "Handles incidents following playbooks",
+        "Contributes to investigation and containment"
+      ]
+    },
+    "IR-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Ability to lead investigation of moderate incidents",
+        "Digital forensics of endpoints and disk artifacts",
+        "Ability to perform basic threat hunting",
+        "Analysis of malware behavior at a basic level",
+        "Application of the MITRE ATT&CK framework to investigations",
+        "Ability to reconstruct incident timelines",
+        "Development of detection rules and queries",
+        "Ability to document root cause and remediation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cloud incident response",
+        "Familiarity with forensic tooling (Volatility, Autopsy)",
+        "Understanding of network forensics"
+      ],
+      "indicators": [
+        "Works with occasional supervision",
+        "Owns investigation of moderate incidents",
+        "Mentors trainees on triage and forensics"
+      ]
+    },
+    "IR-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Autonomous handling of complex security incidents",
+        "Mastery of digital forensics and incident response (DFIR)",
+        "Proactive threat hunting across the environment",
+        "Analysis of advanced malware and attacker tradecraft",
+        "Design of detection engineering for emerging threats",
+        "Leadership of containment and eradication efforts",
+        "Ability to coordinate response across teams",
+        "Development of incident response playbooks"
+      ],
+      "complementaryCompetencies": [
+        "Experience with cloud and container forensics",
+        "Knowledge of adversary emulation and purple teaming",
+        "Implementation of incident response metrics"
+      ],
+      "indicators": [
+        "Works autonomously",
+        "Leads response for complex incidents",
+        "Is a reference for DFIR practices"
+      ]
+    },
+    "IR-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expert leadership of major incident response",
+        "Definition of threat hunting and detection strategy",
+        "Mastery of advanced forensics across platforms",
+        "Leadership of crisis management during breaches",
+        "Design of incident response programs and processes",
+        "Ability to coordinate with legal, PR and executives",
+        "Development of threat intelligence capabilities",
+        "Guidance of response teams on complex investigations"
+      ],
+      "complementaryCompetencies": [
+        "Experience in breach notification and regulatory response",
+        "Knowledge of tabletop exercises and readiness",
+        "Mentorship of incident responders"
+      ],
+      "indicators": [
+        "Is fully autonomous and expert",
+        "Defines incident response practices",
+        "Leads major incidents and crisis response"
+      ]
+    },
+    "IR-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Technical leadership of the incident response function",
+        "Design of enterprise-wide incident response strategy",
+        "Definition of detection and response standards",
+        "Leadership of security operations and response teams",
+        "Governance of incident response readiness across the org",
+        "Coordination of crisis management at organizational level",
+        "Alignment of response capabilities with business risk",
+        "Promotion of a resilience and preparedness culture across teams"
+      ],
+      "complementaryCompetencies": [
+        "Experience in vendor and tooling evaluation",
+        "Knowledge of regulatory and breach reporting requirements",
+        "Management of incident response budgets"
+      ],
+      "indicators": [
+        "Leads incident response across the organization",
+        "Defines response and detection vision",
+        "Influences enterprise-wide security operations"
+      ]
+    },
+    "IR-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Strategic direction of incident response programs",
+        "Definition of enterprise detection and response strategy",
+        "Leadership of organizational resilience transformation",
+        "Design of crisis management governance",
+        "Management of security operations at enterprise level",
+        "Innovation in detection and response technologies",
+        "Ability to advise executive leadership during crises",
+        "Definition of the incident response roadmap"
+      ],
+      "complementaryCompetencies": [
+        "Experience influencing industry response standards",
+        "Knowledge of security investment prioritization",
+        "Leadership in cross-functional crisis programs"
+      ],
+      "indicators": [
+        "Directs incident response at organizational scale",
+        "Participates in enterprise security strategy",
+        "Is a recognized authority in incident response"
+      ]
+    },
+    "IR-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for enterprise cyber resilience",
+        "Leadership in security operations transformation",
+        "Definition of the organization's long-term detection and response practices",
+        "Creation of competitive advantage through resilience",
+        "Management of response across complex ecosystems",
+        "Advancement of detection and response capabilities and tooling",
+        "Influence on enterprise security operations policy",
+        "Adoption of proactive defense and preparedness across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience as security operations leader in scale-ups",
+        "Advisory in incident response and threat intelligence",
+        "Thought leadership in cyber resilience"
+      ],
+      "indicators": [
+        "Sets technical direction across the organization",
+        "Defines incident response strategy at the highest level",
+        "Is a recognized industry leader"
+      ]
+    },
+    "IR-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in enterprise cyber resilience",
+        "Transformation of security operations culture",
+        "Definition of resilient, response-ready organizations",
+        "Executive ownership of crisis management and readiness",
+        "Alignment of resilience with corporate strategy and board",
+        "Innovation in detection, response and threat intelligence",
+        "Influence on industry incident response standards",
+        "Architect of proactive security operations ecosystems"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming resilience in large corporations",
+        "Recognition as a security operations leader at board level",
+        "Influence on global response standards"
+      ],
+      "indicators": [
+        "Operates at VP or CTO level",
+        "Defines the future of cyber resilience",
+        "Is a world authority in incident response"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Especialista en Inteligencia de Negocio",
+  "category": "Datos",
+  "levels": {
+    "BIS-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de herramientas de inteligencia de negocio",
+        "Comprensión elemental de almacenamiento de datos",
+        "Habilidad para crear informes simples",
+        "Conocimiento básico de modelado dimensional",
+        "Capacidad de usar paneles de control existentes",
+        "Comprensión de métricas de negocio básicas",
+        "Documentación de requisitos de inteligencia de negocio",
+        "Conocimiento elemental de mercados de datos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con SQL básico",
+        "Conocimiento de tablas dinámicas de Excel",
+        "Comprensión de indicadores departamentales"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Mantiene informes existentes",
+        "Está aprendiendo arquitectura de inteligencia de negocio"
+      ]
+    },
+    "BIS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de desarrollar paneles de control completos",
+        "Implementación de canalizaciones de extracción, transformación y carga básicas",
+        "Conocimiento práctico de esquemas de estrella y copo de nieve",
+        "Habilidad para modelado de datos intermedio",
+        "Comprensión de cubos de procesamiento analítico en línea",
+        "Capacidad de ajuste de rendimiento en inteligencia de negocio",
+        "Conocimiento de gobernanza de datos en inteligencia de negocio",
+        "Habilidad para inteligencia de negocio de autoservicio"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de cuadros de mando corporativos",
+        "Conocimiento de inteligencia de negocio en tiempo real",
+        "Comprensión de inteligencia de negocio móvil"
+      ],
+      "indicators": [
+        "Desarrolla soluciones de inteligencia de negocio independientes",
+        "Optimiza procesos de extracción, transformación y carga existentes",
+        "Entrena usuarios en herramientas de inteligencia de negocio"
+      ]
+    },
+    "BIS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas empresariales de inteligencia de negocio",
+        "Implementación de almacenes de datos completos",
+        "Dominio de extracción, transformación y carga avanzada",
+        "Capacidad de gestión de metadatos",
+        "Habilidad para seguridad de inteligencia de negocio y seguridad a nivel de fila",
+        "Conocimiento profundo de optimización de rendimiento de inteligencia de negocio",
+        "Implementación de gestión de datos maestros",
+        "Diseño de marcos de gobernanza de inteligencia de negocio"
+      ],
+      "complementaryCompetencies": [
+        "Implementación de inteligencia de negocio predictiva",
+        "Conocimiento de plataformas de inteligencia de negocio en la nube",
+        "Habilidad para analítica embebida"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de soluciones de inteligencia de negocio de extremo a extremo",
+        "Lidera proyectos de transformación de inteligencia de negocio",
+        "Mentorea especialistas junior de inteligencia de negocio"
+      ]
+    },
+    "BIS-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas corporativas de inteligencia de negocio",
+        "Diseño de estrategias de modernización de inteligencia de negocio",
+        "Implementación de capas semánticas empresariales",
+        "Dominio de automatización y orquestación de inteligencia de negocio",
+        "Capacidad de selección de plataformas de inteligencia de negocio",
+        "Conocimiento profundo de inteligencia de negocio en la nube híbrida",
+        "Habilidad para analítica aumentada",
+        "Liderazgo en centro de excelencia de inteligencia de negocio"
+      ],
+      "complementaryCompetencies": [
+        "Implementación de inteligencia de negocio impulsada por inteligencia artificial",
+        "Conocimiento de arquitecturas de tejido de datos",
+        "Experiencia en monetización de inteligencia de negocio"
+      ],
+      "indicators": [
+        "Define estrategia organizacional de inteligencia de negocio",
+        "Lidera equipos de desarrollo de inteligencia de negocio",
+        "Es arquitecto principal de inteligencia de negocio"
+      ]
+    },
+    "BIS-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en inteligencia de negocio empresarial",
+        "Diseño de estrategias de inteligencia de negocio multidivisionales",
+        "Gestión de equipos de especialistas en inteligencia de negocio",
+        "Definición de hojas de ruta estratégicas de inteligencia de negocio",
+        "Capacidad de gestión de cartera de inteligencia de negocio",
+        "Implementación de estándares empresariales de inteligencia de negocio",
+        "Dominio de gestión del cambio en inteligencia de negocio",
+        "Promoción de prácticas de decisión orientadas a datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en programas de transformación de inteligencia de negocio",
+        "Conocimiento de inteligencia de negocio específica de industria",
+        "Gestión de proveedores estratégicos de inteligencia de negocio"
+      ],
+      "indicators": [
+        "Gestiona múltiples equipos de inteligencia de negocio",
+        "Define visión de inteligencia empresarial",
+        "Representa inteligencia de negocio ante ejecutivos"
+      ]
+    },
+    "BIS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de inteligencia de negocio a nivel corporativo",
+        "Estrategia de plataformas de inteligencia competitiva",
+        "Gestión de inversiones millonarias en inteligencia de negocio",
+        "Definición de modelos de inteligencia de negocio como servicio",
+        "Liderazgo en transformación digital de inteligencia de negocio",
+        "Implementación de capacidades de inteligencia de negocio de próxima generación",
+        "Innovación en modelos de entrega de inteligencia de negocio",
+        "Gestión de colaboraciones del ecosistema de inteligencia de negocio"
+      ],
+      "complementaryCompetencies": [
+        "Estrategia de inteligencia de negocio en integración de fusiones y adquisiciones",
+        "Experiencia en consultoría ejecutiva de inteligencia de negocio",
+        "Conocimiento de cumplimiento regulatorio de inteligencia de negocio"
+      ],
+      "indicators": [
+        "Dirige departamento de inteligencia de negocio (20+ personas)",
+        "Participa en junta de estrategia digital",
+        "Define cartera de inversiones en inteligencia de negocio"
+      ]
+    },
+    "BIS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en inteligencia de negocio",
+        "Diseño de estrategias globales de inteligencia de negocio multiempresa",
+        "Transformación organizacional mediante inteligencia",
+        "Gestión de inteligencia de negocio a escala de gran empresa",
+        "Creación de ventajas competitivas mediante inteligencia de negocio",
+        "Definición del futuro de la inteligencia empresarial",
+        "Comunicación de la estrategia de inteligencia de negocio a la dirección ejecutiva",
+        "Influencia en estándares de la industria de inteligencia de negocio"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de centros de innovación de inteligencia de negocio",
+        "Experiencia en emprendimientos de plataformas de inteligencia de negocio",
+        "Liderazgo en consorcios globales de inteligencia de negocio"
+      ],
+      "indicators": [
+        "Depende del director de informática o director de datos",
+        "Gestiona organizaciones de inteligencia de negocio (50+ personas)",
+        "Define inteligencia estratégica corporativa"
+      ]
+    },
+    "BIS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de empresa impulsada por inteligencia",
+        "Liderazgo en revolución de inteligencia de negocio",
+        "Diseño de plataformas de analítica integrada y en tiempo real",
+        "Gestión de plataformas de inteligencia globales",
+        "Adopción de capacidades de analítica aumentada con IA",
+        "Definición de evolución de inteligencia de negocio autónoma",
+        "Definición de la dirección tecnológica de analítica a largo plazo",
+        "Influencia en regulaciones de inteligencia"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de inteligencia de negocio en corporaciones globales",
+        "Asesoría en unicornios de inteligencia de negocio",
+        "Liderazgo intelectual en inteligencia empresarial"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia de inteligencia global",
+        "Es líder mundial en inteligencia de negocio"
+      ]
+    },
+    "BIS-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de inteligencia empresarial",
+        "Transformación de economía mediante plataformas de inteligencia",
+        "Definición de marcos de inteligencia de decisión para toda la organización",
+        "Definición de evolución de analítica presciente",
+        "Innovación en inteligencia de negocio cuántica",
+        "Promoción de estándares abiertos de analítica y semántica",
+        "Arquitecto de plataformas de analítica a escala global",
+        "Influencia en evolución de ciencia de decisiones"
+      ],
+      "complementaryCompetencies": [
+        "Definición de arquitecturas de analítica de nueva generación",
+        "Reconocimiento como padre de la inteligencia de negocio moderna",
+        "Influencia en educación mundial de inteligencia de negocio"
+      ],
+      "indicators": [
+        "Es una autoridad reconocida en inteligencia de negocio",
+        "Define futuro de inteligencia corporativa",
+        "Es autoridad suprema en inteligencia de negocio"
+      ]
+    }
+  }
+}

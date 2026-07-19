@@ -1,0 +1,258 @@
+{
+  "role": "FinOps Engineer",
+  "category": "Infrastructure",
+  "levels": {
+    "FOE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of cloud billing and pricing models",
+        "Reading cost and usage reports in AWS, Azure or GCP consoles",
+        "Elementary cost allocation through resource tagging",
+        "Identifying idle and underused resources",
+        "Building simple cost dashboards and reports",
+        "Distinguishing on-demand, reserved and spot pricing",
+        "Documenting savings opportunities and their impact",
+        "Setting basic budgets and spend alerts"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with native cost tools (Cost Explorer, Cost Management)",
+        "Basic tagging and account-structure conventions",
+        "Elementary notions of showback"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Generates basic cost reports",
+        "Is learning FinOps practices"
+      ]
+    },
+    "FOE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Performing cost analysis by service, team and environment",
+        "Implementing cost allocation with tags and account structure",
+        "Rightsizing compute and storage based on utilisation",
+        "Assessing Reserved Instances and Savings Plans coverage",
+        "Basic forecasting of monthly and quarterly spend",
+        "Setting up showback and chargeback reports",
+        "Investigating cost anomalies and spikes",
+        "Producing actionable cost recommendations"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with CloudHealth or Cloudability",
+        "Scripting cost queries against the billing APIs",
+        "Notions of anomaly detection on spend"
+      ],
+      "indicators": [
+        "Optimises costs with supervision",
+        "Implements savings plans and commitments",
+        "Delivers cost insights to teams"
+      ]
+    },
+    "FOE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Designing cost-optimisation strategies across accounts",
+        "Automating rightsizing and idle-resource cleanup",
+        "Mastering cloud pricing and commitment discounts",
+        "Cost modelling and unit-cost analysis for services",
+        "Implementing showback and chargeback across teams",
+        "Managing Savings Plans and Reserved Instance portfolios",
+        "Establishing tagging governance and enforcement",
+        "Partnering with engineering and finance stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Commitment-based discount planning and coverage targets",
+        "Using FinOps platforms and their APIs",
+        "Comparing costs across multiple clouds"
+      ],
+      "indicators": [
+        "Leads cost-optimisation projects",
+        "Designs cost-allocation frameworks",
+        "Mentors others in FinOps"
+      ]
+    },
+    "FOE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecting a FinOps program across the organisation",
+        "Designing enterprise cost-allocation and tagging strategy",
+        "Rolling out FinOps practices to many engineering teams",
+        "Mastering unit economics and cost-per-transaction metrics",
+        "Handling complex shared-cost and amortisation allocation",
+        "Interpreting enterprise cloud contracts and commitments",
+        "ROI analysis for optimisation and migration initiatives",
+        "Leading a cost-aware engineering culture"
+      ],
+      "complementaryCompetencies": [
+        "Experience with multi-cloud FinOps tooling",
+        "Supporting vendor and enterprise-agreement negotiations",
+        "Automating cost governance and guardrails"
+      ],
+      "indicators": [
+        "Defines the FinOps strategy",
+        "Leads cost optimisation across teams",
+        "Is a reference in cloud economics"
+      ]
+    },
+    "FOE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leading the technical design of the FinOps practice",
+        "Standardising tagging, allocation and reporting across teams",
+        "Defining FinOps metrics, KPIs and maturity targets",
+        "Building cost-intelligence and anomaly-detection platforms",
+        "Governing Savings Plans and commitment portfolios at scale",
+        "Optimising unit economics across products and services",
+        "Establishing financial governance and forecasting processes",
+        "Embedding cost accountability into engineering workflows"
+      ],
+      "complementaryCompetencies": [
+        "Experience with cloud financial-management platforms",
+        "Applying FinOps Foundation frameworks",
+        "Managing the optimisation tooling budget"
+      ],
+      "indicators": [
+        "Leads a FinOps team",
+        "Defines the cost-optimisation vision",
+        "Represents FinOps to finance and the CFO office"
+      ]
+    },
+    "FOE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Owning the multi-year FinOps strategy across the organisation",
+        "Managing cloud financial operations and commitment strategy",
+        "Defining the FinOps operating model and architecture",
+        "Leading cost-transformation and accountability programs",
+        "Governing Savings Plan and Reserved Instance strategy",
+        "Rolling out FinOps across regions and business units",
+        "Driving innovation in cost optimisation and automation",
+        "Managing cloud vendor relationships and commitments"
+      ],
+      "complementaryCompetencies": [
+        "Advancing organisational FinOps maturity",
+        "Deep expertise in cloud economics",
+        "Leading in the FinOps community"
+      ],
+      "indicators": [
+        "Directs the FinOps function",
+        "Participates in financial and cloud strategy",
+        "Governs cloud-spend decisions"
+      ]
+    },
+    "FOE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Setting the enterprise FinOps and cloud-cost strategy",
+        "Designing global cost-allocation and governance models",
+        "Transforming cloud economics across business units",
+        "Managing cloud spend at enterprise scale",
+        "Building a cost-aware culture across engineering and finance",
+        "Defining the FinOps roadmap and maturity targets",
+        "Influencing procurement and enterprise cloud agreements",
+        "Growing and structuring FinOps teams"
+      ],
+      "complementaryCompetencies": [
+        "Managing multi-million cloud budgets",
+        "Applying FinOps certification frameworks",
+        "Leading enterprise cost-optimisation programs"
+      ],
+      "indicators": [
+        "Reports to the CTO or CFO",
+        "Leads a FinOps organisation of 15 or more people",
+        "Owns the enterprise spend strategy"
+      ]
+    },
+    "FOE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Defining the long-term direction for cloud financial management",
+        "Leading company-wide unit-economics and cost strategy",
+        "Turning FinOps into a durable cost advantage",
+        "Governing cost allocation and accountability across the business",
+        "Driving adoption of emerging FinOps practices and automation",
+        "Setting commitment, forecasting and governance strategy",
+        "Advising executives on cloud investment and cost trade-offs",
+        "Shaping the FinOps discipline and its career paths"
+      ],
+      "complementaryCompetencies": [
+        "Deep experience in cloud financial leadership",
+        "Advising on FinOps beyond the company",
+        "Recognised authority in cloud economics"
+      ],
+      "indicators": [
+        "Sits on the technical or financial leadership group",
+        "Sets the FinOps strategy",
+        "Is a recognised leader in cloud economics"
+      ]
+    },
+    "FOE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Owning cloud financial strategy at the executive level",
+        "Aligning FinOps with business and financial strategy",
+        "Directing enterprise cloud investment and commitment strategy",
+        "Setting cost, efficiency and unit-economics objectives",
+        "Leading organisation-wide cost transformation",
+        "Governing cloud financial risk and vendor strategy",
+        "Building competitive advantage through cost efficiency",
+        "Shaping how the organisation manages and forecasts cloud spend"
+      ],
+      "complementaryCompetencies": [
+        "Managing enterprise cloud budgets and commitments",
+        "Steering strategic cloud vendor negotiations",
+        "Influencing the direction of the FinOps discipline"
+      ],
+      "indicators": [
+        "Owns cloud financial strategy for the company",
+        "Is accountable for cloud spend and efficiency",
+        "Represents the company on cloud economics"
+      ]
+    }
+  }
+}

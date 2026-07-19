@@ -1,0 +1,249 @@
+{
+  "role": "Data Governance Specialist",
+  "category": "Data",
+  "levels": {
+    "DGS-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic notions of data governance policies and standards",
+        "Documents data assets and their owners in a catalog",
+        "Applies a simple data classification (public, internal, confidential)",
+        "Captures lineage documentation for known pipelines",
+        "Notions of personal data and GDPR principles",
+        "Records metadata and business glossary terms",
+        "Understands the role of a data steward"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with a data catalog tool (Collibra, Alation)",
+        "Basic documentation and spreadsheet practices",
+        "Awareness of data privacy and consent"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Documents basic assets and glossary terms",
+        "Needs 6-12 months of mentoring in governance"
+      ]
+    },
+    "DGS-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Applies data classification and sensitivity labels consistently",
+        "Maintains the business glossary and metadata in the catalog",
+        "Supports data stewards in enforcing policies for a domain",
+        "Documents lineage and ownership for critical data elements",
+        "Tracks data quality issues against agreed rules",
+        "Handles personal and special-category data per GDPR",
+        "Prepares governance reports and policy compliance checks"
+      ],
+      "complementaryCompetencies": [
+        "Hands-on with a catalog tool (Collibra, Alation, DataHub)",
+        "Notions of access control and role-based permissions",
+        "Familiarity with regulatory requirements (GDPR, sector rules)"
+      ],
+      "indicators": [
+        "Applies policies with supervision",
+        "Keeps catalog and glossary up to date",
+        "Contributes to compliance reporting"
+      ]
+    },
+    "DGS-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Designs governance policies and stewardship workflows for a domain",
+        "Defines classification schemes and sensitivity tiers",
+        "Runs data quality rules with SLAs on critical datasets",
+        "Coordinates data stewards and resolves ownership gaps",
+        "Manages the catalog, glossary and lineage as a governed asset",
+        "Implements GDPR controls: retention, minimization, subject rights",
+        "Reports governance and adoption metrics to stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Notions of federated governance in a data mesh",
+        "Change management for policy rollout",
+        "Familiarity with data contracts"
+      ],
+      "indicators": [
+        "Leads governance initiatives for a domain",
+        "Designs policies and stewardship processes",
+        "Mentors junior stewards"
+      ]
+    },
+    "DGS-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architects the governance program across multiple domains",
+        "Defines the enterprise policy framework and stewardship model",
+        "Establishes classification, sensitivity and access standards",
+        "Sets data quality SLAs and monitors them as service commitments",
+        "Runs governance committees and decision forums",
+        "Leads GDPR and multi-regulation compliance for data",
+        "Tracks adoption metrics and drives catalog usage"
+      ],
+      "complementaryCompetencies": [
+        "Multi-jurisdiction compliance experience",
+        "Data ethics and responsible data use",
+        "Data product and contract governance"
+      ],
+      "indicators": [
+        "Defines governance strategy for the organization",
+        "Chairs stewardship and quality forums",
+        "Is a governance reference for the company"
+      ]
+    },
+    "DGS-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leads governance across domains with a federated operating model",
+        "Defines governance standards, roles and accountability",
+        "Sets classification, retention and access policy at platform scale",
+        "Governs data quality as SLAs with clear ownership",
+        "Runs the governance council and manages data risk",
+        "Aligns GDPR, sovereignty and sector regulation into one framework",
+        "Measures adoption, stewardship coverage and policy compliance"
+      ],
+      "complementaryCompetencies": [
+        "Federated governance in a data mesh",
+        "Data contracts and interoperability agreements",
+        "Governance tooling selection and rollout"
+      ],
+      "indicators": [
+        "Manages a governance team",
+        "Defines governance vision and standards",
+        "Represents governance to stakeholders"
+      ]
+    },
+    "DGS-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Directs the governance strategy for a business unit",
+        "Manages governance programs and stewardship at scale",
+        "Defines governance architecture: catalog, lineage, policy engine",
+        "Leads global compliance across regions and regulations",
+        "Establishes data quality SLAs and risk management practices",
+        "Governs data ethics and responsible use policies",
+        "Reports governance KPIs and adoption to leadership"
+      ],
+      "complementaryCompetencies": [
+        "Regulatory strategy across jurisdictions",
+        "Governance in mergers and integrations",
+        "Leadership in data governance communities"
+      ],
+      "indicators": [
+        "Directs a governance function",
+        "Sets governance investment priorities",
+        "Contributes to the enterprise data strategy"
+      ]
+    },
+    "DGS-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Sets the multi-year governance strategy for the company",
+        "Establishes the federated governance operating model and councils",
+        "Standardizes classification, retention and access policy enterprise-wide",
+        "Governs data quality SLAs, lineage and stewardship at enterprise scale",
+        "Aligns GDPR, sovereignty and sector regulation into a single program",
+        "Defines governance KPIs, adoption targets and risk appetite",
+        "Advises executives on data risk, privacy and compliance"
+      ],
+      "complementaryCompetencies": [
+        "Influence on governance standards and reference models",
+        "Governance for regulated industries",
+        "Leadership in industry consortia"
+      ],
+      "indicators": [
+        "Sets corporate governance strategy",
+        "Reports to the CDO on governance and risk",
+        "Recognized internal authority on governance"
+      ]
+    },
+    "DGS-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Owns the enterprise governance vision across all domains",
+        "Aligns governance with business strategy and risk management",
+        "Defines reference governance models adopted company-wide",
+        "Leads governance for mergers, acquisitions and integrations",
+        "Establishes stewardship, quality-SLA and classification standards at scale",
+        "Sets privacy, ethics and responsible-data frameworks",
+        "Sponsors governance councils and stewardship communities"
+      ],
+      "complementaryCompetencies": [
+        "Shapes external regulatory and standards relationships",
+        "Advises the board on data risk and privacy",
+        "Thought leadership in data governance"
+      ],
+      "indicators": [
+        "Sits on the data leadership committee",
+        "Defines enterprise governance strategy",
+        "Recognized leader in governance"
+      ]
+    },
+    "DGS-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Sets and executes the enterprise data governance vision",
+        "Aligns governance with corporate strategy and regulatory posture",
+        "Owns privacy, ethics and compliance frameworks across the company",
+        "Builds and leads the governance organization",
+        "Defines the federated governance operating model and councils",
+        "Establishes data quality SLAs and stewardship accountability globally",
+        "Governs data risk, sovereignty and responsible use at scale"
+      ],
+      "complementaryCompetencies": [
+        "Influences regulation and industry standards",
+        "Steers strategic compliance partnerships",
+        "Sponsors governance talent and succession"
+      ],
+      "indicators": [
+        "Accountable for enterprise data governance",
+        "Executes the long-term governance vision",
+        "Recognized leader in data governance"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Agile Coach",
+  "category": "Product",
+  "levels": {
+    "AC-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Understanding of the difference between coaching a team and facilitating its events",
+        "Basic knowledge of coaching stances such as teaching, mentoring and facilitating",
+        "Ability to observe a team and record patterns without intervening",
+        "Familiarity with the distinction between output metrics and outcome metrics",
+        "Understanding of why imposed process rarely produces lasting change",
+        "Ability to prepare materials for a training session on agile basics",
+        "Basic notions of active listening and powerful questions",
+        "Documentation of observations from team and management interactions"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with common agile frameworks and their vocabulary",
+        "Basic knowledge of facilitation techniques",
+        "Understanding of the role of a Scrum Master versus a coach"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Supports a senior coach in engagements",
+        "Is learning the coaching craft"
+      ]
+    },
+    "AC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Coaching of a single team beyond process, on collaboration and ownership",
+        "Delivery of training sessions on agile practices to teams and new hires",
+        "Diagnosis of whether a team's problem is process, skill or environment",
+        "Distinction between vanity metrics and metrics that reflect real outcomes",
+        "Facilitation of a team's improvement backlog toward measurable change",
+        "Coaching of a Scrum Master on facilitation and impediment removal",
+        "Observation of management behavior and its effect on the team",
+        "Support of a small change initiative within one team"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of team maturity and development models",
+        "Understanding of Kanban flow beyond a single framework",
+        "Familiarity with retrospective formats and facilitation patterns"
+      ],
+      "indicators": [
+        "Coaches one team beyond ceremony facilitation",
+        "Delivers agile training with support",
+        "Distinguishes outcome metrics from theater"
+      ]
+    },
+    "AC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Coaching of several teams and their leads across a delivery group",
+        "Diagnosis of organizational impediments that sit above any single team",
+        "Design of a training path that grows Scrum Masters within the organization",
+        "Coaching of first-line managers on delegating and enabling autonomy",
+        "Definition of outcome metrics that resist being gamed as targets",
+        "Facilitation of a change initiative spanning more than one team",
+        "Coaching of teams and managers on continuous improvement systems",
+        "Assessment of team health across a group to prioritize coaching effort"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of value stream mapping across teams",
+        "Understanding of change management fundamentals",
+        "Familiarity with systems thinking applied to delivery"
+      ],
+      "indicators": [
+        "Coaches multiple teams and their leads",
+        "Trains and grows Scrum Masters",
+        "Diagnoses impediments above team level"
+      ]
+    },
+    "AC-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Coaching of middle management on the behaviors that enable team autonomy",
+        "Organizational diagnosis that identifies structural causes of poor flow",
+        "Design of a continuous improvement system that outlives any single coach",
+        "Establishment of outcome metrics as the basis for judging change success",
+        "Facilitation of a multi-team transformation with clear success criteria",
+        "Coaching of Scrum Masters as a community of practice, not one by one",
+        "Management of resistance to change among managers and teams",
+        "Separation of genuine agility from process theater in an organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience redesigning team topologies to reduce dependencies",
+        "Knowledge of incentive structures that shape behavior",
+        "Understanding of organizational culture assessment methods"
+      ],
+      "indicators": [
+        "Coaches middle management, not just teams",
+        "Designs continuous improvement systems",
+        "Leads a multi-team change with clear metrics"
+      ]
+    },
+    "AC-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Design of an organization-wide transformation with staged, measurable outcomes",
+        "Coaching of senior managers on the leadership shifts a transformation requires",
+        "Diagnosis of the systemic causes of delivery problems across departments",
+        "Definition of the metrics leadership uses to tell real change from theater",
+        "Establishment of a coaching capability that the organization can sustain itself",
+        "Management of change across teams that report to different leaders",
+        "Facilitation of alignment between agility goals and business strategy",
+        "Development of Scrum Masters and coaches through structured growth paths"
+      ],
+      "complementaryCompetencies": [
+        "Experience with organizational design for flow efficiency",
+        "Knowledge of change models such as Kotter or ADKAR",
+        "Understanding of how budgeting cycles constrain agility"
+      ],
+      "indicators": [
+        "Designs organization-wide transformations",
+        "Coaches senior management",
+        "Builds a self-sustaining coaching capability"
+      ]
+    },
+    "AC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Leadership of agile transformation across a business unit or division",
+        "Coaching of executives on the operating-model changes that unlock delivery",
+        "Diagnosis of how structure, funding and incentives block or enable agility",
+        "Definition of the outcome metrics by which leadership steers the change",
+        "Design of the coaching operating model across many teams and managers",
+        "Management of large-scale change resistance at the leadership layer",
+        "Establishment of continuous improvement as an organizational habit",
+        "Exposure of process theater and redirection toward real business outcomes"
+      ],
+      "complementaryCompetencies": [
+        "Experience aligning transformation with organizational strategy",
+        "Knowledge of portfolio-level flow and funding models",
+        "Understanding of leadership development at scale"
+      ],
+      "indicators": [
+        "Leads transformation across a division",
+        "Coaches executives on operating-model change",
+        "Steers change with outcome metrics"
+      ]
+    },
+    "AC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Direction of enterprise-wide agile transformation across the organization",
+        "Coaching of the executive team on the culture and structure change demands",
+        "Organizational diagnosis that reaches the operating and governance model",
+        "Definition of the enterprise metrics that separate real agility from ritual",
+        "Design of the transformation strategy with staged, verifiable outcomes",
+        "Management of resistance rooted in company structure and power dynamics",
+        "Establishment of a coaching organization that outlasts individual engagements",
+        "Alignment of the transformation with the company's strategic direction"
+      ],
+      "complementaryCompetencies": [
+        "Experience leading transformation across a large enterprise",
+        "Knowledge of how governance reshapes to support flow",
+        "Understanding of executive coaching at the top of an organization"
+      ],
+      "indicators": [
+        "Directs enterprise transformation",
+        "Coaches the executive team",
+        "Owns the transformation strategy and its metrics"
+      ]
+    },
+    "AC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definition of the enterprise thesis on how the organization becomes and stays agile",
+        "Coaching of the executive team on the structural changes agility requires of them",
+        "Diagnosis of the deepest systemic constraints in the operating model",
+        "Establishment of the metrics that hold the whole organization to real outcomes",
+        "Design of transformations that change how the company funds and governs work",
+        "Building of a coaching discipline that the organization sustains without founders",
+        "Exposure and dismantling of process theater at organizational scale",
+        "Alignment of the change agenda with the company's long-term strategy"
+      ],
+      "complementaryCompetencies": [
+        "Advisory to executives on agile operating models across the industry",
+        "Influence on transformation practice beyond the company",
+        "Track record of transformations that held years after the engagement"
+      ],
+      "indicators": [
+        "Shapes the enterprise transformation thesis",
+        "Advises the executive team on structural change",
+        "Is a recognized authority in agile transformation"
+      ]
+    },
+    "AC-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Ownership of the enterprise strategy for organizational agility and its evolution",
+        "Coaching of the most senior leaders on the behaviors that sustain change",
+        "Diagnosis and removal of the structural constraints embedded in the operating model",
+        "Definition of the outcome metrics that govern the organization's improvement",
+        "Direction of transformation as a permanent capability, not a one-off program",
+        "Establishment of a coaching organization that renews itself over time",
+        "Setting of the company's principled stance against ritual and theater",
+        "Alignment of organizational agility with long-term business strategy"
+      ],
+      "complementaryCompetencies": [
+        "Recognition as a leader in organizational agility across the industry",
+        "Influence on transformation and coaching practice beyond the company",
+        "Track record of building lasting coaching organizations at scale"
+      ],
+      "indicators": [
+        "Leads organizational agility for the whole enterprise",
+        "Defines the enterprise transformation strategy",
+        "Is a reference authority in agile transformation"
+      ]
+    }
+  }
+}

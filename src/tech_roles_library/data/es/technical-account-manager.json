@@ -1,0 +1,258 @@
+{
+  "role": "Gestor Técnico de Cuentas",
+  "category": "Ventas",
+  "levels": {
+    "TAM-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica del rol de gestión técnica de cuentas",
+        "Familiaridad con la arquitectura del producto y sus puntos de integración",
+        "Capacidad de acompañar revisiones de cuenta y tomar notas estructuradas",
+        "Conocimiento elemental de herramientas de tickets y CRM",
+        "Apoyo en la preparación de planes de éxito técnico con supervisión",
+        "Comprensión de los acuerdos de nivel de servicio y sus compromisos",
+        "Capacidad de hacer seguimiento de las incidencias técnicas abiertas de una cuenta",
+        "Conciencia del ciclo de vida del cliente tras la venta"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de los modelos de despliegue en la nube y SaaS",
+        "Familiaridad con la lectura de documentación de API",
+        "Comprensión de las rutas de escalado dentro de soporte"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Asiste a los gestores senior en tareas de cuenta",
+        "Está aprendiendo la gestión técnica de cuentas"
+      ]
+    },
+    "TAM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre planes de éxito técnico de cuentas pequeñas",
+        "Preparación e impartición de revisiones técnicas de cuenta",
+        "Coordinación de escalados técnicos con soporte e ingeniería",
+        "Traducción de los requisitos técnicos del cliente a los equipos internos",
+        "Seguimiento de la salud de la cuenta mediante señales de adopción y uso",
+        "Documentación del entorno técnico y la arquitectura del cliente",
+        "Apoyo en la preparación de renovaciones desde la perspectiva del valor técnico",
+        "Capacidad de explicar las capacidades del producto a interlocutores técnicos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con la observabilidad y la monitorización de las integraciones del cliente",
+        "Conocimiento de la hoja de ruta del producto y el proceso de lanzamientos",
+        "Comprensión de las métricas comerciales básicas de la cuenta"
+      ],
+      "indicators": [
+        "Trabaja con supervisión habitual",
+        "Es responsable de planes de éxito técnico de cuentas pequeñas",
+        "Coordina escalados con orientación"
+      ]
+    },
+    "TAM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre la relación técnica de una cartera de cuentas",
+        "Definición y ejecución de planes de éxito técnico orientados a resultados",
+        "Liderazgo de revisiones técnicas de cuenta con los interlocutores del cliente",
+        "Gestión de escalados complejos hasta su resolución entre equipos",
+        "Realización de revisiones de arquitectura para alinear el producto con los objetivos del cliente",
+        "Identificación de oportunidades de expansión desde el valor técnico",
+        "Canalización de los comentarios del cliente hacia la priorización de producto",
+        "Contribución a la estrategia de renovación con evaluación del riesgo técnico"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de los patrones de integración de la pila del cliente",
+        "Familiaridad con las métricas de éxito y los paneles de adopción",
+        "Comprensión de las condiciones contractuales y los compromisos de servicio"
+      ],
+      "indicators": [
+        "Trabaja con supervisión ocasional",
+        "Es responsable de la relación técnica de una cartera",
+        "Mentoriza a los gestores junior en prácticas de cuenta"
+      ]
+    },
+    "TAM-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Responsabilidad autónoma de cuentas estratégicas como asesor técnico de confianza",
+        "Definición de planes de éxito técnico plurianuales ligados al valor de negocio",
+        "Liderazgo de revisiones de arquitectura y sesiones de hoja de ruta técnica con el cliente",
+        "Responsabilidad sobre escalados críticos como defensor técnico del cliente",
+        "Impulso de renovaciones y expansión mediante el valor técnico demostrado",
+        "Construcción de relaciones con los responsables técnicos de decisión del cliente",
+        "Representación de la voz del cliente ante producto e ingeniería",
+        "Cuantificación del valor obtenido y el retorno de la inversión de la cuenta"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia con el sector y las restricciones técnicas del cliente",
+        "Conocimiento del panorama competitivo desde el ángulo técnico",
+        "Capacidad de prever el riesgo de la cuenta y la probabilidad de renovación"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma",
+        "Es responsable de cuentas estratégicas de principio a fin",
+        "Es referente en gestión técnica de cuentas"
+      ]
+    },
+    "TAM-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre las cuentas estratégicas más complejas y de mayor valor",
+        "Definición de la estrategia de éxito técnico de una cartera de cuentas",
+        "Liderazgo de revisiones técnicas ejecutivas con la dirección del cliente",
+        "Gestión de escalados de alcance empresarial y su impacto comercial",
+        "Impulso de resultados relevantes de expansión y renovación desde el valor técnico",
+        "Influencia en la hoja de ruta de producto mediante una defensa estructurada del cliente",
+        "Mentoría de gestores en planificación del éxito y gestión de escalados",
+        "Definición de modelos de relación de cuenta y manuales técnicos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia alineando el valor técnico con la estrategia comercial de la cuenta",
+        "Conocimiento de marcos de obtención de valor y casos de negocio",
+        "Comprensión de la dinámica de negociación de contratos plurianuales"
+      ],
+      "indicators": [
+        "Es totalmente autónomo y experto",
+        "Es responsable de las cuentas estratégicas de mayor valor",
+        "Lidera las prácticas de planificación del éxito en el equipo"
+      ]
+    },
+    "TAM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo de la función de gestión técnica de cuentas",
+        "Definición del modelo de relación y la metodología de éxito del equipo",
+        "Responsabilidad sobre la salud técnica de la cartera de cuentas estratégicas",
+        "Gobierno de la gestión de escalados y las relaciones ejecutivas",
+        "Alineación de la estrategia técnica de cuentas con los objetivos de ingresos y retención",
+        "Definición de manuales de expansión y renovación basados en el valor técnico",
+        "Establecimiento del ciclo de comentarios del cliente hacia la estrategia de producto",
+        "Mentoría y crecimiento del equipo de gestión técnica de cuentas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en el escalado de prácticas de cuenta entre segmentos",
+        "Conocimiento de la contratación y capacitación de gestores técnicos de cuentas",
+        "Gestión de la relación con la dirección de ventas y producto"
+      ],
+      "indicators": [
+        "Lidera la función de gestión técnica de cuentas",
+        "Define el modelo de relación y la metodología de éxito",
+        "Influye en la estrategia de retención y expansión"
+      ]
+    },
+    "TAM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Dirección estratégica de la organización de gestión técnica de cuentas",
+        "Definición de la estrategia de valor técnico post-venta entre segmentos",
+        "Liderazgo de la relación ejecutiva con las cuentas más estratégicas",
+        "Gobierno del escalado y la obtención de valor a escala organizativa",
+        "Alineación de la gestión técnica de cuentas con la estrategia de ingresos",
+        "Innovación en las metodologías de planificación del éxito y cuantificación de valor",
+        "Asesoramiento a la dirección sobre retención, expansión y riesgo de cliente",
+        "Definición de la hoja de ruta plurianual de la función técnica de cuentas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia influyendo en el modelo operativo de las funciones post-venta",
+        "Conocimiento de los modelos de segmentación y cobertura de cuentas estratégicas",
+        "Liderazgo de programas interfuncionales de retención y crecimiento"
+      ],
+      "indicators": [
+        "Dirige la función técnica de cuentas a escala organizativa",
+        "Participa en la estrategia post-venta y de ingresos",
+        "Es una autoridad reconocida en gestión técnica de cuentas"
+      ]
+    },
+    "TAM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del valor técnico post-venta como motor de crecimiento",
+        "Liderazgo de la transformación de la gestión técnica de cuentas a escala",
+        "Definición de los estándares de relación con el cliente a largo plazo de la organización",
+        "Posicionamiento de la defensa técnica del cliente como ventaja competitiva",
+        "Gestión de relaciones estratégicas con clientes en carteras complejas",
+        "Avance de las prácticas de obtención de valor y planificación del éxito",
+        "Influencia en la estrategia de producto e ingresos mediante el conocimiento del cliente",
+        "Consolidación de una cultura de resultados de cliente en los equipos post-venta"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como líder de gestión técnica de cuentas en empresas en crecimiento",
+        "Asesoría sobre modelos operativos post-venta y estrategia de retención",
+        "Liderazgo de pensamiento en gestión técnica de cuentas"
+      ],
+      "indicators": [
+        "Marca la dirección de la gestión técnica de cuentas",
+        "Define la estrategia técnica post-venta al más alto nivel",
+        "Es un líder reconocido en el sector"
+      ]
+    },
+    "TAM-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario como vicepresidente de cliente o post-venta",
+        "Definición de la estrategia empresarial de retención y valor técnico",
+        "Responsabilidad ejecutiva de la retención neta de ingresos y los resultados del cliente",
+        "Alineación de la organización post-venta con la estrategia corporativa",
+        "Transformación de la cultura de relación con el cliente en toda la compañía",
+        "Innovación en el modelo operativo de la gestión de cuentas estratégicas",
+        "Influencia en la disciplina de gestión técnica de cuentas de forma externa",
+        "Responsabilidad sobre la salud técnica de la base de clientes estratégicos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando la post-venta en grandes organizaciones",
+        "Reconocimiento como líder de cliente a nivel de junta directiva",
+        "Influencia en las prácticas del sector para la relación post-venta"
+      ],
+      "indicators": [
+        "Opera a nivel de vicepresidente de cliente o post-venta",
+        "Define el futuro de la gestión técnica de cuentas",
+        "Es autoridad mundial en valor y retención de clientes"
+      ]
+    }
+  }
+}

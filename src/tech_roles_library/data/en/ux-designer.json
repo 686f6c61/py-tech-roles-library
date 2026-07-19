@@ -1,0 +1,258 @@
+{
+  "role": "UX Designer",
+  "category": "Design",
+  "levels": {
+    "UXD-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of user experience principles",
+        "Elementary understanding of user flows and wireframes",
+        "Ability to build simple wireframes",
+        "Basic knowledge of information architecture",
+        "Capability to follow usability guidelines",
+        "Understanding of user-centered design",
+        "Documentation of interaction decisions with guidance",
+        "Elementary knowledge of accessibility"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with tools such as Figma",
+        "Basic knowledge of user research",
+        "Understanding of visual design basics"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Supports senior designers on simple tasks",
+        "Is learning UX design"
+      ]
+    },
+    "UXD-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to design user flows from requirements",
+        "Creation of wireframes for complete features",
+        "Practical knowledge of information architecture",
+        "Ability to apply interaction patterns",
+        "Understanding of usability principles",
+        "Capability to iterate designs based on feedback",
+        "Knowledge of accessibility standards basics",
+        "Ability to collaborate with product and engineering"
+      ],
+      "complementaryCompetencies": [
+        "Analysis of basic usability heuristics",
+        "Knowledge of prototyping techniques",
+        "Understanding of content structure"
+      ],
+      "indicators": [
+        "Designs user flows with supervision",
+        "Produces wireframes independently",
+        "Collaborates effectively with the product team"
+      ]
+    },
+    "UXD-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of end-to-end user flows",
+        "Definition of information architecture for features",
+        "Mastery of interactive prototyping",
+        "Capability to conduct usability reviews",
+        "Ability to balance user needs and constraints",
+        "Knowledge of interaction design in depth",
+        "Application of accessibility standards in designs",
+        "Ownership of medium-complexity experiences"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of usability testing basics",
+        "Ability to run design critiques",
+        "Understanding of frontend implementation constraints"
+      ],
+      "indicators": [
+        "Owns user flows end-to-end",
+        "Defines information architecture for features",
+        "Presents UX work with confidence"
+      ]
+    },
+    "UXD-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Design of complex user experiences autonomously",
+        "Definition of interaction patterns for the product",
+        "Mastery of information architecture at scale",
+        "Capability to lead UX for a product area",
+        "Ability to align UX with product strategy",
+        "Deep knowledge of usability and accessibility",
+        "Facilitation of design and research workshops",
+        "End-to-end ownership of significant UX initiatives"
+      ],
+      "complementaryCompetencies": [
+        "Experience in cross-functional collaboration",
+        "Knowledge of data-informed UX decisions",
+        "Management of usability improvements"
+      ],
+      "indicators": [
+        "Works autonomously on complex problems",
+        "Shapes UX direction for a product area",
+        "Mentors junior UX designers"
+      ]
+    },
+    "UXD-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Design of product strategy through user experience",
+        "Definition of information architecture standards",
+        "Mastery of the end-to-end UX craft",
+        "Capability to define UX vision for products",
+        "Ability to influence product roadmap through UX",
+        "Deep expertise in usability and accessibility",
+        "Leadership of UX initiatives across teams",
+        "Establishment of UX quality standards"
+      ],
+      "complementaryCompetencies": [
+        "Experience in design operations",
+        "Knowledge of service design",
+        "Management of complex stakeholder relationships"
+      ],
+      "indicators": [
+        "Is a recognized expert in UX design",
+        "Defines UX vision for multiple features",
+        "Elevates the craft of the UX team"
+      ]
+    },
+    "UXD-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Leadership of UX across a product line",
+        "Definition of UX principles and culture",
+        "Management of information architecture as a strategic asset",
+        "Capability to drive UX strategy at product level",
+        "Ability to shape product vision alongside leadership",
+        "Deep knowledge of UX impact on business outcomes",
+        "Mentoring and growth of UX teams",
+        "Promotion of user-centered design practices across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Experience in scaling UX practices",
+        "Knowledge of UX hiring and team building",
+        "Leadership in cross-product UX consistency"
+      ],
+      "indicators": [
+        "Leads UX for a product line",
+        "Influences product strategy through UX",
+        "Grows and mentors senior UX designers"
+      ]
+    },
+    "UXD-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive influence on UX strategy",
+        "Definition of UX vision across multiple products",
+        "Transformation of user experience at scale",
+        "Management of UX at organization level",
+        "Creation of UX frameworks for the company",
+        "Alignment of UX with long-term business strategy",
+        "UX leadership at the leadership table",
+        "Influence on the UX discipline externally"
+      ],
+      "complementaryCompetencies": [
+        "Management of UX in complex organizations",
+        "Experience in UX for enterprise-scale products",
+        "Leadership in UX communities"
+      ],
+      "indicators": [
+        "Sets UX direction across products",
+        "Partners with product and engineering leadership",
+        "Represents UX at the executive level"
+      ]
+    },
+    "UXD-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of UX as a core business driver",
+        "Leadership in user experience transformation",
+        "Creation of UX ecosystems across the organization",
+        "Management of UX vision at company scale",
+        "Introduction of new approaches to user experience",
+        "Definition of the organization's long-term UX practices and standards",
+        "Advocacy for user-centered decision-making company-wide",
+        "Influence on the future of UX design"
+      ],
+      "complementaryCompetencies": [
+        "Experience as a principal UX designer in leading companies",
+        "Advisory in experience-driven startups",
+        "Thought leadership in UX design"
+      ],
+      "indicators": [
+        "Shapes UX strategy at company level",
+        "Defines UX vision for the organization",
+        "Is a recognized authority in UX design"
+      ]
+    },
+    "UXD-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership as VP of Design",
+        "Transformation of the organization through user experience",
+        "Creation of an experience-first company culture",
+        "Definition of UX strategy at the executive level",
+        "Innovation in the intersection of UX and business",
+        "Championing experience quality standards across all product teams",
+        "Architect of the organization's UX vision",
+        "Influence on the evolution of UX design"
+      ],
+      "complementaryCompetencies": [
+        "Creator of industry-shaping UX practices",
+        "Recognition as a UX leader in the industry",
+        "Influence in global design education"
+      ],
+      "indicators": [
+        "Is VP of Design or equivalent",
+        "Defines the UX vision of the company",
+        "Is a world authority in UX design"
+      ]
+    }
+  }
+}

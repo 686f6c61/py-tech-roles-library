@@ -1,0 +1,258 @@
+{
+  "role": "Diseñador de Contenido",
+  "category": "Diseño",
+  "levels": {
+    "CD-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica del UX writing y el contenido de interfaz",
+        "Familiaridad con las guías de voz y tono",
+        "Capacidad de escribir microcopia para pantallas simples con supervisión",
+        "Conocimiento elemental de los patrones de contenido de un producto",
+        "Apoyo en mantener la coherencia de los textos de interfaz",
+        "Comprensión de la diferencia entre etiquetas, pistas y mensajes de error",
+        "Capacidad de seguir una guía de estilo de contenido",
+        "Conciencia de los principios de lenguaje claro"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de diseño como Figma",
+        "Conocimiento básico de cómo se localiza el contenido",
+        "Comprensión de las nociones básicas de accesibilidad del texto"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Asiste a los diseñadores de contenido senior en pantallas simples",
+        "Está aprendiendo diseño de contenido"
+      ]
+    },
+    "CD-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Redacción de microcopia para funcionalidades completas",
+        "Aplicación de la voz y el tono en el contenido de interfaz",
+        "Capacidad de redactar estados de error, vacíos y de confirmación",
+        "Conocimiento práctico de los patrones de contenido y su reutilización",
+        "Colaboración con los diseñadores en flujos y redacción",
+        "Iteración de los textos a partir de comentarios y señales de usabilidad",
+        "Mantenimiento de una terminología coherente entre pantallas",
+        "Apoyo en la preparación del contenido para su localización"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con las técnicas de pruebas de comprensión",
+        "Conocimiento de las directrices de legibilidad y lenguaje claro",
+        "Comprensión de la jerarquía de información en las interfaces"
+      ],
+      "indicators": [
+        "Trabaja con supervisión habitual",
+        "Escribe microcopia para funcionalidades de forma independiente",
+        "Colabora eficazmente con los diseñadores"
+      ]
+    },
+    "CD-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre el contenido de interfaz de un área de producto",
+        "Definición de patrones de contenido para los estados de interfaz habituales",
+        "Aplicación coherente de la voz y el tono en los flujos",
+        "Facilitación de pruebas de comprensión y usabilidad de los textos",
+        "Contribución a la guía de estilo de contenido y el glosario terminológico",
+        "Diseño de la estructura de contenido y la jerarquía de información en los flujos",
+        "Colaboración con producto y diseño desde el descubrimiento inicial",
+        "Preparación de contenido listo para la localización y la traducción"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento del contenido en sistemas de diseño y bibliotecas de componentes",
+        "Familiaridad con los requisitos de accesibilidad del texto de interfaz",
+        "Comprensión de las restricciones del frontal sobre el contenido"
+      ],
+      "indicators": [
+        "Trabaja con supervisión ocasional",
+        "Es responsable del contenido de interfaz de un área de producto",
+        "Mentoriza a los aprendices en prácticas de contenido"
+      ]
+    },
+    "CD-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Responsabilidad autónoma del diseño de contenido de flujos complejos",
+        "Definición del sistema de voz y tono del producto",
+        "Diseño de patrones de contenido integrados en el sistema de diseño",
+        "Liderazgo de pruebas de comprensión para validar decisiones de contenido",
+        "Estructuración de la arquitectura de contenido en producto entre recorridos",
+        "Alineación del diseño de contenido con la estrategia de producto y sus resultados",
+        "Colaboración con localización para escalar el contenido entre mercados",
+        "Facilitación de críticas y talleres de contenido con el equipo"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia dando forma al gobierno terminológico del producto",
+        "Conocimiento de decisiones de contenido basadas en datos y métricas",
+        "Capacidad de equilibrar claridad, marca y accesibilidad en los textos"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma en flujos complejos",
+        "Marca la dirección de contenido de un área de producto",
+        "Es referente en diseño de contenido"
+      ]
+    },
+    "CD-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Responsabilidad sobre la estrategia de diseño de contenido de una línea de producto",
+        "Definición del sistema de contenido y los estándares de voz del producto",
+        "Gobierno de la terminología y los patrones de contenido a escala",
+        "Liderazgo de programas de investigación de comprensión del contenido",
+        "Influencia en las decisiones de producto mediante el conocimiento del contenido",
+        "Establecimiento de estándares de calidad de contenido entre equipos",
+        "Escalado de prácticas de contenido listas para la localización",
+        "Mentoría de diseñadores de contenido en el oficio y los sistemas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia integrando el diseño de contenido en el sistema de diseño",
+        "Conocimiento de las operaciones de contenido y las herramientas de flujo de trabajo",
+        "Comprensión del contenido inclusivo y accesible a escala"
+      ],
+      "indicators": [
+        "Es totalmente autónomo y experto",
+        "Es responsable de la estrategia de contenido de una línea de producto",
+        "Lidera los estándares de contenido entre equipos"
+      ]
+    },
+    "CD-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo de la función de diseño de contenido entre productos",
+        "Definición de los principios de voz, tono y contenido de la organización",
+        "Gobierno del sistema de contenido como activo estratégico de diseño",
+        "Alineación del diseño de contenido con la estrategia de producto y marca",
+        "Establecimiento de la investigación de comprensión como práctica estándar",
+        "Definición de las operaciones de contenido y la localización a escala",
+        "Construcción de una cultura centrada en el contenido en los equipos de producto",
+        "Mentoría y crecimiento de los diseñadores de contenido"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en el escalado de prácticas de diseño de contenido en una organización",
+        "Conocimiento de la contratación y formación de equipos de diseño de contenido",
+        "Liderazgo en la coherencia de contenido entre productos"
+      ],
+      "indicators": [
+        "Lidera el diseño de contenido entre productos",
+        "Define los principios de voz y contenido",
+        "Hace crecer y mentoriza a diseñadores de contenido senior"
+      ]
+    },
+    "CD-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Dirección estratégica del diseño de contenido en la organización",
+        "Definición de la visión de diseño de contenido para múltiples productos",
+        "Gobierno de los sistemas de voz, tono y contenido a escala organizativa",
+        "Alineación de la estrategia de contenido con los objetivos de negocio a largo plazo",
+        "Liderazgo del diseño de contenido en la mesa de dirección de diseño",
+        "Innovación en los sistemas de contenido y las metodologías de comprensión",
+        "Asesoramiento a la dirección sobre el contenido como motor de claridad del producto",
+        "Definición de la hoja de ruta plurianual del diseño de contenido"
+      ],
+      "complementaryCompetencies": [
+        "Gestión del diseño de contenido en organizaciones complejas",
+        "Experiencia en diseño de contenido para productos de escala empresarial",
+        "Liderazgo en la comunidad de diseño de contenido"
+      ],
+      "indicators": [
+        "Marca la dirección del diseño de contenido entre productos",
+        "Colabora con la dirección de diseño y producto",
+        "Es una autoridad reconocida en diseño de contenido"
+      ]
+    },
+    "CD-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica del diseño de contenido como motor central del producto",
+        "Liderazgo de la transformación del diseño de contenido a escala",
+        "Definición de los estándares y sistemas de contenido a largo plazo de la organización",
+        "Posicionamiento de la claridad del contenido como ventaja competitiva",
+        "Gobierno de la voz y el contenido en ecosistemas de producto complejos",
+        "Avance de los patrones de diseño de contenido y las prácticas de investigación",
+        "Influencia en la estrategia de producto mediante el conocimiento del contenido y el lenguaje",
+        "Consolidación de una cultura centrada en el contenido en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como diseñador de contenido principal en compañías de referencia",
+        "Asesoría sobre sistemas de contenido y operaciones de diseño",
+        "Liderazgo de pensamiento en diseño de contenido"
+      ],
+      "indicators": [
+        "Da forma a la estrategia de diseño de contenido a nivel de compañía",
+        "Define la visión de contenido de la organización",
+        "Es un líder reconocido en el sector"
+      ]
+    },
+    "CD-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario del diseño de contenido a nivel ejecutivo",
+        "Definición de la estrategia de contenido y lenguaje de la organización",
+        "Transformación de la experiencia de producto a través del diseño de contenido",
+        "Alineación del diseño de contenido con la estrategia corporativa y de producto",
+        "Creación de una cultura de compañía centrada en el contenido",
+        "Innovación en la intersección del contenido, el diseño y el producto",
+        "Influencia en la evolución de la disciplina de diseño de contenido",
+        "Responsabilidad sobre la claridad del contenido en todos los equipos de producto"
+      ],
+      "complementaryCompetencies": [
+        "Creador de prácticas de diseño de contenido que marcan la industria",
+        "Reconocimiento como líder de diseño de contenido en el sector",
+        "Influencia en la educación de contenido y diseño"
+      ],
+      "indicators": [
+        "Opera a nivel de vicepresidente de diseño o equivalente",
+        "Define la visión de contenido de la compañía",
+        "Es una autoridad mundial en diseño de contenido"
+      ]
+    }
+  }
+}

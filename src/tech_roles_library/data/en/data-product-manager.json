@@ -1,0 +1,266 @@
+{
+  "role": "Data Product Manager",
+  "category": "Product",
+  "levels": {
+    "DPM-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of what a data product is",
+        "Elementary knowledge of the product lifecycle",
+        "Ability to write clear user stories and requirements",
+        "Basic understanding of data sources and pipelines",
+        "Familiarity with metrics and KPIs",
+        "Elementary knowledge of stakeholder communication",
+        "Basic understanding of prioritization concepts",
+        "Ability to document product needs and feedback"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of SQL for data exploration",
+        "Familiarity with roadmap and backlog tools",
+        "Elementary understanding of data privacy basics"
+      ],
+      "indicators": [
+        "Requires constant supervision in product tasks",
+        "Can gather and organize requirements with guidance",
+        "Needs 3-6 months of mentoring in data product management"
+      ]
+    },
+    "DPM-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to define requirements for data products",
+        "Practical knowledge of metric definition and instrumentation",
+        "Ability to prioritize a backlog with basic frameworks",
+        "Understanding of data quality expectations and SLAs",
+        "Ability to translate business needs into data requirements",
+        "Knowledge of basic data governance and access needs",
+        "Understanding of the data consumer journey",
+        "Ability to run stakeholder interviews and gather feedback",
+        "Ability to write acceptance criteria for data deliverables"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with BI and analytics tools",
+        "Ability to build simple dashboards for validation",
+        "Understanding of experimentation basics"
+      ],
+      "indicators": [
+        "Can manage small data product features with supervision",
+        "Resolves common requirement ambiguities",
+        "Maintains product backlog and documentation effectively"
+      ]
+    },
+    "DPM-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of data product discovery and validation",
+        "Ability to define north star metrics and success measures",
+        "Ability to build and communicate a product roadmap",
+        "Deep knowledge of data governance and compliance requirements",
+        "Ability to manage trade-offs between scope, quality and time",
+        "Solid understanding of data lineage and its impact on trust",
+        "Ability to define data contracts with producers and consumers",
+        "Knowledge of pricing and packaging for data products",
+        "Ability to measure adoption and product health"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of machine learning product considerations",
+        "Ability to work with self-service analytics platforms",
+        "Understanding of data monetization concepts"
+      ],
+      "indicators": [
+        "Owns a data product area end-to-end",
+        "Significantly improves adoption and data trust",
+        "Contributes to data product strategy"
+      ]
+    },
+    "DPM-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to define a strategy for a portfolio of data products",
+        "Mastery of metrics frameworks and outcome-driven roadmaps",
+        "Ability to establish data governance and stewardship models",
+        "Deep knowledge of data platform capabilities and constraints",
+        "Ability to lead cross-functional teams around data products",
+        "Mastery of prioritization under uncertainty and limited resources",
+        "Ability to design self-service data product experiences",
+        "Knowledge of regulatory compliance (GDPR, data residency)",
+        "Ability to define and track ROI for data initiatives"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of streaming and real-time data products",
+        "Ability to integrate ML and AI-driven features",
+        "Understanding of data ecosystem partnerships"
+      ],
+      "indicators": [
+        "Leads complex data product initiatives",
+        "Defines data product standards and practices",
+        "Mentors junior data product managers"
+      ]
+    },
+    "DPM-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise data product strategy",
+        "Ability to define the roadmap for data platforms",
+        "Mastery of governance, trust and compliance at scale",
+        "Ability to align data products with business objectives",
+        "Deep knowledge of platform economics and cost management",
+        "Ability to define data product operating models",
+        "Expertise in data monetization and value creation",
+        "Mastery of stakeholder management across the organization",
+        "Ability to establish data product quality and certification programs"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of data mesh and domain ownership models",
+        "Ability to lead experimentation and analytics programs",
+        "Understanding of privacy-preserving data products"
+      ],
+      "indicators": [
+        "Shapes enterprise data product strategy",
+        "Leads data platform product direction",
+        "Defines the technical and business data roadmap"
+      ]
+    },
+    "DPM-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to lead a global portfolio of data products",
+        "Expertise in data as a product and data as a service models",
+        "Mastery of platform strategy and ecosystem thinking",
+        "Ability to establish organization-wide data governance",
+        "Deep knowledge of FinOps and value measurement for data",
+        "Ability to design self-service data experiences at scale",
+        "Expertise in data mesh and federated ownership",
+        "Mastery of trust, certification and data quality programs",
+        "Ability to lead and grow data product teams"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AI-driven and generative data products",
+        "Ability to drive adoption across business domains",
+        "Understanding of sustainable data product practices"
+      ],
+      "indicators": [
+        "Leads data product strategy across multiple domains",
+        "Drives organizational data-driven transformation",
+        "Defines long-term data product vision"
+      ]
+    },
+    "DPM-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in enterprise data product democratization",
+        "Ability to design data marketplaces and exchanges",
+        "Expertise in self-service data platforms at global scale",
+        "Mastery of data monetization and business model design",
+        "Ability to establish federated governance at global scale",
+        "Deep knowledge of global regulatory and compliance landscapes",
+        "Expertise in data valuation and portfolio prioritization",
+        "Ability to define data product practices across the company",
+        "Mastery of innovation in data product methodologies"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence data product industry standards",
+        "Ability to build data product ventures",
+        "Knowledge of data ecosystem and partnership strategy"
+      ],
+      "indicators": [
+        "Defines corporate data product strategy",
+        "Leads external data product communities",
+        "Recognized thought leader in data product management"
+      ]
+    },
+    "DPM-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of data products",
+        "Ability to transform companies into data-product-driven organizations",
+        "Expertise in data product strategy for M&A and integrations",
+        "Mastery of building data product centers of excellence",
+        "Ability to define enterprise data product governance",
+        "Deep knowledge of data economics and ROI",
+        "Expertise in strategic data partnerships and monetization",
+        "Ability to lead cross-industry data product initiatives",
+        "Mastery of data ethics and responsible product practices"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape data product methodologies",
+        "Ability to advise boards on data product investment",
+        "Knowledge of investment in data product technology"
+      ],
+      "indicators": [
+        "Defines data product strategy for conglomerates",
+        "Influences the direction of the data product discipline",
+        "Principal speaker at global conferences"
+      ]
+    },
+    "DPM-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in data product strategy",
+        "Ability to monetize data products as business assets",
+        "Expertise in data-driven digital transformation",
+        "Mastery of multi-million dollar data product budgets",
+        "Ability to build global data product organizations",
+        "Deep knowledge of data governance and compliance",
+        "Expertise in data partnerships and ecosystems",
+        "Ability to define a data-product-driven culture",
+        "Mastery of innovation and R&D in data products"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence data regulation and standards",
+        "Ability to create data product ecosystems",
+        "Knowledge of data product investment strategies"
+      ],
+      "indicators": [
+        "Defines and executes the enterprise data product vision",
+        "Responsible for corporate data product strategy",
+        "Recognized leader in the global data product industry"
+      ]
+    }
+  }
+}

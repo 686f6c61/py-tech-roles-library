@@ -1,0 +1,249 @@
+{
+  "role": "Foundation Models Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "FME-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of what a foundation model is and how it is pretrained on large corpora",
+        "Elementary grasp of tokenization and how text becomes model inputs",
+        "Able to run steps of a data-preprocessing pipeline under supervision",
+        "Basic understanding of the transformer architecture and next-token prediction",
+        "Able to inspect and clean a slice of a training dataset following guidance",
+        "Elementary practice of reading training loss and basic metrics",
+        "Basic understanding of why scale matters for foundation models"
+      ],
+      "complementaryCompetencies": [
+        "Comfortable with Python and distributed data processing",
+        "Familiar with running jobs on a GPU cluster",
+        "Elementary notion of probability and language modeling"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can run pipeline steps with detailed guidance",
+        "Needs 3-6 months to become productive"
+      ]
+    },
+    "FME-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Able to build stages of a data pipeline for filtering and deduplicating text",
+        "Grasp of tokenizer training and vocabulary construction",
+        "Able to run data-parallel pretraining jobs following an established recipe",
+        "Practical measurement of dataset quality and contamination",
+        "Able to monitor a training run for loss spikes and divergence",
+        "Grasp of checkpointing and resuming long training jobs",
+        "Familiar with computing evaluation metrics such as perplexity on held-out data"
+      ],
+      "complementaryCompetencies": [
+        "Comfortable with distributed data tools such as Spark or Ray",
+        "Familiar with dataset formats and streaming large corpora",
+        "Basic practice of the transformer forward and backward pass"
+      ],
+      "indicators": [
+        "Contributes to pretraining pipelines with supervision",
+        "Resolves medium-complexity issues in data and training jobs",
+        "Actively participates in code and data reviews"
+      ]
+    },
+    "FME-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Proficient at building large-scale deduplication and quality-filtering pipelines",
+        "Able to configure tensor and data parallelism for a pretraining run",
+        "Able to diagnose and recover from training instability such as loss spikes",
+        "Solid command of tokenization choices and their effect on model quality",
+        "Able to implement robust checkpointing and resumption for long runs",
+        "Grasp of scaling laws and how compute, data and parameters relate",
+        "Able to build evaluation suites that measure base-model capabilities"
+      ],
+      "complementaryCompetencies": [
+        "Aware of data-contamination detection against evaluation benchmarks",
+        "Able to implement supervised fine-tuning on top of a base model",
+        "Basic practice of collective communication in distributed training"
+      ],
+      "indicators": [
+        "Completes complex pretraining engineering tasks with minimal supervision",
+        "Identifies and resolves failures in data and training pipelines",
+        "Actively contributes to pretraining-recipe design"
+      ]
+    },
+    "FME-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Able to design data pipelines that curate trillions of tokens with dedup and filtering",
+        "Proficient at combining tensor, pipeline and data parallelism for large-model training",
+        "Able to hold training stable through careful initialization and learning-rate control",
+        "Solid command of checkpointing, fault tolerance and elastic training at scale",
+        "Able to use scaling laws to plan compute-optimal model and data sizes",
+        "Proficient with base-model evaluation across capability and safety benchmarks",
+        "Able to implement alignment methods such as RLHF or DPO on a base model"
+      ],
+      "complementaryCompetencies": [
+        "Aware of data governance including licensing and provenance of training data",
+        "Able to profile and optimize throughput of large distributed training",
+        "Grasp of tokenizer trade-offs across languages and domains"
+      ],
+      "indicators": [
+        "Leads development of critical pretraining components",
+        "Effectively mentors junior engineers",
+        "Makes informed decisions on pretraining-system design"
+      ]
+    },
+    "FME-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expert at designing pretraining systems that run stably across thousands of GPUs",
+        "Able to architect data pipelines that filter, dedup and tokenize web-scale corpora",
+        "Proficient with parallelism strategies tuned to model shape and cluster topology",
+        "Able to design training recipes informed by scaling-law experiments",
+        "Solid command of diagnosing and preventing instability in large training runs",
+        "Able to build alignment pipelines with RLHF, DPO and reward modeling",
+        "Expert at base-model evaluation including capability, robustness and safety"
+      ],
+      "complementaryCompetencies": [
+        "Aware of data provenance, licensing and safety filtering at scale",
+        "Able to design compute-efficient ablations before full-scale runs",
+        "Grasp of red teaming and safety evaluation of base models"
+      ],
+      "indicators": [
+        "Designs pretraining systems for full model-training programs",
+        "Defines technical standards for data and training pipelines",
+        "Leads cross-team initiatives on pretraining infrastructure"
+      ]
+    },
+    "FME-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Able to architect the end-to-end pretraining stack from data to aligned model",
+        "Expert at running training programs reliably across large GPU clusters",
+        "Proficient with data-curation strategy including quality, diversity and safety",
+        "Able to design systems resilient to hardware failure during month-long runs",
+        "Solid command of scaling laws applied to planning frontier training budgets",
+        "Able to lead adoption of new parallelism and training techniques across the org",
+        "Expert at reliability engineering for large-scale distributed pretraining"
+      ],
+      "complementaryCompetencies": [
+        "Aware of model safety evaluation and mitigation before release",
+        "Able to design shared data and evaluation infrastructure for model training",
+        "Grasp of the compute economics of frontier-model training"
+      ],
+      "indicators": [
+        "Architects pretraining infrastructure for multiple model efforts",
+        "Influences organizational decisions on model-training strategy",
+        "Represents the company technically in the foundation-model domain"
+      ]
+    },
+    "FME-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Provides technical leadership for foundation-model training programs across an organization",
+        "Able to design pretraining architectures for successive generations of models",
+        "Expert at strategies for extracting maximum capability per unit of training compute",
+        "Solid command of data strategy spanning acquisition, curation, safety and governance",
+        "Able to define multi-year roadmaps for model training and alignment",
+        "Deep grasp of the cost, risk and capability trade-offs of frontier training",
+        "Expert at building and scaling foundation-model engineering teams"
+      ],
+      "complementaryCompetencies": [
+        "Able to evaluate emerging architectures and training methods for adoption",
+        "Able to guide model safety and release decisions with stakeholders",
+        "Aware of trends in scaling, data and alignment research"
+      ],
+      "indicators": [
+        "Defines organizational strategy for model pretraining",
+        "Recognized as a technical authority in foundation-model training",
+        "Speaks at machine-learning conferences"
+      ]
+    },
+    "FME-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Sets the strategic vision for the organization's foundation-model training program",
+        "Able to lead major shifts in how models are trained, aligned and evaluated",
+        "Expert at technical due diligence for model-training investment and compute",
+        "Drives organizational change toward safe, efficient frontier training",
+        "Able to build and lead foundation-model engineering organizations",
+        "Deep grasp of the impact of data, scale and alignment decisions on model quality",
+        "Expert at stakeholder relations around model capability and safety risk"
+      ],
+      "complementaryCompetencies": [
+        "Able to influence industry practice on responsible model training",
+        "Able to guide investment in compute for model-training programs",
+        "Aware of the frontier-model and accelerator landscape"
+      ],
+      "indicators": [
+        "Impacts the technical direction of foundation-model training in the field",
+        "Advises leadership on model-training and safety strategy",
+        "Mentors senior technical leaders"
+      ]
+    },
+    "FME-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Provides executive leadership for foundation-model training across the organization",
+        "Able to align model-training strategy with business and safety commitments",
+        "Expert at managing very large budgets for training compute and data",
+        "Commands stakeholder and board communication on model training and safety",
+        "Able to lead the organization's roadmap for successive model generations",
+        "Deep grasp of risk management for frontier-model capability and release",
+        "Expert at building competitive advantage through foundation-model capability"
+      ],
+      "complementaryCompetencies": [
+        "Able to shape organizational policy on model safety and responsible scaling",
+        "Able to build partnerships for compute, data and evaluation",
+        "Aware of the economics of frontier-model programs"
+      ],
+      "indicators": [
+        "Defines and executes the foundation-model technology vision",
+        "Accountable for model-training strategy, budget and safety",
+        "Serves as the public voice of the company in foundation-model development"
+      ]
+    }
+  }
+}

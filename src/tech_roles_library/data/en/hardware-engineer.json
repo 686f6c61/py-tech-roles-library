@@ -1,0 +1,258 @@
+{
+  "role": "Hardware Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "HW-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Ability to read electronic schematics and identify components",
+        "Elementary knowledge of multimeter and bench power supply use",
+        "Ability to solder through-hole and basic surface-mount components",
+        "Basic understanding of passive components (resistors, capacitors, inductors)",
+        "Elementary knowledge of PCB layers and copper traces",
+        "Ability to assemble and populate prototype boards with guidance",
+        "Understanding of datasheets and component parameters",
+        "Basic knowledge of Ohm's law and simple circuit analysis"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with a schematic capture tool (KiCad, Altium)",
+        "Basic knowledge of electrostatic discharge handling and lab safety",
+        "Elementary understanding of digital and analog signals"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Assists in board assembly and basic measurements",
+        "Needs 6-12 months of hardware mentorship"
+      ]
+    },
+    "HW-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to design schematics for simple circuits (power regulation, sensor interface)",
+        "Ability to lay out two-layer PCBs with basic routing",
+        "Practical knowledge of component selection against electrical parameters and availability",
+        "Understanding of oscilloscope and logic analyzer measurements",
+        "Ability to perform board bring-up and power-on checks",
+        "Knowledge of decoupling and bypass capacitor placement",
+        "Understanding of voltage regulator selection (linear, switching)",
+        "Ability to document a bill of materials with sourcing information"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of signal integrity concepts",
+        "Familiarity with reflow and rework stations",
+        "Understanding of board-level interface standards (USB, I2C, SPI)"
+      ],
+      "indicators": [
+        "Designs simple boards with supervision",
+        "Performs bring-up and basic debugging",
+        "Documents bills of materials"
+      ]
+    },
+    "HW-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of multi-layer PCB layout with controlled impedance",
+        "Ability to design power distribution networks and regulation stages",
+        "Ability to debug boards with oscilloscope, logic analyzer and thermal camera",
+        "Deep knowledge of component derating and tolerance analysis",
+        "Ability to design for signal integrity (length matching, differential pairs)",
+        "Understanding of EMC principles (shielding, grounding, filtering)",
+        "Ability to plan and execute board bring-up and performance characterization",
+        "Knowledge of DFM rules for assembly and fabrication"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of thermal simulation and heatsink sizing",
+        "Ability to design test points and debug interfaces",
+        "Understanding of battery and power management circuits"
+      ],
+      "indicators": [
+        "Designs multi-layer boards independently",
+        "Leads board bring-up and validation",
+        "Applies DFM rules in layout"
+      ]
+    },
+    "HW-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to architect complex mixed-signal boards",
+        "Mastery of high-speed digital design (DDR, high-speed serial links)",
+        "Ability to design power sequencing and management for multi-rail systems",
+        "Deep knowledge of EMC pre-compliance testing and mitigation",
+        "Ability to lead design for test (DFT) with boundary scan and in-circuit test",
+        "Mastery of thermal management design (airflow, thermal vias, heat spreaders)",
+        "Ability to drive schematic and layout reviews",
+        "Knowledge of certification requirements (CE, FCC, EMC) and test planning"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of RF circuit design fundamentals",
+        "Ability to design for automated optical inspection",
+        "Understanding of reliability testing (thermal cycling, HALT)"
+      ],
+      "indicators": [
+        "Defines board architecture for products",
+        "Leads validation and certification planning",
+        "Mentors hardware engineers"
+      ]
+    },
+    "HW-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in complex board and system-level electronic design",
+        "Ability to design hardware platforms and reference designs",
+        "Mastery of signal and power integrity simulation and analysis",
+        "Ability to lead pre-compliance and certification campaigns (CE, FCC, EMC)",
+        "Deep knowledge of design for manufacturing and cost optimization",
+        "Ability to define hardware validation strategy and test coverage",
+        "Expertise in component qualification and second-source strategy",
+        "Mastery of manufacturing collaboration and design handoff"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of high-voltage or power electronics design",
+        "Ability to design for high-reliability applications (automotive, industrial)",
+        "Understanding of supply chain and component lifecycle management"
+      ],
+      "indicators": [
+        "Architects hardware platforms",
+        "Leads certification and manufacturing transfer",
+        "Defines validation strategy"
+      ]
+    },
+    "HW-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define hardware architecture strategy for product lines",
+        "Expertise in system-level electronic design across board interactions",
+        "Mastery of hardware reliability and qualification programs",
+        "Ability to lead new product introduction with contract manufacturers",
+        "Deep knowledge of certification strategy across regions and standards",
+        "Ability to define component and supplier strategy",
+        "Expertise in design for manufacturing at production scale",
+        "Mastery of hardware cost engineering and BOM optimization"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of failure analysis and root cause methods",
+        "Ability to define hardware test infrastructure (fixtures, ATE)",
+        "Understanding of regulatory strategy for new markets"
+      ],
+      "indicators": [
+        "Directs hardware design for product lines",
+        "Leads new product introduction",
+        "Defines supplier and certification strategy"
+      ]
+    },
+    "HW-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Technical leadership in hardware engineering across an organization",
+        "Ability to define electronic design standards and design rules",
+        "Expertise in hardware platform strategy across product families",
+        "Mastery of certification and regulatory strategy for global markets",
+        "Ability to define hardware reliability and quality targets",
+        "Deep knowledge of manufacturing economics and design-to-cost",
+        "Expertise in building hardware engineering teams and capabilities",
+        "Ability to define component and supply chain strategy"
+      ],
+      "complementaryCompetencies": [
+        "Ability to establish hardware design review governance",
+        "Ability to define test and validation infrastructure strategy",
+        "Knowledge of hardware intellectual property and patents"
+      ],
+      "indicators": [
+        "Defines hardware engineering standards",
+        "Recognized authority in electronic design",
+        "Advisor on hardware platform strategy"
+      ]
+    },
+    "HW-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of hardware technology evolution",
+        "Ability to lead hardware architecture across a product portfolio",
+        "Expertise in hardware due diligence for acquisitions and technology evaluation",
+        "Mastery of manufacturing and supply chain strategy for hardware",
+        "Ability to define hardware reliability and certification excellence",
+        "Deep knowledge of design-to-cost and hardware economics at scale",
+        "Expertise in aligning hardware decisions with product strategy",
+        "Ability to establish hardware engineering standards adopted across the organization"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape component supplier partnerships",
+        "Ability to define the hardware technology roadmap",
+        "Knowledge of emerging electronic technologies and processes"
+      ],
+      "indicators": [
+        "Defines organization-wide hardware direction",
+        "Advises executives on hardware strategy",
+        "Mentors principal hardware engineers"
+      ]
+    },
+    "HW-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in hardware engineering strategy",
+        "Ability to align the hardware roadmap with product and business strategy",
+        "Expertise in managing hardware development and manufacturing budgets",
+        "Mastery of hardware portfolio and platform strategy",
+        "Ability to build hardware engineering organizations",
+        "Deep knowledge of hardware supply chain and manufacturing risk",
+        "Expertise in hardware certification and regulatory strategy globally",
+        "Ability to drive hardware innovation across product lines"
+      ],
+      "complementaryCompetencies": [
+        "Ability to shape strategic manufacturing and supplier partnerships",
+        "Ability to influence hardware standards in the industry",
+        "Knowledge of hardware technology investment"
+      ],
+      "indicators": [
+        "Defines and executes hardware engineering vision",
+        "Accountable for hardware development and manufacturing",
+        "Represents the company in hardware matters"
+      ]
+    }
+  }
+}

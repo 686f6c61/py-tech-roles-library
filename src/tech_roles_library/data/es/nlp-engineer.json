@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Procesamiento de Lenguaje Natural",
+  "category": "IA/ML",
+  "levels": {
+    "NLP-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de cómo se representa el texto de forma numérica para el aprendizaje automático",
+        "Nociones elementales de tokenización, dividiendo el texto en palabras y unidades subléxicas",
+        "Capacidad de limpiar y preprocesar texto, tratando mayúsculas, puntuación y palabras vacías",
+        "Idea básica de las incrustaciones de palabras y de por qué las palabras similares quedan cercanas",
+        "Capacidad de usar bibliotecas como spaCy y Hugging Face con supervisión",
+        "Práctica elemental ejecutando ejemplos de análisis de sentimiento y clasificación de texto",
+        "Familiaridad básica con las etiquetas gramaticales y las entidades nombradas",
+        "Capacidad de leer las salidas del modelo e inspeccionar predicciones sobre texto de ejemplo"
+      ],
+      "complementaryCompetencies": [
+        "Python básico y soltura trabajando con ficheros de texto",
+        "Familiaridad con las expresiones regulares para buscar patrones",
+        "Noción elemental de los corpus y conjuntos de datos lingüísticos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede implementar preprocesamiento de texto básico con guía",
+        "Necesita 6-12 meses de mentoría"
+      ]
+    },
+    "NLP-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de hacer ajuste fino de modelos de lenguaje preentrenados para tareas de clasificación",
+        "Conocimiento práctico de la arquitectura transformador y de la autoatención",
+        "Capacidad de construir flujos de reconocimiento de entidades nombradas y etiquetado gramatical",
+        "Familiaridad con la tokenización subléxica como la codificación por pares de bytes y WordPiece",
+        "Capacidad de entrenar y evaluar clasificadores de texto con precisión, exhaustividad y F1",
+        "Práctica con el modelado de temas y la agrupación de documentos",
+        "Capacidad de montar traducción automática y transcripción de voz a partir de modelos existentes",
+        "Comprensión de las particiones de entrenamiento, validación y prueba y del sobreajuste"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con modelos preentrenados como las familias BERT y GPT",
+        "Capacidad de trabajar con conjuntos de datos y tokenizadores multilingües",
+        "Noción de los conjuntos de datos de diálogo y de preguntas y respuestas"
+      ],
+      "indicators": [
+        "Desarrolla componentes de procesamiento de lenguaje natural con supervisión",
+        "Implementa modelos estándar en tareas bien definidas",
+        "Optimiza flujos básicos de preprocesamiento y entrenamiento"
+      ]
+    },
+    "NLP-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de las arquitecturas transformador y de cómo la atención capta el contexto",
+        "Capacidad de ajustar y adaptar modelos grandes de lenguaje a tareas de dominio",
+        "Capacidad de construir búsqueda semántica y recuperación basadas en incrustaciones",
+        "Dominio sólido de las métricas de evaluación, incluidas BLEU, ROUGE y perplejidad",
+        "Capacidad de diseñar sistemas de generación de texto con distintas estrategias de decodificación",
+        "Práctica en el manejo de documentos largos y de los límites de longitud de contexto",
+        "Capacidad de construir flujos de extracción de entidades y relaciones",
+        "Sensibilidad hacia los sesgos y la equidad en los datos y modelos de lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con las arquitecturas de traducción automática neuronal",
+        "Capacidad de trabajar con reconocimiento y síntesis de voz",
+        "Noción de los flujos de anotación de datos y del acuerdo entre anotadores"
+      ],
+      "indicators": [
+        "Diseña sistemas completos de procesamiento de lenguaje natural con supervisión mínima",
+        "Lidera proyectos acotados de procesamiento del lenguaje",
+        "Mejora la calidad del modelo mediante evaluación sistemática"
+      ]
+    },
+    "NLP-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar flujos de procesamiento de lenguaje en producción, desde la ingesta hasta el servicio",
+        "Dominio de técnicas de eficiencia del modelo como la destilación y la cuantización",
+        "Capacidad de desplegar modelos grandes de lenguaje con latencia y coste aceptables",
+        "Dominio sólido de la generación aumentada por recuperación anclada en datos de la empresa",
+        "Capacidad de construir sistemas multilingües que compartan modelos entre idiomas",
+        "Capacidad de diseñar evaluación fuera de línea y en línea para modelos de lenguaje",
+        "Práctica en la supervisión de la deriva de datos y de regresiones de calidad en producción",
+        "Capacidad de mentorizar a ingenieros en diseño y evaluación de procesamiento de lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con las bases de datos vectoriales y la búsqueda aproximada de vecinos cercanos",
+        "Capacidad de diseñar estrategias de anotación y curación de datos a escala",
+        "Noción del diseño de prompts y del aprendizaje en contexto para modelos de lenguaje"
+      ],
+      "indicators": [
+        "Lidera el desarrollo de funcionalidades de procesamiento de lenguaje en producción",
+        "Mentoriza a ingenieros junior en sistemas de lenguaje",
+        "Toma decisiones de arquitectura fundamentadas sobre los flujos de procesamiento"
+      ]
+    },
+    "NLP-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Pericia en el diseño de plataformas de procesamiento de lenguaje compartidas entre varios productos",
+        "Capacidad de instaurar un desarrollo guiado por la evaluación para modelos de lenguaje",
+        "Dominio de la selección entre modelos de lenguaje abiertos y propietarios",
+        "Capacidad de construir flujos de datos que alimenten la mejora continua del modelo",
+        "Dominio sólido del escalado de la inferencia para cargas de texto de alto volumen",
+        "Capacidad de diseñar salvaguardas frente a la alucinación y la generación insegura",
+        "Pericia en la optimización de coste y latencia en toda la pila de procesamiento de lenguaje",
+        "Capacidad de definir bancos de pruebas de evaluación adaptados a tareas de negocio"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con el aprendizaje por refuerzo a partir de retroalimentación humana para el alineamiento",
+        "Capacidad de diseñar revisión con intervención humana del texto generado",
+        "Noción de privacidad y cumplimiento para textos con datos personales"
+      ],
+      "indicators": [
+        "Diseña arquitecturas de procesamiento de lenguaje para productos completos",
+        "Define los estándares del equipo para el desarrollo de modelos de lenguaje",
+        "Lidera iniciativas entre equipos sobre infraestructura de procesamiento de lenguaje"
+      ]
+    },
+    "NLP-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar plataformas corporativas de procesamiento de lenguaje que sirven a muchos equipos",
+        "Pericia en marcos de gobernanza para el despliegue de modelos de lenguaje",
+        "Dominio de la infraestructura de evaluación y de la supervisión continua de la calidad",
+        "Capacidad de diseñar sistemas de lenguaje que cumplen objetivos de fiabilidad y seguridad",
+        "Dominio sólido de las amenazas propias de los modelos de lenguaje, como la inyección de prompts",
+        "Capacidad de liderar la adopción del procesamiento de lenguaje en productos y unidades de negocio",
+        "Pericia en la gestión del coste del servicio de modelos de lenguaje a gran escala",
+        "Capacidad de fijar la política de gobernanza de datos para textos y corpus de entrenamiento"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con las arquitecturas de modelo emergentes y sus compromisos",
+        "Capacidad de diseñar servicios compartidos de incrustaciones y recuperación",
+        "Noción del despliegue en el dispositivo y en el borde de modelos compactos"
+      ],
+      "indicators": [
+        "Diseña soluciones de procesamiento de lenguaje para varios equipos",
+        "Influye en las decisiones organizativas sobre tecnología del lenguaje",
+        "Representa a la empresa técnicamente en el ámbito del procesamiento de lenguaje"
+      ]
+    },
+    "NLP-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico de la estrategia de procesamiento de lenguaje en toda la organización",
+        "Capacidad de diseñar arquitecturas de lenguaje que perduran más que los modelos concretos",
+        "Pericia en plataformas de procesamiento de lenguaje independientes del modelo y del proveedor",
+        "Capacidad de definir hojas de ruta plurianuales para las capacidades del lenguaje",
+        "Dominio sólido del coste total y de la economía de los sistemas de lenguaje",
+        "Pericia en la construcción y el escalado de equipos de ingeniería de procesamiento de lenguaje",
+        "Capacidad de fijar estándares de evaluación y seguridad adoptados en toda la organización",
+        "Capacidad de guiar las decisiones de construir o comprar modelos de lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de evaluar proveedores e investigación de procesamiento de lenguaje para su adopción",
+        "Familiaridad con las tendencias de investigación en modelado del lenguaje",
+        "Capacidad de representar el trabajo de procesamiento de lenguaje en congresos técnicos"
+      ],
+      "indicators": [
+        "Define la estrategia técnica organizativa de procesamiento de lenguaje",
+        "Reconocido como autoridad técnica en procesamiento del lenguaje",
+        "Ponente en congresos del sector sobre procesamiento de lenguaje"
+      ]
+    },
+    "NLP-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Dirección estratégica de cómo la organización construye y opera sus sistemas de lenguaje",
+        "Capacidad de alinear las inversiones en procesamiento de lenguaje con los objetivos de producto y negocio",
+        "Pericia en la diligencia debida técnica de productos y adquisiciones de procesamiento de lenguaje",
+        "Capacidad de fijar el listón de ingeniería para la calidad y la seguridad de los modelos de lenguaje",
+        "Dominio sólido de los compromisos entre modelos de lenguaje propios y externos",
+        "Capacidad de construir y dirigir organizaciones de ingeniería de procesamiento de lenguaje",
+        "Pericia en llevar los avances de investigación a sistemas de lenguaje en producción",
+        "Capacidad de asesorar a la dirección sobre el riesgo y la oportunidad de la tecnología del lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de dar forma a la estrategia de datos para entrenar y evaluar modelos de lenguaje",
+        "Familiaridad con las consideraciones regulatorias del procesamiento automatizado del lenguaje",
+        "Capacidad de mentorizar a ingenieros senior y responsables técnicos"
+      ],
+      "indicators": [
+        "Da forma a la dirección técnica del procesamiento de lenguaje en toda la empresa",
+        "Asesora a la dirección en decisiones sobre tecnología del lenguaje",
+        "Mentoriza a responsables técnicos senior"
+      ]
+    },
+    "NLP-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo de la estrategia de tecnología del lenguaje",
+        "Capacidad de alinear las capacidades de procesamiento de lenguaje con la estrategia y la hoja de ruta de la empresa",
+        "Pericia en la planificación y gestión de presupuestos para programas de modelos de lenguaje",
+        "Capacidad de fijar la política organizativa de sistemas de lenguaje responsables",
+        "Dominio sólido de la gestión de riesgos de los modelos de lenguaje en entornos regulados",
+        "Capacidad de construir ventaja competitiva a través de las capacidades de procesamiento de lenguaje",
+        "Pericia en la colaboración con proveedores de modelos e infraestructura",
+        "Capacidad de guiar a la organización a través de los cambios en la tecnología de modelos de lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de representar a la empresa en asuntos de tecnología del lenguaje",
+        "Familiaridad con el panorama de proveedores e investigación de modelos de lenguaje",
+        "Capacidad de dar forma a la contratación y al diseño organizativo de los equipos de procesamiento de lenguaje"
+      ],
+      "indicators": [
+        "Define y ejecuta la visión de tecnología del lenguaje de la organización",
+        "Responsable de los resultados de las inversiones en procesamiento de lenguaje",
+        "Representa a la empresa externamente en procesamiento de lenguaje"
+      ]
+    }
+  }
+}

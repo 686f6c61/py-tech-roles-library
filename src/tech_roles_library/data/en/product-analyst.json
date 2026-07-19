@@ -1,0 +1,258 @@
+{
+  "role": "Product Analyst",
+  "category": "Product",
+  "levels": {
+    "PA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability for technical feature analysis",
+        "Implementation of event tracking in applications",
+        "Practical knowledge of cohort analysis",
+        "Ability for tech user segmentation",
+        "Understanding of SaaS retention",
+        "Funnel optimization capability",
+        "Knowledge of statistical significance",
+        "Ability for competitive benchmarking"
+      ],
+      "complementaryCompetencies": [
+        "Analysis of user flows in applications",
+        "Knowledge of session replay tools",
+        "Understanding of attribution in tech products"
+      ],
+      "indicators": [
+        "Performs product analysis with supervision",
+        "Defines technical feature metrics",
+        "Generates user behavior insights"
+      ]
+    },
+    "PA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of analytical frameworks for tech products",
+        "Implementation of experimentation programs",
+        "Mastery of predictive analytics for SaaS",
+        "Monetization analysis capability",
+        "Ability for churn prediction",
+        "Deep knowledge of LTV/CAC in tech",
+        "Implementation of product health scorecards",
+        "Design of self-serve analytics"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of ML for product",
+        "Ability for growth analytics",
+        "Understanding of pricing optimization"
+      ],
+      "indicators": [
+        "Leads tech product analysis",
+        "Defines feature analytical strategy",
+        "Mentors junior product analysts"
+      ]
+    },
+    "PA-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of analytics platforms for tech products",
+        "Design of automated insights systems",
+        "Implementation of real-time product analytics",
+        "Mastery of multi-product analysis",
+        "Advanced experimentation capability",
+        "Deep knowledge of causal inference",
+        "Ability for growth modeling",
+        "Leadership in data-driven culture"
+      ],
+      "complementaryCompetencies": [
+        "Experience in recommendation systems",
+        "Knowledge of deep analytics",
+        "Management of data science teams"
+      ],
+      "indicators": [
+        "Defines product analytical strategy",
+        "Leads data-driven decisions",
+        "Influences product roadmap"
+      ]
+    },
+    "PA-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Leadership of product analytics in tech companies",
+        "Design of analytical organizations",
+        "Management of analyst teams",
+        "Definition of measurement frameworks",
+        "Strategic analytics capability",
+        "Implementation of self-serve platforms",
+        "Mastery of analytical automation",
+        "Promotion of analytical thinking across teams"
+      ],
+      "complementaryCompetencies": [
+        "Experience in analytical transformation",
+        "Knowledge of data engineering",
+        "Management of analytics vendors"
+      ],
+      "indicators": [
+        "Manages product analytics team",
+        "Defines product analytical vision",
+        "Represents analytics to product"
+      ]
+    },
+    "PA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of tech product analytics",
+        "Strategy for intelligent products",
+        "Management of large analytical budgets",
+        "Definition of data-driven monetization",
+        "Leadership in analytical transformation",
+        "Implementation of AI in product",
+        "Innovation in analytical methods",
+        "Management of global analytics"
+      ],
+      "complementaryCompetencies": [
+        "Experience in predictive products",
+        "Knowledge of advanced analytics",
+        "Leadership in analytics communities"
+      ],
+      "indicators": [
+        "Directs analytics department (20+ people)",
+        "Participates in product strategy",
+        "Defines analytics investments"
+      ]
+    },
+    "PA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in product intelligence",
+        "Design of analytical strategies for scale-ups",
+        "Transformation of products via data",
+        "Management of analytics at high-growth companies",
+        "Creation of competitive advantages via insights",
+        "Definition of the future of product analytics",
+        "Communication of analytics strategy to executive leadership",
+        "Influence in tech industry"
+      ],
+      "complementaryCompetencies": [
+        "Management of big data for product",
+        "Experience in AI product analytics",
+        "Leadership in analytics standards"
+      ],
+      "indicators": [
+        "Reports to CPO/CDO",
+        "Manages analytics organization (50+ people)",
+        "Defines product data strategy"
+      ]
+    },
+    "PA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of data-informed products",
+        "Leadership in tech analytics revolution",
+        "Definition of predictive product analytics practices",
+        "Management of intelligence platforms",
+        "Innovation in product analytics and insights",
+        "Definition of autonomous analytics",
+        "Promotion of data-informed decision-making",
+        "Influence in tech product evolution"
+      ],
+      "complementaryCompetencies": [
+        "Experience as Head of Analytics in decacorns",
+        "Advisory in analytical startups",
+        "Thought leadership in product intelligence"
+      ],
+      "indicators": [
+        "Is part of product leadership",
+        "Defines future of tech analytics",
+        "Is world leader in product analytics"
+      ]
+    },
+    "PA-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in product intelligence",
+        "Advancement of data-informed product development",
+        "Definition of the organization's product analytics strategy",
+        "Definition of predictive analytics capabilities",
+        "Innovation in behavioral and product analytics",
+        "Promotion of insight-driven product culture",
+        "Architecture of product analytics platforms",
+        "Influence in product intelligence evolution"
+      ],
+      "complementaryCompetencies": [
+        "Track record of advancing product analytics practices",
+        "Recognition as a leader in product analytics",
+        "Influence in the future of product decisions"
+      ],
+      "indicators": [
+        "Leads the enterprise product analytics function",
+        "Defines future of product intelligence",
+        "Is world authority in tech analytics"
+      ]
+    },
+    "PA-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of tech product analysis",
+        "Elementary understanding of SaaS metrics",
+        "Ability for basic SQL queries",
+        "Basic knowledge of conversion funnels",
+        "Capability to create feature usage reports",
+        "Understanding of basic A/B testing",
+        "Documentation of product insights",
+        "Elementary knowledge of user behavior in software"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with Mixpanel/Amplitude",
+        "Basic knowledge of analytics tools",
+        "Understanding of product metrics"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Generates basic product reports",
+        "Is learning product analytics"
+      ]
+    }
+  }
+}

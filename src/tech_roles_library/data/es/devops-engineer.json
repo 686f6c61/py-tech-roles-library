@@ -1,0 +1,266 @@
+{
+  "role": "Ingeniero DevOps",
+  "category": "Infraestructura",
+  "levels": {
+    "DO-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de sistemas operativos Linux/Unix",
+        "Conocimiento elemental de redes TCP/IP y protocolos básicos",
+        "Habilidad para usar línea de comandos y scripting básico",
+        "Comprensión básica de control de versiones y ramificación",
+        "Capacidad de trabajar con máquinas virtuales y contenedores básicos",
+        "Conocimiento elemental de servidores web y aplicaciones",
+        "Comprensión básica de registros y monitorización simple",
+        "Habilidad para documentar procesos y configuraciones"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de computación en la nube",
+        "Familiaridad con herramientas de gestión de tickets",
+        "Comprensión elemental de ITIL y procesos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en tareas de infraestructura",
+        "Puede ejecutar manuales de procedimientos documentados con guía",
+        "Necesita 3-6 meses de mentoría en DevOps"
+      ]
+    },
+    "DO-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de administrar servidores Linux con tareas comunes",
+        "Habilidad para escribir scripts de automatización en Bash/Python",
+        "Conocimiento práctico de Docker y contenerización",
+        "Comprensión de flujos de integración y despliegue continuos básicos y su configuración",
+        "Capacidad de configurar monitorización y alertas básicas",
+        "Habilidad para realizar copias de seguridad y restauraciones",
+        "Conocimiento de configuración de cortafuegos y seguridad básica",
+        "Comprensión de conceptos básicos de infraestructura como código",
+        "Capacidad de resolución de problemas comunes"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de bases de datos",
+        "Habilidad para usar herramientas de configuración",
+        "Comprensión de metodologías ágiles"
+      ],
+      "indicators": [
+        "Puede mantener infraestructura existente con supervisión",
+        "Resuelve incidentes de nivel 1 y 2",
+        "Implementa cambios siguiendo procedimientos"
+      ]
+    },
+    "DO-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de orquestación de contenedores (Kubernetes básico)",
+        "Capacidad de diseñar e implementar flujos de integración y despliegue continuos completos",
+        "Habilidad para implementar infraestructura como código con Terraform/Ansible",
+        "Conocimiento profundo de redes (VLANs, enrutamiento, balanceo de carga)",
+        "Capacidad de implementar registro centralizado y agregación",
+        "Comprensión sólida de seguridad (endurecimiento, cumplimiento básico)",
+        "Habilidad para optimizar rendimiento de sistemas",
+        "Conocimiento de recuperación ante desastres y alta disponibilidad",
+        "Capacidad de implementar monitorización proactiva"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de múltiples nubes públicas",
+        "Habilidad para trabajar con microservicios",
+        "Comprensión de FinOps básico"
+      ],
+      "indicators": [
+        "Implementa infraestructura nueva con mínima supervisión",
+        "Participa en rotación de guardia y resuelve incidentes",
+        "Contribuye a mejoras de procesos y herramientas"
+      ]
+    },
+    "DO-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar arquitecturas en la nube escalables y resilientes",
+        "Dominio de Kubernetes avanzado y malla de servicios",
+        "Habilidad para implementar GitOps y despliegue continuo",
+        "Conocimiento profundo de observabilidad (métricas, registros, trazas)",
+        "Capacidad de implementar escaneo de seguridad y automatización de cumplimiento",
+        "Dominio de gestión de secretos y sistemas de bóveda",
+        "Habilidad para diseñar estrategias de copia de seguridad y recuperación ante desastres",
+        "Conocimiento de planificación de capacidad y escalado automático",
+        "Capacidad de implementar ingeniería del caos básica"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas sin servidor",
+        "Habilidad para implementar flujos de aprendizaje automático",
+        "Comprensión de computación en el borde"
+      ],
+      "indicators": [
+        "Lidera proyectos de infraestructura medianos",
+        "Define estándares y mejores prácticas del equipo",
+        "Mentoriza a juniors en prácticas DevOps"
+      ]
+    },
+    "DO-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en arquitecturas multi-nube y nube híbrida",
+        "Capacidad de diseñar plataformas de desarrollo internas",
+        "Dominio de malla de servicios avanzada y puertas de enlace API",
+        "Habilidad para implementar despliegues sin tiempo de inactividad",
+        "Conocimiento profundo de automatización de cumplimiento (SOC2, ISO)",
+        "Capacidad de implementar FinOps y optimización de costes",
+        "Experiencia en gestión de incidentes y análisis post-mortem",
+        "Dominio de pruebas y validación de infraestructura",
+        "Capacidad de diseñar sistemas de autorreparación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de criptografía resistente a computación cuántica",
+        "Habilidad para trabajar con infraestructura IoT",
+        "Comprensión de infraestructura blockchain"
+      ],
+      "indicators": [
+        "Diseña soluciones de infraestructura empresariales",
+        "Lidera respuesta a incidentes críticos",
+        "Define hoja de ruta técnica de infraestructura"
+      ]
+    },
+    "DO-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas DevOps empresariales",
+        "Experiencia en ingeniería de plataformas y experiencia del desarrollador",
+        "Dominio de GitOps a escala y entrega progresiva",
+        "Habilidad para implementar observabilidad empresarial",
+        "Conocimiento profundo de redes de confianza cero",
+        "Capacidad de diseñar recuperación ante desastres para sistemas críticos globales",
+        "Experiencia en optimización de costes a gran escala",
+        "Dominio de cumplimiento como código y gobernanza",
+        "Capacidad de implementar prácticas maduras de ingeniería de fiabilidad del sitio"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de infraestructura para IA/ML",
+        "Habilidad para diseñar redes de entrega de contenidos globales",
+        "Comprensión de computación verde"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de infraestructura para productos críticos",
+        "Lidera transformación DevOps organizacional",
+        "Define estrategia de ingeniería de fiabilidad"
+      ]
+    },
+    "DO-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en transformación a la nube empresarial",
+        "Capacidad de diseñar infraestructura para unicornios y empresas de alto crecimiento",
+        "Experiencia en mentalidad de plataforma como producto",
+        "Dominio de infraestructura inmutable y GitOps avanzado",
+        "Capacidad de implementar operaciones de IA y automatización inteligente",
+        "Conocimiento profundo de computación en el borde e infraestructura 5G",
+        "Experiencia en gestión de tráfico global y GeoDNS",
+        "Capacidad de diseñar seguridad de cadena de suministro",
+        "Dominio de sostenibilidad en infraestructura"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en proveedores de nube",
+        "Habilidad para contribuir a proyectos CNCF",
+        "Conocimiento de infraestructura espacial"
+      ],
+      "indicators": [
+        "Define estrategia de infraestructura multi-año",
+        "Lidera comunidades DevOps externas",
+        "Conferencista en eventos internacionales"
+      ]
+    },
+    "DO-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para evolución de infraestructura",
+        "Capacidad de diseñar plataformas de entrega para organizaciones de gran escala",
+        "Experiencia en auditoría técnica de infraestructura",
+        "Dominio de transformación de sistemas heredados a nativos de la nube",
+        "Capacidad de definir gobernanza DevOps corporativa",
+        "Conocimiento profundo de gestión estratégica de proveedores",
+        "Experiencia en construcción de centros de excelencia DevOps",
+        "Capacidad de liderar proyectos de infraestructura de código abierto",
+        "Dominio de innovación en automatización y herramientas"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones",
+        "Habilidad para crear empresas emergentes DevOps",
+        "Conocimiento de inversión en infraestructura"
+      ],
+      "indicators": [
+        "Define estrategia DevOps para toda la organización",
+        "Reconocido líder de pensamiento en DevOps",
+        "Influye en estándares de industria"
+      ]
+    },
+    "DO-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en infraestructura y operaciones",
+        "Capacidad de alinear infraestructura con estrategia de negocio",
+        "Experiencia en fusiones y adquisiciones de infraestructura y migración",
+        "Dominio de presupuestos de infraestructura multimillonarios",
+        "Capacidad de construir organizaciones DevOps globales",
+        "Conocimiento profundo de gestión de riesgos tecnológicos",
+        "Experiencia en relaciones con proveedores estratégicos",
+        "Capacidad de definir cultura DevOps organizacional",
+        "Dominio de innovación en infraestructura"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar políticas de nube",
+        "Habilidad para crear ecosistemas DevOps",
+        "Conocimiento de capital privado tecnológico"
+      ],
+      "indicators": [
+        "Define y ejecuta visión de infraestructura empresarial",
+        "Responsable de pérdidas y ganancias de operaciones completo",
+        "Líder reconocido en industria DevOps global"
+      ]
+    }
+  }
+}

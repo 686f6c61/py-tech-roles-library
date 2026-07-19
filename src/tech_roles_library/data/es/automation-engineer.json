@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Automatización",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "AE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de programación para automatización",
+        "Comprensión elemental de herramientas de automatización robótica de procesos",
+        "Habilidad para automatizar tareas simples",
+        "Conocimiento básico de automatización de flujos de trabajo",
+        "Capacidad de usar marcos de automatización básicos",
+        "Comprensión de tareas programadas",
+        "Documentación de procesos automatizados",
+        "Conocimiento elemental de automatización de pruebas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de automatización de navegadores",
+        "Conocimiento de macros y guiones",
+        "Comprensión básica de conductos de integración y entrega continuas"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Automatiza tareas repetitivas simples",
+        "Está aprendiendo ingeniería de automatización"
+      ]
+    },
+    "AE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de desarrollar robots de automatización de procesos",
+        "Implementación completa de automatización de pruebas",
+        "Conocimiento práctico de herramientas de orquestación",
+        "Habilidad para minería de procesos",
+        "Comprensión de automatización inteligente",
+        "Capacidad de automatización de API",
+        "Conocimiento de automatización de infraestructura",
+        "Habilidad para monitorización de automatización"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de asistentes virtuales básicos",
+        "Conocimiento de motores de flujo de trabajo",
+        "Comprensión de automatización de procesos empresariales"
+      ],
+      "indicators": [
+        "Desarrolla automatizaciones con supervisión",
+        "Implementa soluciones de automatización robótica",
+        "Mantiene marcos de automatización"
+      ]
+    },
+    "AE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas de automatización",
+        "Implementación de automatización cognitiva",
+        "Dominio de hiperautomatización",
+        "Capacidad de automatización de procesos de extremo a extremo",
+        "Habilidad para configuración de centros de excelencia de automatización",
+        "Conocimiento profundo de automatización impulsada por inteligencia artificial",
+        "Implementación de automatización de autoservicio",
+        "Diseño de gobernanza de automatización"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de inteligencia de procesos",
+        "Habilidad para análisis de automatización",
+        "Comprensión de plataformas de desarrollo ciudadano"
+      ],
+      "indicators": [
+        "Lidera proyectos de automatización",
+        "Diseña soluciones empresariales",
+        "Mentoriza ingenieros de automatización"
+      ]
+    },
+    "AE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de automatización",
+        "Diseño de estrategias de hiperautomatización",
+        "Implementación de operaciones autónomas",
+        "Dominio de automatización inteligente de procesos",
+        "Capacidad de automatización a escala",
+        "Conocimiento profundo de automatización potenciada por aprendizaje automático",
+        "Habilidad para economía de automatización",
+        "Liderazgo en transformación mediante automatización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en automatización industrial",
+        "Conocimiento de automatización robótica",
+        "Implementación de automatización predictiva"
+      ],
+      "indicators": [
+        "Define estrategia de automatización",
+        "Lidera equipos de automatización",
+        "Es referente en hiperautomatización"
+      ]
+    },
+    "AE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en ingeniería de automatización",
+        "Diseño de programas de automatización empresariales",
+        "Gestión de equipos de automatización",
+        "Definición de estrategia de automatización",
+        "Capacidad de modelado de retorno de inversión en automatización",
+        "Implementación de fábricas de automatización",
+        "Dominio de gestión del cambio",
+        "Promoción de estándares de ingeniería de automatización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fuerza laboral digital",
+        "Conocimiento de mercados de automatización",
+        "Gestión de socios de automatización"
+      ],
+      "indicators": [
+        "Gestiona equipos de automatización",
+        "Define visión de automatización empresarial",
+        "Representa automatización ante ejecutivos"
+      ]
+    },
+    "AE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de automatización organizacional",
+        "Estrategia de automatización de fuerza laboral",
+        "Gestión de inversiones en automatización",
+        "Definición de estrategia de trabajo digital",
+        "Liderazgo en revolución de automatización",
+        "Implementación de sistemas de automatización autoadaptativos",
+        "Adopción de arquitecturas de automatización emergentes",
+        "Gestión de automatización global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones de automatización",
+        "Conocimiento de automatización regulatoria",
+        "Liderazgo en consorcios de automatización"
+      ],
+      "indicators": [
+        "Dirige departamento de automatización (20+ personas)",
+        "Participa en transformación digital",
+        "Define inversiones en automatización"
+      ]
+    },
+    "AE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en excelencia en automatización",
+        "Diseño de estrategias de automatización globales",
+        "Transformación organizacional mediante automatización",
+        "Gestión de automatización a escala de grandes corporaciones",
+        "Definición de arquitecturas de referencia de automatización empresarial",
+        "Definición del futuro del trabajo automatizado",
+        "Comunicación de la estrategia de automatización a la dirección ejecutiva",
+        "Influencia en industria cuatro punto cero"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de automatización en empresas en crecimiento",
+        "Experiencia en empresas unicornio de automatización",
+        "Liderazgo en estándares de automatización"
+      ],
+      "indicators": [
+        "Depende de director de operaciones o tecnología",
+        "Gestiona organización de automatización (50+ personas)",
+        "Define estrategia de automatización corporativa"
+      ]
+    },
+    "AE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de automatización total",
+        "Liderazgo en revolución de automatización",
+        "Diseño de operaciones autónomas de extremo a extremo",
+        "Gestión de plataformas de automatización globales",
+        "Investigación en automatización basada en agentes y autorreparación",
+        "Definición de autonomía total",
+        "Definición de la dirección tecnológica de automatización a largo plazo",
+        "Influencia en futuro del trabajo"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de automatización en grandes corporaciones",
+        "Asesoría en fondos de automatización",
+        "Liderazgo de pensamiento en hiperautomatización"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define futuro de automatización",
+        "Es líder mundial en automatización"
+      ]
+    },
+    "AE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de automatización total",
+        "Transformación de civilización mediante automatización",
+        "Definición de arquitecturas de operaciones autónomas de nueva generación",
+        "Definición de la estrategia de automatización inteligente de la organización",
+        "Innovación en automatización biológica",
+        "Promoción de estándares abiertos de automatización y orquestación",
+        "Arquitecto de universo autoejecutable",
+        "Influencia en evolución de acción autónoma"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones en automatización",
+        "Reconocimiento como padre de hiperautomatización",
+        "Influencia en futuro del trabajo"
+      ],
+      "indicators": [
+        "Es una autoridad reconocida en ingeniería de automatización",
+        "Define futuro de automatización universal",
+        "Es autoridad mundial en automatización"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Diseñador de Experiencia de Usuario",
+  "category": "Diseño",
+  "levels": {
+    "UXD-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de principios de experiencia de usuario",
+        "Comprensión elemental de flujos de usuario y esquemas de página",
+        "Habilidad para construir esquemas de página simples",
+        "Conocimiento básico de arquitectura de información",
+        "Capacidad de seguir directrices de usabilidad",
+        "Comprensión del diseño centrado en el usuario",
+        "Documentación de decisiones de interacción con acompañamiento",
+        "Conocimiento elemental de accesibilidad"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas como Figma",
+        "Conocimiento básico de investigación de usuarios",
+        "Comprensión de nociones básicas de diseño visual"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Apoya a diseñadores senior en tareas simples",
+        "Está aprendiendo diseño de experiencia de usuario"
+      ]
+    },
+    "UXD-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar flujos de usuario a partir de requisitos",
+        "Creación de esquemas de página para funcionalidades completas",
+        "Conocimiento práctico de arquitectura de información",
+        "Habilidad para aplicar patrones de interacción",
+        "Comprensión de principios de usabilidad",
+        "Capacidad de iterar diseños a partir de comentarios",
+        "Conocimiento de nociones básicas de estándares de accesibilidad",
+        "Habilidad para colaborar con producto e ingeniería"
+      ],
+      "complementaryCompetencies": [
+        "Análisis de heurísticas básicas de usabilidad",
+        "Conocimiento de técnicas de prototipado",
+        "Comprensión de la estructura de contenidos"
+      ],
+      "indicators": [
+        "Diseña flujos de usuario con supervisión",
+        "Produce esquemas de página de forma independiente",
+        "Colabora efectivamente con el equipo de producto"
+      ]
+    },
+    "UXD-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de flujos de usuario de extremo a extremo",
+        "Definición de arquitectura de información para funcionalidades",
+        "Dominio del prototipado interactivo",
+        "Capacidad de realizar revisiones de usabilidad",
+        "Habilidad para equilibrar necesidades del usuario y restricciones",
+        "Conocimiento en profundidad de diseño de interacción",
+        "Aplicación de estándares de accesibilidad en los diseños",
+        "Responsabilidad sobre experiencias de complejidad media"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de nociones básicas de pruebas de usabilidad",
+        "Habilidad para conducir críticas de diseño",
+        "Comprensión de las restricciones de implementación frontal"
+      ],
+      "indicators": [
+        "Asume flujos de usuario de extremo a extremo",
+        "Define la arquitectura de información de las funcionalidades",
+        "Presenta su trabajo de experiencia de usuario con confianza"
+      ]
+    },
+    "UXD-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Diseño de experiencias de usuario complejas de forma autónoma",
+        "Definición de patrones de interacción para el producto",
+        "Dominio de la arquitectura de información a escala",
+        "Capacidad de liderar la experiencia de usuario de un área de producto",
+        "Habilidad para alinear la experiencia de usuario con la estrategia de producto",
+        "Conocimiento profundo de usabilidad y accesibilidad",
+        "Facilitación de talleres de diseño e investigación",
+        "Responsabilidad de extremo a extremo sobre iniciativas de experiencia relevantes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en colaboración multifuncional",
+        "Conocimiento de decisiones de experiencia basadas en datos",
+        "Gestión de mejoras de usabilidad"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma en problemas complejos",
+        "Marca la dirección de experiencia de usuario de un área de producto",
+        "Mentoriza a diseñadores de experiencia junior"
+      ]
+    },
+    "UXD-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Diseño de estrategia de producto a través de la experiencia de usuario",
+        "Definición de estándares de arquitectura de información",
+        "Dominio del oficio de experiencia de usuario de extremo a extremo",
+        "Capacidad de definir la visión de experiencia de los productos",
+        "Habilidad para influir en la hoja de ruta de producto mediante la experiencia",
+        "Experiencia profunda en usabilidad y accesibilidad",
+        "Liderazgo de iniciativas de experiencia entre equipos",
+        "Establecimiento de estándares de calidad de experiencia de usuario"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en operaciones de diseño",
+        "Conocimiento de diseño de servicios",
+        "Gestión de relaciones complejas con partes interesadas"
+      ],
+      "indicators": [
+        "Es un experto reconocido en diseño de experiencia de usuario",
+        "Define la visión de experiencia de múltiples funcionalidades",
+        "Eleva el oficio del equipo de experiencia de usuario"
+      ]
+    },
+    "UXD-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo de la experiencia de usuario en una línea de producto",
+        "Definición de principios y cultura de experiencia de usuario",
+        "Gestión de la arquitectura de información como activo estratégico",
+        "Capacidad de impulsar la estrategia de experiencia a nivel de producto",
+        "Habilidad para dar forma a la visión de producto junto a la dirección",
+        "Conocimiento profundo del impacto de la experiencia en los resultados de negocio",
+        "Mentoría y crecimiento de equipos de experiencia de usuario",
+        "Impulso de las prácticas de diseño centrado en el usuario en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en el escalado de prácticas de experiencia de usuario",
+        "Conocimiento de contratación y formación de equipos de experiencia",
+        "Liderazgo en la consistencia de experiencia entre productos"
+      ],
+      "indicators": [
+        "Lidera la experiencia de usuario de una línea de producto",
+        "Influye en la estrategia de producto mediante la experiencia",
+        "Hace crecer y mentoriza a diseñadores de experiencia senior"
+      ]
+    },
+    "UXD-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Influencia ejecutiva en la estrategia de experiencia de usuario",
+        "Definición de la visión de experiencia entre múltiples productos",
+        "Transformación de la experiencia de usuario a escala",
+        "Gestión de la experiencia de usuario a nivel de organización",
+        "Creación de marcos de experiencia de usuario para la compañía",
+        "Alineación de la experiencia con la estrategia de negocio a largo plazo",
+        "Liderazgo de experiencia de usuario en la mesa de dirección",
+        "Influencia en la disciplina de experiencia de usuario de forma externa"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de la experiencia de usuario en organizaciones complejas",
+        "Experiencia en diseño de experiencia para productos de escala empresarial",
+        "Liderazgo en comunidades de experiencia de usuario"
+      ],
+      "indicators": [
+        "Marca la dirección de experiencia de usuario entre productos",
+        "Colabora con la dirección de producto e ingeniería",
+        "Representa a la experiencia de usuario a nivel ejecutivo"
+      ]
+    },
+    "UXD-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de la experiencia de usuario como motor central del negocio",
+        "Liderazgo en la transformación de la experiencia de usuario",
+        "Creación de ecosistemas de experiencia de usuario en la organización",
+        "Gestión de la visión de experiencia a escala de compañía",
+        "Introducción de nuevos enfoques en la experiencia de usuario",
+        "Definición de las prácticas y estándares de experiencia de usuario a largo plazo de la organización",
+        "Defensa de la toma de decisiones centrada en el usuario en toda la organización",
+        "Influencia en el futuro del diseño de experiencia de usuario"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como diseñador de experiencia principal en compañías de referencia",
+        "Asesoramiento en empresas emergentes orientadas a la experiencia",
+        "Liderazgo de pensamiento en diseño de experiencia de usuario"
+      ],
+      "indicators": [
+        "Da forma a la estrategia de experiencia de usuario a nivel de compañía",
+        "Define la visión de experiencia de usuario de la organización",
+        "Es una autoridad reconocida en diseño de experiencia de usuario"
+      ]
+    },
+    "UXD-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario como vicepresidente de diseño",
+        "Transformación de la organización a través de la experiencia de usuario",
+        "Creación de una cultura de compañía orientada a la experiencia",
+        "Definición de la estrategia de experiencia de usuario a nivel ejecutivo",
+        "Innovación en la intersección de la experiencia de usuario y el negocio",
+        "Defensa de los estándares de calidad de experiencia en todos los equipos de producto",
+        "Arquitecto de la visión de experiencia de usuario de la organización",
+        "Influencia en la evolución del diseño de experiencia de usuario"
+      ],
+      "complementaryCompetencies": [
+        "Creador de prácticas de experiencia de usuario que marcan la industria",
+        "Reconocimiento como líder de experiencia de usuario en el sector",
+        "Influencia en la educación de diseño global"
+      ],
+      "indicators": [
+        "Es vicepresidente de diseño o equivalente",
+        "Define la visión de experiencia de usuario de la compañía",
+        "Es una autoridad mundial en diseño de experiencia de usuario"
+      ]
+    }
+  }
+}

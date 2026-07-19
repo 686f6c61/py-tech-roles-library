@@ -1,0 +1,249 @@
+{
+  "role": "Test Automation Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "TAE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of test automation and where it fits in delivery",
+        "Elementary knowledge of a scripting language used for test code",
+        "Ability to run existing automated suites and read their reports",
+        "Basic understanding of locating UI elements with selectors",
+        "Ability to write a simple automated check under guidance",
+        "Familiarity with version control for test code",
+        "Basic understanding of why automated tests become flaky"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with a CI service that triggers test runs",
+        "Elementary understanding of REST APIs",
+        "Basic familiarity with browser developer tools for inspecting elements"
+      ],
+      "indicators": [
+        "Requires close supervision on automation tasks",
+        "Runs and reports on existing automated suites",
+        "Learning the fundamentals of writing test code"
+      ]
+    },
+    "TAE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to write automated UI checks for simple flows",
+        "Implementation of the page object pattern to structure test code",
+        "Practical use of a test automation framework and its assertions",
+        "Maintenance and repair of existing automated tests",
+        "Implementation of data-driven tests with external inputs",
+        "Ability to wire tests into a CI pipeline stage",
+        "Basic automated API checks against documented endpoints"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with responsive layout testing",
+        "Understanding of test setup and teardown for isolation",
+        "Basic understanding of reporting and screenshots on failure"
+      ],
+      "indicators": [
+        "Writes and maintains automated tests with supervision",
+        "Keeps existing suites green and diagnoses simple failures",
+        "Applies the page object pattern consistently"
+      ]
+    },
+    "TAE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of a maintainable automation framework structure",
+        "Implementation of robust selector strategies resistant to UI change",
+        "Diagnosis and elimination of flaky tests through waits and isolation",
+        "Implementation of end-to-end scenarios across multiple screens",
+        "Use of mocking and stubbing to isolate the system under test",
+        "Automated API testing including negative and edge cases",
+        "Integration of suites into CI with useful failure reporting"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with native mobile automation",
+        "Understanding of the screenplay pattern as an alternative to page objects",
+        "Basic understanding of visual regression tooling"
+      ],
+      "indicators": [
+        "Designs a framework structure others can extend",
+        "Reduces suite flakiness with measurable results",
+        "Mentors juniors on writing reliable test code"
+      ]
+    },
+    "TAE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of an automation framework for a product across UI and API layers",
+        "Design of the test pyramid balancing unit, integration and end-to-end",
+        "Implementation of parallel and cross-browser execution to cut run time",
+        "Implementation of contract testing between services",
+        "Design of test data provisioning and cleanup strategies",
+        "Definition of suite reliability targets and flakiness budgets",
+        "Integration of automation into CI/CD with gating and reporting"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of performance test scripting to support specialists",
+        "Familiarity with accessibility automation checks",
+        "Understanding of containerized test environments"
+      ],
+      "indicators": [
+        "Owns the automation architecture for a product",
+        "Sets automation patterns and standards for the team",
+        "Leads adoption of contract testing and parallelization"
+      ]
+    },
+    "TAE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Ownership of the automation framework and tooling across several teams",
+        "Design of scalable, low-maintenance suites with high signal",
+        "Strategy for selector resilience and flakiness reduction at scale",
+        "Architecture of test data management across environments",
+        "Optimization of pipeline execution time through sharding and caching",
+        "Definition of coverage targets tied to risk rather than raw numbers",
+        "Establishment of contract testing across service boundaries"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of when a scenario belongs in automation versus manual testing",
+        "Familiarity with ephemeral environments for test isolation",
+        "Understanding of observability of the test suites themselves"
+      ],
+      "indicators": [
+        "Designs automation architecture for a product line autonomously",
+        "Drives suite reliability and speed with measurable gains",
+        "Sets the automation engineering standards others adopt"
+      ]
+    },
+    "TAE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Definition of the automation architecture across a portfolio of products",
+        "Establishment of framework and tooling standards shared across teams",
+        "Design of automation platforms teams consume as internal tooling",
+        "Strategy for suite maintainability as products and teams grow",
+        "Definition of pipeline execution and reliability standards",
+        "Guidance on tool selection independent of any single vendor",
+        "Leadership of the automation engineering practice across teams"
+      ],
+      "complementaryCompetencies": [
+        "Understanding of cost and run-time trade-offs at portfolio scale",
+        "Familiarity with the automation needs of new product areas",
+        "Understanding of maintainable, long-lived test code practices"
+      ],
+      "indicators": [
+        "Shapes automation architecture across products",
+        "Leads the automation engineering practice across the organization",
+        "Defines the long-term automation tooling direction"
+      ]
+    },
+    "TAE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership of automation engineering across the organization",
+        "Definition of framework and platform standards teams build on",
+        "Establishment of shared automation tooling as an internal product",
+        "Strategy for test reliability and execution speed at organizational scale",
+        "Definition of contract and integration testing practices across services",
+        "Guidance of tooling investment and build-versus-buy decisions",
+        "Definition of automation practices that scale with headcount"
+      ],
+      "complementaryCompetencies": [
+        "Contribution to internal automation frameworks reused across teams",
+        "Understanding of open source automation tooling and its trade-offs",
+        "Understanding of how automation effort maps to delivery speed"
+      ],
+      "indicators": [
+        "Sets the automation engineering direction for the organization",
+        "Builds and leads automation communities of practice",
+        "Recognized internally as the authority on test automation"
+      ]
+    },
+    "TAE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Definition of a multi-year automation engineering strategy",
+        "Positioning of automation tooling as leverage for delivery speed",
+        "Establishment of an automation platform team and its operating model",
+        "Definition of framework governance across business units",
+        "Justification of automation investment through cycle-time and reliability gains",
+        "Guidance of the automation tooling and vendor landscape",
+        "Leadership of innovation in automation approaches"
+      ],
+      "complementaryCompetencies": [
+        "Definition of automation frameworks reused across the company",
+        "Understanding of the automation tooling market",
+        "Understanding of automation benchmarking against the industry"
+      ],
+      "indicators": [
+        "Owns the multi-year automation engineering strategy",
+        "Represents the company on test automation in external forums",
+        "Influences automation practice beyond the organization"
+      ]
+    },
+    "TAE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive ownership of automation engineering as a delivery capability",
+        "Definition of the enterprise automation platform vision",
+        "Accountability for automation reliability and its effect on velocity",
+        "Leadership of automation platform organizations across products",
+        "Management of the automation platform budget and return",
+        "Positioning of automation tooling as an engineering advantage",
+        "Definition of the standards that keep suites trustworthy at scale"
+      ],
+      "complementaryCompetencies": [
+        "Influence on automation practice across the wider industry",
+        "Understanding of automation's role in engineering productivity",
+        "Understanding of long-term investment in automation platforms"
+      ],
+      "indicators": [
+        "Defines and executes the enterprise automation strategy",
+        "Accountable for automation capability at the company level",
+        "Recognized leader in test automation engineering"
+      ]
+    }
+  }
+}

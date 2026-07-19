@@ -1,0 +1,258 @@
+{
+  "role": "Prompt Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "PRE-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of how large language models generate text from a prompt",
+        "Elementary knowledge of prompt structure including instructions, context and examples",
+        "Ability to write simple, clear prompts for a defined task",
+        "Basic familiarity with assistant products such as Claude and ChatGPT",
+        "Capability to test a prompt and compare outputs across attempts",
+        "Basic understanding of few-shot prompting with worked examples",
+        "Documentation of prompts that work well and why",
+        "Elementary knowledge of model limitations such as hallucination"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with calling a model through an API or SDK",
+        "Basic knowledge of embeddings and what they represent",
+        "Elementary understanding of tokenization and context length"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Writes effective prompts for simple tasks",
+        "Is building foundational prompt engineering skills"
+      ]
+    },
+    "PRE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to design prompts for multi-step tasks with clear structure",
+        "Implementation of chain-of-thought prompting to improve reasoning quality",
+        "Practical knowledge of iterating on prompts against example inputs",
+        "Ability to apply few-shot and zero-shot techniques appropriately",
+        "Understanding of temperature and sampling settings and their effect on output",
+        "Capability to build a small automated test set to compare prompt versions",
+        "Knowledge of retrieval-augmented generation to ground answers in provided data",
+        "Ability to evaluate output quality against defined criteria"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of orchestration libraries for LLM applications",
+        "Ability to work with vector databases for retrieval",
+        "Understanding of semantic search over embeddings"
+      ],
+      "indicators": [
+        "Designs effective prompts with supervision",
+        "Improves task quality through prompt iteration",
+        "Evaluates output quality with a simple rubric"
+      ]
+    },
+    "PRE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of prompt systems that decompose a task into chained steps",
+        "Implementation of structured output and function calling with validated schemas",
+        "Command of prompt chaining and when to split versus combine steps",
+        "Capability to guide fine-tuning by preparing and curating examples",
+        "Ability to defend prompts against prompt injection and unsafe inputs",
+        "Deep knowledge of model limitations and how to design around them",
+        "Implementation of evaluation harnesses that score outputs automatically",
+        "Capability to version prompts and track quality across changes"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of when custom model training is warranted versus prompting",
+        "Ability to optimize retrieval and embedding quality",
+        "Understanding of cost and latency trade-offs in prompt design"
+      ],
+      "indicators": [
+        "Leads prompt work on LLM features",
+        "Designs prompt architectures for a product",
+        "Mentors others on prompt engineering"
+      ]
+    },
+    "PRE-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of prompt-driven features across an application",
+        "Design of prompting strategies that stay reliable as usage scales",
+        "Implementation of LLM orchestration across multiple calls and tools",
+        "Mastery of advanced prompting techniques for complex reasoning and structured tasks",
+        "Capability to select models by matching quality, cost and latency to the task",
+        "Deep knowledge of bias mitigation in prompt and output design",
+        "Ability to build safety and alignment measures into prompted systems",
+        "Leadership of prompt quality and evaluation standards across a team"
+      ],
+      "complementaryCompetencies": [
+        "Experience preparing datasets for fine-tuning application models",
+        "Knowledge of building evaluation pipelines with LLM-as-judge scoring",
+        "Implementation of monitoring for prompt quality in production"
+      ],
+      "indicators": [
+        "Defines the prompting strategy for a product area",
+        "Leads a group working on LLM features",
+        "Is a technical reference for prompt engineering"
+      ]
+    },
+    "PRE-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership of prompt engineering across an LLM application platform",
+        "Design of reusable prompt templates and shared evaluation infrastructure",
+        "Management of a team building and maintaining prompted systems",
+        "Definition of prompt quality, versioning and evaluation standards",
+        "Capability to optimize the cost and latency of LLM features at scale",
+        "Implementation of governance for how prompts are reviewed and deployed",
+        "Command of multi-model strategies that route tasks to the right model",
+        "Communication of LLM feature quality and trade-offs to senior stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Experience taking LLM features from prototype to production",
+        "Knowledge of the economics of LLM usage and how to control spend",
+        "Management of relationships with model providers"
+      ],
+      "indicators": [
+        "Manages a prompt engineering team",
+        "Defines the vision for LLM application quality",
+        "Represents LLM features to stakeholders"
+      ]
+    },
+    "PRE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of the prompt engineering and LLM application strategy across the organization",
+        "Management of LLM-powered products at scale across teams",
+        "Definition of standards for prompt design, evaluation and safe deployment",
+        "Leadership of the adoption of LLM features across the product portfolio",
+        "Management of relationships and contracts with model providers",
+        "Implementation of governance for responsible LLM application development",
+        "Innovation in prompting and evaluation methodology",
+        "Management of quality and cost across many LLM features"
+      ],
+      "complementaryCompetencies": [
+        "Experience integrating LLM capabilities into existing products",
+        "Knowledge of the AI regulations that affect LLM applications",
+        "Leadership on responsible use within the organization"
+      ],
+      "indicators": [
+        "Directs the LLM application function",
+        "Participates in the broader product and technology strategy",
+        "Decides where to invest in LLM capabilities"
+      ]
+    },
+    "PRE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership of LLM application engineering across a large organization",
+        "Design of a strategy for building reliable LLM features across products",
+        "Transformation of how teams design, evaluate and ship prompted systems",
+        "Management of LLM application work across a large, distributed organization",
+        "Creation of a culture of rigorous prompt evaluation and responsible use",
+        "Definition of the multi-year roadmap for LLM application capabilities",
+        "Communication of LLM opportunity, quality and risk to the board",
+        "Influence on how the industry builds LLM-powered products"
+      ],
+      "complementaryCompetencies": [
+        "Management of substantial LLM application budgets",
+        "Experience scaling LLM application teams in high-growth companies",
+        "Leadership within the applied LLM community"
+      ],
+      "indicators": [
+        "Reports to a technology or product executive",
+        "Leads a large LLM application organization",
+        "Defines enterprise LLM application strategy"
+      ]
+    },
+    "PRE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for how the organization builds dependable LLM-powered products",
+        "Leadership of prompt engineering and evaluation as a company-wide discipline",
+        "Creation of a quality advantage through rigorous evaluation and prompt design",
+        "Management of the ecosystem of models, tooling and evaluation used across teams",
+        "Innovation in prompting, evaluation and orchestration that advances the field",
+        "Definition of next-generation practices for building LLM features",
+        "Championing of reliable and responsible LLM use across leadership",
+        "Influence on internal product policy grounded in evaluation evidence"
+      ],
+      "complementaryCompetencies": [
+        "Experience shaping LLM application practice at leading technology organizations",
+        "Advisory relationships with LLM tooling startups and vendors",
+        "Recognized technical authority in prompt engineering"
+      ],
+      "indicators": [
+        "Sits on the technical leadership team",
+        "Sets the direction for LLM application engineering across the company",
+        "Is a recognized leader in the prompt engineering field"
+      ]
+    },
+    "PRE-L9": {
+      "level": "L9 - VP/CTO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership of LLM application engineering as a core capability",
+        "Transformation of how the enterprise designs, evaluates and ships prompted systems",
+        "Definition of an evaluation-first approach to building LLM features",
+        "Establishment of rigorous prompt evaluation as an organizational default",
+        "Innovation in prompting and evaluation that shapes industry practice",
+        "Advocacy for reliable, responsible LLM applications as a source of durable value",
+        "Architecture of the organization's overall LLM application program",
+        "Influence on LLM application practice and standards beyond the company"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming LLM application engineering at enterprise scale",
+        "Recognition as a leading figure in applied LLM engineering",
+        "Influence on the practice and standards of prompt engineering"
+      ],
+      "indicators": [
+        "Leads LLM application engineering at the executive level",
+        "Sets the long-term direction for the discipline",
+        "Is regarded as an authority in prompt engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Aprendizaje Automático",
+  "category": "IA/ML",
+  "levels": {
+    "MLE-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de algoritmos ML",
+        "Comprensión elemental de flujos de datos",
+        "Habilidad para entrenar modelos simples",
+        "Conocimiento básico de ingeniería de características",
+        "Capacidad de usar marcos ML estándar",
+        "Comprensión de métricas de evaluación",
+        "Documentación de experimentos",
+        "Conocimiento elemental de despliegue"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con plataformas de nube",
+        "Conocimiento básico de Docker",
+        "Comprensión de versionado de modelos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Implementa flujos simples",
+        "Está aprendiendo fundamentos MLOps"
+      ]
+    },
+    "MLE-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de construir flujos completos",
+        "Implementación de almacenes de características básicos",
+        "Conocimiento práctico de servicio de modelos",
+        "Habilidad para pruebas A/B de modelos",
+        "Comprensión de entrenamiento distribuido",
+        "Capacidad de monitorización de modelos",
+        "Conocimiento de detección de deriva de datos",
+        "Habilidad para optimización de inferencia"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de APIs para modelos",
+        "Conocimiento de herramientas de orquestación",
+        "Comprensión de despliegue en borde"
+      ],
+      "indicators": [
+        "Despliega modelos en producción",
+        "Mantiene flujos ML existentes",
+        "Optimiza rendimiento de modelos"
+      ]
+    },
+    "MLE-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas ML escalables",
+        "Implementación de plataformas MLOps completas",
+        "Dominio de reentrenamiento automatizado",
+        "Capacidad de sistemas de inferencia en tiempo real",
+        "Habilidad para computación distribuida",
+        "Conocimiento profundo de gobierno de modelos",
+        "Implementación de herramientas de explicabilidad",
+        "Diseño de marcos de experimentación"
+      ],
+      "complementaryCompetencies": [
+        "Implementación de aprendizaje federado",
+        "Conocimiento de compresión de modelos",
+        "Habilidad para servicio de múltiples modelos"
+      ],
+      "indicators": [
+        "Diseña la arquitectura de sistemas ML complejos",
+        "Lidera iniciativas de MLOps",
+        "Mentoriza ingenieros ML junior"
+      ]
+    },
+    "MLE-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas ML empresariales",
+        "Diseño de infraestructura ML a escala",
+        "Implementación de integración continua para ML",
+        "Dominio de optimización de costes para ML",
+        "Capacidad de liderar equipos de plataforma ML",
+        "Conocimiento profundo de cumplimiento en ML",
+        "Habilidad para diseño de sistemas ML",
+        "Liderazgo en estandarización ML"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en plataformas AutoML",
+        "Conocimiento de infraestructura ML cuántica",
+        "Implementación de ML preservando privacidad"
+      ],
+      "indicators": [
+        "Define estrategia de plataforma ML",
+        "Lidera equipos de infraestructura ML",
+        "Es arquitecto principal de sistemas ML"
+      ]
+    },
+    "MLE-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en ingeniería ML",
+        "Diseño de estrategias de plataforma ML",
+        "Gestión de equipos de ingenieros ML",
+        "Definición de hojas de ruta de ingeniería ML",
+        "Capacidad de productización de plataforma ML",
+        "Implementación de democratización ML",
+        "Dominio de ingeniería de fiabilidad ML",
+        "Promoción de buenas prácticas de ingeniería de ML"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación ML",
+        "Conocimiento de estándares ML de la industria",
+        "Gestión de ecosistema de proveedores ML"
+      ],
+      "indicators": [
+        "Gestiona múltiples equipos ML",
+        "Define visión de ingeniería ML",
+        "Representa plataforma ML ante ejecutivos"
+      ]
+    },
+    "MLE-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de ingeniería ML organizacional",
+        "Estrategia de plataforma ML corporativa",
+        "Gestión de inversiones ML millonarias",
+        "Definición de ML como servicio",
+        "Liderazgo en transformación ML",
+        "Implementación de capacidades ML de próxima generación",
+        "Innovación en modelos de entrega ML",
+        "Gestión de asociaciones ML"
+      ],
+      "complementaryCompetencies": [
+        "Estrategia ML en fusiones y adquisiciones",
+        "Experiencia en consultoría ML",
+        "Conocimiento de regulaciones ML"
+      ],
+      "indicators": [
+        "Dirige departamento ML (20+ personas)",
+        "Participa en consejo de estrategia de IA",
+        "Define inversiones ML"
+      ]
+    },
+    "MLE-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en ingeniería ML",
+        "Diseño de estrategias ML globales",
+        "Transformación mediante plataformas ML",
+        "Gestión de ML a escala de gran empresa",
+        "Creación de ventajas competitivas mediante ML",
+        "Definición del futuro de ingeniería ML",
+        "Comunicación de la estrategia de ML a la dirección ejecutiva",
+        "Influencia en estándares ML"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de laboratorios de innovación ML",
+        "Experiencia en unicornios ML",
+        "Liderazgo en consorcios ML"
+      ],
+      "indicators": [
+        "Depende de CTO/CDO",
+        "Gestiona organizaciones ML (50+ personas)",
+        "Define estrategia ML corporativa"
+      ]
+    },
+    "MLE-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de empresa impulsada por ML",
+        "Liderazgo en revolución ML industrial",
+        "Diseño de plataformas de entrenamiento y despliegue de ML automatizadas",
+        "Gestión de plataformas ML globales",
+        "Investigación en arquitecturas emergentes de sistemas de ML",
+        "Definición de ML autoevolutivo",
+        "Definición de la dirección de la plataforma de ML a largo plazo",
+        "Influencia en gobierno ML"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como VP ML en gigantes tecnológicos",
+        "Asesoría en startups ML",
+        "Liderazgo de pensamiento en ingeniería ML"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia ML global",
+        "Es líder mundial en ingeniería ML"
+      ]
+    },
+    "MLE-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de ML",
+        "Transformación de industrias mediante plataformas ML",
+        "Creación de ecosistemas autoaprendices",
+        "Definición de la estrategia de plataforma de ML empresarial",
+        "Avance de sistemas de aprendizaje automático responsables y adaptativos",
+        "Promoción de herramientas y estándares abiertos de ML",
+        "Arquitecto de plataformas de ML a escala global",
+        "Influencia en evolución de inteligencia artificial"
+      ],
+      "complementaryCompetencies": [
+        "Definición de arquitecturas de sistemas de ML de nueva generación",
+        "Reconocimiento como pionero de ingeniería ML",
+        "Influencia en futuro de automatización"
+      ],
+      "indicators": [
+        "Es una autoridad reconocida en ingeniería de aprendizaje automático",
+        "Define futuro del aprendizaje automático",
+        "Es autoridad suprema en ingeniería ML"
+      ]
+    }
+  }
+}

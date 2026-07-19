@@ -1,0 +1,258 @@
+{
+  "role": "Especialista en GRC",
+  "category": "Seguridad",
+  "levels": {
+    "GRC-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de los conceptos de gobierno, riesgo y cumplimiento",
+        "Familiaridad con la estructura de ISO 27001 y los controles del Anexo A",
+        "Capacidad de recopilar evidencias para auditorías con supervisión",
+        "Conocimiento elemental del RGPD y los principios de datos personales",
+        "Apoyo en el mantenimiento del registro de riesgos",
+        "Capacidad de documentar políticas y procedimientos a partir de plantillas",
+        "Comprensión de la diferencia entre política, estándar y control",
+        "Conciencia de los programas de formación y concienciación en seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con los criterios de servicios de confianza de SOC 2",
+        "Conocimiento básico del seguimiento de controles mediante hojas de cálculo",
+        "Comprensión de la triada de confidencialidad, integridad y disponibilidad"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Asiste en la recopilación de evidencias de auditoría",
+        "Está aprendiendo los fundamentos de GRC"
+      ]
+    },
+    "GRC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de realizar análisis de riesgos cualitativos con orientación",
+        "Mapeo de controles al Anexo A de ISO 27001 y a los criterios de SOC 2",
+        "Recopilación y validación de evidencias para auditorías internas",
+        "Redacción de políticas de seguridad alineadas con un marco de control",
+        "Apoyo en el registro de actividades de tratamiento del RGPD",
+        "Mantenimiento del registro de riesgos y los planes de tratamiento",
+        "Coordinación de campañas de concienciación en seguridad",
+        "Seguimiento de las acciones de subsanación hasta su cierre"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con el conjunto de controles del Esquema Nacional de Seguridad (ENS)",
+        "Conocimiento de herramientas de GRC como Vanta o Drata",
+        "Comprensión de los cuestionarios de terceros"
+      ],
+      "indicators": [
+        "Trabaja con supervisión habitual",
+        "Es responsable de la recopilación de evidencias de un área de control",
+        "Contribuye a los análisis de riesgos"
+      ]
+    },
+    "GRC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Ejecución de análisis de riesgos con una metodología definida",
+        "Responsabilidad sobre un dominio de control de ISO 27001 o SOC 2",
+        "Preparación y coordinación de auditorías internas",
+        "Definición de planes de tratamiento de riesgos con los responsables de control",
+        "Apoyo en las evaluaciones de impacto de protección de datos del RGPD",
+        "Gestión del proceso de evaluación de riesgos de proveedores",
+        "Diseño e impartición de formación de concienciación por rol",
+        "Elaboración de informes de estado de controles y hallazgos abiertos para los responsables"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de las obligaciones de NIS2 para entidades esenciales",
+        "Familiaridad con la automatización de controles y la monitorización continua",
+        "Comprensión de los planes de continuidad de negocio y recuperación ante desastres"
+      ],
+      "indicators": [
+        "Trabaja con supervisión ocasional",
+        "Es responsable de un dominio de control de principio a fin",
+        "Mentoriza a los aprendices en evidencias y controles"
+      ]
+    },
+    "GRC-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Responsabilidad autónoma de un ciclo de certificación ISO 27001 o SOC 2",
+        "Diseño de una metodología de análisis y tratamiento de riesgos",
+        "Liderazgo de auditorías de terceros como punto de contacto principal",
+        "Definición del marco de control mapeado entre ISO 27001, SOC 2 y ENS",
+        "Responsabilidad sobre el programa de gestión de riesgos de proveedores",
+        "Asesoramiento a los equipos en obligaciones del RGPD y protección de datos desde el diseño",
+        "Definición del apetito de riesgo y los umbrales de tolerancia con la dirección",
+        "Diseño del programa de concienciación y simulaciones de phishing"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia mapeando obligaciones de NIS2 y DORA a los controles existentes",
+        "Conocimiento de plataformas de automatización de controles y flujos de evidencias",
+        "Capacidad de traducir hallazgos técnicos en riesgo de negocio"
+      ],
+      "indicators": [
+        "Trabaja de forma autónoma",
+        "Gestiona un ciclo de certificación de principio a fin",
+        "Es referente en prácticas de riesgo y cumplimiento"
+      ]
+    },
+    "GRC-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Responsabilidad de un programa de cumplimiento multimarco (ISO 27001, SOC 2, ENS)",
+        "Definición de la metodología y la taxonomía de gestión de riesgos empresarial",
+        "Gestión del plan de auditoría interna en los distintos dominios de control",
+        "Diseño del mapeo de cumplimiento regulatorio para RGPD, NIS2 y DORA",
+        "Liderazgo del programa de riesgo de terceros y cadena de suministro",
+        "Definición de métricas de riesgo e indicadores clave de riesgo para la dirección",
+        "Elaboración de los informes de riesgo para el comité de riesgos",
+        "Orientación de los responsables de control en el diseño eficaz de controles"
+      ],
+      "complementaryCompetencies": [
+        "Comprensión de las obligaciones del Reglamento de IA de la UE para sistemas de alto riesgo",
+        "Experiencia con plataformas de GRC y automatización de controles a escala",
+        "Conocimiento del mantenimiento de certificaciones y las auditorías de seguimiento"
+      ],
+      "indicators": [
+        "Es totalmente autónomo y experto",
+        "Es responsable de un programa de cumplimiento multimarco",
+        "Lidera la metodología de riesgos entre equipos"
+      ]
+    },
+    "GRC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Liderazgo de la función de gobierno, riesgo y cumplimiento",
+        "Definición del marco de gestión de riesgos empresarial y el modelo de gobierno",
+        "Responsabilidad sobre la hoja de ruta de cumplimiento en ISO 27001, SOC 2, NIS2 y DORA",
+        "Gestión del programa de auditoría interna y las relaciones con auditores externos",
+        "Definición del apetito de riesgo y elaboración de informes para el comité de riesgos",
+        "Alineación de las obligaciones de cumplimiento con los objetivos de negocio",
+        "Gobierno del programa de riesgo de terceros y cadena de suministro",
+        "Construcción de una cultura consciente del riesgo en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en la preparación de debates de riesgo a nivel de junta directiva",
+        "Conocimiento del gobierno del Reglamento de IA de la UE y las evaluaciones de conformidad",
+        "Gestión del presupuesto de GRC y la estrategia de herramientas"
+      ],
+      "indicators": [
+        "Lidera la función de GRC en toda la organización",
+        "Define la visión de riesgo y cumplimiento",
+        "Influye en las prácticas de gobierno de toda la empresa"
+      ]
+    },
+    "GRC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Dirección estratégica del programa de GRC empresarial",
+        "Definición del modelo operativo integrado de riesgo y cumplimiento",
+        "Liderazgo de la preparación regulatoria para NIS2, DORA y el Reglamento de IA de la UE",
+        "Gobierno del apetito y la tolerancia al riesgo empresarial en las líneas de negocio",
+        "Gestión de la relación con reguladores y auditores externos",
+        "Innovación en la cuantificación de riesgos y la automatización del cumplimiento",
+        "Asesoramiento a la alta dirección sobre exposición regulatoria y de riesgo",
+        "Definición de la hoja de ruta plurianual de cumplimiento y certificación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia influyendo en la regulación del sector y los organismos de normalización",
+        "Conocimiento de la priorización de inversiones en riesgo y el coste del cumplimiento",
+        "Liderazgo de programas interfuncionales de riesgo y resiliencia"
+      ],
+      "indicators": [
+        "Dirige el programa de GRC a escala organizativa",
+        "Participa en la estrategia de riesgo empresarial",
+        "Es una autoridad reconocida en gobierno y cumplimiento"
+      ]
+    },
+    "GRC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para el gobierno, riesgo y cumplimiento empresarial",
+        "Liderazgo de la transformación de riesgo y cumplimiento a escala",
+        "Definición del modelo de gobierno de riesgo a largo plazo de la organización",
+        "Posicionamiento del cumplimiento y las certificaciones como ventaja competitiva",
+        "Gestión del riesgo regulatorio en operaciones complejas e internacionales",
+        "Avance de las prácticas de cuantificación de riesgos y aseguramiento integrado",
+        "Influencia en las políticas empresariales de privacidad, resiliencia y gobierno de la IA",
+        "Consolidación de una cultura consciente del riesgo en la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como líder de riesgo y cumplimiento en empresas en crecimiento",
+        "Asesoría sobre marcos de gobierno y estrategia regulatoria",
+        "Liderazgo de pensamiento en gobierno, riesgo y cumplimiento"
+      ],
+      "indicators": [
+        "Marca la dirección de GRC en toda la organización",
+        "Define la estrategia de riesgo y cumplimiento al más alto nivel",
+        "Es un líder reconocido en el sector"
+      ]
+    },
+    "GRC-L9": {
+      "level": "L9 - Vicepresidente o Director de Tecnología",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario como director de riesgos o de cumplimiento",
+        "Definición del apetito de riesgo y la postura de cumplimiento empresarial",
+        "Responsabilidad ejecutiva de la exposición regulatoria y el aseguramiento",
+        "Alineación del gobierno y el cumplimiento con la estrategia corporativa y la junta directiva",
+        "Transformación de la cultura de riesgo y cumplimiento de la organización",
+        "Innovación en el gobierno del riesgo empresarial y la respuesta regulatoria",
+        "Influencia en la regulación y los estándares del sector en privacidad y resiliencia",
+        "Responsabilidad sobre la postura de cumplimiento y certificación de la organización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando el riesgo y el cumplimiento en grandes corporaciones",
+        "Reconocimiento como líder de gobierno a nivel de junta directiva",
+        "Influencia en el desarrollo de la regulación y los estándares"
+      ],
+      "indicators": [
+        "Opera a nivel de director de riesgos o de cumplimiento",
+        "Define el futuro del riesgo y el cumplimiento empresarial",
+        "Es autoridad mundial en gobierno y cumplimiento"
+      ]
+    }
+  }
+}
